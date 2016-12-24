@@ -1,3 +1,4 @@
 languageCode = "en-us"
 title = "Développement Magento"
 baseurl = "https://lumao.eu/"
+theme = "lumeo"
