@@ -1,7 +1,7 @@
 +++
 date = "2016-12-24T14:49:14+01:00"
 title = "Mentions Légales"
-draft = true
+draft = false
 
 +++
 
