@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Développement Magento</title>
-    <link>https://lumao.eu/index.xml</link>
-    <description>Recent content on Développement Magento</description>
+    <title>Dev on Développement Magento</title>
+    <link>https://lumao.eu/tags/dev/index.xml</link>
+    <description>Recent content in Dev on Développement Magento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Dec 2016 12:50:52 +0100</lastBuildDate>
-    <atom:link href="https://lumao.eu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lumao.eu/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ATEC Sports</title>
@@ -136,11 +135,11 @@
     </item>
     
     <item>
-      <title>R-Cade</title>
-      <link>https://lumao.eu/reference/03-rcade/</link>
+      <title>Salomon</title>
+      <link>https://lumao.eu/reference/02-salomon/</link>
       <pubDate>Sat, 24 Dec 2016 12:50:52 +0100</pubDate>
       
-      <guid>https://lumao.eu/reference/03-rcade/</guid>
+      <guid>https://lumao.eu/reference/02-salomon/</guid>
       <description></description>
     </item>
     

@@ -2,8 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lumao.eu/qds</loc>
+    <loc>https://lumao.eu/reference/10-atec/</loc>
     <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/18-acrodeal/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/01-atomic/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/11-demarini/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/13-ds/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/19-ecdist/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/17-guitare/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/08-hermes/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/04-jardinchic/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/12-louisville/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/06-mavic/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/21-noixdarec/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/15-pdg/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/20-prairymood/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/03-rcade/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/02-salomon/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/14-suunto/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/09-valc/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/16-violon/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/05-wilson/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/reference/07-arcteryx/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/tags/dev/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +119,25 @@
   </url>
   
   <url>
+    <loc>https://lumao.eu/tags/perf/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lumao.eu/reference/</loc>
     <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/tags/seo/</loc>
+    <lastmod>2016-12-24T12:50:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumao.eu/tags/</loc>
     <priority>0</priority>
   </url>
   
