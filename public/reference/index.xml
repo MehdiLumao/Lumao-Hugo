@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Développement Magento</title>
-    <link>https://lumao.eu/index.xml</link>
-    <description>Recent content on Développement Magento</description>
+    <title>References on Développement Magento</title>
+    <link>https://lumao.eu/reference/index.xml</link>
+    <description>Recent content in References on Développement Magento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Dec 2016 12:50:52 +0100</lastBuildDate>
-    <atom:link href="https://lumao.eu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lumao.eu/reference/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ato</title>
