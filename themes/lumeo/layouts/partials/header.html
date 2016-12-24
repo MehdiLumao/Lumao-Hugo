@@ -1,0 +1,153 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="{{ .Site.LanguageCode | default "en-us" }}">-->
+<!--<head>-->
+	<!--<meta charset="UTF-8">-->
+	<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+	<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+	<!--<title>{{ .Title }}</title>-->
+	<!--{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}-->
+	<!--{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}-->
+	<!--<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">-->
+	<!--{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}-->
+	<!--{{ .Hugo.Generator }}-->
+<!--</head>-->
+<!--<body>-->
+	<!--<header>-->
+		<!--<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>-->
+		<!--<nav>-->
+			<!--<ul>-->
+				<!--{{ range .Site.Menus.main }}-->
+				<!--<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>-->
+				<!--{{ end }}-->
+			<!--</ul>-->
+		<!--</nav>-->
+	<!--</header>-->
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Développement Magento</title>
+	<!--[if lt IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<link rel="stylesheet" href="dist/all.css">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<!-- Loading -->
+<!-- <div id="loading" class="loading-layer">
+<div class="adjust-block">
+	<div class="load ">
+		<span class="sharingan"></span>
+		<span class="sharingan"></span>
+		<span class="sharingan"></span>
+	</div>
+</div>
+</div>
+<!-- Site Header -->
+<header class="header">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2">
+				<a class="animsition-link site-logo" href="/" >
+					<h1>Lumao - Développement Magento</h1>
+				</a>
+			</div>
+			<!-- <div class="col-sm-10">
+				<nav id="site-nav" class="nav-toggle">
+					<ul class="menu">
+						<li><a href="index.html" >home</a></li>
+						<li><a href="about.html" >about</a></li>
+						<li class="is-dropdown">
+							<a href="#">blog
+								<i class="fa fa-angle-down"></i>
+							</a>
+							<ul>
+
+								<li>
+									<a href="#">With sidebar
+										<i class="fa fa-angle-right"></i>
+									</a>
+									<ul>
+										<li><a  href="blog.html">right sidebar</a></li>
+										<li><a  href="blog6.html">right sidebar full</a></li>
+										<li><a  href="blog2.html">left sidebar</a></li>
+										<li><a  href="blog8.html">left sidebar full</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">Grid
+										<i class="fa fa-angle-right"></i>
+									</a>
+									<ul>
+										<li><a  href="blog3.html">2 columns</a></li>
+										<li><a  href="blog4.html">3 columns</a></li>
+										<li><a  href="blog5.html">4 columns</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">Masonry
+										<i class="fa fa-angle-right"></i>
+									</a>
+									<ul>
+										<li><a  href="blog9.html">2 columns</a></li>
+										<li><a  href="blog10.html">3 columns</a></li>
+										<li><a  href="blog11.html">Right SideBar</a></li>
+										<li><a  href="blog12.html">Left SideBar</a></li>
+									</ul>
+								</li>
+								<li><a  href="blog7.html">Full width</a></li>
+								<li><a  href="single.html">Single article</a></li>
+
+							</ul>
+						</li>
+
+						<li class="is-dropdown">
+							<a href="#">portfolio
+								<i class="fa fa-angle-down"></i>
+							</a>
+							<ul>
+								<li>
+									<a href="#">Masonry
+										<i class="fa fa-angle-right"></i>
+									</a>
+									<ul>
+										<li><a  href="portfolio8.html">Portfolio 1</a></li>
+										<li><a  href="portfolio2.html">Portfolio 2</a></li>
+										<li><a  href="portfolio3.html">Portfolio 3</a></li>
+										<li><a  href="portfolio4.html">Portfolio 4</a></li>
+										<li><a  href="portfolio5.html">Portfolio 5</a></li>
+										<li><a  href="portfolio.html">Portfolio 6</a></li>
+										<li><a  href="portfolio9.html">Black hover</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">Grid
+										<i class="fa fa-angle-right"></i>
+									</a>
+									<ul>
+										<li><a  href="portfolio6.html">Portfolio 7</a></li>
+										<li><a  href="portfolio7.html">Portfolio 8</a></li>
+										<li><a  href="portfolio10.html">Portfolio 9</a></li>
+										<li><a  href="portfolio11.html">Portfolio 10</a></li>
+										<li><a  href="portfolio12.html">Black hover</a></li>
+									</ul>
+								</li>
+								<li><a  href="single-portfolio.html">Detail</a></li>
+							</ul>
+						</li>
+						<li><a  href="services.html">services</a></li>
+						<li><a  href="team.html">team</a></li>
+						<li><a  href="contact.html">contact</a></li>
+					</ul>
+				</nav>
+			</div>-->
+		</div>
+	</div>
+</header>
