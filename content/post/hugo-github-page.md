@@ -7,8 +7,8 @@ draft = false
 
 <h2 class="post-title">Introduction</h2>
 ### Hugo
-[Hugo](https://gohugo.io/) est un générateur de site statique, il est rapide, comptatible toute plateforme et est très simple à prendre en main.
-Il est fournit avec un serveur intégré et l'extension live-reload, vous pouvez donc écrire un article en MarkDown et voir directement le résultat sans rafrachir la page.
+[Hugo](https://gohugo.io/) est un générateur de site statique, il est rapide, compatible toute plateforme et est très simple à prendre en main.
+Il est fourni avec un serveur intégré et l'extension live-reload, vous pouvez donc écrire un article en MarkDown et voir directement le résultat sans rafraîchir la page.
 
 Faire des sites statiques permets de réduire les coûts d'hébergements et d'enlever le risque de failles applicatives. 
 
@@ -24,17 +24,17 @@ Ensuite, il suffit de configurer votre nom de domaine avec ces ips :
 > 192.30.252.154
 
 ### Travis CI
-Travis CI est un outils d'intégration continue, il est également gratuit pour les projets open-source et est intégrable en un clic avec Github.
+Travis CI est un outil d'intégration continue, il est également gratuit pour les projets open-source et est intégrable en un clic avec Github.
 
 <h2 class="post-title">Intérêt</h2>
 Avoir un site web versionné, avec gestion de workflow et multi-utilisateur. On a les mêmes fonctionnalités que sous WordPress avec quelques plugins sauf que c'est rapide sans avoir à faire du développement poussé ou installer un module de cache.
 
 C'est le top pour un blog, on peut même gérer les commentaires avec Disqus.
 
-Pour écrire un nouvel article, il suffit de forker un projet sur GitHub, créer une branche et de créer le fichier .md correspondant. Un des administrateur du porjet pourra faire ses commentaires directement sur la merge request.
+Pour écrire un nouvel article, il suffit de forker un projet sur GitHub, créer une branche et de créer le fichier .md correspondant. Un des administrateurs  du projet pourra faire ses commentaires directement sur la merge request.
 
 <h2 class="post-title">Déploiement automatique</h2>
-GitHub Pages gére uniquement les fichiers en html, Hugo génére les fichiers HTML dans un dossier "public", il faut donc avoir 2 repos git pour le projet, un qui contient Hugo et l'autre qui a uniquement le code HTML. Nous allons voir comment faire une synchronisation automatique.
+GitHub Pages gére uniquement les fichiers en html, Hugo génère les fichiers HTML dans un dossier "public", il faut donc avoir 2 repos git pour le projet, un qui contient Hugo et l'autre qui a uniquement le code HTML. Nous allons voir comment faire une synchronisation automatique.
 
 <h2 class="post-title">Principe</h2>
 A chaque push sur la branche master de notre repo Hugo, on push le répertoire public sur la branch contenant le code HTML.
@@ -61,7 +61,7 @@ Il faut maintenant renseigner quelques variables d'environnement au build Travis
 
 Voici les variables à renseigner :
 
->*GH_TOKEN* Token de l'étape #2, il permets de faire un push sans demande de mot de passe. Il faut bien penser à cacher l'affichage de cette variable en laissant l'option à *OFF* pour que n'importe qui ne puisse pas commit dans vos repos ;)
+>*GH_TOKEN* Token de l'étape #2, il permet de faire un push sans demande de mot de passe. Il faut bien penser à cacher l'affichage de cette variable en laissant l'option à *OFF* pour que n'importe qui ne puisse pas commit dans vos repos ;)
 
 >*GH_REPO* Repositery git du code HTML (avec le .git à la fin). 
 
