@@ -1,0 +1,15 @@
+pre code {
+    font: 14px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    color: #52595d;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 10px;
+    display: inline-block;
+    margin: 4px;
+}
