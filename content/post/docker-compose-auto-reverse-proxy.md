@@ -54,6 +54,7 @@ services:
     ports:
       - "80:80"
       - "443:443"
+      - "8080:8080"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /dev/null:/traefik.toml
@@ -87,6 +88,7 @@ services:
      - "traefik.port=80"
      - "traefik.backend=soinsnaturels"
      - "traefik.frontend.rule=Host:soins-naturels.net,www.soins-naturels.net,dev.soins-naturels.net"
+     - "traefik.docker.network=web"
     environment:
      - WORDPRESS_DB_PASSWORD=*******
      - WORDPRESS_DB_HOST=*******
@@ -97,6 +99,7 @@ services:
      - mysql
     depends_on:
      - mysql
+    restart: always
   mysql:
     image: mysql:5.7
     volumes:
@@ -106,6 +109,7 @@ services:
      - MYSQL_DATABASE=*******
     networks:
      - internal
+    restart: always
 networks:
   web:
     external:
