@@ -3,6 +3,7 @@ date = "2017-04-07T13:41:14+01:00"
 title = "Développement Akeneo PIM"
 draft = false
 tag = [ "prestation" ]
+slug = "developpement-akeneo"
 +++
 ## Akeneo
 Akeneo est un **P**roduct **I**nformation **M**anagement. Avec cet outil, vous pouvez gérer des collections de produits très facilement. 
@@ -10,6 +11,8 @@ Pour tous les formats, que ce soit web, print...
 
 Le principe est que le PIM contient toutes les informations des produits et est le maitre de l'information. Il est souvent couplé avec un **D**ata **A**sset **M**anagement
 qui stocke les médias (photos, vidéos, musiques...).
+
+Akeneo est développé en Symfony 2 et repose sur Oro Platform, un framework robuste et développé activement.
 
 ### Modules Akeneo
 L'entreprise Akeneo propose des modules payants en plus de leur solution opensource.
