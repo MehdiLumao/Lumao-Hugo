@@ -9525,3 +9525,6 @@ pre code {
     display: inline-block;
     margin: 4px;
 }
+ul.menu li > a {
+    color: #162532;
+}
