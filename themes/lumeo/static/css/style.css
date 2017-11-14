@@ -16,3 +16,8 @@ pre code {
 ul.menu li > a {
     color: #162532;
 }
+div.fb-page.fb_iframe_widget {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
