@@ -1,12 +1,41 @@
-<div class="col-md-4 col-sm-6 col-xs-12 {{ delimit $.Params "tags" ' ' }}">
-    <div class="item-block animate zoomIn">
-        <div class="item-desc ">
-            <div class="adjust-block">
-                <a target="_blank" href="{{ .Params.Link_url }}" class="circle-icon"><i class="fa fa-link"></i></a>
+{{ partial "header.html" . }}
+<div class="container section" style="padding-top: 90px">
+    <div class="container">
+        <div class="title-block ">
+            <h1 class="title-big">
+                Nos références
+            </h1>
+        </div>
+        <div class="row">
+            <p>Voici quelques références, nous avons un contrat de confidentialité avec la plupart de nos clients.</p>
+            <br />
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="items-filter filter-button">
+                    <span data-filter="*" class="active">Toutes</span>
+                    <span data-filter=".dev">Dev</span>
+                    <span data-filter=".seo">SEO</span>
+                    <span data-filter=".perf">Performance</span>
+                </div>
             </div>
         </div>
-        <div class="item-img">
-            <img src="images/{{ .Params.Image }}" alt="{{ .Title }}">
+        <div id="home-portfolio" class="row">
+            {{ range where .Data.Pages "Type" "reference" }}
+            <div class="col-md-4 col-sm-6 col-xs-12 {{ delimit .Params.Tags " " }}">
+            <div class="item-block animate zoomIn">
+                <div class="item-desc ">
+                    <div class="adjust-block">
+                        <a target="_blank" href="{{ .Params.Link_url }}" class="circle-icon"><i class="fa fa-link"></i></a>
+                    </div>
+                </div>
+                <div class="item-img">
+                    <img src="{{ .Site.BaseURL }}images/{{ .Params.Image }}" alt="{{ .Title }}">
+                </div>
+            </div>
         </div>
+        {{ end }}
     </div>
 </div>
+</div>
+{{ partial "footer.html" . }}

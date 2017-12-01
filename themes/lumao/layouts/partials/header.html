@@ -25,7 +25,11 @@
 		<div class="row">
 			<div class="col-sm-2">
 				<a class="animsition-link site-logo" href="{{ .Site.BaseURL }}" >
+					{{ if .IsHome }}
 					<h1>Lumao - Développement Magento</h1>
+					{{ else }}
+					<p class="title">Lumao - Développement Magento</p>
+					{{ end }}
 				</a>
 			</div>
 			<div class="col-sm-10">

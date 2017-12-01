@@ -502,20 +502,25 @@
 		<div class="title-big">Nos références</div>
 	</div>
 	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<div class="items-filter filter-button">
-					<span data-filter="*" class="active">Toutes</span>
-					<span data-filter=".dev">Dev</span>
-					<span data-filter=".seo">SEO</span>
-					<span data-filter=".perf">Performance</span>
-				</div>
-			</div>
-		</div>
+		<!--<div class="row">-->
+			<!--<div class="col-md-12">-->
+				<!--<div class="items-filter filter-button">-->
+					<!--<span data-filter="*" class="active">Toutes</span>-->
+					<!--<span data-filter=".dev">Dev</span>-->
+					<!--<span data-filter=".seo">SEO</span>-->
+					<!--<span data-filter=".perf">Performance</span>-->
+				<!--</div>-->
+			<!--</div>-->
+		<!--</div>-->
 		<div id="home-portfolio" class="row">
-            {{ range where .Data.Pages "Type" "reference" }}
+            {{ range (where .Data.Pages "Type" "freference") }}
                 {{ .Render "list" }}
             {{ end }}
+		</div>
+		<div class="row">
+			<div class="title-block">
+				<div class="title-small"><a href="{{ .Site.BaseURL }}reference/">Voir plus</a></div>
+			</div>
 		</div>
 	</div>
 </div>
