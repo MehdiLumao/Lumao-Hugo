@@ -1,0 +1,1006 @@
+{{ partial "header.html" . }}
+	<!--<main>-->
+		<!--{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}-->
+		<!--{{ range $paginator.Pages }}-->
+			<!--{{ partial "summary.html" . }}-->
+		<!--{{ end }}-->
+		<!--{{ partial "pagination.html" . }}-->
+	<!--</main>-->
+<!--{{ partial "sidebar.html" . }}-->
+<!-- Home slider -->
+<!-- <div id="full-slider" class="flexslider section-slider">
+	<ul class="slides">
+		<li>
+			<img src="images/Banner_05.jpg" alt/>
+			<div class="adjust-block">
+				<h2 class="slide-title">
+		        		We write awesome code
+	        	</h2>
+	        	<p class="slide-description">
+	        		We will bring your ideas to life
+	        	</p>
+	        	<div class="btns-row">
+	        		<a href="#" class="btn btn-bl">view portfolio</a>
+	        		<a href="#" class="btn btn-tran">purchase now</a>
+	        	</div>
+			</div>
+		</li>
+		<li>
+			<img src="images/Banner_02.jpg" alt/>
+			<div class="adjust-block">
+				<h2 class="slide-title">
+		        		We create beautiful designs
+	        	</h2>
+	        	<p class="slide-description">
+	        		We will bring your ideas to life
+	        	</p>
+	        	<div class="btns-row">
+	        		<a href="#" class="btn btn-bl">view portfolio</a>
+	        		<a href="#" class="btn btn-tran">purchase now</a>
+	        	</div>
+			</div>
+		</li>
+		<li>
+			<img src="images/Banner_03.jpg" alt/>
+			<div class="adjust-block">
+				<h2 class="slide-title">
+		        		We are a friendly team
+	        	</h2>
+	        	<p class="slide-description">
+	        		We will bring your ideas to life
+	        	</p>
+	        	<div class="btns-row">
+	        		<a href="#" class="btn btn-bl">view portfolio</a>
+	        		<a href="#" class="btn btn-tran">purchase now</a>
+	        	</div>
+			</div>
+		</li>
+		<li>
+			<img src="images/Banner_04.jpg" alt/>
+			<div class="adjust-block">
+				<h2 class="slide-title">
+		        		We love what we do
+	        	</h2>
+	        	<p class="slide-description">
+	        		We will bring your ideas to life
+	        	</p>
+	        	<div class="btns-row">
+	        		<a href="#" class="btn btn-bl">view portfolio</a>
+	        		<a href="#" class="btn btn-tran">purchase now</a>
+	        	</div>
+			</div>
+		</li>
+	</ul>
+</div>
+-->
+<!-- About -->
+<div class="section section-about" id="section-about">
+	<div class="title-block ">
+		<h3 class="title-big">
+			À propos
+		</h3>
+	</div>
+	<div class="container">
+		<div class="about-info">
+			<div class="row">
+				<div class="col-md-6"  >
+					<h3 class="about-title">
+						Nous aimons ce que nous faisons
+					</h3>
+
+					<p>
+						Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs certifiés.
+					</p>
+					<p>
+						Si vous cherchez une équipe d'expert et non pas d'un commercial, vous êtes au bon endroit.
+					</p>
+					<p>
+						Nous adorerions avoir de vos nouvelles.
+					</p>
+
+				</div>
+				<div class="col-md-6  ">
+					<div class="about-slide">
+						<div id="about-slider" class="swiper-container">
+							<!-- Additional required wrapper -->
+							<div class="swiper-wrapper">
+								<!-- Slides -->
+								<div class="swiper-slide" >
+									<div class="about-img">
+										<img src="images/AboutSlide_00.jpeg" alt>
+									</div>
+								</div>
+								<div class="swiper-slide" >
+									<div class="about-img">
+										<img src="images/AboutSlide_01.jpg" alt>
+									</div>
+								</div>
+								<div class="swiper-slide" >
+									<div class="about-img">
+										<img src="images/AboutSlide_02.jpeg" alt>
+									</div>
+								</div>
+								<div class="swiper-slide" >
+									<div class="about-img">
+										<img src="images/AboutSlide_03.jpg" alt>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="about-features  ">
+			<div class="row">
+				<div class="col-sm-4">
+					<h3 class="feature-title">
+							<span class="circle-icon feature-icon ">
+								<i class="fa fa-star-o"></i>
+							</span>
+						Développement
+					</h3>
+					<p class="feature-desc">
+						Développement de modules, TMA, intégration CSS responsive.
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h3 class="feature-title">
+							<span class="circle-icon feature-icon ">
+								<i class="fa fa-code"></i>
+							</span>
+						Hébergement
+					</h3>
+					<p class="feature-desc">
+						Hébergement sur nos serveurs cloud haute disponibilité.
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h3 class="feature-title">
+							<span class="circle-icon feature-icon ">
+								<i class="fa fa-smile-o"></i>
+							</span>
+						Projet
+					</h3>
+					<p class="feature-desc">
+						Réalisation de projets complets, au forfait.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Team -->
+<!--<div class="section section-team">
+	<div class="title-block">
+		<h3 class="title-big">
+			The dream team
+		</h3>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 col-md-3">
+				<div class="team-member">
+					<div class="mem-pic animate zoomIn" data-wow-delay="0s">
+						<img src="images/people-4.jpg" alt>
+						<div class="mem-quote">
+							<div class="adjust-block">
+								"You only live once, but if you do it right, once is enough."
+							</div>
+						</div>
+					</div>
+					<div class="animate fadeInUp" data-wow-delay="0s">
+						<h3 class="mem-name">
+							Jhon Wick
+						</h3>
+						<p class="mem-post">
+							Web Developer
+						</p>
+						<div class="mem-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-google"></i></a>
+							<a href="#"><i class="fa fa-instagram"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<div class="team-member">
+					<div class="mem-pic animate zoomIn" data-wow-delay=".2s">
+						<img src="images/people-3.jpg" alt>
+						<div class="mem-quote">
+							<div class="adjust-block">
+								"You only live once, but if you do it right, once is enough."
+							</div>
+						</div>
+					</div>
+					<div class="animate fadeInUp" data-wow-delay=".2s">
+						<h3 class="mem-name">
+
+							Rein king
+						</h3>
+						<p class="mem-post">
+							Web Designer
+						</p>
+						<div class="mem-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-google"></i></a>
+							<a href="#"><i class="fa fa-instagram"></i></a>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<div class="team-member">
+					<div class="mem-pic animate zoomIn" data-wow-delay=".4s">
+						<img src="images/people-2.jpg" alt>
+						<div class="mem-quote">
+							<div class="adjust-block">
+								"You only live once, but if you do it right, once is enough."
+							</div>
+						</div>
+					</div>
+					<div class="animate fadeInUp" data-wow-delay=".4s">
+						<h3 class="mem-name">
+							Mark Moril
+						</h3>
+						<p class="mem-post">
+							Web Developer
+						</p>
+						<div class="mem-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-google"></i></a>
+							<a href="#"><i class="fa fa-instagram"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<div class="team-member">
+					<div class="mem-pic animate zoomIn" data-wow-delay=".6s">
+						<img src="images/people-1.jpg" alt>
+						<div class="mem-quote">
+							<div class="adjust-block">
+								"You only live once, but if you do it right, once is enough."
+							</div>
+						</div>
+					</div>
+					<div class="animate fadeInUp" data-wow-delay=".6s">
+						<h3 class="mem-name">
+							Leo Kingman
+						</h3>
+						<p class="mem-post">
+							Web Designer
+						</p>
+						<div class="mem-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-google"></i></a>
+							<a href="#"><i class="fa fa-instagram"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>-->
+<!-- Fun Info -->
+<!--<div class="section section-funinfo">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<div class="count-block">
+					<div class="count-icon animate pulse">
+						<i class="fa fa-laptop"></i>
+					</div>
+					<div class="count-amount animate zoomIn" data-from="25" data-to="3512">25</div>
+					<div class="count-name">
+						Hours of work
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<div class="count-block">
+					<div class="count-icon animate pulse">
+						<i class="fa fa-flag-o"></i>
+					</div>
+					<div class="count-amount animate zoomIn" data-from="25" data-to="174">25</div>
+					<div class="count-name">
+						Completed Projects
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<div class="count-block">
+					<div class="count-icon animate pulse">
+						<i class="fa fa-heart-o"></i>
+					</div>
+					<div class="count-amount animate zoomIn" data-from="25" data-to="132">25</div>
+					<div class="count-name">
+						Happy clients
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<div class="count-block">
+					<div class="count-icon animate pulse">
+						<i class="fa fa-code"></i>
+					</div>
+					<div class="count-amount animate zoomIn" data-from="25" data-to="15321">25</div>
+					<div class="count-name">
+						lines of code
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>-->
+<!-- Services -->
+<div class="section section-services" id="section-services">
+	<div class="title-block title-sub">
+		<h3 class="title-big">
+			Nos services
+		</h3>
+		<p class="sub-title">
+			Voici une partie des services que nous proposons à nos clients.
+		</p>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-code"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							Développement
+						</h3>
+						<p class="serv-desc">
+							Développement sur mesure
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-star-o"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							TMA
+						</h3>
+						<p class="serv-desc">
+							Support applicatif
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-lightbulb-o"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							Marketing
+						</h3>
+						<p class="serv-desc">
+							Aide et réalisation des actions marketing
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-comment-o"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							SEO
+						</h3>
+						<p class="serv-desc">
+							Optimisation pour le référencement
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-bell-o"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							Hosting
+						</h3>
+						<p class="serv-desc">
+							Hébergement Cloud en SaaS
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-left">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-film"></i>
+					</div>
+					<div class="serv-info">
+
+						<h3 class="serv-title">
+							Performance
+						</h3>
+						<p class="serv-desc">
+							Audit des performances
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Team skills -->
+<div class="team-skills skills-img-left">
+	<div class="skills-img" data-team-pic="images/skills.jpg"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-6 col-xs-12">
+				<div class="skills-info">
+					<div class="skills-side">
+						<h2 class="sk-title" >
+							Nous avons des
+							<span>compétences incroyables</span>
+						</h2>
+						<p class="sk-subtitle">
+							En plus d'aimer le café, nous aimons notre travail, dans l'équipe nous avons des compétences rares.
+						</p>
+					</div>
+					<div id="progress-bars">
+						<h3 class="skill-title">
+							Expertise Magento 1
+						</h3>
+						<div class="progress-bar">
+							<span class="progress" data-percentage="98"></span>
+						</div>
+						<h3 class="skill-title">
+							Design
+						</h3>
+						<div class="progress-bar">
+							<span class="progress" data-percentage="85"></span>
+						</div>
+						<h3 class="skill-title">
+							Marketing
+						</h3>
+						<div class="progress-bar">
+							<span class="progress" data-percentage="88"></span>
+						</div>
+						<h3 class="skill-title">
+							Magento 2
+						</h3>
+						<div class="progress-bar">
+							<span class="progress" data-percentage="55"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- item -->
+<div class="section section-items" id="section-items">
+	<div class="title-block">
+		<div class="title-big">Nos références</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="items-filter filter-button">
+					<span data-filter="*" class="active">Toutes</span>
+					<span data-filter=".dev">Dev</span>
+					<span data-filter=".seo">SEO</span>
+					<span data-filter=".perf">Performance</span>
+				</div>
+			</div>
+		</div>
+		<div id="home-portfolio" class="row">
+            {{ range where .Data.Pages "Type" "reference" }}
+                {{ .Render "list" }}
+            {{ end }}
+		</div>
+	</div>
+</div>
+<!-- Team skills 2-->
+<div class="team-skills skills-img-right">
+	<div>
+		<div class="skills-img" data-team-pic="images/skills.jpg">
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-xs-12">
+				<div class="skills-info ">
+					<div class="skills-side">
+						<h2 class="sk-title">
+							Nous créons de
+							<span>magnifiques sites</span>
+						</h2>
+					</div>
+					<ul class="skills-list">
+						<li class="team-sk animate" data-wow-delay=".2s">
+							<div class="sk-icon">
+								<i class="fa fa-magic"></i>
+							</div>
+							<h3 class="skill-title">
+								Planning
+							</h3>
+							<p class="sk-desc">
+								Nous convenons d'un planning afin de développer votre e-commerce pour votre deadline.
+							</p>
+						</li>
+						<li class="team-sk animate" data-wow-delay=".4s">
+							<div class="sk-icon">
+								<i class="fa fa-sliders"></i>
+							</div>
+							<h3 class="skill-title">
+								Building
+							</h3>
+							<p class="sk-desc">
+								C'est la phase de création du site-web, tous les jours, vous verrez les nouvelles fonctionnalités que nous faisons pour votre site.
+							</p>
+						</li>
+						<li class="team-sk animate" data-wow-delay=".6s">
+							<div class="sk-icon">
+								<i class="fa fa-sun-o"></i>
+							</div>
+							<h3 class="skill-title">
+								Delivering
+							</h3>
+							<p class="sk-desc">
+								Toutes les 2 semaines, une mise en production a lieu, avec les changements que vous aurez préalablement validé.
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Let's work -->
+<!--<div class="section-offer">
+ 	<div class="container ">
+ 		<div class="row">
+ 			<div class="col-md-12">
+ 				<h1>
+ 					Marco is your best choice
+ 				</h1>
+ 				<a href="#" class="btn btn-wh">
+ 					purchase now
+ 				</a>
+ 			</div>
+ 		</div>
+ 	</div>
+</div>
+
+<!-- Services 2 -->
+<!--<div class="section">
+	<div class="title-block title-sub">
+		<h3 class="title-big">
+			We Provide
+		</h3>
+		<h6 class="sub-title">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, a, libero.
+			Dolore esse laboriosam, porro eaque consequatur est quo omnis assumenda ex sint enim,
+			earum sed deserunt consectetur quisquam doloremque.
+		</h6>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-laptop"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Shortcodes
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-cube"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Fresh design
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-paper-plane-o"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Development
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-tablet"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Mobile Apps
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-folder-o"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Social Marketing
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="service-block service-center">
+					<div class="circle-icon feature-icon">
+						<i class="fa fa-support"></i>
+					</div>
+					<div class="serv-info">
+
+					 	<h3 class="serv-title">
+					 		Support
+					 	</h3>
+					 	<p class="serv-desc">
+						 	Magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi
+							ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit
+					 	</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Testimonials -->
+<!--<div class="section section-testimonials">
+	<div class="title-block">
+		<h2 class="title-big">
+			testimonials
+		</h2>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div id="testimonials-slider" class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="testimonial">
+							<div class="tes-author">
+								<div class="tes-pic">
+									<img src="images/tesimon_man_1.png" alt>
+								</div>
+							</div>
+							<div class="tes-author-name">
+								<p><span>Jhon Deen</span> SEO </p>
+							</div>
+							<blockquote>
+								<p>
+									Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit
+									praesent luptatum zzril
+								</p>
+							</blockquote>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="testimonial">
+							<div class="tes-author">
+								<div class="tes-pic">
+									<img src="images/tesimon_man_2.png" alt>
+								</div>
+							</div>
+							<div class="tes-author-name">
+								<p><span>Sara Dan</span> Ruby Developer</p>
+							</div>
+							<blockquote>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,st laborum.
+								</p>
+							</blockquote>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="testimonial">
+							<div class="tes-author">
+								<div class="tes-pic">
+									<img src="images/tesimon_man_3.png" alt>
+								</div>
+							</div>
+							<div class="tes-author-name">
+								<p><span>Jhane Doe</span> Designer</p>
+							</div>
+							<blockquote>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,st laborum.
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,st laborum.
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,st laborum.
+								</p>
+							</blockquote>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Support -->
+<!--<div class="section section-support">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<ul>
+					<li>
+						<a href="#">
+							<img src="images/sup-elm.jpg" alt>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="images/sup-elm.jpg" alt>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="images/sup-elm.jpg" alt>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="images/sup-elm.jpg" alt>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Blog -->
+<!--<div class="section section-blog">
+	<div class="title-block">
+		<h2 class="title-big">
+			Recent posts
+		</h2>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="blog-post">
+					<div class="post-img">
+						<a href="single.html">
+							<img src="images/Blog_01.jpeg" alt>
+						</a>
+					</div>
+					<div class="post-info">
+						<a href="single.html">July 30, 2016</a>
+						<a href="single.html">1 comment</a>
+					</div>
+					<h3 class="post-title">
+						<a href="single.html">
+							Another song of freedom redemption song
+						</a>
+					</h3>
+					<p class="post-excerpt">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam neque tempora odit
+						 atque repellat est molestiae perferendis.
+					</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="blog-post">
+					<div class="post-img">
+						<a href="single.html">
+							<img src="images/Blog_02.jpg" alt>
+						</a>
+					</div>
+					<div class="post-info">
+						<a href="single.html">July 30, 2016</a>
+						<a href="single.html">1 comment</a>
+					</div>
+					<h3 class="post-title">
+						<a href="single.html">
+							Another song of freedom redemption song
+						</a>
+					</h3>
+					<p class="post-excerpt">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam neque tempora odit
+						 atque repellat est molestiae perferendis.
+					</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="blog-post">
+					<div class="post-img">
+						<a href="single.html">
+							<img src="images/Blog_08.jpg" alt>
+						</a>
+					</div>
+					<div class="post-info">
+						<a href="single.html">July 30, 2016</a>
+						<a href="single.html">1 comment</a>
+					</div>
+					<h3 class="post-title">
+						<a href="single.html">
+							Another song of freedom redemption song
+						</a>
+					</h3>
+					<p class="post-excerpt">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam neque tempora odit
+						 atque repellat est molestiae perferendis.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="#" class="btn btn-tran-blm">
+		Show more posts
+	</a>
+</div>
+
+	<!-- Contact Form-->
+<div class="section section-contact" id="section-contact">
+	<div class="title-block">
+		<h2 class="title-big">
+			Nous contacter
+		</h2>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<form class="contact-form"  action="https://formspree.io/aurelien@lavoweb.net" method="POST">
+					<div class="row">
+						<div class="col-md-6">
+							<input class="form-input" type="text" placeholder="Nom" name="name" required/>
+						</div>
+						<div class="col-md-6">
+							<input class="form-input" type="email" placeholder="E-mail" name="_replyto" required/>
+						</div>
+					</div>
+                    <input type="hidden" name="_subject" value="Contact Lumao" />
+                    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}post/merci/" />
+					<input type="hidden" name="_format" value="plain" />
+					<input type="text" name="_gotcha" style="display:none" />
+					<textarea class="form-input" placeholder="Votre Message" name="message"></textarea>
+					<input class="btn form-btn" type="submit" value="Envoyer un message"/>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Footer -->
+<!--<div class="section footer-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="fo-title">
+                    Marco Template
+                </div>
+                <p class="fo-text">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quam beatae, odit accusamus voluptates nemo necessitatibus vel quia vero
+                </p>
+                <div class="mem-social">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-google"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="fo-title">
+                    Site links
+                </div>
+                <div class="fo-nav">
+                    <a href="index.html">Home</a>
+                    <a href="about.html">About</a>
+                    <a href="blog.html">Blog</a>
+                    <a href="team.html">Team</a>
+                    <a href="portfolio.html">Portfolio</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+            </div>
+            <!--<div class="col-md-3">
+                <div class="fo-title">
+                    Tweets
+                </div>
+                <p class="fo-tweet">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quam beatae, odit accusamus voluptates nemo necessitatibus vel quia vero
+                    <a href="#">
+                        http://themeforest.com
+                    </a>
+                    <span>
+                        30 mins
+                    </span>
+                </p>
+            </div>
+            <div class="col-md-3">
+                <div class="fo-title">
+                    Instagram
+                </div>
+                <ul class="fo-instagram">
+                    <li><a href="#"><img src="images/Insta-footer1.jpg" alt></a></li>
+                    <li><a href="#"><img src="images/Insta-footer2.jpg" alt></a></li>
+                    <li><a href="#"><img src="images/Insta-footer3.jpg" alt></a></li>
+                    <li><a href="#"><img src="images/Insta-footer4.jpg" alt></a></li>
+                    <li><a href="#"><img src="images/Insta-footer5.jpg" alt></a></li>
+                    <li><a href="#"><img src="images/Insta-footer6.jpg" alt></a></li>
+                </ul>
+            </div>-->
+<!--	</div>
+</div>
+</div>-->
+{{ partial "footer.html" . }}
