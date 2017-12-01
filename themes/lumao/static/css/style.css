@@ -20,4 +20,5 @@ div.fb-page.fb_iframe_widget {
     position: fixed;
     right: 0px;
     bottom: 0px;
+    z-index: 2;
 }
