@@ -13,6 +13,6 @@ Voici les liens des modules que j'ai évoqués :
 
 Et mes slides :
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/zmjDQy1prFKJDo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AurlienLavorel/seo-et-ecommerce-sur-magento-retour-dexprience" title="SEO et ecommerce sur Magento: retour d’expérience" target="_blank">SEO et ecommerce sur Magento: retour d’expérience</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/AurlienLavorel">Aurélien Lavorel</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/zmjDQy1prFKJDo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AurlienLavorel/seo-et-ecommerce-sur-magento-retour-dexprience" title="SEO et ecommerce sur Magento: retour d’expérience" target="_blank" rel="noopener">SEO et ecommerce sur Magento: retour d’expérience</a> </strong> de <strong><a target="_blank" rel="noopener" href="//www.slideshare.net/AurlienLavorel">Aurélien Lavorel</a></strong> </div>
 
 Bonne journée !
