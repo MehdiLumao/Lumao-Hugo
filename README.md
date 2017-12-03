@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/LavoWeb/Lumao-Hugo.svg?branch=master)](https://travis-ci.org/LavoWeb/Lumao-Hugo)
 
 # Build
-gulp css js
+gulp css js themes/lumao/static/images/
 hugo
 
 # Testing
