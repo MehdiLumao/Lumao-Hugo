@@ -4,15 +4,16 @@ title = "Gitlab CI + AWS"
 draft = false
 slug = "gitlab-aws"
 +++
-Aujourd'hui, on va voir comment faire un déploiement automatique (*C*ontinuous *D*eployment, CD pour la suite)
+Aujourd'hui, on va voir comment faire un déploiement automatique (**C**ontinuous **D**eployment, CD pour la suite)
 au push sur une branche de Gitlab.
 
 ## Alternatives à Gitlab
 Tout d'abord quelques alternatives à Gitlab CI, il y en a beaucoup d'autres.
+
 * Travis CI
 * CircleCI
 * Jenkins
-* Bamboo 
+* Bamboo
 * ...
 
 ## Alternatives à AWS
@@ -48,12 +49,12 @@ Voici l'url : https://aws.amazon.com/fr/console/
 
 Je pars du principe que vous avez un compte et que vous connaissez un minimum le système.
 
-*Avertissement* : AWS est un service *payant*, les actions à faire coûtent de l'argent, et la facture peut-être lourde. Réfléchissez avant de cliquer et couper les services quand vous n'en avez plus l'utilitée.
+**Avertissement** : AWS est un service **payant**, les actions à faire coûtent de l'argent, et la facture peut-être lourde. Réfléchissez avant de cliquer et couper les services quand vous n'en avez plus l'utilitée.
 
 On va accéder à chaque service via la recherche.
 ### S3
 #### Créer un compartiment
-On va créer un compartiment avec le nom *lumao-tuto-blog*.
+On va créer un compartiment avec le nom **lumao-tuto-blog**.
 ![AWS S3 créer un compartiment](/images/9/s3-1.png)
 ![AWS S3 définir propriété](/images/9/s3-2.png)
 ![AWS S3 définir authorisations](/images/9/s3-3.png)
@@ -61,11 +62,11 @@ On va créer un compartiment avec le nom *lumao-tuto-blog*.
 #### Ajouter un fichier dans le compartiment S3
 Depuis la liste, on clic sur le nouveau compartiment créé,
 
-On upload un fichier *app.zip*.
+On upload un fichier **app.zip**.
 ![AWS S3 upload fichier zip](/images/9/s3-5.png)
 On clic dessus pour voir le détail
 ![AWS S3 détail fichier uploadé](/images/9/s3-6.png)
-On copie-colle le lien, pour moi : *https://s3.eu-west-3.amazonaws.com/lumao-tuto-blog/app.zip*
+On copie-colle le lien, pour moi : **https://s3.eu-west-3.amazonaws.com/lumao-tuto-blog/app.zip**
 
 On le garde dans un coin, on en aura besoin après.
 
@@ -75,15 +76,16 @@ On le garde dans un coin, on en aura besoin après.
 ![AWS EB information de l'environnement](/images/9/eb-2.png)
 On charge les sources
 ![AWS EB changer sources depuis S3](/images/9/eb-3.png)
-On clic sur _Créer un environnement_
+On clic sur **Créer un environnement**
 
 On attend quelques minutes puis l'environnement est dispo.
 ![AWS EB tableau de bord environnement](/images/9/eb-4.png)
-En haut à droite, on voit l'url, ici : *http://lumao-tuto-blog.tuf69sshns.eu-west-3.elasticbeanstalk.com/*
+En haut à droite, on voit l'url, ici : **http://lumao-tuto-blog.tuf69sshns.eu-west-3.elasticbeanstalk.com/**
 
 #### IAM
 ![AWS IAM ajouter un utilisateur](/images/9/iam-1.png)
 Ajouter les droits :
+
 * AmazonS3FullAccess
 * AWSElasticBeanstalkFullAccess
 
@@ -92,8 +94,9 @@ Ce n'est pas très sécurisé mais ça ira pour aujourd'hui. Tuto IAM sur Google
 ![AWS IAM récapitulatif création utilisateur](/images/9/iam-3.png)
 Vous avez maintenant vos clés d'accès.
 ![AWS IAM clé secrète](/images/9/iam-4.png)
-* ID : *AKIAISWWDEGU67CCU6IQ*
-* Password : *PB8OZq5k6aHjXfaaEs+ifr38GzIMFvuBj2k+7t4y*
+
+* ID : **AKIAISWWDEGU67CCU6IQ**
+* Password : **PB8OZq5k6aHjXfaaEs+ifr38GzIMFvuBj2k+7t4y**
 
 Il ne faut pas partager ces clés, elles sont très importante. Je les ais bien sur désactivés avant de mettre en ligne ce tuto ;)
 
@@ -107,10 +110,10 @@ Je vais essayer de résumer quelques fonctions de Gitlab pour le CD.
 Une "grosse" partie de l'interface la gestion de cluster Kubernetes, ça ne sera pas pour aujourd'hui.
 
 ### Concept généraux
-Une *pipeline* est un groupe de *job* exécutées par *stage* (étapes). 
-Toutes les tâches d'une étape sont exécutées en parallèle (si possible), 
-et si elles réussissent toutes, le pipeline passe à l'étape suivante. 
-Si l'un des *job* échoue, l'étape suivante n'est (habituellement) pas exécutée. 
+Une **pipeline** est un groupe de **job** exécutées par **stage** (étapes).
+Toutes les tâches d'une étape sont exécutées en parallèle (si possible),
+et si elles réussissent toutes, le pipeline passe à l'étape suivante.
+Si l'un des **job** échoue, l'étape suivante n'est (habituellement) pas exécutée.
 
 ### Pipelines
 Voici ce qu'on va faire :
@@ -136,14 +139,14 @@ On voit la liste des pipelines qui ont été fait, on peut faire un rollback à 
 ![CI liste pipelines par environment](/images/9/env-2.png)
 
 ### Charts
-Je triche, c'est sur un autre projet qui est _légèrement_ plus actif :)
+Je triche, c'est sur un autre projet qui est **légèrement** plus actif :)
 ![CI charts](/images/9/cha-1.png)
 
 ### CI
 La question que tout le monde se pose : comment on fait ça ?
 Facile, il suffit d'un fichier...
 
-_.gitlab-ci.yml_
+**.gitlab-ci.yml**
 ```
 stages:
   - build
@@ -180,24 +183,25 @@ cache:
 Et voilà !
 
 On a 2 étapes dans la CI :
+
 * build. On crée tous les fichiers dont on a besoin
 * deploy. On déploie sur AWS Beanstalk
 
-La première (build) consiste à faire un _composer install_. On part de l'image docker _lavoweb/php-7.0_, 
+La première (build) consiste à faire un **composer install**. On part de l'image docker **lavoweb/php-7.0**,
 on télécharge le .phar de composer et on le lance.
 
-La seconde étape (deploy) consiste à zipper les sources, copier le fichier sur S3 et enfin refaire notre environnement Beanstalk. 
-Pour ça, on utilise l'image docker _lavoweb/aws-cli_.
+La seconde étape (deploy) consiste à zipper les sources, copier le fichier sur S3 et enfin refaire notre environnement Beanstalk.
+Pour ça, on utilise l'image docker **lavoweb/aws-cli**.
 
 Comme vous le voyez, on utilise pas la même image, vous vous doûtez bien qu'il ne vas pas garder les fichiers.
 Dans la CI, on peut jouer une analyse de code, puis lancer les tests unitaire et enfin lancer le déploiement.
-Il faut activer une option pour garder les fichiers, c'est l'instruction *cache*.
- 
+Il faut activer une option pour garder les fichiers, c'est l'instruction **cache**.
+
 Vous avez sûrement remarqué qu'il y a quelques variables dans le script.
 
 Ce sont les accès aux différents services. Il ne faut surtout pas les mettre dans le code, n'importe qui pourrait y avoir accès.
 
-Pour éviter ça, Gitlab dispose d'une gestion des secrets. C'est dans *Settings* => *CI / DI* => *Secret variables *.
+Pour éviter ça, Gitlab dispose d'une gestion des secrets. C'est dans **Settings** => **CI / DI** => **Secret variables**.
 ![CI settings](/images/9/gse-1.png)
 Vous pouvez avoir des configuration différentes par envirronement.
 
