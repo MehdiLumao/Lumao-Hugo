@@ -198,7 +198,7 @@ Vous avez sûrement remarqué qu'il y a quelques variables dans le script.
 Ce sont les accès aux différents services. Il ne faut surtout pas les mettre dans le code, n'importe qui pourrait y avoir accès.
 
 Pour éviter ça, Gitlab dispose d'une gestion des secrets. C'est dans *Settings* => *CI / DI* => *Secret variables *.
-![CI settings](/images/9/gce-1.png)
+![CI settings](/images/9/gse-1.png)
 Vous pouvez avoir des configuration différentes par envirronement.
 
 Et le mieux ? C'est que ça marche avec plein de techno, ce site est déployé via Travis CI + Hugo.
