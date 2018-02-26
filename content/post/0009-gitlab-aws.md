@@ -52,7 +52,8 @@ Je pars du principe que vous avez un compte et que vous connaissez un minimum le
 **Avertissement** : AWS est un service **payant**, les actions à faire coûtent de l'argent, et la facture peut-être lourde. Réfléchissez avant de cliquer et couper les services quand vous n'en avez plus l'utilitée.
 
 On va accéder à chaque service via la recherche.
-### S3
+
+<h3 class="post-title">S3</h3>
 <h4 class="post-title">Créer un compartiment</h4>
 On va créer un compartiment avec le nom **lumao-tuto-blog**.
 ![AWS S3 créer un compartiment](/images/9/s3-1.png)
@@ -105,7 +106,7 @@ On a maintenant un environnement élastique, qui déploie un fichier zip quand o
 Le déploiement se fait sur un environnement qui s'adapte tout seul à la charge en cours. Si vous avez "beaucoup" de trafic, au lieu d'avoir un serveur, vous pouvez en avoir 5,
 la seule limite est votre portefeuille. Potentiellement sur plusieurs zones géographiques.
 
-<h2 class="post-title">Gitlab CIs</h2>
+<h2 class="post-title">Gitlab CI</h2>
 Je vais essayer de résumer quelques fonctions de Gitlab pour le CD.
 Une "grosse" partie de l'interface la gestion de cluster Kubernetes, ça ne sera pas pour aujourd'hui.
 
