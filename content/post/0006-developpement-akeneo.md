@@ -5,7 +5,6 @@ draft = false
 tag = [ "prestation" ]
 slug = "developpement-akeneo"
 +++
-## Akeneo
 Akeneo est un **P**roduct **I**nformation **M**anagement. Avec cet outil, vous pouvez gérer des collections de produits très facilement. 
 Pour tous les formats, que ce soit web, print, les données ERP...
 
@@ -16,7 +15,11 @@ Akeneo est développé en Symfony 2 et repose sur Oro Platform, un framework rob
 
 Nous proposons du développement custom sur le PIM Akeneo.
 
-### Modules Akeneo
+<div class="title-block ">
+    <h2 class="title-big">
+        Modules Akeneo
+    </h2>
+</div>
 L'entreprise Akeneo propose des modules payants en plus de leur solution opensource.
  
 Par exemple :
@@ -27,7 +30,11 @@ Par exemple :
 
 Nous pouvons configurer ces modules.
 
-## Développement sur mesure
+<div class="title-block ">
+    <h2 class="title-big">
+        Développement sur mesure
+    </h2>
+</div>
 Nous proposons également du développement custom. Vous souhaitez faire un import différentiel, gérer d'autres entités que les produits/catégories ?
 
 Créer un adaptateur Magento performant, résoudre les problèmes de votre connecteur ?

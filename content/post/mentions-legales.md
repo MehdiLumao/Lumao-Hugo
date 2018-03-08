@@ -9,7 +9,7 @@ Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la co
 
 ### Edition du site
 
-Le site lumao.eu est édité par la société NODALYS S.A.S, au capital social de 45.000 euros, immatriculée au Registre du Commerce et des Sociétés d’Aix-en-Provence sous le n° 483 180 808 00030 et dont le siège social est situé à L’Escapade, Bât. E Avenue Paul Jullien 13100 Le Tholonet (TVA intracommunautaire n° FR44 483 180 808).
+Le site lumao.eu est édité par la société LUMAO SASU, au capital social de 100 euros, immatriculée au Registre du Commerce et des Sociétés d’Annecy sous le n° 83530565700016 et dont le siège social est situé au 22 boulevard du Semnoz 74600 Annecy (TVA intracommunautaire n° FR 68 835305657).
 
 ### Responsable de publication
 
@@ -28,6 +28,6 @@ Par email : aurelien@lavoweb.net
 
 La collecte et le traitement informatique des données nominatives par la Société a fait l’objet d’une déclaration simplifiée auprès de l’autorité française de protection des données personnelles (la Commission Nationale de l’Informatique et des Libertés – CNIL) (numéro n° 1842022).
 
-Vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant au Responsable CNIL de la Société à l’adresse postale (ou électronique) suivante : 635, route du Noiret 74350 Cruseilles (aurelien@lavoweb.net). Vous pouvez également, pour des motifs légitimes, vous opposer au traitement des données vous concernant.
+Vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant au Responsable CNIL de la Société à l’adresse postale (ou électronique) suivante : 22 boulevard du Semnoz 74600 Annecy (aurelien@lavoweb.net). Vous pouvez également, pour des motifs légitimes, vous opposer au traitement des données vous concernant.
 
 <a href="https://www.verif.com/societe/LUMAO-835305657/" target="_blank" title="Fiche Entreprise LUMAO"><strong>Fiche Entreprise LUMAO</strong></a> <a href="https://www.verif.com/" target="_blank" title="Information des Entreprises"><strong>Information des Entreprises</strong></a>
