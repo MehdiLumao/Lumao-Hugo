@@ -24,7 +24,7 @@ Le Directeur de la publication du Site est **Lavorel Aurélien**.
 
 Le Service Client du Prestataire peut être contacté :
 
-**- au numéro suivant **0647410349** aux horaires suivants **10-16h**.**
+**- au numéro suivant **0458101418** aux horaires suivants **10-16h**.**
 
 **- par email en vous adressant à **contact@lumao.eu**.**
 
