@@ -1,3 +1,10 @@
 User-agent: *
 Disallow: /css/
 Disallow: /js/
+Disallow: /tags/
+Disallow: /post/cgs/
+Disallow: /post/charte-vp/
+Disallow: /post/merci/
+Disallow: /post/mentions-legales/
+Disallow: /post/page/
+Disallow: /freference/
