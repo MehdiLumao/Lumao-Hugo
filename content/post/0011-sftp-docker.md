@@ -41,9 +41,11 @@ __sftp-users.conf__
 example:example_password:33:33:/data
 ```
 La liste des utilisateurs sous cette forme :
+
 nom utilisateur:mot de passe utilisateur:id_utilisateur (ici apache):groupe utilisateur:répertoire de montage
 
 Quand l'utilisateur se connectera, il verra le répertoire data en premier.
+
 C'est le montage **/home/example/data** dans le __docker-compose.yml__ qui exposera les fichiers.
 
 __ssh/sshd_config__
