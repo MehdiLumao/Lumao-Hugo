@@ -25,6 +25,7 @@ jobs:
       - run: go get github.com/spf13/hugo
       - run: hugo
       - run: bash ./deploy.sh
+general:
   branches:
     only:
       - en
