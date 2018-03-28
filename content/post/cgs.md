@@ -10,7 +10,7 @@ slug = "cgs"
 
 Le présent site, accessible à l'URL **https://lumao.eu/** (le « **Site** »), est édité par :
 
-**Lumao, SASU** au capital de **100** euros, inscrite au R.C.S. d'Annecy sous le numéro **835305657, **dont le siège social est situé au** 22 boulevard du Semnoz, 74600 Annecy,** représenté(e) par Lavorel Auréliendûment habilité(e),
+**Lumao, SASU** au capital de **100** euros, inscrite au R.C.S. d'Annecy sous le numéro **835305657**, dont le siège social est situé au **22 boulevard du Semnoz, 74600 Annecy**, représenté(e) par Lavorel Aurélien dûment habilité(e),
 
 (Ci-après désigné le « **Vendeur** »).
 
@@ -24,9 +24,9 @@ Le Directeur de la publication du Site est **Lavorel Aurélien**.
 
 Le Service Client du Prestataire peut être contacté :
 
-**- au numéro suivant **0458101418** aux horaires suivants **10-16h**.**
+- au numéro suivant **0458101418** aux horaires suivants **10-16h**.
 
-**- par email en vous adressant à **contact@lumao.eu**.**
+- par email en vous adressant à **contact@lumao.eu**.
 
 ## **Article 2 – CHAMP D'APPLICATION**
 
