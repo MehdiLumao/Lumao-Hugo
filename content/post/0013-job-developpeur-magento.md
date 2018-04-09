@@ -25,3 +25,5 @@ Voir l'offre : https://lumao.eu/post/job-magento
 Postuler : contact@lumao.eu
 
 Il nous faut un CV/Linkedin, un lien vers un projet open-source et les prétentions salariales.
+
+![Recrutement expert Magento](/images/13/expert-magento.jpg)
