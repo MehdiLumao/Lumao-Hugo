@@ -4933,7 +4933,7 @@ h6.h-gr {
 **/
 /* line 1, ../sass/pages/home/_funinfo.scss */
 .section-funinfo {
-  background: url(../images/section-funinfo.jpg) no-repeat;
+  background: url(../images/willian-justen.jpg) no-repeat;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -9533,4 +9533,13 @@ div.fb-page.fb_iframe_widget {
     right: 0px;
     bottom: 0px;
     z-index: 2;
+}
+#section-partners img {
+    max-height: 112px;
+    display: inline-block;
+    padding: 15px;
+    max-width: 800px;
+}
+#section-partners .paypal-logo {
+    max-width: 400px;
 }
