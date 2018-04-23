@@ -3,6 +3,9 @@ date = "2018-03-08T21:11:14+01:00"
 title = "Conditions Générales de Services"
 draft = false
 slug = "cgs"
+aliases = [
+    "/cgs/"
+]
 +++
 **Date de dernière mise à jour : 08/03/2018**
 
