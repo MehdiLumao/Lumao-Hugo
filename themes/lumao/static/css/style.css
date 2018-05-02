@@ -31,3 +31,22 @@ div.fb-page.fb_iframe_widget {
 #section-partners .paypal-logo {
     max-width: 400px;
 }
+#certifications {
+    text-align: center;
+    background: #fafafa;
+    border-color: #fafafa;
+}
+#certifications img {
+    display: inline-block;
+    padding: 15px;
+}
+#section-services .col-sm-4 {
+    text-align: center;
+}
+#section-services .circle-icon {
+    margin-left: auto;
+    margin-right: auto;
+}
+.team-skills i {
+    margin-top: 25px;
+}
