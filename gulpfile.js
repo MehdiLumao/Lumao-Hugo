@@ -1,5 +1,6 @@
 var gulp = require('gulp'),
     concat = require('gulp-concat')
+    critical = require('critical')
     imagemin = require('gulp-imagemin');
 
 gulp.task('css', function() {
@@ -19,3 +20,17 @@ gulp.task('images', function () {
         .pipe(imagemin())
         .pipe(gulp.dest('themes/lumao/static/images/'));
 });
+
+gulp.task('critical', function () {
+    critical.generate({
+        inline: true,
+        base: 'public/',
+        src: 'index.html',
+        dest: 'index.html',
+        minify: true,
+        width: 1300,
+        height: 900
+    });
+});
+
+gulp.task('default', ['css', 'js', 'images', 'critical']);
