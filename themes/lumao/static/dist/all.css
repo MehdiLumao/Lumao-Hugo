@@ -9562,3 +9562,21 @@ div.fb-page.fb_iframe_widget {
 .team-skills i {
     margin-top: 25px;
 }
+.title-middle {
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #162532;
+    margin-bottom: 25px;
+    margin-top: 12px;
+}
+.title-middle:after {
+    content: "";
+    width: 25px;
+    display: block;
+    margin: 15px auto;
+    background: #162532;
+    height: 3px;
+ }
