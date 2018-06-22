@@ -59,7 +59,7 @@ Activer le VPN gnome
 
 Désactiver le VPN gnome
 
-![Désactiver le VPN gnome](/images/14/Capture d'écran de 2018-06-22 14-17-12.png)
+![Désactiver le VPN gnome](/images/14/4-vpn-active.png)
 
 ## Merci
 
