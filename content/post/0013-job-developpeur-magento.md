@@ -8,7 +8,7 @@ On recherche un **développeur Magento** confirmé en télétravail. Tu peux tra
 
 Tu dois maîtriser Git, Slack, Trello et Magento (une certification est préférable).
 
-On cherche quelqu’un de passionner par l’informatique, tu as d’autres activités en rapport en dehors du travail. Que ce soit contribution open-source, formation, indépendant...
+On cherche quelqu’un de passionné par l’informatique, tu as d’autres activités en rapport en dehors du travail. Que ce soit contribution open-source, formation, indépendant...
 
 Il faudrait que tu aies une autre spécialité, de l’intégration front, designer, développement dans une autre techno.
 
