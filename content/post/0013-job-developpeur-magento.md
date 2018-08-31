@@ -20,7 +20,7 @@ Les horaires sont libres, il faut juste que le travail soit fait à la fin de la
 
 Rémunération fixe (35-65k) en fonction des compétences et prime en fin de projet.
 
-Voir l'offre : https://lumao.eu/post/job-magento
+Voir l'offre : https://lumao.eu/post/job-magento/
 
 Postuler : contact@lumao.eu
 
