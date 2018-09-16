@@ -1,1 +1,24 @@
-{{ .Title }}
+{{ partial "header.html" . }}
+<div class="section section-content" id="section-content">
+    <div class="title-block">
+        <h1 class="title-big">{{ .Title }}</h1>
+    </div>
+    <div class="container">
+        <div class="row title-block">
+            <div class="col-xs-12 about-info">
+                <img src="{{ .Site.BaseURL }}images/{{ .Params.Image }}" class="center-block" alt="{{ .Title }}">
+            </div>
+        </div>
+        <div class="row title-block">
+            <div class="col-xs-12 about-info">
+                {{ .Content }}
+            </div>
+        </div>
+        <div class="row title-block">
+            <div class="col-xs-12 about-info">
+                <a href="{{ .Params.link_url }}">{{ .Title }}</a>
+            </div>
+        </div>
+    </div>
+</div>
+{{ partial "footer.html" . }}
