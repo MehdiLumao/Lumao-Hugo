@@ -1,10 +1,14 @@
 {{ partial "header.html" . }}
-	<div class="container section" style="padding-top: 90px">
-		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-		{{ range $paginator.Pages }}
-			<div class="section-about">{{ partial "summary.html" . }}</div>
-		{{ end }}
-		{{ partial "pagination.html" . }}
+<div class="section section-content" id="section-content">
+	<div class="title-block">
+		<h1 class="title-big">{{ .Title }}</h1>
 	</div>
-{{ partial "sidebar.html" . }}
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 about-info">
+				{{ .Content }}
+			</div>
+		</div>
+	</div>
+</div>
 {{ partial "footer.html" . }}
