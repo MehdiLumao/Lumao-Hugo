@@ -29,5 +29,3 @@ Par email : aurelien@lavoweb.net
 La collecte et le traitement informatique des données nominatives par la Société a fait l’objet d’une déclaration simplifiée auprès de l’autorité française de protection des données personnelles (la Commission Nationale de l’Informatique et des Libertés – CNIL) (numéro n° 1842022).
 
 Vous bénéficiez d’un droit d’accès et de rectification aux informations qui vous concernent, que vous pouvez exercer en vous adressant au Responsable CNIL de la Société à l’adresse postale (ou électronique) suivante : 22 boulevard du Semnoz 74600 Annecy (aurelien@lavoweb.net). Vous pouvez également, pour des motifs légitimes, vous opposer au traitement des données vous concernant.
-
-<a href="https://www.verif.com/societe/LUMAO-835305657/" target="_blank" title="Fiche Entreprise LUMAO"><strong>Fiche Entreprise LUMAO</strong></a> <a href="https://www.verif.com/" target="_blank" title="Information des Entreprises"><strong>Information des Entreprises</strong></a>
