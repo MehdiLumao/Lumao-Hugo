@@ -1,6 +1,6 @@
 language: go
 go:
-  - "1.11"
+  - 1.11
 install: go get github.com/spf13/hugo
 before_script:
   - sudo apt-get update
