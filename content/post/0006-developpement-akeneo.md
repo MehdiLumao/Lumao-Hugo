@@ -1,6 +1,7 @@
 +++
 date = "2017-04-07T13:41:14+01:00"
 title = "Développement Akeneo"
+description = "Que vous cherchiez du conseil, de l'hébergement ou encore du développement sur le PIM Akeneo, nous sommes là"
 draft = false
 tag = [ "prestation" ]
 slug = "developpement-akeneo"

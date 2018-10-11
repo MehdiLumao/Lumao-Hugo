@@ -1,6 +1,7 @@
 +++
 date = "2017-04-09T16:11:14+01:00"
 title = "Développement Laravel"
+description = "Vous cherchez à développer un application custom ? Laravel est le framework qu'il vous faut."
 draft = false
 tag = [ "prestation" ]
 slug = "developpement-laravel"
