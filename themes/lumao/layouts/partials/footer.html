@@ -5,39 +5,12 @@
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}dist/all.css">
 	<script src="{{ .Site.BaseURL }}dist/all.js"></script>
 	<script>
-        window.fbAsyncInit = function() {
-            FB.init({
-                appId      : '95100348886',
-                xfbml      : true,
-                version    : 'v2.6'
-            });
-        };
-
-        (function(d, s, id){
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) {return;}
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/fr_FR/sdk.js";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-	</script>
-	<script>
         jQuery(document).ready(function() {
 			jQuery('img').each(function() {
 				jQuery(this).addClass('img-responsive');
 			});
         });
 	</script>
-
-	<div class="fb-page hidden-xs"
-		 data-href="https://www.facebook.com/Lumao-292389297939472/"
-		 data-tabs="messages"
-		 data-width="400"
-		 data-height="250"
-		 data-small-header="true">
-		<div class="fb-xfbml-parse-ignore">
-			<blockquote></blockquote>
-		</div>
-	</div>
+	<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5834f365-e0f5-4aed-929d-fd5bce2c17f7"> </script>
 	</body>
 </html>
