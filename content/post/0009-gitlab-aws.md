@@ -99,7 +99,7 @@ Vous avez maintenant vos clés d'accès.
 * ID : **AKIAISWWDEGU67CCU6IQ**
 * Password : **PB8OZq5k6aHjXfaaEs+ifr38GzIMFvuBj2k+7t4y**
 
-Il ne faut pas partager ces clés, elles sont très importante. Je les ais bien sur désactivés avant de mettre en ligne ce tuto ;)
+Il ne faut pas partager ces clés, elles sont très importantes. Je les ai bien sûr désactivées avant de mettre en ligne ce tuto ;)
 
 <h3 class="post-title">Récapitulatif Amazon</h3>
 On a maintenant un environnement élastique, qui déploie un fichier zip quand on lui demande (via un clic sur un bouton ou via l'API).
@@ -111,10 +111,10 @@ Je vais essayer de résumer quelques fonctions de Gitlab pour le CD.
 Une "grosse" partie de l'interface la gestion de cluster Kubernetes, ça ne sera pas pour aujourd'hui.
 
 <h3 class="post-title">Concept généraux</h3>
-Une **pipeline** est un groupe de **job** exécutées par **stage** (étapes).
+Une **pipeline** est un groupe de **jobs** exécutés par **stage** (étapes).
 Toutes les tâches d'une étape sont exécutées en parallèle (si possible),
 et si elles réussissent toutes, le pipeline passe à l'étape suivante.
-Si l'un des **job** échoue, l'étape suivante n'est (habituellement) pas exécutée.
+Si l'un des **jobs** échoue, l'étape suivante n'est (habituellement) pas exécutée.
 
 <h3 class="post-title">Pipelines</h3>
 Voici ce qu'on va faire :
@@ -194,8 +194,8 @@ on télécharge le .phar de composer et on le lance.
 La seconde étape (deploy) consiste à zipper les sources, copier le fichier sur S3 et enfin refaire notre environnement Beanstalk.
 Pour ça, on utilise l'image docker **lavoweb/aws-cli**.
 
-Comme vous le voyez, on utilise pas la même image, vous vous doûtez bien qu'il ne vas pas garder les fichiers.
-Dans la CI, on peut jouer une analyse de code, puis lancer les tests unitaire et enfin lancer le déploiement.
+Comme vous le voyez, on n'utilise pas la même image, vous vous doûtez bien qu'il ne va pas garder les fichiers.
+Dans la CI, on peut jouer une analyse de code, puis lancer les tests unitaires et enfin lancer le déploiement.
 Il faut activer une option pour garder les fichiers, c'est l'instruction **cache**.
 
 Vous avez sûrement remarqué qu'il y a quelques variables dans le script.
@@ -204,6 +204,6 @@ Ce sont les accès aux différents services. Il ne faut surtout pas les mettre d
 
 Pour éviter ça, Gitlab dispose d'une gestion des secrets. C'est dans **Settings** => **CI / DI** => **Secret variables**.
 ![CI settings](/images/9/gse-1.png)
-Vous pouvez avoir des configuration différentes par envirronement.
+Vous pouvez avoir des configurations différentes par environnement.
 
 Et le mieux ? C'est que ça marche avec plein de techno, ce site est déployé via Travis CI + Hugo.

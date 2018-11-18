@@ -6,7 +6,7 @@ description = "Vous ne voulez pas gérer de stock ? La logistique vous prend tro
 draft = false
 +++
 
-Vendre des produits à une clientèle suppose généralement que vous constituiez un stock afin de répondre dans les temps à la demande. Par conséquent, avant de lancer votre site de vente en ligne, vous devez sélectionner des produits, les acheter et les stocker, pour ensuite les vendre et les livrer. Cela représente un investissement initial conséquent. Et vous devez gérer de façon optimale les stocks ainsi que l’acheminement des marchandises. Pour éviter d’avoir à assumer ses frais et à se charger de cette logistique, il est possible de [créer un site de vente en ligne](/ecommerce/creation/) sans pour autant avoir un stock de produits. Ce qui est souvent une solution idéale pour tous les e-commerçants qui débutent leur activité sur internet.
+Vendre des produits à une clientèle suppose généralement que vous constituiez un stock afin de répondre dans les temps à la demande. Par conséquent, avant de lancer votre site de vente en ligne, vous devez sélectionner des produits, les acheter et les stocker, pour ensuite les vendre et les livrer. Cela représente un investissement initial conséquent. Et vous devez gérer de façon optimale les stocks ainsi que l’acheminement des marchandises. Pour éviter d’avoir à assumer ces frais et à se charger de cette logistique, il est possible de [créer un site de vente en ligne](/ecommerce/creation/) sans pour autant avoir un stock de produits. Ce qui est souvent une solution idéale pour tous les e-commerçants qui débutent leur activité sur internet.
 
 ## Pourquoi ouvrir une boutique en ligne sans avoir de stock ?
 

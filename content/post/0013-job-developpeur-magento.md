@@ -33,7 +33,7 @@ Tu utilises xDebug.
 
 - Fullstack. Tu es expert sur un des points du dessus et tu es capable de tout faire dans l'autre.
 
-- Devops. Tu sais faire un des points du dessus et en plus tu maitrise Docker, Ansible, tu sais faire du shell. Idéalement tu connais bien une solution d'orchestration 
+- Devops. Tu sais faire un des points du dessus et en plus tu maitrises Docker, Ansible, tu sais faire du shell. Idéalement tu connais bien une solution d'orchestration 
 (OpenShift, Kubernetes - et tu connais la différence entre les deux), tu sais configurer un DNS (A, CNAME, MX, TXT), un CDN (CloudFlare), tu sais ce qu'est un reverse proxy
 et tu connais bien la stack LAMP. Tu connais strace.
 

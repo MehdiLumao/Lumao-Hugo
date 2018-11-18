@@ -28,7 +28,7 @@ L'outil magique qui nous servira de reverse proxy.
 ````
 
 ### Acme
-C'est le doux nom pour [Let’s Encrypt](https://letsencrypt.org/), vous aurez la liste de vos domaines ainsi que les clés associés dans le fichier json.
+C'est le doux nom pour [Let’s Encrypt](https://letsencrypt.org/), vous aurez la liste de vos domaines ainsi que les clés associées dans le fichier json.
  
 ### Compose
 Contient tous les sites, le _docker-compose_ ainsi que les données du site : la base de donnée ainsi que les fichiers.
@@ -132,7 +132,7 @@ Træfɪk route le trafic sur le port _80_.
 Træfɪk utilise le backend _soinsnaturels_, on prendra soin d'avoir un backend unique pour chaque site.
 
 *traefik.frontend.rule=Host:soins-naturels.net,www.soins-naturels.net,dev.soins-naturels.net*
-On déclare les noms de domaines qu'on utilisera. Un certificat SSL SAN sera généré content tous ces domaines.
+On déclare les noms de domaines qu'on utilisera. Un certificat SSL SAN sera généré contenant tous ces domaines.
 
 *traefik.docker.network=web*
 Træfɪk utilise le network _web_ pour communiquer avec ce container.

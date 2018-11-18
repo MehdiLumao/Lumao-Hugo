@@ -8,7 +8,7 @@ Un article très court aujourd'hui pour monter un VPN sur un serveur avec docker
 
 ## Serveur OpenVPN
 
-Très simple, on crée un répertoire *openvpn* et on mets le fichier *docker-compose.yml* :
+Très simple, on crée un répertoire *openvpn* et on met le fichier *docker-compose.yml* :
 
 ```
 openvpn:
@@ -36,11 +36,11 @@ docker run --volumes-from openvpn_openvpn_1 --rm -it kylemanna/openvpn easyrsa b
 docker run --volumes-from openvpn_openvpn_1 --rm kylemanna/openvpn ovpn_getclient client-bureau > client-bureau.ovpn
 ```
 
-On télécharge cette clée sur notre client
+On télécharge cette clé sur notre client
 
 ## Client OpenVPN
 
-On va intégrer le VPN dans les paramètres de réseau pour pouvoir l'activer/désactivé facilement.
+On va intégrer le VPN dans les paramètres de réseau pour pouvoir l'activer/désactiver facilement.
 ```
 sudo apt-get install network-manager-openvpn network-manager-openvpn-gnome
 ```
@@ -49,7 +49,7 @@ On va dans les paramètres réseaux et on clic sur le +.
 
 ![Ajouter un VPN gnome](/images/14/1-ajouter-vpn.png)
 
-On choisi l'import, on mets le fichier précédemment téléchargé.
+On choisit l'import, on mets le fichier précédemment téléchargé.
 
 ![Modifier les informations du VPN gnome](/images/14/2-modifier-information.png)
 
