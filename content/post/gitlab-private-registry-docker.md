@@ -12,7 +12,7 @@ Editer le projet :
 
 ![GitLab édition du projet](/images/gitlab-private-registry-docker/edition-projet-gitlab.png)
 
-Vérifier que l'option "Container Registry" est activé puis sauvegarder le projet.
+Vérifier que l'option "Container Registry" est activée puis sauvegarder le projet.
 
 Voici la configuration que je recommande :
 

@@ -13,7 +13,7 @@ Il est fourni avec un serveur intégré et l'extension live-reload, vous pouvez 
 Faire des sites statiques permets de réduire les coûts d'hébergements et d'enlever le risque de failles applicatives. 
 
 ### GitHub Pages
-GitHub permets d'héberger gratuitement (en cas pas projet open-source) des documentations ou encore un site web.
+GitHub permet d'héberger gratuitement (en cas pas projet open-source) des documentations ou encore un site web.
 
 On peut même avoir un nom de domaine personnalisé, il suffit de faire un fichier CNAME à la racine du projet et de mettre votre nom de domaine dedans.
 

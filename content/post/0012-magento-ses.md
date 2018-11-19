@@ -18,12 +18,12 @@ Il y a 3 étapes :
 
 <h2 class="post-title">Amazon</h2>
 
-Pour une fois, on ne peut pas utiliser le service depuis beaucoup de zones, en europe
+Pour une fois, on ne peut pas utiliser le service depuis beaucoup de zones, en Europe
 ce sera l'Irlande (eu-west-1 pour les intimes).
 
 <h3 class="post-title">Ajouter un domaine</h3>
 
-Il faut d'abord authoriser le domaine à envoyer les mails, ça se passe depuis la console.
+Il faut d'abord autoriser le domaine à envoyer les mails, ça se passe depuis la console.
 
 
 <h4 class="post-title">Verify a New Domain</h4>
