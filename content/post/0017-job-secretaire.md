@@ -1,0 +1,23 @@
++++
+date = "2017-04-09T16:11:14+01:00"
+title = "Recrutement secrétaire freelance"
+description = ""
+draft = false
+slug = "job-secretaire"
++++
+
+**Toujours en recherche**
+
+Bonjour,
+
+On recherche un secrétaire freelance sur Annecy pour gérer les "papiers" de l'entreprise.
+
+- Récupérer les factures sur différents sites
+
+- Classer les factures suivant l'ordre d'apparition sur les comptes
+
+- Gérer les notes de frais/indemnité kilométrique
+
+- Vérifier la TVA sur l'outil comptable et potentiellement "ventiler" les dépenses
+
+Il faudrait venir sur place une fois par mois pour faire le tri.
