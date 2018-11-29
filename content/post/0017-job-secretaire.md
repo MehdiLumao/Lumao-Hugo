@@ -20,4 +20,6 @@ On recherche un secrétaire freelance sur Annecy pour gérer les "papiers" de l'
 
 - Vérifier la TVA sur l'outil comptable et potentiellement "ventiler" les dépenses
 
+- Relancer les factures
+
 Il faudrait venir sur place une fois par mois pour faire le tri.
