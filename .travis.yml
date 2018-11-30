@@ -8,12 +8,10 @@ before_script:
   - sudo npm set strict-ssl false
   - sudo npm install -g gulp
 script:
-  - go get github.com/tdewolff/minify/cmd/minify
   - npm install
   - gulp
   - hugo
   - gulp
-  - minify --recursive --verbose --match=\.*ml public/
   - bash ./deploy.sh
 notifications:
     email:
