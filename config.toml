@@ -7,3 +7,4 @@ theme = "lumao"
 [params]
     hreflang = "en"
     hrefurl = "https://en.lumao.eu/"
+    robots = "INDEX,FOLLOW"
