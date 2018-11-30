@@ -7,11 +7,13 @@ before_script:
   - sudo apt-get install nodejs npm
   - sudo npm set strict-ssl false
   - sudo npm install -g gulp
+  - sudo go get github.com/tdewolff/minify/cmd/minify
 script:
   - npm install
   - gulp
   - hugo
   - gulp
+  - minify --recursive --verbose --match=\.*ml public/
   - bash ./deploy.sh
 notifications:
     email:
