@@ -7,3 +7,24 @@ tags = ["dev", "seo"]
 featured = true
 +++
 
+Capel Paris est une entreprise qui vend des vétements grande tailles. L'entreprise dispose
+d'une dizaine de magasins dans plusieurs grandes villes.
+
+Le site est assez vieux, il date de 2006. Il est sous Magento 1. Nous avons repris
+le compte à une prestigieuse agence Magento parisienne.
+
+On s'occupe de la TMA évolutive depuis 2017. 
+
+Voici quelques tâches qu'on a réalisé :
+- Création du responsive
+- Mise à jour Magento
+- Mise à jour PHP
+- Création d'un blog
+- Guide des tailles avec calculette
+- Catalogue web
+- Abcédaire du vetement
+- Liste des marques
+- Filtres performant pour selectionner des tailles
+- Performance du site
+- Création des règles promos
+- Pastilles de promotion

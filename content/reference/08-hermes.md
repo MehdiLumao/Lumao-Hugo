@@ -6,3 +6,9 @@ link_url = "http://france.hermes.com/"
 tags = ["dev"]
 +++
 
+Quelques tâches :
+- Rollout Portugal/République Tchéque
+- Refonte du plan de tagage
+- Refonte connexion CBR
+- TMA
+- Développement la maison des carrés
