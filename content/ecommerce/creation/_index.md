@@ -6,10 +6,6 @@ description = "Lumao met au service de votre projet e-commerce toute son experti
 draft = false
 +++
 
-Vous rêvez de vendre vos produits ou vos services sur internet ? De nombreuses entreprises et marques, des plus connues aux plus confidentielles, proposent désormais leurs produits sur des boutiques en ligne. Mais comment créer un site e-commerce ? Peut-on se lancer dans la vente en ligne sans stock ? Combien coûte un site marchand ? Lumao, spécialiste Magento, vous invite à découvrir les fondamentaux de la mise en place d’un tel projet. Demandez-nous un devis pour que nous trouvions la solution e-commerce adaptée à vos objectifs de vente en ligne.  
-
-## Comment créer un site de vente en ligne ?
-
 Vous souhaitez vendre en ligne vos services et/ou vos produits ? Le e-commerce est devenu incontournable. Sur le web ont lieu de plus en plus de transactions. Il serait dommage de vous couper de cette clientèle. C’est pourquoi il vous faut un [site de vente en ligne](/ecommerce/creation/boutique/). Celui-ci se distingue évidemment d’un simple site vitrine, dans la mesure où l’internaute a, sur cette boutique virtuelle, la possibilité de commander et/ou de payer les produits/services dont il a besoin et qu’il a choisis. Chez Lumao, nous vous aidons à ouvrir votre commerce en ligne. Nous vous fournissons un site sur mesure, adapté à votre projet et à vos enjeux.
 
 ## Créer une boutique en ligne : comment faire ?

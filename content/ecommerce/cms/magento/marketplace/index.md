@@ -1,14 +1,10 @@
 +++
 date = "2018-11-12"
 title = "Magento Marketplace, des Extensions E-Commerce par Milliers"
-h1 = "Magento Marketplace, la boutique officielle pour personnaliser sa boutique en ligne"
+h1 = "Magento Marketplace : des milliers d’extensions pour votre site e-commerce"
 description = "Personnalisez et améliorez votre site e-commerce grâce aux nombreuses extensions disponibles sur Magento Marketplace. Lumao vous aide à faire votre choix."
 draft = false
 +++
-
-Un site de vente en ligne offre de multiples fonctionnalités spécifiques, utiles à la fois côté internautes et côté e-commerçant : le paiement en ligne, la mise au panier, l’historique des commandes, etc. Avec la plateforme Magento, vous avez accès à nombre de ces outils très pratiques qui vous permettent de faire fonctionner votre boutique en ligne. Pour que celle-ci gagne en performance et anticipe les attentes de vos clients, vous aurez rapidement besoin de nouvelles fonctionnalités. Ces modules d’extension sont proposés sur Magento Marketplace, une boutique en ligne sur laquelle développeurs et éditeurs proposent des milliers d’outils innovants qui vous permettront de booster votre activité.
- 
-## Magento Marketplace : des milliers d’extensions pour votre site e-commerce
 
 Lorsque vous installez Magento, de multiples fonctionnalités dites « natives » sont d’ores et déjà à votre disposition. Elles vous serviront à ajouter des options, des services et des modules à votre site de vente en ligne. Ces fonctionnalités remplissent de multiples objectifs : offrir une expérience de qualité aux internautes, fournir des rapports de performance du site, optimiser son référencement naturel, etc. Elles sont nombreuses, mais pour personnaliser votre boutique en ligne et la rendre réellement efficace, vous aurez besoin de nouvelles fonctionnalités. Elles sont proposées sur le store officiel Magento Marketplace.
 
@@ -16,7 +12,7 @@ Lorsque vous installez Magento, de multiples fonctionnalités dites « natives �
 
 Magento Marketplace est le nouveau nom de la boutique officielle Magento Connect. Sur celle-ci sont proposées des centaines de modules d’extension compatibles avec les différentes versions de la solution e-commerce. La boutique recense aussi des thèmes supplémentaires, qui vous permettront de personnaliser l’apparence de votre site e-commerce.
 
-Sur cette marketplace sont recensées des fonctionnalités développées par des éditeurs et des développeurs du monde entier. En effet, Magento est un logiciel open source, c’est-à-dire que sa structure est modulable et que son code reste ouvert. Toute la communauté Magento est appelée à contribuer au projet. Et des milliers d’extensions sont ainsi développées et proposées.
+Sur cette marketplace sont recensées des fonctionnalités développées par des éditeurs et des développeurs du monde entier. En effet, [Magento](/ecommerce/cms/magento/) est un logiciel open source, c’est-à-dire que sa structure est modulable et que son code reste ouvert. Toute la communauté Magento est appelée à contribuer au projet. Et des milliers d’extensions sont ainsi développées et proposées.
 
 Chaque extension passe de nombreux tests qualité avant d’être acceptée sur la marketplace. Contrôle du code, lutte contre le plagiat, consolidation de la sécurité… font partie des actions menées par Magento avant de valider tel ou tel module. En échange de ces tests et de la mise à disposition des produits sur sa boutique officielle, Magento récupère une commission sur chaque vente.
 

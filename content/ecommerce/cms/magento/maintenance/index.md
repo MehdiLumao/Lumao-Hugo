@@ -1,14 +1,10 @@
 +++
 date = "2018-11-12"
 title = "La Maintenance de votre Site Magento par des Experts"
-h1 = "Confiez la maintenance de votre site Magento à des experts"
+h1 = "Magento et maintenance : prenez soin de votre site e-commerce"
 description = "Assurez la pérennité de votre site e-commerce Magento avec une agence web experte de la solution Magento. Profitez de contrats de maintenance sur mesure."
 draft = false
 +++
-
-Une plateforme open source telle que Magento demande à être entretenue avec soin pour rester efficace sur la durée. En effet, parce que tout va très vite dans le web, votre site e-commerce doit être à jour, fonctionnel et exempt de toutes failles de sécurité. Le risque principal : un site qui ne s’affiche plus pendant des heures, voire des jours… Pour assurer la pérennité de votre boutique en ligne, un contrat Magento maintenance est conseillé. Des experts de la solution apportent leur savoir-faire et leurs compétences techniques pour prévenir les problèmes, corriger les bugs, intervenir en cas d’urgence et améliorer les performances du site.
- 
-## Magento et maintenance : prenez soin de votre site e-commerce
 
 Le web est en évolution permanente. De nouvelles fonctionnalités et extensions sont progressivement disponibles pour enrichir les sites internet ; et à leurs côtés naissent aussi de nouvelles failles de sécurité et des sources potentielles de bugs. Autant dire que votre site e-commerce peut bénéficier de pistes d’amélioration significatives et souffrir de problèmes techniques graves. Ce qui est préjudiciable, surtout pour un site e-commerce. C’est pourquoi la maintenance de votre site marchand sur le long terme doit être au cœur de vos préoccupations, que vous vous en occupiez vous-même en interne ou que vous déléguiez cette mission à un prestataire externe tel que Lumao, agence experte en sites e-commerce et de la plateforme Magento. Open source, celle-ci demande de l’attention au quotidien. Prenez soin de votre site de vente en ligne et assurez sa pérennité avec un contrat de maintenance.
 
@@ -33,7 +29,7 @@ Souscrire un contrat de maintenance représente donc de nombreux avantages :
 -	C’est s’assurer que votre site est « à la page », qu’il est en phase avec les dernières évolutions techniques.
 -	C’est remplir la promesse d’un site marchand efficace et performant, ce qu’attendent de vous vos clients.
 
-Agence spécialisée en créations de sites internet et de sites e-commerce Magento, Lumao vous propose des contrats de maintenance et d’assistance sur mesure. Nous intervenons rapidement pour toutes vos urgences. Profitez de la réactivité et de l’expertise technique de nos équipes.
+Agence spécialisée en créations de sites internet et de [sites e-commerce Magento](/ecommerce/cms/magento/), Lumao vous propose des contrats de maintenance et d’assistance sur mesure. Nous intervenons rapidement pour toutes vos urgences. Profitez de la réactivité et de l’expertise technique de nos équipes.
 
 ## Le mode maintenance Magento
 

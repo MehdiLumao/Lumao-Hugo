@@ -1,16 +1,12 @@
 +++
 date = "2018-11-12"
 title = "Magento Download | Installation de la Solution sur votre Serveur"
-h1 = "Magento download : installez votre CMS"
+h1 = "Magento download : comment télécharger le CMS ?"
 description = "Comment télécharger et installer Magento ? Retrouvez ici tous les conseils de Lumao, agence spécialisée en création de sites de vente en ligne."
 draft = false
 +++
 
-Pour utiliser la plateforme Magento et l’ensemble des fonctionnalités e-commerce disponibles, il est nécessaire dans un premier temps de télécharger la solution et de l’installer. Avec Magento download, en un clic, vous obtenez les fichiers systèmes compressés, qu’il vous faudra ensuite déposer sur un FTP pour les installer sur votre serveur. Vous voulez en savoir plus ? Nous vous expliquons les étapes essentielles à l’installation de Magento. Et si vous souhaitez que des spécialistes du CMS se chargent de A à Z de la conception de votre site de vente en ligne, contactez Lumao pour recevoir un devis personnalisé.
- 
-## Magento download : comment télécharger le CMS ?
-
-Pour créer une boutique en ligne sur mesure, vous avez besoin d’un CMS, c’est-à-dire d’un gestionnaire de contenu (Content Management System). Ce type de logiciels open source sont nombreux sur le marché. Parmi eux, Magento, une plateforme lancée en 2008 et spécialisée dans la création de sites e-commerce. Comment télécharger et installer cette solution ? 
+Pour créer une boutique en ligne sur mesure, vous avez besoin d’un CMS, c’est-à-dire d’un gestionnaire de contenu (Content Management System). Ce type de logiciels open source sont nombreux sur le marché. Parmi eux, [Magento](/ecommerce/cms/magento/), une plateforme lancée en 2008 et spécialisée dans la création de sites e-commerce. Comment télécharger et installer cette solution ? 
 
 ## Avant de commencer
 

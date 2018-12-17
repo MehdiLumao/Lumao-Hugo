@@ -59,6 +59,7 @@ div.fb-page.fb_iframe_widget {
     color: #162532;
     margin-bottom: 25px;
     margin-top: 12px;
+    text-align: center;
 }
 .title-middle:after {
     content: "";

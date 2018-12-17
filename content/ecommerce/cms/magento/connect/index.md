@@ -1,16 +1,12 @@
 +++
 date = "2018-11-12"
 title = "Magento Connect : des Modules d’Extension pour votre Site"
-h1 = "Découvrez Marketplace Magento (ex-Magento Connect)"
+h1 = "Magento Connect, une marketplace où trouver de multiples extensions"
 description = "Quelles extensions choisir pour booster votre site e-commerce ? Expert Magento, Lumao vous conseille et vous aide à personnaliser votre boutique en ligne."
 draft = false
 +++
 
-Pour personnaliser un site e-commerce développé sur un CMS tel que Magento, il est nécessaire de télécharger et d’installer des extensions compatibles. Ces modules sont disponibles sur Marketplace Magento, une boutique anciennement connue sous le nom de Magento Connect. Des centaines de modules et de thèmes, gratuits ou payants, sont proposés. Ils permettent d’apporter de nouvelles fonctionnalités à votre site de vente en ligne et de le rendre plus performant et pus pratique. 
-
-## Magento Connect, une marketplace où trouver de multiples extensions
-
-Un gestionnaire de contenu tel que Magento dispose de fonctionnalités standards pour mettre en place un site de vente en ligne. Mais dès lors que vous souhaitez enrichir votre e-boutique de nouvelles fonctions, vous devez installer des modules d’extension. Ces derniers sont disponibles en nombre sur la plateforme e-commerce du CMS : Magento Marketplace, anciennement Magento Connect. De quoi s’agit-il exactement ? Comment installer une extension ? Quels modules choisir ? Nous répondons ici à vos questions.
+Un gestionnaire de contenu tel que [Magento](/ecommerce/cms/magento/) dispose de fonctionnalités standards pour mettre en place un site de vente en ligne. Mais dès lors que vous souhaitez enrichir votre e-boutique de nouvelles fonctions, vous devez installer des modules d’extension. Ces derniers sont disponibles en nombre sur la plateforme e-commerce du CMS : Magento Marketplace, anciennement Magento Connect. De quoi s’agit-il exactement ? Comment installer une extension ? Quels modules choisir ? Nous répondons ici à vos questions.
 
 ## Magento Marketplace, c’est quoi ?
 

@@ -1,16 +1,12 @@
 +++
 date = "2018-10-08-7"
 title = "Moteur de Recommandation : Définition et Avantages"
-h1 = "Moteur de recommandation, idéal pour faciliter l’expérience utilisateur"
+h1 = "Moteur de recommandation(s), outil incontournable du e-commerce"
 description = "Vous souhaitez en savoir plus sur les moteurs de recommandation ? Lumao vous dit tout de cet outil performant et vous aide à le configurer efficacement."
 draft = false
 +++
 
-Améliorez l’expérience des utilisateurs de votre site marchand grâce à un moteur de recommandation. Cet outil est une véritable aide au choix pour l’internaute ; et pour vous, e-commerçant, c’est un moyen d’augmenter le panier d’achats moyen. Pour profiter d’une telle solution, idéale pour les « gros » sites e-commerce, faites appel aux équipes de Lumao. Nous étudions votre projet, depuis votre catalogue « produits » jusqu’aux données collectées, afin de paramétrer efficacement ce moteur de recommandation et de le personnaliser.
- 
-## Moteur de recommandation(s), outil incontournable du e-commerce
-
-Sur une boutique en ligne, notamment si elle propose de (très) nombreuses références, un moteur de recherche interne est indispensable. Celui-ci doit être efficace et répondre parfaitement aux requêtes des visiteurs. Pour que ces derniers soient guidés encore plus précisément dans les arcanes de votre site marchand, un moteur de recommandation est préconisé. Plusieurs outils de ce type sont disponibles et peuvent être intégrés à une solution Magento. Nous vous proposons ici d’en savoir plus sur les moteurs de recommandations, leur fonctionnement et leurs avantages pour votre activité de vente en ligne.
+Sur une boutique en ligne, notamment si elle propose de (très) nombreuses références, un moteur de recherche interne est indispensable. Celui-ci doit être efficace et répondre parfaitement aux requêtes des visiteurs. Pour que ces derniers soient guidés encore plus précisément dans les arcanes de votre site marchand, un moteur de recommandation est préconisé. Plusieurs outils de ce type sont disponibles et peuvent être intégrés à une solution [Magento](/ecommerce/cms/magento/). Nous vous proposons ici d’en savoir plus sur les moteurs de recommandations, leur fonctionnement et leurs avantages pour votre activité de vente en ligne.
 
 ## De quoi s’agit-il et comment fonctionne un moteur de recommandation ?
 
@@ -42,4 +38,4 @@ La mise en place d’un moteur de recommandation demande du temps. La définitio
 
 ## Fredhopper, une solution pour vendre plus et mieux
 
-Les moteurs de recommandation et de recherche sont nombreux sur le marché. Mais pour personnaliser efficacement le parcours d’achat d’un visiteur sur un « gros » site e-commerce tout en lui offrant une bonne expérience client, optez pour [Fredhopper](/ecommerce/cms/magento/recommandation/fredhopper), une solution logicielle performante qui vous aidera à vendre plus et mieux. Elle permet non seulement d’optimiser la recherche sur site et les systèmes de recommandation, mais elle facilite aussi la navigation et offre des outils de personnalisation. Lumao vous aide à intégrer cette plateforme et à la paramétrer sur votre site e-commerce. Celui-ci répondra alors en direct aux désirs de chacun de vos clients. De quoi les satisfaire pleinement.
+Les moteurs de recommandation et de recherche sont nombreux sur le marché. Mais pour personnaliser efficacement le parcours d’achat d’un visiteur sur un « gros » site e-commerce tout en lui offrant une bonne expérience client, optez pour [Fredhopper](/ecommerce/cms/magento/recommandation/fredhopper/), une solution logicielle performante qui vous aidera à vendre plus et mieux. Elle permet non seulement d’optimiser la recherche sur site et les systèmes de recommandation, mais elle facilite aussi la navigation et offre des outils de personnalisation. Lumao vous aide à intégrer cette plateforme et à la paramétrer sur votre site e-commerce. Celui-ci répondra alors en direct aux désirs de chacun de vos clients. De quoi les satisfaire pleinement.

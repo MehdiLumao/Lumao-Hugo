@@ -1,14 +1,10 @@
 +++
 date = "2018-10-08-7"
 title = "Tunnel de Vente : le Parcours d'Achat de vos Clients"
-h1 = "Tunnel de vente : transformez vos internautes en clients"
+h1 = "Tunnel de vente : les étapes du parcours d’achat en ligne"
 description = "Quelles sont les étapes fondamentales d’un parcours d’achat en ligne ? Lumao vous explique ce qu’est le tunnel de vente et comment le rendre optimal."
 draft = false
 +++
-
-Sur un site de vente en ligne, l’internaute suit un parcours clairement défini. De pages produits en formulaires de commande, il traverse différentes étapes qui le font passer de l’état de simple curieux à celui d’acheteur convaincu par votre offre. Elles constituent ce qu’en marketing digital on appelle le « tunnel de vente » ou « entonnoir de conversion ». Ce processus compte plus ou moins d’étapes, définies en fonction de vos besoins, de ceux de votre audience et de la nature de vos produits/services. Mais le but est toujours le même : transformer, c’est-à-dire vendre vos produits ou amener à la souscription de vos services.
- 
-## Tunnel de vente : les étapes du parcours d’achat en ligne
 
 Comment les internautes vont-ils concrètement acheter des produits sur votre site de vente en ligne ? Un site e-commerce n’est pas qu’un catalogue de produits ou de services ; il doit permettre à vos clients de commander, de payer et de préciser les conditions de livraison qui leur conviennent. Autant d’actions qui représentent les étapes principales d’un tunnel de vente, ce parcours qui doit être correctement balisé pour mener facilement l’internaute de la découverte du produit à son achat. Vous en saurez plus en lisant ce qui suit.
 

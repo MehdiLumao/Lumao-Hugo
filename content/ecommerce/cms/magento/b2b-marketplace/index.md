@@ -1,14 +1,10 @@
 +++
 date = "2018-11-12"
 title = "Magento B2B Marketplace & Fonctionnalités pour les Pros"
-h1 = "Magento B2B Marketplace : créez votre place de marché"
+h1 = "Magento B2B Marketplace, une extension pour transformer votre e-commerce en place de marché"
 description = "Vous souhaitez créer votre propre place de marché B2B ? Découvrez l’extension Magento B2B Marketplace et nos conseils d'experts pour l’intégrer."
 draft = false
 +++
-
-Si Magento s’est imposé dans le domaine des sites e-commerce B2C mono-vendeur, la plateforme permet désormais de créer des places de marché. L’extension Magento B2B Marketplace fait partie des solutions plébiscitées pour transformer un site de vente en ligne en place de marché destinée aux professionnels. Découvrez les fonctionnalités de cet outil ainsi que des informations sur les marketplaces et leur business model. Et si vous souhaitez être accompagné dans la mise en place de ce module sur votre site Magento, demandez-nous un devis personnalisé.
- 
-## Magento B2B Marketplace, une extension pour transformer votre e-commerce en place de marché
 
 Depuis 2010, un nouveau business model s’impose dans le domaine du e-commerce : la marketplace. Celle-ci propose aux internautes les produits et/ou les services non plus d’un seul et unique vendeur, mais de plusieurs partenaires. Ce qui représente des avantages pour les clients, les vendeurs et pour l’administrateur de cette place de marché. Alors que Magento s’est largement positionné sur le site e-commerce B2C, la plateforme peut intégrer désormais des solutions pour créer et gérer une marketplace B2B. Nous vous proposons d’en savoir plus sur cette nouvelle façon de faire de la vente en ligne et sur les outils disponibles pour la mettre en œuvre.
 
@@ -49,4 +45,4 @@ Avec l’extension Magento B2B Marketplace, vous transformez votre site e-commer
 -	La gestion des retours produits
 -	Etc.
 
-Si vous souhaitez en savoir plus sur cette extension Magento, contactez-nous. Nos équipes spécialisées Magento vous aident par ailleurs à intégrer et à configurer le module de manière à ce qu’il soit adapté à vos exigences et aux besoins de vos partenaires et clients finaux.
+Si vous souhaitez en savoir plus sur cette extension [Magento](/ecommerce/cms/magento/), contactez-nous. Nos équipes spécialisées Magento vous aident par ailleurs à intégrer et à configurer le module de manière à ce qu’il soit adapté à vos exigences et aux besoins de vos partenaires et clients finaux.
