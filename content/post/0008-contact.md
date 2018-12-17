@@ -4,7 +4,11 @@ title = "Contact Lumao"
 draft = false
 slug = "contact"
 +++
-N'hésitez pas à parler de votre projet via ce formulaire.
+N'hésitez pas à parler de votre projet.
+
+<i class="fa fa-phone" aria-hidden="true"></i> +33 (0)4 58 10 14 18
+
+<i class="fa fa-at" aria-hidden="true"></i> via ce formulaire
 <form class="contact-form"  action="https://formspree.io/aurelien@lavoweb.net" method="POST">
     <div class="row">
         <div class="col-md-6">
@@ -19,5 +23,5 @@ N'hésitez pas à parler de votre projet via ce formulaire.
     <input type="hidden" name="_format" value="plain" />
     <input type="text" name="_gotcha" style="display:none" />
     <textarea class="form-input" placeholder="Votre Message" name="message"></textarea>
-    <input class="btn form-btn" type="submit" value="Envoyer un message"/>
+    <button class="btn form-btn" type="submit" value="Envoyer un message" style="width: auto;"><i class="fa fa-envelope" aria-hidden="true"></i> Envoyer un message</button>
 </form>
