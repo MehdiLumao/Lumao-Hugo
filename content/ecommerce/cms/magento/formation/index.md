@@ -6,7 +6,7 @@ description = "Lumao vous propose une formation Magento. Demandez un devis gratu
 draft = false
 +++
 
-Formation technique Magento 2 back end pour comprendre le fonctionnement de Magento et modifier le comportement natif. La
+Formation technique Magento 2 back end pour comprendre le fonctionnement de [Magento](/ecommerce/cms/magento/) et modifier le comportement natif. La
 formation consiste à avoir des explications sur chaque composant de Magento, regarder un bout de code correspondant puis
 appliquer. Plus on avance dans la formation, plus on a des exemples complets.
 
