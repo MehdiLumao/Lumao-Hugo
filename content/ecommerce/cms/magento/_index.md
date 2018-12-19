@@ -86,4 +86,9 @@ commerce, sous peine de vendre des produits indisponibles… et de décevoir le 
 synchroniser les données entre site [Magento et ERP](/ecommerce/cms/magento/erp/), plusieurs solutions techniques existent. Nous
 définissons celle qui convient à votre activité, à vos besoins et à votre stratégie commerciale.
 
+## Formez-vous à Magento 2
+
+Le développement sous Magento 2 est assez compliqué de prime abord, grâce à notre [formation Magento 2](/ecommerce/cms/magento/formation/)
+vous pourrez découvrir les bonnes pratiques et gagner un temps précieux.
+
 Contactez Lumao pour obtenir un devis personnalisé et gratuit.
