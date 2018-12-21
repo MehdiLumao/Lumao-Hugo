@@ -9,6 +9,8 @@ git clone https://${GH_REPO}
 git clone https://${GH_REPO_CH}
 cp -R public/* ${REPO}
 echo "baseurl = \"https://lumao.eu/\"" >> config.toml
+hugo
+cp -R public/* ${REPO_CH}
 cd ${REPO}
 git remote
 git add -A :/
