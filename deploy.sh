@@ -6,9 +6,16 @@ git config --global user.email "aurelien@lavoweb.net"
 git config --global user.name "Aurélien Lavorel"
 
 git clone https://${GH_REPO}
+git clone https://${GH_REPO_CH}
 cp -R public/* ${REPO}
+echo "baseurl = \"https://lumao.eu/\"" >> config.toml
 cd ${REPO}
 git remote
 git add -A :/
 git commit -a -m "latest via travis"
 git push "https://${GH_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
+cd ../${REPO_CH}
+git remote
+git add -A :/
+git commit -a -m "latest via travis"
+git push "https://${GH_TOKEN}@${GH_REPO_CH}" master > /dev/null 2>&1

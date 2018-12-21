@@ -16,7 +16,8 @@
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
 	<link rel="icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
 	<link rel="canonical" href="{{ .Permalink }}">
-	<link rel="alternate" hreflang="{{ .Site.Params.hreflang }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurl }}"/>
+	<link rel="alternate" hreflang="{{ .Site.Params.hreflangFr }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
+	<link rel="alternate" hreflang="{{ .Site.Params.hreflangCh }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlCh }}"/>
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 	<!-- Global site tag (gtag.js) - Google Analytics -->

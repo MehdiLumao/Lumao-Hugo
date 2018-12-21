@@ -5,6 +5,10 @@ baseurl = "https://lumao.eu/"
 theme = "lumao"
 
 [params]
-    hreflang = "en"
-    hrefurl = "https://en.lumao.eu/"
+    hreflangEn = "en-us"
+    hrefurlEn = "https://en.lumao.eu/"
+    hreflangCh = "fr-ch"
+    hrefurlCh = "https://lumao.ch/"
+    hreflangFr = "fr-fr"
+    hrefurlFr = "https://lumao.eu/"
     robots = "INDEX,FOLLOW"
