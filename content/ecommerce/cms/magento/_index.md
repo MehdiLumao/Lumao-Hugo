@@ -72,7 +72,7 @@ besoins et de vos objectifs en matière de rentabilité.
 ## Pour votre projet e-commerce, faites appel à un expert Magento
 
 Chez Lumao, vous êtes en relation avec une équipe spécialisée en création de sites de vente en ligne.
-Profitez des conseils et des compétences d’un [expert Magento](/ecommerce/cms/magento/erp/). Cette solution open source est
+Profitez des conseils et des compétences d’un [expert Magento](/ecommerce/cms/magento/expert/). Cette solution open source est
 toujours plébiscitée par les acteurs du e-commerce. Performante, elle demande toutefois un tant
 soit peu d’expérience pour être maîtrisée et exploitée pleinement. Découvrez comment un expert
 Magento intervient sur votre projet et participe à son succès, sur le moyen et le long terme.
