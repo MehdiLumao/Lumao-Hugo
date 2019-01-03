@@ -3,6 +3,7 @@ title = "Développement Magento"
 description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? C'est ici."
 baseurl = "https://lumao.eu/"
 theme = "lumao"
+disableKinds = ["taxonomy","taxonomyTerm"]
 
 [params]
     hreflangEn = "en-us"

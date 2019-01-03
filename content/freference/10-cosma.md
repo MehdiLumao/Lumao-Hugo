@@ -5,4 +5,5 @@ image = "cosma.png"
 link_url = "https://www.cosma-parfumeries.com"
 tags = ["dev"]
 featured = true
+private = true
 +++

@@ -5,5 +5,6 @@ image = "capelstore.jpg"
 link_url = "https://www.capelstore.fr"
 tags = ["dev"]
 featured = true
+private = true
 +++
 

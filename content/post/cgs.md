@@ -6,6 +6,7 @@ slug = "cgs"
 aliases = [
     "/cgs/"
 ]
+private = true
 +++
 **Date de dernière mise à jour : 08/03/2018**
 

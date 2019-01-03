@@ -5,4 +5,5 @@ image = "logo-literie-online.gif"
 link_url = "https://www.literie-online.com/"
 tags = ["dev"]
 featured = true
+private = true
 +++

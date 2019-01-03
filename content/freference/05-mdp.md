@@ -5,4 +5,5 @@ image = "medaille-bapteme.webp"
 link_url = "https://www.medailledebapteme.fr/"
 tags = ["dev", "seo"]
 featured = true
+private = true
 +++

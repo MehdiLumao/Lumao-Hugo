@@ -3,6 +3,7 @@ date = "2018-03-08T21:11:14+01:00"
 title = "Charte sur le respect de la vie privée"
 draft = false
 slug = "charte-vp"
+private = true
 +++
 **Date de dernière mise à jour : 09/03/2018**
 

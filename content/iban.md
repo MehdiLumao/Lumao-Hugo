@@ -7,5 +7,6 @@ aliases = [
     "/rib/",
     "/sepa/"
 ]
+private = true
 +++
 <meta http-equiv="refresh" content="0;URL=/lumao-iban.pdf">

@@ -5,5 +5,6 @@ image = "noixdarec.png"
 link_url = "https://www.noixdarec.com/"
 tags = ["dev"]
 featured = true
+private = true
 +++
 

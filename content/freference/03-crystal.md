@@ -5,4 +5,5 @@ image = "crystal.png"
 link_url = "https://www.guitare.org"
 tags = ["dev"]
 featured = true
+private = true
 +++
