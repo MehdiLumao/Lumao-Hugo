@@ -9,12 +9,16 @@ git clone https://${GH_REPO}
 git clone https://${GH_REPO_BE}
 git clone https://${GH_REPO_CH}
 git clone https://${GH_REPO_LU}
+minify --recursive --verbose --match=\.*ml public/
 cp -R public/* ${REPO}
 hugo --config config.toml,configbe.toml
+minify --recursive --verbose --match=\.*ml public/
 cp -R public/* ${REPO_BE}
 hugo --config config.toml,configch.toml
+minify --recursive --verbose --match=\.*ml public/
 cp -R public/* ${REPO_CH}
 hugo --config config.toml,configlu.toml
+minify --recursive --verbose --match=\.*ml public/
 cp -R public/* ${REPO_LU}
 cd ${REPO}
 git remote
