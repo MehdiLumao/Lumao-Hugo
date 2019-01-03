@@ -4,5 +4,12 @@ title = "Atomic"
 image = "atomic.png"
 link_url = "https://www.atomic.com/fr-fr"
 tags = ["dev", "perf", "seo"]
-private = true
+slug = "atomic"
 +++
+Atomic est une marque dans le winter sports, elle appartient au groupe Amersports.
+
+Le site Atomic fonctionne avec Magento + Drupal pour les pages de contenu. Une intégration de Varnish a été réalisé.
+
+Il est relié à un ERP (SAP), une CRM (Salesforce), d'un PIM (Akeneo) et gère des produits composés.
+
+Il y a pas mal de travail sur l'optimisation technique du référencement.

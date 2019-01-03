@@ -4,6 +4,7 @@ title = "Wilson"
 image = "wilson.svg"
 link_url = "http://www.wilson.com/en-us"
 tags = ["dev"]
+slug = "wilson"
 +++
 
 Wilson est une marque prestigieuse de sport. Si vous aimez les sports de ballon, vous ne pouvez pas être passé à côté. La marque fait partie du groupe Amersports.

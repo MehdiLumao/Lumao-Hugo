@@ -5,9 +5,10 @@ image = "capelstore.jpg"
 link_url = "https://www.capelstore.fr"
 tags = ["dev", "seo"]
 featured = true
+slug = "capel"
 +++
 
-Capel Paris est une entreprise qui vend des vétements grande tailles. L'entreprise dispose
+Capel Paris est une entreprise qui vend des vêtements grande tailles. L'entreprise dispose
 d'une dizaine de magasins dans plusieurs grandes villes.
 
 Le site est assez vieux, il date de 2006. Il est sous Magento 1. Nous avons repris
@@ -22,9 +23,10 @@ Voici quelques tâches qu'on a réalisé :
 - Création d'un blog
 - Guide des tailles avec calculette
 - Catalogue web
-- Abcédaire du vetement
+- Abcédaire du vêtement
 - Liste des marques
-- Filtres performant pour selectionner des tailles
+- Filtres performant pour sélectionner des tailles
 - Performance du site
 - Création des règles promos
 - Pastilles de promotion
+

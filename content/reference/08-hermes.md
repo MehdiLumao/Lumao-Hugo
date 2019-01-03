@@ -4,6 +4,7 @@ title = "Hermès"
 image = "hermes.png"
 link_url = "http://france.hermes.com/"
 tags = ["dev"]
+slug = "hermes"
 +++
 
 Quelques tâches :

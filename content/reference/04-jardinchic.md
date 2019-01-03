@@ -4,6 +4,7 @@ title = "JardinChic"
 image = "jardinchic.png"
 link_url = "http://www.jardinchic.com/"
 tags = ["dev", "perf", "seo"]
+slug = "jardinchic"
 +++
 
 TMA évolutive pendant 2 ans à temps complet.
