@@ -4,4 +4,5 @@ title = "Kayak attitude"
 image = "logo_kayak.jpg"
 link_url = "http://www.kayak-attitude.fr/"
 tags = ["dev"]
+private = true
 +++

@@ -5,4 +5,5 @@ image = "teojasmin.png"
 link_url = "https://www.teojasmin.fr"
 tags = ["seo"]
 featured = true
+private = true
 +++

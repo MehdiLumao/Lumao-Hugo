@@ -4,5 +4,6 @@ title = "Vente à la Cave"
 image = "valc.png"
 link_url = "#"
 tags = ["dev", "hosting"]
+private = true
 +++
 

@@ -4,5 +4,6 @@ title = "Abripiscine"
 image = "logo-abripiscine.png"
 link_url = "https://abripiscine.abrisud.com/"
 tags = ["dev"]
+private = true
 +++
 

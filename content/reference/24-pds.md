@@ -4,5 +4,6 @@ title = "Panier des sens"
 image = "logo_panierdessens.png"
 link_url = "https://fr.panierdessens.com/"
 tags = ["dev", "perf"]
+private = true
 +++
 

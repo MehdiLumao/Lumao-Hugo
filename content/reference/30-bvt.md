@@ -4,4 +4,5 @@ title = "Brun de Vian-Tiran"
 image = "logo-bvt.png"
 link_url = "https://www.brundeviantiran.com/"
 tags = ["dev"]
+private = true
 +++

@@ -4,4 +4,5 @@ title = "Les Passionnés du Vin"
 image = "logo-lpv.png"
 link_url = "https://www.lespassionnesduvin.com/"
 tags = ["dev", "hosting"]
+private = true
 +++

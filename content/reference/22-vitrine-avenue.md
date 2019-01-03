@@ -4,5 +4,6 @@ title = "Vitrine Avenue"
 image = "logo_vitrine_avenue.png"
 link_url = "https://www.vitrineavenue.com"
 tags = ["dev"]
+private = true
 +++
 

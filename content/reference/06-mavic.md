@@ -4,5 +4,6 @@ title = "Mavic"
 image = "mavic.svg"
 link_url = "https://www.mavic.com/fr-fr"
 tags = ["dev", "perf"]
+private = true
 +++
 

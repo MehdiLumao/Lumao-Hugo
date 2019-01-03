@@ -4,5 +4,6 @@ title = "Acrodeal"
 image = "acrodeal.png"
 link_url = "http://www.acrodeal.com/fr/"
 tags = ["dev"]
+private = true
 +++
 

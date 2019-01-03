@@ -4,5 +4,6 @@ title = "Noix d'Arec"
 image = "noixdarec.png"
 link_url = "http://www.noixdarec.com/"
 tags = ["dev"]
+private = true
 +++
 

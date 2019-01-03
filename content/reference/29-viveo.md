@@ -4,4 +4,5 @@ title = "Viveo"
 image = "logo-viveo.gif"
 link_url = "https://viveoeurope.com/"
 tags = ["dev"]
+private = true
 +++

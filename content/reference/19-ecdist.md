@@ -4,5 +4,6 @@ title = "Ecdist"
 image = "ecdist.png"
 link_url = "http://www.ecdist.com"
 tags = ["dev"]
+private = true
 +++
 

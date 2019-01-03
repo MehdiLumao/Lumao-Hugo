@@ -4,5 +4,6 @@ title = "Guitare"
 image = "guitare.png"
 link_url = "http://www.guitare.org/"
 tags = ["dev", "hosting"]
+private = true
 +++
 

@@ -4,5 +4,6 @@ title = "Prairymood"
 image = "prairymood.jpg"
 link_url = "http://www.prairymood.com/"
 tags = ["dev"]
+private = true
 +++
 

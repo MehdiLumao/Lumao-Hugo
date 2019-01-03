@@ -4,5 +4,6 @@ title = "Louisville Slugger"
 image = "louisville.svg"
 link_url = "http://www.slugger.com/en-us"
 tags = ["dev"]
+private = true
 +++
 

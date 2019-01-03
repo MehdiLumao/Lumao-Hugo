@@ -4,5 +4,6 @@ title = "Place des Gones"
 image = "logo-place-des-gones.png"
 link_url = "#"
 tags = ["dev", "seo"]
+private = true
 +++
 

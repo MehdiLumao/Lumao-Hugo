@@ -4,5 +4,6 @@ title = "R-Cade"
 image = "arcade.png"
 link_url = "http://www.r-cade.fr/"
 tags = ["seo"]
+private = true
 +++
 

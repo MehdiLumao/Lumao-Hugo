@@ -4,5 +4,6 @@ title = "Suunto"
 image = "suunto.png"
 link_url = "http://www.suunto.com/fr-FR/"
 tags = ["dev", "perf"]
+private = true
 +++
 

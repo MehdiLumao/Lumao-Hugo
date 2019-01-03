@@ -4,5 +4,6 @@ title = "Violon"
 image = "violon.png"
 link_url = "http://www.violon.com/"
 tags = ["dev", "hosting"]
+private = true
 +++
 

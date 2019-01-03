@@ -4,4 +4,5 @@ title = "Literie online"
 image = "logo-literie-online.gif"
 link_url = "https://www.literie-online.com/"
 tags = ["dev"]
+private = true
 +++

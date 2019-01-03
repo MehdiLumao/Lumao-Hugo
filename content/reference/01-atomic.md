@@ -4,4 +4,5 @@ title = "Atomic"
 image = "atomic.png"
 link_url = "https://www.atomic.com/fr-fr"
 tags = ["dev", "perf", "seo"]
+private = true
 +++
