@@ -13,6 +13,16 @@
 				jQuery(this).addClass('title-middle');
 			});
         });
+		window.addEventListener('DOMContentLoaded', function() {
+			var myLazyLoad = new LazyLoad({
+				elements_selector: ".lazy"
+			});
+			var myLazyLoadWebp = new LazyLoad({
+				elements_selector: ".lazy-webp",
+				to_webp: true
+			});
+		}, false);
+
 	</script>
 	<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5834f365-e0f5-4aed-929d-fd5bce2c17f7"> </script>
 	</body>

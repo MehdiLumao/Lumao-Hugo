@@ -100,9 +100,6 @@ var Marco = {
 		});
 	},
 	teamSkillsBack : function(){
-		var _skillsSec = $('.skills-img') ;
-		var _skillsImg = _skillsSec.data('team-pic');
-		_skillsSec.css('background-image','url('+ _skillsImg +')');
 	},
  
 	googleMap : function() {
