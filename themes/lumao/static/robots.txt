@@ -8,5 +8,5 @@ Disallow: /post/merci/
 Disallow: /post/mentions-legales/
 Disallow: /post/page/
 Disallow: /freference/
-Disallow: lumao-iban.pdf
+Disallow: /lumao-iban.pdf
 Sitemap: /sitemap.xml
