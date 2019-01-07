@@ -55,6 +55,7 @@ mise à jour, corrections des bugs et des failles de sécurité, migration des d
 Prestataire spécialisé en création de sites de vente en ligne, Lumao met à votre disposition de
 nombreuses compétences techniques et savoir-faire. Vous êtes en contact avec des experts dont les
 connaissances sont validées par un ensemble de certifications Magento :
+
 - Developer (niveau 1)
 - Developer Plus (niveau 2)
 - Front End Developer
