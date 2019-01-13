@@ -14,6 +14,8 @@ synchroniser les données entre site Magento et ERP, plusieurs solutions techniq
 définissons celle qui convient à votre activité, à vos besoins et à votre stratégie commerciale.
 Contactez Lumao pour obtenir un devis personnalisé et gratuit.
 
+<img class="animate zoomIn margin-auto" src="/images/erp/SAP_AG_logo.gif" alt="ERP SAP" />
+
 ## Magento et ERP : synchronisez site marchand et outil de gestion
 
 Avec le développement du e-commerce, de plus en plus d’entreprises ont besoin d’intégrer leur(s)
@@ -23,6 +25,8 @@ communiquent entre eux et se comprennent… ce qui n’est pas toujours possible
 [Magento](/ecommerce/cms/magento/) est compatible avec de nombreux ERP et outils de gestion du marché. Et Lumao, agence
 d’experts Magento, vous propose des solutions solides et fiables pour connecter ERP et site e-
 commerce. De quoi optimiser efficacement la gestion de votre activité.
+
+<img class="animate zoomIn margin-auto" src="/images/erp/Cegid_logo.png" alt="ERP Cegid Business Retail" />
 
 ## ERP : de quoi parle-t-on ?
 
@@ -35,6 +39,8 @@ ERP, toutes les informations sont centralisées dans un seul et même outil info
 besoins spécifiques de l’entreprise. Il existe plusieurs solutions de ce type sur le marché.
 Avec le développement du e-commerce, les entreprises ont désormais besoin de faire communiquer
 ERP et site de vente en ligne.
+
+<img class="animate zoomIn margin-auto" src="/images/erp/as400_logo.png" alt="ERP AS 400" />
 
 ## Pourquoi connecter site e-commerce et ERP ?
 
@@ -53,6 +59,8 @@ synchronisation des informations entre site e-commerce et outil de gestion de l�
 En connectant ERP et site e-commerce, vous optimisez la gestion de l’entreprise et la logistique liée à
 votre activité de vente en ligne. Gain de temps, d’argent et d’énergie : voici la promesse d’un tel
 projet.
+
+<img class="animate zoomIn margin-auto" src="/images/erp/Microsoft-Dynamics-NAV-logo.png" alt="ERP Microsoft Navision" />
 
 ## Les solutions possibles pour connecter ERP et plateforme Magento
 
@@ -74,6 +82,8 @@ Demandez un devis à Lumao, agence spécialisée Magento. Nous analysons vos bes
 place la solution qui vous aidera à faciliter et à optimiser la gestion de votre site e-commerce et de
 votre entreprise.
 
+<img class="animate zoomIn margin-auto" src="/images/erp/logo-Sage.png" alt="ERP/PGI Sage" />
+
 ## Les modules ERP Magento
 
 Si vous ne disposez pas d’un ERP interne, d’autres solutions sont possibles pour optimiser la gestion
@@ -82,3 +92,5 @@ des stocks, du dropshipping, des livraisons… Ces outils peuvent suffire à tra
 ERP efficace. Tout dépend de l’ampleur de votre entreprise et de vos besoins. Demandez conseil à
 nos experts Magento. Ils analyseront votre problématique pour vous proposer une solution sur
 mesure.
+
+<img class="animate zoomIn margin-auto" src="/images/erp/logo_bms.png" alt="ERP intégré à Magento Boost my Shop" />
