@@ -22,6 +22,8 @@ Le poste est en télétravail, il y aura des déplacements à prévoir pour l'av
 
 ## Compétences
 
+Connaitre le périmètre fonctionnel de Magento
+
 Parler anglais
 
 Connaissance du secteur du luxe

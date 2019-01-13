@@ -16,6 +16,8 @@ Généralement, on distingue trois types d’actions de maintenance, que ce soit
 -	La maintenance corrective : elle vise à corriger les problèmes qui empêchent le site de fonctionner et de s’afficher correctement. Ces bugs peuvent être plus ou moins handicapants ; s’ils ne sont pas traités, le risque est de les voir s’étendre et causer d’autres problèmes. Jusqu’à ce que le site ne soit plus visible pendant plusieurs heures, voire pendant plusieurs jours…
 -	La maintenance améliorative : le but de la maintenance est de garantir le bon fonctionnement de votre site tout lui évitant de devenir obsolète. La veille technique et la vérification continue du site permettent de dégager les pistes à suivre pour optimiser la performance du site. Son amélioration passe par exemple par l’ajout de contenu, la création de pages, des actions de référencement, la mise en place de nouvelles fonctionnalités, etc.
 
+<img class="animate zoomIn margin-auto" src="/images/support-logo.png" alt="Formation Magento 2" />
+
 ## Pourquoi prendre un contrat de maintenance ?
 
 Un site e-commerce mal entretenu peut vite devenir une source de problèmes lourds de conséquences. En effet, le plantage de votre site entraîne d’abord un certain manque à gagner. Pendant tout le temps où il est inaccessible, aucune vente/conversion ne peut avoir lieu. Sans compter que ce dysfonctionnement entache votre réputation et votre image de marque, parfois sur du très long terme.

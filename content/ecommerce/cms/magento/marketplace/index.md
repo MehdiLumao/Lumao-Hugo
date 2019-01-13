@@ -16,6 +16,8 @@ Sur cette marketplace sont recensées des fonctionnalités développées par des
 
 Chaque extension passe de nombreux tests qualité avant d’être acceptée sur la marketplace. Contrôle du code, lutte contre le plagiat, consolidation de la sécurité… font partie des actions menées par Magento avant de valider tel ou tel module. En échange de ces tests et de la mise à disposition des produits sur sa boutique officielle, Magento récupère une commission sur chaque vente.
 
+<img class="animate zoomIn margin-auto" src="/images/logo-marketplace.svg" alt="Magento marketplace" />
+
 ## C’est quoi une extension ?
 
 Toutes les plateformes proposent des fonctionnalités supplémentaires. Elles sont appelées différemment selon que vous utilisez Magento, Prestashop, Wordpress, etc. Extensions, modules d’extension, plugins, add-ons… : tous ces termes recouvrent des programmes informatiques que vous pouvez télécharger et installer pour enrichir votre solution e-commerce.

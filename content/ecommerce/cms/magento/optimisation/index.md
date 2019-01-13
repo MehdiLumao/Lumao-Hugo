@@ -39,6 +39,8 @@ la fois du degré d’urgence, de la faisabilité technique, du coût et de la r
 
 ### Améliorer la performance
 
+<img class="animate zoomIn margin-auto" src="/images/performance.png" alt="Optimisation des performances de Magento" />
+
 Un site e-commerce souffre le plus souvent de problèmes liés à la vitesse. Plus un site compte de
 pages produits, plus il aura du mal à fournir à l’internaute ce qu’il demande dans un délai acceptable.
 Avec parfois des milliers d’urls à gérer, un site e-commerce peut devenir très long à charger. Et un
@@ -62,6 +64,8 @@ milliers de produits, mais il est toujours des aspects que l’on peut optimiser
 
 ### Optimiser le référencement
 
+<img class="animate zoomIn margin-auto" src="/images/referencement.png" alt="Optimisation du référencement de Magento" />
+
 La visibilité d’un site e-commerce est elle aussi fondamentale pour la réussite de votre activité. Très
 souvent, la marque seule ne suffit pas pour se faire connaître, tout comme les campagnes marketing
 et commerciales. Pour que votre site attire de nouveaux clients, il doit être visible. Une stratégie de
@@ -79,6 +83,11 @@ Des campagnes SEA (ou référencement payant) peuvent aussi être mises en place
 besoins et de votre budget.
 
 ### Des experts Magento pour optimiser votre site
+
+<div class="row">
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+</div>
 
 Si vous avez besoin d’auditer votre site Magento et de mettre en place une stratégie d’optimisation,
 demandez un devis à Lumao, agence experte en e-commerce et de la plateforme Magento. Grâce à

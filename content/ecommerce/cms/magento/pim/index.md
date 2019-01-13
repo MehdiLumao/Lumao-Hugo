@@ -15,6 +15,8 @@ sources tierces. Nous vous aidons à rationaliser votre activité et à soulager
 Nos experts e-commerce développent avec vous les solutions pour faciliter la gestion de vos données
 produits, de leur collecte à leur diffusion sur vos différents canaux.
 
+<img class="animate zoomIn margin-auto" src="/images/pim/Logo_akeneo.png" alt="Akeneo PIM" />
+
 ## Un PIM, c’est quoi ?
 
 Tout d’abord, revenons sur ce qu’est un PIM. Cet acronyme désigne l’expression « Production
@@ -25,6 +27,8 @@ différentes sources (ERP, fournisseurs, fichiers Excel…) et les centraliser s
 Une fois harmonisées, ces données sont transmises à tous les canaux de diffusion sélectionnés : site
 e-commerce, mais aussi application mobile, catalogue papier, magasins physiques, places de marché,
 etc.
+
+<img class="animate zoomIn margin-auto" src="/images/pim/nextpage-pim.png" alt="Next page PIM" />
 
 ## Avantages pour un site e-commerce
 
@@ -57,6 +61,7 @@ application mobile et votre catalogue papier.
 Il existe plusieurs solutions PIM sur le marché français : PIM Akeneo, nextPage, Quable PIM, etc. La
 plupart peuvent être interfacées avec une plateforme e-commerce Magento, Prestashop, Drupal…
 grâce notamment à des modules et connecteurs tels que, entre autres, Akeneo Magento Connector.
+
 Mais pour que ces différents outils communiquent correctement entre eux, il est nécessaire de bâtir
 un véritable projet, lequel concerne tout votre système d’information. C’est pourquoi Lumao met à
 votre service son expertise e-commerce et son savoir-faire technique pour vous aider à atteindre vos

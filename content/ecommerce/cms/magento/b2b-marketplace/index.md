@@ -20,6 +20,8 @@ Les avantages sont multiples :
 
 Les places de marché sont devenues une véritable tendance du e-commerce, à tel point qu’elles n’en finissent plus d’envahir la toile.
 
+<img class="animate zoomIn margin-auto" src="/images/b2b-marketplace.jpg" alt="Créer une marketplace B2B sous Magento" />
+
 ## Les enjeux à prendre en compte avant de se lancer
 
 La mise en place d’une marketplace B2B demande de prendre en compte de nombreux impératifs :

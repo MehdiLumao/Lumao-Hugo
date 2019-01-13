@@ -6,7 +6,8 @@ description = "Profitez de l’expertise de Lumao, agence spécialisée Magento.
 draft = false
 +++
 
-<img class="animate zoomIn" src="/images/certification/MAAC-CIP_Black_Horizontal.png" alt="Agence Partenaire Magento" />
+<img class="animate zoomIn margin-auto" src="/images/certification/MAAC-CIP_Black_Horizontal.png" alt="Agence Partenaire Magento" />
+
 Il existe plusieurs solutions pour développer et gérer un site de vente en ligne. Chez Lumao, nous
 avons choisi [Magento](/ecommerce/cms/magento/), un CMS apparu sur le marché en 2008 et pour lequel nous nous sommes
 immédiatement passionnés. Cette plateforme « tout-en-un » de vente à distance offre en effet des

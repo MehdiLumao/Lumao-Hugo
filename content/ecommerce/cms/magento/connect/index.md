@@ -14,6 +14,8 @@ Magento Marketplace est le nouveau nom de Magento Connect, une boutique en ligne
 
 Ces modules sont gratuits ou payants. Différentes versions sont proposées afin d’être compatibles avec votre site e-commerce, quelle que soit son ancienneté. Pour télécharger une extension, vous devez d’abord créer un compte personnel et vous identifier. Pour l’installer, il est ensuite nécessaire de se rendre dans l’administration du site et de rentrer la clé correspondant à l’extension acquise sur la marketplace.
 
+<img class="animate zoomIn margin-auto" src="/images/logo-marketplace.svg" alt="Magento connect" />
+
 ## Un riche catalogue de modules d’extension pour votre site e-commerce
 
 Sur Magento Marketplace, vous trouverez des centaines d’extensions spécialisées pour votre site e-commerce. Bien choisies et bien utilisées, elles vous aident à augmenter vos ventes en ligne. En effet, ces modules d’extension servent à :

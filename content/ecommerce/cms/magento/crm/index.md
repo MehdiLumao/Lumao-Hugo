@@ -13,6 +13,8 @@ recueillir encore plus de données et d’enrichir votre connaissance client. Ce
 bénéfique. La plateforme e-commerce [Magento](/ecommerce/cms/magento/) peut être interfacée avec de nombreux outils de
 CRM. Grâce à cette liaison, ces deux outils communiquent entre eux.
 
+<img class="animate zoomIn margin-auto" src="/images/crm/logo_salesforce.png" alt="CRM SalesForce" />
+
 ## Le CRM, un outil indispensable pour cibler les attentes de vos clients
 
 Récolter et centraliser de multiples données sur des clients et prospects : telle est la mission
@@ -27,6 +29,8 @@ connecter CRM et plateforme e-commerce est bénéfique. Car, en connaissant vos 
 précisément leurs besoins et optimisez la satisfaction client. Ce qui aura pour effet de fidéliser votre
 audience. Or, la fidélisation de vos clients est souvent plus rentable que l’acquisition de nouveaux
 clients.
+
+<img class="animate zoomIn margin-auto" src="/images/crm/logo-sugarcrm.png" alt="CRM SalesForce" />
 
 ## Pourquoi coupler votre CRM et votre site e-commerce ?
 
@@ -56,6 +60,8 @@ promotionnels aux bonnes personnes et au bon moment, de manière automatique.
 connaissance de vos clients
 - Traiter rapidement et efficacement les demandes de vos clients et prospects
 - Etc.
+
+<img class="animate zoomIn margin-auto" src="/images/crm/logo-orocrm.png" alt="CRM/GRC Oro CRM" />
 
 ## Comment créer une liaison entre Magento et CRM ?
 

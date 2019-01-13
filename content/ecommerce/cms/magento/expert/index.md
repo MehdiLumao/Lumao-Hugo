@@ -34,6 +34,11 @@ La gestion de la plateforme Magento demande donc de multiples compétences. Un d
 expérimenté, un intégrateur, un conseiller web… sont autant de métiers nécessaires à la mise en
 place de votre projet e-commerce.
 
+<div class="row">
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+</div>
+
 ## Les compétences d’un développeur et des spécialistes Magento
 
 Chez Lumao, nous multiplions les compétences afin de maîtriser pleinement Magento et, de manière
