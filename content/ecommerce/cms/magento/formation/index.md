@@ -16,8 +16,6 @@ appliquer. Plus on avance dans la formation, plus on a des exemples complets.
 - Connaissance des lignes de commande
 - Installer Docker
 
-<img class="animate zoomIn margin-auto" src="/images/logo-formation.png" alt="Formation Magento 2" />
-
 ## Programme
 
 ### Jour 1
@@ -50,3 +48,5 @@ appliquer. Plus on avance dans la formation, plus on a des exemples complets.
 ## Tarif
 
 1 400€ HT par participant
+
+<img class="animate zoomIn margin-auto" src="/images/logo-formation.png" alt="Formation Magento 2" />
