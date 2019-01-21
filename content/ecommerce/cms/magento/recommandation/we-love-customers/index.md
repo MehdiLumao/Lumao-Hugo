@@ -10,7 +10,7 @@ Quand on gère un site de vente en ligne, plusieurs stratégies sont envisageabl
 
 ## Dans ce ce cas là, quelle stratégie faut-il mener ? 
 
-Il existe un outil marketing offrant l’opportunité de mener en même temps acquisition et fidélisation : le parrainage client. Déjà utilisé par les boutiques physiques, il est facile et rapide à mettre en place. Parmi les plateformes disponibles sur le marché, on peut notamment citer We Love Customers, une solution SaaS entièrement automatisée de parrainage marketing réunissant plusieurs fonctionnalités.
+Il existe un outil marketing offrant l’opportunité de mener en même temps acquisition et fidélisation : le parrainage client. Déjà utilisé par les boutiques physiques, il est facile et rapide à mettre en place. Parmi les plateformes disponibles sur le marché, on peut notamment citer [We Love Customers](https://www.welovecustomers.fr/solutions/parrainage-client/), une solution SaaS entièrement automatisée de parrainage marketing réunissant plusieurs fonctionnalités.
 
 ## Présentation générale
 
