@@ -39,3 +39,7 @@ La mise en place d’un moteur de recommandation demande du temps. La définitio
 ## Fredhopper, une solution pour vendre plus et mieux
 
 Les moteurs de recommandation et de recherche sont nombreux sur le marché. Mais pour personnaliser efficacement le parcours d’achat d’un visiteur sur un « gros » site e-commerce tout en lui offrant une bonne expérience client, optez pour [Fredhopper](/ecommerce/cms/magento/recommandation/fredhopper/), une solution logicielle performante qui vous aidera à vendre plus et mieux. Elle permet non seulement d’optimiser la recherche sur site et les systèmes de recommandation, mais elle facilite aussi la navigation et offre des outils de personnalisation. Lumao vous aide à intégrer cette plateforme et à la paramétrer sur votre site e-commerce. Celui-ci répondra alors en direct aux désirs de chacun de vos clients. De quoi les satisfaire pleinement.
+
+## We Love Customers, les clients vous recommandent
+
+La recommandation client est un indicateur essentiel qui témoigne de la qualité de service d'une entreprise. Une fois identifiée et analysée, il faut savoir l'exploiter pour en tirer le meilleur profit. C'est à partir de là qu'intervient un outil marketing indispensable : le parrainage client. Il mélange à la fois stratégie d'acquisition et stratégie de fidélisation. Pour vous aider dans l'implémentation de votre programme de parrainage, [We Love Customers](/ecommerce/cms/magento/recommandation/we-love-customers/) vous propose une plateforme entièrement automatisée qui se charge d'animer la campagne à votre place.
