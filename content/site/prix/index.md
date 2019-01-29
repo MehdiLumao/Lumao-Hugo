@@ -10,7 +10,7 @@ Désormais, pour bénéficier d’une visibilité étendue et optimale, les entr
 
 ## Comment est établi le prix d’un site web ?
 
-Le prix de la [création d’un site internet](/site) dépend de nombreux critères, dont les principaux sont les suivants :
+Le prix de la [création d’un site internet](/site/) dépend de nombreux critères, dont les principaux sont les suivants :
 
 -	Le type de sites : site vitrine, boutique en ligne, portail web.
 -	Le nombre de pages : d’une seule page pour un « one page » à un portail comptant plusieurs dizaines, voire centaines, de pages. Plus le site compte de pages, plus son coût sera élevé.

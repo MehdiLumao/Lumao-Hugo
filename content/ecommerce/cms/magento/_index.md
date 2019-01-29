@@ -36,11 +36,11 @@ réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
 
 ## Magento Certified Developer
 
-Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de [Magento Certified Developer](#/ecommerce/cms/magento/certifie/). Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.
+Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de [Magento Certified Developer](/ecommerce/cms/magento/certified-developer/). Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.
 
 ## Freelance Magento : ce qu’il faut savoir
 
-Vous souhaitez vendre vos produits ou vos services sur internet ? Et vous désirez faire appel à un [freelance Magento](#/ecommerce/cms/magento/freelance/) ? Ils sont nombreux, ces professionnels, à proposer leurs services, tant la demande ne cesse d’augmenter. Le e-commerce est devenu incontournable et, par conséquent, le besoin en sites marchands ne cesse de grandir. Que vous fassiez appel à un développeur freelance ou à une agence spécialisée telle que Lumao, il sera toujours nécessaire de débuter votre projet web par une analyse concrète et précise de vos besoins. Et ce, sur le long terme. Cela permettra de déterminer les solutions à retenir, les compétences techniques requises, le nombre d’experts… et de dresser un devis détaillé adapté à vos objectifs.
+Vous souhaitez vendre vos produits ou vos services sur internet ? Et vous désirez faire appel à un [freelance Magento](/ecommerce/cms/magento/freelance/) ? Ils sont nombreux, ces professionnels, à proposer leurs services, tant la demande ne cesse d’augmenter. Le e-commerce est devenu incontournable et, par conséquent, le besoin en sites marchands ne cesse de grandir. Que vous fassiez appel à un développeur freelance ou à une agence spécialisée telle que Lumao, il sera toujours nécessaire de débuter votre projet web par une analyse concrète et précise de vos besoins. Et ce, sur le long terme. Cela permettra de déterminer les solutions à retenir, les compétences techniques requises, le nombre d’experts… et de dresser un devis détaillé adapté à vos objectifs.
 
 ## Magento download : installez votre CMS
 
@@ -56,7 +56,7 @@ Un site de vente en ligne offre de multiples fonctionnalités spécifiques, util
 
 ## Magento CMS : gérez tous vos contenus
 
-Un CMS permet avant tout de créer et de gérer des contenus. Il en va de même pour [Magento CMS](#/ecommerce/cms/magento/cms/). En plus des fonctionnalités spécifiques à la vente – paiement, commande, gestion des stocks, livraison… –, la plateforme permet d’administrer l’ensemble des textes, visuels, animations, fiches produits, logos, photos, infographies… présents dans vos pages. Ces contenus, qu’ils soient transactionnels ou purement éditoriaux, ont de plus en plus d’importance dans le succès de votre site e-commerce. Découvrez ici pourquoi et comment les optimiser pour qu’ils séduisent votre clientèle.
+Un CMS permet avant tout de créer et de gérer des contenus. Il en va de même pour [Magento CMS](/ecommerce/cms/magento/cms-contenu/). En plus des fonctionnalités spécifiques à la vente – paiement, commande, gestion des stocks, livraison… –, la plateforme permet d’administrer l’ensemble des textes, visuels, animations, fiches produits, logos, photos, infographies… présents dans vos pages. Ces contenus, qu’ils soient transactionnels ou purement éditoriaux, ont de plus en plus d’importance dans le succès de votre site e-commerce. Découvrez ici pourquoi et comment les optimiser pour qu’ils séduisent votre clientèle.
 
 ## Magento B2B Marketplace : créez votre place de marché
 
@@ -68,7 +68,7 @@ Améliorez l’expérience des utilisateurs de votre site marchand grâce à un 
 
 ## Moteur de recherche interne intelligent
 
-Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur votre site, vous passerez à côté d’une transaction. En présence d’un important catalogue produits, il est donc absolument nécessaire de mettre en place un [moteur de recherche interne intelligent](#/ecommerce/cms/magento/recherche/). Ce type d’outils ne cesse de se perfectionner, offrant toujours plus de facilité de recherche à l’internaute. Mais quel moteur de recherche interne choisir ? Comment le mettre en place ? On vous explique tout ici.
+Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur votre site, vous passerez à côté d’une transaction. En présence d’un important catalogue produits, il est donc absolument nécessaire de mettre en place un [moteur de recherche interne intelligent](#/ecommerce/cms/magento/moteur-recherche/). Ce type d’outils ne cesse de se perfectionner, offrant toujours plus de facilité de recherche à l’internaute. Mais quel moteur de recherche interne choisir ? Comment le mettre en place ? On vous explique tout ici.
 
 ## Confiez la maintenance de votre site Magento à des experts
 
@@ -113,7 +113,7 @@ besoins et de vos objectifs en matière de rentabilité.
 
 ## Refonte Magento : faites évoluer votre boutique
 
-Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une [refonte Magento](#/ecommerce/cms/magento/refonte/) s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.
+Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une [refonte Magento](/ecommerce/cms/magento/refonte/) s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.
 
 ## Formez-vous à Magento 2
 

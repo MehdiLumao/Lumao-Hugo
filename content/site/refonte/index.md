@@ -6,7 +6,7 @@ description = "Votre site web a besoin d’une mise à niveau ? Grâce à une re
 draft = false
 +++
 
-Votre site internet a besoin d’être relooké ? D’adopter de nouvelles fonctionnalités pour offrir une expérience de qualité à vos clients ? Plutôt que la [création d’un site internet](/site), vous pouvez entreprendre un projet de refonte. De quoi s’agit-il exactement ? Combien coûte une refonte de site web ? Quand doit-on refondre un site ? Toutes les réponses sont ici.
+Votre site internet a besoin d’être relooké ? D’adopter de nouvelles fonctionnalités pour offrir une expérience de qualité à vos clients ? Plutôt que la [création d’un site internet](/site/), vous pouvez entreprendre un projet de refonte. De quoi s’agit-il exactement ? Combien coûte une refonte de site web ? Quand doit-on refondre un site ? Toutes les réponses sont ici.
 
 ## Qu’est-ce qu’une refonte de site web ?
 

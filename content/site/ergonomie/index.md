@@ -6,7 +6,7 @@ description = "L’ergonomie d’un site web se cache dans de petits détails qu
 draft = false
 +++
 
-L’ergonomie d’un site web, c’est la facilité de navigation des internautes. Le site doit être pensé pour l’internaute qui vient s’y promener afin que son expérience soit fluide et sans attente. Le site doit être confortable visuellement et une attention particulière doit être portée à la navigation au sein du site (structuration, taille des image, textes aérés…). La [création d’un site internet](/site) doit prendre en compte l’ergonomie du site afin de rendre agréable l’expérience de l’utilisateur. 
+L’ergonomie d’un site web, c’est la facilité de navigation des internautes. Le site doit être pensé pour l’internaute qui vient s’y promener afin que son expérience soit fluide et sans attente. Le site doit être confortable visuellement et une attention particulière doit être portée à la navigation au sein du site (structuration, taille des image, textes aérés…). La [création d’un site internet](/site/) doit prendre en compte l’ergonomie du site afin de rendre agréable l’expérience de l’utilisateur. 
 
 L’expérience utilisateur est communément appelée UX pour les termes User eXperience. Le terme anglais a été adopté par l’ensemble des agences web, qui parlent tour à tour d’ergonomie ou d’UX.
 

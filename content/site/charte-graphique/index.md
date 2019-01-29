@@ -8,7 +8,7 @@ draft = false
 
 La charte graphique est un ensemble d’éléments qui permettent la création d’une identité visuelle : les logos, les polices, les couleurs… 
 
-L’établissement d’une charte graphique fait partie intégrante de la [création d’un site internet](/site). L’identité visuelle que va générer cette charte graphique va accompagner la personne ou l’entité dans toutes ses communications. Les clients et clients potentiels pourront rapidement associer la home page d’un site à telle ou telle entreprise. Cela est nécessaire pour que chaque action de communication soit cohérente et efficace. 
+L’établissement d’une charte graphique fait partie intégrante de la [création d’un site internet](/site/). L’identité visuelle que va générer cette charte graphique va accompagner la personne ou l’entité dans toutes ses communications. Les clients et clients potentiels pourront rapidement associer la home page d’un site à telle ou telle entreprise. Cela est nécessaire pour que chaque action de communication soit cohérente et efficace. 
 
 La charte graphique établie pour un site web pourra également être complétée pour la communication print avec des préconisations d’impression et de format selon les supports désirés. 
 

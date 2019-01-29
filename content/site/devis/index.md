@@ -6,7 +6,7 @@ description = "Demandez ici un devis à une agence spécialisée en création de
 draft = false
 +++
 
-Tous les projets web étant différents, il est difficile d’établir par avance le prix de la [création d’un site internet](/site). De nombreux critères sont à prendre en compte pour établir un tarif précis. C’est pourquoi il est fondamental de demander un devis à votre prestataire. Comment celui-ci rédige-t-il le devis ? Quelles informations doivent être mentionnées ? A quel coût s’attendre ?  Voici des informations qui vous aideront à mieux comprendre le devis de votre nouveau site web.
+Tous les projets web étant différents, il est difficile d’établir par avance le prix de la [création d’un site internet](/site/). De nombreux critères sont à prendre en compte pour établir un tarif précis. C’est pourquoi il est fondamental de demander un devis à votre prestataire. Comment celui-ci rédige-t-il le devis ? Quelles informations doivent être mentionnées ? A quel coût s’attendre ?  Voici des informations qui vous aideront à mieux comprendre le devis de votre nouveau site web.
 
 ## La rédaction du cahier des charges
 

@@ -6,7 +6,7 @@ description = "Créateur de site web et expert Magento, Aurélien Lavorel vous e
 draft = false
 +++
 
-Dans les coulisses d’un site web se cachent de nombreux professionnels. De multiples compétences techniques sont effectivement nécessaires à la [création d’un site internet](/site). Pour autant, elles ne suffisent pas à garantir le succès de votre projet. L’expérience, l’écoute, la réactivité sont également indispensables. Autant d’ingrédients qu’Aurélien Lavorel, expert Magento et créateur de site web, fait intervenir au quotidien.
+Dans les coulisses d’un site web se cachent de nombreux professionnels. De multiples compétences techniques sont effectivement nécessaires à la [création d’un site internet](/site/). Pour autant, elles ne suffisent pas à garantir le succès de votre projet. L’expérience, l’écoute, la réactivité sont également indispensables. Autant d’ingrédients qu’Aurélien Lavorel, expert Magento et créateur de site web, fait intervenir au quotidien.
 
 ## Quel est votre parcours professionnel ?
 
