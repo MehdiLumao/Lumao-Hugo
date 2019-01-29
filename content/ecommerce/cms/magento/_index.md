@@ -68,7 +68,7 @@ Améliorez l’expérience des utilisateurs de votre site marchand grâce à un 
 
 ## Moteur de recherche interne intelligent
 
-Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur votre site, vous passerez à côté d’une transaction. En présence d’un important catalogue produits, il est donc absolument nécessaire de mettre en place un [moteur de recherche interne intelligent](#/ecommerce/cms/magento/moteur-recherche/). Ce type d’outils ne cesse de se perfectionner, offrant toujours plus de facilité de recherche à l’internaute. Mais quel moteur de recherche interne choisir ? Comment le mettre en place ? On vous explique tout ici.
+Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur votre site, vous passerez à côté d’une transaction. En présence d’un important catalogue produits, il est donc absolument nécessaire de mettre en place un [moteur de recherche interne intelligent](/ecommerce/cms/magento/moteur-recherche/). Ce type d’outils ne cesse de se perfectionner, offrant toujours plus de facilité de recherche à l’internaute. Mais quel moteur de recherche interne choisir ? Comment le mettre en place ? On vous explique tout ici.
 
 ## Confiez la maintenance de votre site Magento à des experts
 
