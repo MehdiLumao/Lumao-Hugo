@@ -117,7 +117,4 @@ Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… 
 
 ## Formez-vous à Magento 2
 
-Le développement sous Magento 2 est assez compliqué de prime abord, grâce à notre [formation Magento 2](/ecommerce/cms/magento/formation/)
-vous pourrez découvrir les bonnes pratiques et gagner un temps précieux.
-
-Contactez Lumao pour obtenir un devis personnalisé et gratuit.
+Performante, puissante, sécurisée, flexible : la nouvelle version de Magento offre de nombreux atouts pour votre site de vente en ligne. Mais un développement sous Magento 2 demande certaines compétences, des exigences techniques qui étaient déjà de mise pour exploiter Magento. Si vous souhaitez connaître les bonnes pratiques et gagner du temps dans la prise en main de l’outil, suivez une [formation Magento 2](/ecommerce/cms/magento/formation/). Grâce à elle, Magento 2 n’aura plus de secret pour vous et vos équipes de développeurs.
