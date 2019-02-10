@@ -34,3 +34,5 @@ Pour un site e-commerce, un hébergement doit pouvoir garantir :
 -	Un support réactif et de qualité
 
 Magento est un environnement complexe qui demande des ressources importantes. C’est pourquoi, en tant qu’experts de cette plateforme, nous sommes à même de vous conseiller la solution d’hébergement adaptée à votre site.
+
+Pour en savoir plus : [Eskio](https://eskio.net/)
