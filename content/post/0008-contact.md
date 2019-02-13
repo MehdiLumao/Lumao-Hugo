@@ -19,7 +19,7 @@ N'hésitez pas à parler de votre projet.
         </div>
     </div>
     <input type="hidden" name="_subject" value="Contact Lumao" />
-    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}post/merci/" />
+    <input type="hidden" name="_next" value="/post/merci/" />
     <input type="hidden" name="_format" value="plain" />
     <input type="text" name="_gotcha" style="display:none" />
     <textarea class="form-input" placeholder="Votre Message" name="message"></textarea>
