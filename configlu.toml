@@ -1,2 +1,6 @@
 baseurl = "https://lu.lumao.eu/"
 languageCode = "fr-lu"
+
+[params]
+    cities = "Luxembourg, Esch-alzette, Dudelange, Schifflange"
+    city = ""

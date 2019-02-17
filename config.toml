@@ -17,3 +17,5 @@ disableKinds = ["taxonomy","taxonomyTerm"]
     hreflangLu = "fr-lu"
     hrefurlLu = "https://lu.lumao.eu/"
     robots = "INDEX,FOLLOW"
+    cities = "Annecy, Bordeaux, Chambéry, Grenoble, Lyon, Paris et dans toute la Haute-Savoie"
+    city = "Annecy, France"

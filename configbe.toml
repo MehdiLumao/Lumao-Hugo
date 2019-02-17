@@ -1,2 +1,6 @@
 baseurl = "https://be.lumao.eu/"
 languageCode = "fr-be"
+
+[params]
+    cities = "Anvers, Gand, Charleroi, Liège ou encore Bruxelles"
+    city = "Bruxelles, Belgique"

@@ -1,2 +1,6 @@
 baseurl = "https://lumao.ch/"
 languageCode = "fr-ch"
+
+[params]
+    cities = "Genève, Lausanne, Neuchâtel et dans le canton du Jura"
+    city = "Genève, Suisse"
