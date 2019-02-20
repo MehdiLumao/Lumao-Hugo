@@ -2,7 +2,7 @@
 date = "2016-12-24T12:50:52+01:00"
 title = "Arc'teryx"
 image = "arcteryx.jpg"
-link_url = "http://www.arcteryx.com/Home.aspx?country=fr&language=fr"
+link_url = "https://www.arcteryx.com/fr/fr/"
 tags = ["dev", "perf"]
 private = true
 slug = "arcteryx"

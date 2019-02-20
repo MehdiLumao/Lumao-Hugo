@@ -2,7 +2,7 @@
 date = "2016-12-24T12:50:52+01:00"
 title = "Salomon"
 image = "salomon.png"
-link_url = "http://www.salomon.com/fr/"
+link_url = "https://www.salomon.com/fr-fr"
 tags = ["dev", "perf"]
 slug = "salomon"
 +++
