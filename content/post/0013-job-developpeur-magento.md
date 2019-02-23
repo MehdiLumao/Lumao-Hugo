@@ -7,7 +7,7 @@ slug = "job-magento"
 +++
 Avant toute chose, l'offre est pour plusieurs profils, c'est normal de ne pas avoir toutes les compétences !
 
-On recherche un **[développeur Magento](/)** confirmé en télétravail (on paye l'espace coworking si besoin). Tu peux travailler de n’importe où avec une bonne connexion, même à l’étranger si cela n’influence pas ta productivité.
+On recherche un **[développeur Magento](/)** confirmé en télétravail (on paye l'espace de coworking si besoin). Tu peux travailler de n’importe où avec une bonne connexion, même à l’étranger si cela n’influence pas ta productivité.
 Si la stack technique te botte mais que tu es junior, c'est possible également de te former (uniquement sur Annecy) si tu es étudiant ou si tu as des compétences en graphisme/ops.
 
 Tu dois maîtriser Git, Slack, Trello et Magento (une certification est préférable).
@@ -38,6 +38,8 @@ Tu utilises xDebug.
 et tu connais bien la stack LAMP. Tu connais strace.
 
 Rémunération fixe (35-65k) en fonction des compétences et prime en fin de projet.
+
+On fournit un pc portable correct : i7, 16Go de RAM, 512 Go SSD. Installé sous Linux avec les emails configuré, la licence Jetbrains également et les accès Gitlab.
 
 Voir l'offre : https://lumao.eu/post/job-magento/
 
