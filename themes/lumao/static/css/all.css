@@ -4916,6 +4916,7 @@ h6.h-gr {
   position: relative;
   padding-left: 55px;
   margin-bottom: 40px;
+  list-style: none;
 }
 
 /* line 250, ../sass/pages/home/_team.scss */
