@@ -1,0 +1,8 @@
+version: "2"
+services:
+  gulp:
+    image: gabrielaraujof/nodejs-gulp-bower
+    environment:
+      - WORKDIR=/home/workspace
+    volumes:
+      - ./:/home/workspace

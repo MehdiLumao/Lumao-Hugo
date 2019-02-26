@@ -3,7 +3,8 @@
 
 # Build
 ```
-gulp css images js
+docker-compose run gulp npm install
+docker-compose run gulp gulp css images js
 hugo
 ```
 
