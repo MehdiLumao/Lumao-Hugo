@@ -35,3 +35,19 @@ Pour transformer un site WordPress en véritable boutique marchande, il suffit, 
 ## Drupal et e-commerce : une solution possible
 
 Lui aussi compte parmi les CMS open source les plus utilisés ; il faut dire que se première version remonte à 2001. Une interface simplifiée et intuitive ainsi qu’une architecture modulaire font le succès de cette solution. Depuis 2011, un site [Drupal](/ecommerce/cms/drupal/) peut être enrichi d’une extension spécialement dédiée au commerce en ligne. Nous vous proposons d’en savoir plus sur cette plateforme de gestion de contenu.
+
+## Shopify, avantages et inconvénients de ce CMS canadien
+
+Dans la grande famille des CMS e-commerce, [Shopify](/ecommerce/cms/shopify/) tient une place importance. Ce CMS en mode SaaS a été créé en 2006 au Canada et, aujourd’hui, il équipe plus de 800 000 boutiques en ligne à travers le monde. Cette plateforme e-commerce doit son succès à sa grande facilité d’utilisation. Elle est en effet accessible à tous et permet de créer facilement des sites de vente en ligne personnalisés. Nous vous proposons d’en savoir plus sur les avantages de Shopify, mais aussi sur ses inconvénients.
+
+## Commerce Cloud Salesforce, ex-Demandware
+
+Depuis 2016, [Demandware](/ecommerce/cms/demandware/) se nomme Commerce Cloud. En effet, ce CMS a été acquis par le géant mondial du CRM (Customer Relationship Management), Salesforce. Spécialisée depuis les années 2000 dans les logiciels en mode SaaS de gestion de la relation client (CRM/GRC), la société américaine a décidé d’enrichir son catalogue produits d’un CMS puissant : Commerce Cloud Salesforce. Nous vous proposons d’en savoir plus sur cette plateforme web e-commerce.
+
+## Sylius, un Framework e-commerce basé sur Symfony
+
+Les projets e-commerce sont nombreux et variés ; tout comme les solutions disponibles pour les mettre en œuvre. Si vous avez des besoins particuliers, un CMS classique peut ne pas suffire. C’est là qu’interviennent les Frameworks tels que [Sylius](/ecommerce/cms/sylius/). Ecrit en PHP et basé sur Symfony, Sylius permet de construire des sites e-commerce complexes techniquement et adaptés à vos besoins, aussi spécifiques soient-ils.
+
+## OroCommerce, un CMS pour développer une activité B2B sur le web
+
+Les acteurs du B2B le savent : les enjeux du e-commerce ne sont pas les mêmes qu’en B2C. Des cycles d’achat plus long, des décideurs multiples, des listes de prix variables, des commandes en gros et répétées… : les contraintes sont nombreuses. Pour y répondre, il existe désormais des CMS spécialisés B2B. Parmi eux, [OroCommerce](/ecommerce/cms/orocommerce/), une solution créée par des anciens de Magento. Découvrez ses fonctionnalités spécifiques.
