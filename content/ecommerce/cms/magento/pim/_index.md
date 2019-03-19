@@ -15,8 +15,6 @@ sources tierces. Nous vous aidons à rationaliser votre activité et à soulager
 Nos experts e-commerce développent avec vous les solutions pour faciliter la gestion de vos données
 produits, de leur collecte à leur diffusion sur vos différents canaux.
 
-<img class="animate zoomIn margin-auto" src="/images/pim/Logo_akeneo.png" alt="Akeneo PIM" />
-
 ## Un PIM, c’est quoi ?
 
 Tout d’abord, revenons sur ce qu’est un PIM. Cet acronyme désigne l’expression « Production
@@ -27,8 +25,6 @@ différentes sources (ERP, fournisseurs, fichiers Excel…) et les centraliser s
 Une fois harmonisées, ces données sont transmises à tous les canaux de diffusion sélectionnés : site
 e-commerce, mais aussi application mobile, catalogue papier, magasins physiques, places de marché,
 etc.
-
-<img class="animate zoomIn margin-auto" src="/images/pim/nextpage-pim.png" alt="Next page PIM" />
 
 ## Avantages pour un site e-commerce
 
@@ -55,6 +51,18 @@ Une fiche produit contenant toutes ces informations et à jour est plus efficace
 incomplète voire indisponible. Et avec le PIM, tous vos canaux diffusent les mêmes informations. Plus
 de risque que l’internaute constate une différence de prix entre votre boutique en ligne, votre
 application mobile et votre catalogue papier.
+
+## Akeneo PIM : valorisez les données relatives à vos produits
+
+<img class="animate zoomIn margin-auto" src="/images/pim/Logo_akeneo.png" alt="Akeneo PIM" />
+
+Vous recherchez une solution pour gérer efficacement vos données produits ? Découvrez [Akeneo PIM](/ecommerce/cms/magento/pim/akeneo/), un logiciel de gestion de l’information produit puissant et efficace. Grâce à lui, vous centralisez toutes vos données et les diffusez selon vos besoins sur vos canaux de vente, de façon harmonieuse et pertinente. 
+
+## NextPage, une solution PIM et de création automatisée de catalogues produits
+
+<img class="animate zoomIn margin-auto" src="/images/pim/nextpage-pim.png" alt="Next page PIM" />
+
+Vous souhaitez valoriser votre offre en vous servant de toutes les informations relatives à vos produits ? Ces informations sont utilisées par différents acteurs de votre entreprise sur des canaux de vente différents ? Découvrez [nextPage](/ecommerce/cms/magento/pim/nextpage/), une solution PIM créée par l’agence 3c-evolution. Elle vous permet de gérer toutes vos informations produits et de les valoriser à travers des catalogues papier ou électroniques que vous générez automatiquement depuis votre plateforme.
 
 ## Intégration PIM : comment faire communiquer PIM et Magento ?
 

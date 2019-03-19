@@ -13,8 +13,6 @@ recueillir encore plus de données et d’enrichir votre connaissance client. Ce
 bénéfique. La plateforme e-commerce [Magento](/ecommerce/cms/magento/) peut être interfacée avec de nombreux outils de
 CRM. Grâce à cette liaison, ces deux outils communiquent entre eux.
 
-<img class="animate zoomIn margin-auto" src="/images/crm/logo_salesforce.png" alt="CRM SalesForce" />
-
 ## Le CRM, un outil indispensable pour cibler les attentes de vos clients
 
 Récolter et centraliser de multiples données sur des clients et prospects : telle est la mission
@@ -29,8 +27,6 @@ connecter CRM et plateforme e-commerce est bénéfique. Car, en connaissant vos 
 précisément leurs besoins et optimisez la satisfaction client. Ce qui aura pour effet de fidéliser votre
 audience. Or, la fidélisation de vos clients est souvent plus rentable que l’acquisition de nouveaux
 clients.
-
-<img class="animate zoomIn margin-auto" src="/images/crm/logo-sugarcrm.png" alt="CRM SalesForce" />
 
 ## Pourquoi coupler votre CRM et votre site e-commerce ?
 
@@ -61,8 +57,6 @@ connaissance de vos clients
 - Traiter rapidement et efficacement les demandes de vos clients et prospects
 - Etc.
 
-<img class="animate zoomIn margin-auto" src="/images/crm/logo-orocrm.png" alt="CRM/GRC Oro CRM" />
-
 ## Comment créer une liaison entre Magento et CRM ?
 
 Magento permet de connecter de multiples outils de gestion, dont votre CRM. Pour cela, il est
@@ -75,3 +69,21 @@ A savoir par ailleurs qu’une plateforme e-commerce aussi modulable que Magento
 d’extensions CRM spécifiques. Elles peuvent suffire à optimiser la gestion de votre relation client,
 mais restent assez limitées. Demandez conseil à nos experts Magento. Ils sauront trouver avec vous
 la solution appropriée.
+
+## Salesforce, le CRM leader du marché
+
+<img class="animate zoomIn margin-auto" src="/images/crm/logo_salesforce.png" alt="CRM SalesForce" />
+
+Les logiciels de gestion de la relation client sont de plus en plus nombreux sur le marché. S’il en est un qui domine, et ce, depuis plusieurs années, c’est bien [Salesforce](/ecommerce/cms/magento/crm/salesforce/). Cette société fondée en 1999 a créé un CRM en mode SaaS et hébergé dans le cloud. Une suite complète de produits et une interface ergonomique font de cet outil une référence en matière de CRM. 
+
+## OroCRM, le logiciel de GRC spécialement dédié au e-commerce
+
+<img class="animate zoomIn margin-auto" src="/images/crm/logo-orocrm.png" alt="CRM/GRC Oro CRM" />
+
+Les CRM sont des outils qui aident les entreprises à gérer l’ensemble de leurs interactions avec leurs clients et prospects. Non seulement, ces logiciels permettent de rationaliser les données client, mails ils contribuent aussi à la satisfaction client et, en définitive, à l’augmentation du chiffre d’affaires. Avec [OroCRM](/ecommerce/cms/magento/crm/orocrm/), votre taux de conversion est également optimisé. En effet, ce logiciel open source créé par des anciens de Magento permet une analyse et une segmentation poussées de vos clients en ligne. Découvrez dès maintenant ce CRM.
+
+## SugarCRM, des fonctions essentielles pour construire vos relations client
+
+<img class="animate zoomIn margin-auto" src="/images/crm/logo-sugarcrm.png" alt="CRM Sugar CRM" />
+
+Ce projet open source a vu le jour en 2004. Depuis, [SugarCRM](/ecommerce/cms/magento/crm/sugarcrm/) a multiplié les versions et ce logiciel compte désormais plus de 2 millions d’utilisateurs à travers le monde. Cet outil de gestion de la relation client (GRC) a su convaincre, notamment par ses fonctionnalités parfaitement ciblées et son interface ergonomique et simple à prendre en main. Nous vous proposons d’en savoir plus sur ce logiciel libre. Grâce à lui, vous apprendrez à connaître votre clientèle et à construire avec elle des relations durables et de confiance.

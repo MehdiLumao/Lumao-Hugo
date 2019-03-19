@@ -14,8 +14,6 @@ synchroniser les données entre site Magento et ERP, plusieurs solutions techniq
 définissons celle qui convient à votre activité, à vos besoins et à votre stratégie commerciale.
 Contactez Lumao pour obtenir un devis personnalisé et gratuit.
 
-<img class="animate zoomIn margin-auto" src="/images/erp/SAP_AG_logo.gif" alt="ERP SAP" />
-
 ## Magento et ERP : synchronisez site marchand et outil de gestion
 
 Avec le développement du e-commerce, de plus en plus d’entreprises ont besoin d’intégrer leur(s)
@@ -25,8 +23,6 @@ communiquent entre eux et se comprennent… ce qui n’est pas toujours possible
 [Magento](/ecommerce/cms/magento/) est compatible avec de nombreux ERP et outils de gestion du marché. Et Lumao, agence
 d’experts Magento, vous propose des solutions solides et fiables pour connecter ERP et site e-
 commerce. De quoi optimiser efficacement la gestion de votre activité.
-
-<img class="animate zoomIn margin-auto" src="/images/erp/Cegid_logo.png" alt="ERP Cegid Business Retail" />
 
 ## ERP : de quoi parle-t-on ?
 
@@ -60,8 +56,6 @@ En connectant ERP et site e-commerce, vous optimisez la gestion de l’entrepris
 votre activité de vente en ligne. Gain de temps, d’argent et d’énergie : voici la promesse d’un tel
 projet.
 
-<img class="animate zoomIn margin-auto" src="/images/erp/Microsoft-Dynamics-NAV-logo.png" alt="ERP Microsoft Navision" />
-
 ## Les solutions possibles pour connecter ERP et plateforme Magento
 
 Magento est la plateforme e-commerce qui permet le plus facilement d’optimiser la gestion de votre
@@ -82,8 +76,6 @@ Demandez un devis à Lumao, agence spécialisée Magento. Nous analysons vos bes
 place la solution qui vous aidera à faciliter et à optimiser la gestion de votre site e-commerce et de
 votre entreprise.
 
-<img class="animate zoomIn margin-auto" src="/images/erp/logo-Sage.png" alt="ERP/PGI Sage" />
-
 ## Les modules ERP Magento
 
 Si vous ne disposez pas d’un ERP interne, d’autres solutions sont possibles pour optimiser la gestion
@@ -94,3 +86,27 @@ nos experts Magento. Ils analyseront votre problématique pour vous proposer une
 mesure.
 
 <img class="animate zoomIn margin-auto" src="/images/erp/logo_bms.png" alt="ERP intégré à Magento Boost my Shop" />
+
+## SAP, un des leaders mondiaux sur le marché des ERP
+
+<img class="animate zoomIn margin-auto" src="/images/erp/SAP_AG_logo.gif" alt="ERP SAP" />
+
+Si vous êtes à la recherche d’un ERP pour votre entreprise, vous avez sans doute croisé la route de [SAP](/ecommerce/cms/magento/erp/sap/). Cet éditeur allemand de logiciels de gestion domine en effet le marché des ERP, aux côtés notamment d’Oracle et de Microsoft. Il faut dire que la société propose des suites ERP particulièrement complètes. Elles s’adaptent aux besoins des grandes entreprises, mais aussi aux problématiques des PME.
+
+## Cegid, spécialiste des logiciels de gestion comptable et ERP
+
+<img class="animate zoomIn margin-auto" src="/images/erp/Cegid_logo.png" alt="ERP Cegid Business Retail" />
+
+A ses débuts, la société française [Cegid](/ecommerce/cms/magento/erp/cegid/) propose des logiciels de gestion répondant spécialement aux besoins des experts-comptables. Désormais, l’éditeur étend son offre aux PME et propose de multiples solutions de gestion, que ce soit dans les domaines de la finance et de la fiscalité, des ressources humaines, du commerce ou de la comptabilité. Cegid propose également un ERP, un outil de gestion intégré dédié aux entreprises, à la fois complet et modulable.
+
+## Microsoft Dynamics : une gamme complète de logiciels de gestion et ERP
+
+<img class="animate zoomIn margin-auto" src="/images/erp/Microsoft-Dynamics-NAV-logo.png" alt="ERP Microsoft Navision" />
+
+Microsoft propose de nombreuses applications professionnelles. Elles sont regroupées dans une gamme complète, dont le nom change régulièrement. Actuellement, il s’agit de la suite [Microsoft Dynamics 365](/ecommerce/cms/magento/erp/dynamics/). D’une version à l’autre, de nouvelles fonctionnalités et applications apparaissent, de manière à répondre aux besoins toujours changeants des entreprises, grandes, moyennes ou petites. Au cœur de cette gamme figure Dynamics 365 Business Central, un ERP complet et performant, qui s’intègre à tous vos outils Microsoft. Nous vous proposons de découvrir cette solution cloud de gestion intégrée d’entreprise.
+
+## Sage, des ERP aux fonctionnalités adaptées à vos besoins
+
+<img class="animate zoomIn margin-auto" src="/images/erp/logo-Sage.png" alt="ERP/PGI Sage" />
+
+Les ERP n’en finissent plus de se moderniser et de se spécialiser. Ils suivent en cela une tendance, celle de centraliser tous les processus opérationnels d’une entreprise sur une seule et même plateforme. L’éditeur britannique [Sage](/ecommerce/cms/magento/erp/sage/) l’a bien compris. Il propose plusieurs solutions de gestion intégrée de l’entreprise, dont Sage Business Cloud Enterprise Mangement, un ERP complet, riche en fonctionnalités et qui s’adresse aux moyennes et grandes entreprises.
