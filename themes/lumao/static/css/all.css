@@ -2965,7 +2965,7 @@
   animation-name: slideOutUp;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900|Roboto:400,500,700,900|Raleway:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 /**
 -   Page Shot Codes -----------------------------------------
 **/
@@ -2991,7 +2991,7 @@
 /* line 4, ../sass/modules/_site.scss */
 body {
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   color: #616161;
   overflow-x: hidden;
 }
@@ -3402,7 +3402,7 @@ p {
 /* line 2, ../sass/modules/_site-footer.scss */
 .section-offer {
   background: #20ddfd;
-  font-family: "Raleway";
+  font-family: "Roboto";
   border-color: #20ddfd;
   background: url("../images/Banner_05.jpg") no-repeat fixed;
   -moz-background-size: cover;
@@ -3475,7 +3475,7 @@ p {
 .footer-top {
   background: #1f1f1f;
   color: #d5d5d5;
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 /* line 62, ../sass/modules/_site-footer.scss */
 .footer-top .fo-title {
@@ -3591,7 +3591,7 @@ p {
   color: #fff;
   text-transform: uppercase;
   text-align: center;
-  font-family: "Raleway";
+  font-family: "Roboto";
   padding: 20px 15px;
 }
 /* line 166, ../sass/modules/_site-footer.scss */
@@ -3636,7 +3636,7 @@ p {
   font-size: 13px;
   font-weight: 700;
   letter-spacing: .3px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
   -webkit-transition: all 0.5s;
@@ -3754,7 +3754,7 @@ p {
   color: #162532;
   font-size: 22px;
   margin: 0 auto 20px;
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 
 /* line 13, ../sass/modules/_site-icons.scss */
@@ -3794,7 +3794,7 @@ p {
 /* line 1, ../sass/modules/_blockquote.scss */
 blockquote {
   color: #162532;
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-style: italic;
   font-size: 16px;
   margin: 50px 0;
@@ -3808,7 +3808,7 @@ blockquote {
 cite {
   text-transform: capitalize;
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   margin-bottom: 20px;
   margin-left: 35px;
 }
@@ -3842,7 +3842,7 @@ cite:before {
 **/
 /* line 1, ../sass/modules/_site-heading.scss */
 h1, h2, h3, .item-desc h4, h4, h5, h6 {
-  font-family: "Raleway";
+  font-family: "Roboto";
   letter-spacing: 1px;
   font-size: 26px;
   margin-bottom: 20px;
@@ -3922,7 +3922,7 @@ h1, h2, h3, .item-desc h4, h4, h5, h6 {
 .sub-title {
   color: #616161;
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   line-height: 26px;
   margin: 0 auto 15px;
 }
@@ -4152,7 +4152,7 @@ h6.h-gr {
 
 /* line 43, ../sass/modules/_pages-header.scss */
 .head-subtitle {
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-weight: 500;
   text-align: center;
   font-size: 16px;
@@ -4200,7 +4200,7 @@ h6.h-gr {
   top: 50%;
   width: 100%;
   text-transform: uppercase;
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-size: 13px;
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -4323,7 +4323,7 @@ h6.h-gr {
 /* line 116, ../sass/pages/home/_slider.scss */
 .section-slider .slide-description {
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   margin: 15px auto;
   -moz-transform: rotateX(90deg);
   -webkit-transform: rotateX(90deg);
@@ -4383,7 +4383,7 @@ h6.h-gr {
 **/
 /* line 1, ../sass/pages/home/_about.scss */
 .section-about {
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-size: 16px;
   padding-bottom: 50px;
   overflow: hidden;
@@ -4620,7 +4620,7 @@ h6.h-gr {
   max-width: 350px;
   margin: 0 auto;
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   -moz-transition: all 0.6s;
   -o-transition: all 0.6s;
   -webkit-transition: all 0.6s;
@@ -4717,7 +4717,7 @@ h6.h-gr {
   color: #fff;
   font-style: italic;
   font-size: 18px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   z-index: 2;
   opacity: 0;
   -moz-transition: opacity 0.6s linear 0.1s;
@@ -4785,7 +4785,7 @@ h6.h-gr {
 .mem-biou {
   color: #616161;
   font-size: 14px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   line-height: 26px;
   margin-bottom: 20px;
   min-height: 80px;
@@ -4876,7 +4876,7 @@ h6.h-gr {
 
 /* line 211, ../sass/pages/home/_team.scss */
 .skill-title {
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-weight: 700;
   font-size: 15px;
   text-transform: uppercase;
@@ -4940,7 +4940,7 @@ h6.h-gr {
   background-size: cover;
   position: relative;
   color: #fff;
-  font-family: "Raleway";
+  font-family: "Roboto";
   text-align: center;
   padding: 80px 0;
   border: none;
@@ -4985,7 +4985,7 @@ h6.h-gr {
 **/
 /* line 1, ../sass/pages/home/_services.scss */
 .section-services {
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 
 /* line 6, ../sass/pages/home/_services.scss */
@@ -5055,7 +5055,7 @@ h6.h-gr {
 /* line 56, ../sass/pages/home/_services.scss */
 .section-pricing {
   background-color: #fafafa;
-  font-family: "Raleway";
+  font-family: "Roboto";
   color: #616161;
   font-size: 16px;
   line-height: 25px;
@@ -5231,7 +5231,7 @@ h6.h-gr {
   overflow: hidden;
   margin-bottom: 30px;
   position: relative;
-  font-family: "Raleway";
+  font-family: "Roboto";
   width: 100%;
   max-height: 350px;
 }
@@ -5481,7 +5481,7 @@ h6.h-gr {
 /* line 17, ../sass/pages/home/_testimonials.scss */
 .testimonial {
   text-align: center;
-  font-family: "Raleway";
+  font-family: "Roboto";
   color: #162532;
   padding: 0 20px;
 }
@@ -5625,7 +5625,7 @@ h6.h-gr {
   border: 1px solid #e1e1e1;
   background: #fff;
   line-height: 40px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   margin-bottom: 20px;
   color: #616161;
   padding: 0 15px;
@@ -5654,7 +5654,7 @@ h6.h-gr {
 
 /* line 42, ../sass/pages/home/_contact.scss */
 .contact-info {
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 /* line 45, ../sass/pages/home/_contact.scss */
 .contact-info h3, .contact-info .item-desc h4, .item-desc .contact-info h4 {
@@ -5710,7 +5710,7 @@ h6.h-gr {
 
 /* line 12, ../sass/pages/home/_blog.scss */
 .blog-post {
-  font-family: "Raleway";
+  font-family: "Roboto";
   color: #162532;
   overflow: hidden;
   background: #fff;
@@ -5795,7 +5795,7 @@ h6.h-gr {
 .post-blockquote cite {
   text-transform: capitalize;
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   margin-bottom: 20px;
   margin-left: 35px;
 }
@@ -5857,7 +5857,7 @@ h6.h-gr {
 
 /* line 151, ../sass/pages/home/_blog.scss */
 .sidebar {
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 /* line 154, ../sass/pages/home/_blog.scss */
 .sidebar ul {
@@ -5867,7 +5867,7 @@ h6.h-gr {
 /* line 158, ../sass/pages/home/_blog.scss */
 .sidebar a {
   display: inline-block;
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 
 /* line 163, ../sass/pages/home/_blog.scss */
@@ -5880,7 +5880,7 @@ h6.h-gr {
   color: #162532;
   font-weight: 700;
   font-size: 16px;
-  font-family: "Raleway";
+  font-family: "Roboto";
   margin: 30px 0 15px;
   width: 100%;
   text-transform: uppercase;
@@ -5910,7 +5910,7 @@ h6.h-gr {
   width: 100%;
   border: 1px solid #e3e3e3;
   box-shadow: none;
-  font-family: "Raleway";
+  font-family: "Roboto";
   padding-left: 15px;
   outline: none;
   background: #fafafa;
@@ -6074,7 +6074,7 @@ h6.h-gr {
 /* line 326, ../sass/pages/home/_blog.scss */
 .post-pagination {
   color: #162532;
-  font-family: "Raleway";
+  font-family: "Roboto";
   font-size: 16px;
   padding: 10px;
   font-weight: 700;
@@ -6171,7 +6171,7 @@ h6.h-gr {
   color: #616161;
   line-height: 26px;
   margin-bottom: 30px;
-  font-family: "Raleway";
+  font-family: "Roboto";
 }
 /* line 50, ../sass/pages/home/_single.scss */
 .single-article h1 {
