@@ -4,6 +4,7 @@ description = "Vous cherchez un expert Magento disponible qui connait vos probl√
 baseurl = "https://lumao.eu/"
 theme = "lumao"
 disableKinds = ["taxonomy","taxonomyTerm"]
+paginate = 1000
 
 [params]
     hreflangEn = "en-us"
