@@ -10,6 +10,8 @@ En 2012, des anciens de Magento ont lancé une nouvelle société baptisée Oro,
 
 ## Présentation de OroCommerce
 
+<img class="animate zoomIn margin-auto" src="/images/cms/orocommerce.png" alt="CMS E-commerce B2B OroCommerce" />
+
 OroCommerce est une plateforme de création et de gestion de sites internet dédiés à la vente en ligne entre professionnels, c’est-à-dire au commerce B2B (Business to Business). Elle a été créée par des anciens cadres de Magento et fait partie du catalogue proposé par Oro, Inc., société fondée en 2012. Celle-ci commercialise également :
 
 -	OroCRM, pour la gestion de la relation client

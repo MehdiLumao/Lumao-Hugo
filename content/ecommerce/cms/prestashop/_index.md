@@ -10,6 +10,8 @@ Tout comme Magento, PrestaShop est un [CMS e-commerce](/ecommerce/cms/), c’est
 
 ## Présentation de PrestaShop
 
+<img class="animate zoomIn margin-auto" src="/images/cms/prestashop.png" alt="CMS E-commerce PrestaShop" />
+
 PrestaShop est un CMS français, créé en 2005 par des étudiants de l’école informatique EPITECH. Il est composé d’un back-office, soit l’interface d’administration, et du front office, la partie visible du site sur le web. Sa prise en main est facile : PrestaShop repose sur un système de templates préconçus et de modules complémentaires à installer dans le back-office. Ils permettront d'ajouter de nombreuses fonctionnalités à votre site. L’ensemble de ces addons sont disponibles via la plateforme Addons Marketplace. La communauté PrestaShop est très active ; il y a donc un grand choix de modules et de templates pour personnaliser entièrement sa boutique en ligne. PrestaShop, avec Magento et Woocommerce, fait partie des trois CMS les plus utilisés par les e-commerçants.
 
 ## Les avantages du CMS PrestaShop

@@ -10,6 +10,8 @@ Entreprises et commerçants ont à leur disposition un large panel d’outils. G
 
 ## Présentation de Demandware
 
+<img class="animate zoomIn margin-auto" src="/images/cms/demandware.png" alt="CMS E-commerce en SaaS Demandware" />
+
 En 2016, Demandware a été racheté par Salesforce ; ce logiciel en mode SaaS s’appelle désormais Commerce Cloud.
 
 Il s’agit d’un CMS, c’est-à-dire une plateforme de gestion de contenu web. Le commerçant peut, grâce à elle, créer et gérer sa boutique en ligne tout en bénéficiant de nombreuses autres applications utiles au e-commerce.

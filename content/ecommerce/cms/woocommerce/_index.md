@@ -10,6 +10,8 @@ WooCommerce est une solution e-commerce très simple d’utilisation, permettant
 
 ## À qui s’adresse WooCommerce ?
 
+<img class="animate zoomIn margin-auto" src="/images/cms/woocommerce.png" alt="Convertir WooCommerce en CMS E-commerce WooCommerce" />
+
 Lancé en 2011, le plugin WooCommerce est destiné à des e-commerçants souhaitant créer une boutique en ligne tout en bénéficiant des avantages du CMS WordPress (WP). En effet, WooCommerce est un plug-in gratuit fonctionnant sous WP. Il est donc facilement personnalisable, puisqu’il est possible d’intégrer des thèmes et extensions compatibles WordPress sur votre site. Vous pourrez ainsi créer votre image de marque en cohérence avec votre stratégie de communication globale.
 
 L’extension WooCommerce est parfaitement adaptée pour des petites entreprises qui souhaitent vendre en ligne quelques-uns de leurs produits en transformant leur site WordPress en boutique e-commerce. Pour un budget raisonnable, WooCommerce permet à un commerçant de vendre en ligne et de bénéficier ainsi d’un complément de vente.

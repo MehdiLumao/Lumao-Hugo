@@ -10,6 +10,8 @@ Drupal est un [CMS e-commerce](/ecommerce/cms/) open source gratuit, c’est-à-
 
 ## Présentation du CMS Drupal 
 
+<img class="animate zoomIn margin-auto" src="/images/cms/drupal.png" alt="Convertir Drupal en CMS E-commerce" />
+
 Drupal est un système de gestion de contenu libre et open source. Publié sous la licence publique générale GNU, il est gratuit et écrit en PHP. À l’origine appelé Druppel, ce qui signifie « goutte » en néerlandais, Drupal existe depuis les années 2000. Pour son développeur, Dries Buytaert, c’est un « assembleur rapide de site web ». 
 
 Aujourd’hui, ce CMS fédère une communauté très active et fait partie des trois principaux CMS e-commerce. En effet, ce CMS généraliste permet de créer à la fois des sites vitrines, des blogs, mais aussi des sites e-commerce grâce à son module Drupal Commerce.  De grands groupes utilisent Drupal, notamment parce qu’il est entièrement personnalisable et comprend de nombreux modules.

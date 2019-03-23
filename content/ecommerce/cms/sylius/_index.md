@@ -10,6 +10,8 @@ Vous recherchez une solution vous permettant de créer un site de vente en ligne
 
 ## Présentation de Sylius
 
+<img class="animate zoomIn margin-auto" src="/images/cms/sylius.png" alt="CMS E-commerce Sylius" />
+
 Sylius a été créé en 2011 en Pologne. Il s’agit d’un Framework e-commerce, c’est-à-dire une boîte à outils dans laquelle un développeur peut puiser pour mettre en place des solutions sur mesure sans avoir à réécrire tout le code ou repenser de zéro l’infrastructure. Littéralement, un Framework fournir un « cadre de travail ». En français, on parle aussi d’infrastructure logicielle.
 
 Le Framework Sylius est écrit en PHP, c’est-à-dire le langage le plus populaire sur le web. Il s’appuie par ailleurs sur Symfony, un Framework français et open source qui existe depuis 2005. Sylius peut être appréhendé comme une surcouche Symfony dotée de toutes les fonctionnalités e-commerce nécessaires et des bonnes pratiques PHP.

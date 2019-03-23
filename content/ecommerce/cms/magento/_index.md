@@ -6,7 +6,7 @@ description = "Avec la plateforme Magento, boostez votre activité de vente en l
 draft = false
 +++
 
-<img class="animate zoomIn center-block" src="/images/Magento_logo.png" alt="CMS Magento" />
+<img class="animate zoomIn center-block" src="/images/Magento_logo.png" alt="CMS e-commerce Magento 2" />
 
 Lancé en 2008, Magento est un [CMS e-commerce](/ecommerce/cms/) puissant, permettant de créer et de gérer les sites de vente en ligne les plus divers. Cette plateforme open source s’est d’abord imposée aux Etats-Unis, puis à travers le monde entier. Elle revendique plus de 240 000 sites. En France aussi, cette solution technique a su convaincre bon nombre de e-commerçants et de développeurs, dont les experts de l’agence Lumao. Complète, flexible, évolutive : cette solution permet de développer des sites uniques et performants. Nous vous proposons ici d’en savoir plus sur ce CMS qui compte parmi les leaders du marché. Et pour la création de votre site Magento, demandez un devis gratuit et personnalisé à notre agence.
 

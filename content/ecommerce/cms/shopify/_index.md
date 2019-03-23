@@ -10,6 +10,8 @@ Pour créer un site de vente en ligne, de nombreuses solutions sont disponibles.
 
 ## Présentation de Shopify
 
+<img class="animate zoomIn margin-auto" src="/images/cms/shopify.png" alt="CMS E-commerce Shopify en SaaS" />
+
 Shopify est un logiciel créé en 2006 par Tobias Lütke, Daniel Weinand, et Scott Lake. Parce qu’ils ne trouvaient pas de solution adaptée pour la création de leur site e-commerce, ils ont créé leur propre CMS. Leur objectif : développer une plateforme performante et simple d’utilisation.
 
 Aujourd’hui, Shopify équipe plus de 800 000 boutiques en ligne à travers le monde. Son succès, le CMS le doit essentiellement à sa simplicité d’utilisation et de gestion. Qui plus est, il a su s’adapter au dropshipping, un mode de commercialisation très en vogue ces dernières années. Il consiste en effet à vendre en ligne des produits sans avoir à gérer les stocks et le transport des marchandises.
