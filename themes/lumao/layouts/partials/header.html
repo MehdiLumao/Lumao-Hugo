@@ -13,8 +13,8 @@
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-	<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
-	<link rel="icon" href="{{ .Site.BaseURL }}favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.svg" type="image/x-icon">
+	<link rel="icon" href="{{ .Site.BaseURL }}favicon.svg" type="image/x-icon">
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangFr }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangCh }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlCh }}"/>
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangBe }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlBe }}"/>
@@ -41,7 +41,7 @@
 			<div class="col-sm-2">
 				<a class="animsition-link site-logo" href="{{ .Site.BaseURL }}" >
 					{{ if .IsHome }}
-					<h1>Lumao - Développement Magento</h1>
+					<h1><img src="{{ .Site.BaseURL }}agence_magento.svg" alt="Lumao - Développement Magento" /></h1>
 					{{ else }}
 					<p class="title">Lumao - Développement Magento</p>
 					{{ end }}
