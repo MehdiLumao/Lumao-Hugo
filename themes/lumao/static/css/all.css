@@ -3615,6 +3615,12 @@ p {
   font-size: 12px;
 }
 
+.copyright__logo {
+	width: 20px;
+	height: 20px;
+	margin: 5px auto;
+}
+
 /**
 -  Site Sections Styles -----------------------------------------
 **/
