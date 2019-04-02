@@ -3198,8 +3198,9 @@ p {
   }
 }
 /* line 60, ../sass/modules/_site-header.scss */
-.menu a:hover, .menu a.drop-active, .menu a:active {
+.menu a:hover, .menu a.drop-active, .menu a:active, .menu :focus {
   color: #20ddfd;
+  text-decoration: none;
 }
 /* line 63, ../sass/modules/_site-header.scss */
 .menu a:hover:after, .menu a.drop-active:after, .menu a:active:after {
