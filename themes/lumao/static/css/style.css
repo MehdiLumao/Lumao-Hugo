@@ -80,6 +80,7 @@ div.fb-page.fb_iframe_widget {
     color: #162532;
     font-size: 26px;
     margin-bottom: 25px;
+	max-width: 750px;
 }
 .section-content li {
     list-style: decimal-leading-zero;
