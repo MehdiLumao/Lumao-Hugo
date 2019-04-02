@@ -3117,7 +3117,6 @@ p {
 **/
 /* line 3, ../sass/modules/_site-header.scss */
 .header {
-  position: absolute;
   width: 100%;
   color: #fff;
   text-transform: uppercase;
@@ -3145,7 +3144,18 @@ p {
   .menu {
     float: right;
     text-align: right;
+	margin-top: 23px; 
   }
+}
+@media (min-width: 992px) {
+	.menu {
+		margin-top: 35px; 
+	}
+}
+@media (min-width: 1200px) {
+	.menu {
+		margin-top: 42px; 
+	}
 }
 /* line 34, ../sass/modules/_site-header.scss */
 .menu > li > a:after {
@@ -3188,8 +3198,9 @@ p {
   }
 }
 /* line 60, ../sass/modules/_site-header.scss */
-.menu a:hover, .menu a.drop-active, .menu a:active {
+.menu a:hover, .menu a.drop-active, .menu a:active, .menu :focus {
   color: #20ddfd;
+  text-decoration: none;
 }
 /* line 63, ../sass/modules/_site-header.scss */
 .menu a:hover:after, .menu a.drop-active:after, .menu a:active:after {
@@ -3604,6 +3615,12 @@ p {
   font-size: 12px;
 }
 
+.copyright__logo {
+	width: 20px;
+	height: 20px;
+	margin: 5px auto;
+}
+
 /**
 -  Site Sections Styles -----------------------------------------
 **/
@@ -3618,6 +3635,10 @@ p {
   .section {
     padding: 50px 0;
   }
+}
+
+.section-content {
+	padding-top: 0;
 }
 
 /**
@@ -3882,7 +3903,8 @@ h1, h2, h3, .item-desc h4, h4, h5, h6 {
   letter-spacing: 1px;
   color: #162532;
   font-size: 26px;
-  margin-bottom: 25px;
+  margin: 0 auto 25px;
+  max-width: 750px;
 }
 /* line 42, ../sass/modules/_site-heading.scss */
 .title-big:after {
@@ -4387,6 +4409,7 @@ h6.h-gr {
   font-size: 16px;
   padding-bottom: 50px;
   overflow: hidden;
+  padding-top: 0;
 }
 @media (min-width: 768px) {
   /* line 1, ../sass/pages/home/_about.scss */
@@ -8878,6 +8901,7 @@ time, mark, audio, video {
   font: inherit;
   font-size: 100%;
   vertical-align: baseline;
+  line-height: 1.2;
 }
 
 /* line 22, ../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
