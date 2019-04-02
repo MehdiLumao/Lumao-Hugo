@@ -1,14 +1,14 @@
 +++
 date = "2019-01-29"
-title = "Hébergement haute performance pour votre site web"
-h1 = "Choisissez un hébergement haute performance pour votre site e-commerce"
+title = "Hébergement haute performance pour votre site Magento"
+h1 = "Choisissez un hébergement haute performance pour votre site e-commerce Magento"
 description = "Quel hébergement choisir pour votre site de vente en ligne ? Expert e-commerce, Lumao vous conseille et met en place la solution adaptée à vos besoins."
 draft = false
 +++
 
 Vous avez choisi un CMS e-commerce open source, par exemple Magento ou PrestaShop, pour créer et gérer votre [site de vente en ligne](/ecommerce/). Celui-ci doit aussi être hébergé sur un serveur afin d’être accessible sur internet. Les solutions d’hébergement sont très nombreuses sur le marché. Et toutes ne sont pas adaptées à votre projet web. Voici des informations pour vous aider à voir plus clair dans le monde des hébergeurs. Et Lumao vous propose un service 100 % sur mesure, un hébergement e-commerce à la fois performant, fiable et sécurisé.
 
-## Les principaux types d’hébergements 
+## Les principaux types d’hébergements Magento
 
 L’hébergement fait en quelque sorte office de fondations à votre site web. S’il n’est pas adapté à vos besoins, présents et futurs, votre boutique, aussi belle soit-elle, ne fonctionnera pas correctement. Ralentissement, panne, indisponibilité et faille de sécurité risquent fort de survenir et de mettre à mal votre activité en ligne. Et votre chiffre d’affaires. C’est pourquoi il est indispensable de choisir un hébergeur de qualité.
 
@@ -20,6 +20,13 @@ Différents types d’hébergements sont proposés. Ils répondent tous à des b
 -	Les hébergements Cloud : c’est la solution retenue par Lumao pour sa grande souplesse quant au dimensionnement « à la carte », pour sa puissance, sa sûreté et sa performance. Elle est donc adaptée à l’hébergement de sites e-commerce recensant de nombreux produits et générant de forts taux de trafic.
 
 Si vous souhaitez être conseillé dans le choix de votre hébergement e-commerce, faites appel à nos services. Nos experts vous aideront à cerner vos besoins techniques et à définir la solution adaptée.
+
+<div class="row">
+    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" /></div>
+    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/docker.svg" alt="Docker solution de containeurs" /></div>
+    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" /></div>
+</div>
 
 ## Les critères de choix
 

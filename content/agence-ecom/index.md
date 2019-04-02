@@ -1,7 +1,7 @@
 +++
 date = "2018-11-12"
-title = "Agence E-Commerce | Vendez Mieux, Vendez Plus !"
-h1 = "Notre agence Lumao pour votre site e-commerce"
+title = "Agence E-Commerce Magento | Vendez Mieux, Vendez Plus !"
+h1 = "Notre agence Lumao pour votre site e-commerce Magento"
 description = "Être présent sur le net pour une boutique est indispensable pour de nombreux commerce. Pour avoir une présente sur le net performante et efficace, rendez-vous ici !"
 draft = false
 +++
@@ -21,6 +21,11 @@ clients.
 Pour vous garantir nos compétences, vous pourrez compter sur la satisfaction de nos clients actuels,
 mais également sur les certifications obtenues auprès de Magento en tant que partenaire certifié.
 
+<div class="row">
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+</div>
+
 ## Comprendre votre business pour vous proposer une solution adaptée
 
 Parce qu’un vendeur de chaussures ne vend pas la même chose qu’un parfumeur nous nous attelons
@@ -31,7 +36,7 @@ C’est en prenant dans son intégralité votre projet de e-commerce que nous po
 une solution sur-mesure qui réponde à la fois à vos attentes, aux attentes des moteurs de recherche,
 mais également aux besoins de vos clients.
 
-## Le Magento un langage idéal pour votre e-commerce
+## Magento un framework idéal pour votre e-commerce
 
 Si vous venez à la rencontre de notre équipe, vous trouverez des développeurs qui auront les mains
 dans le code. Ils mettront sur pied votre boutique en ligne Magento.

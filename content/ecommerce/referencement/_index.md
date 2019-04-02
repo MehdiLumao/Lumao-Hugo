@@ -1,7 +1,7 @@
 +++
 date = "2019-01-29"
-title = "Référencement Site E-Commerce : Stratégie SEO sur mesure avec Lumao"
-h1 = "Référencement de votre site e-commerce"
+title = "Référencement Site E-Commerce Magento : Stratégie SEO sur mesure avec Lumao"
+h1 = "Référencement de votre site e-commerce Magento"
 description = "Votre boutique doit être visible sur les moteurs de recherche. Confiez le référencement de votre site e-commerce à des experts. Devis gratuit sur mesure."
 draft = false
 +++
@@ -22,7 +22,7 @@ Un site e-commerce, par opposition au site vitrine, a énormément de contenus c
 
 Le référencement d’un site e-commerce se compose ainsi : l’optimisation technique (structure, temps de chargement…), l’optimisation des contenus et le développement de la notoriété du site pour le rendre populaire.
 
-## Optimisations d’un site e-commerce pour le référencement
+## Optimisations d’un site e-commerce Magento pour le référencement
 
 Pour être correctement référencée, une boutique en ligne doit être conforme aux exigences du web. Son logiciel de gestion de contenu, Magento ou Prestashop par exemple, doit être à jour, auquel cas une refonte ou une migration seront nécessaires pour être en conformité. Le temps de chargement du site doit être rapide et sa structure doit permettre une navigation intuitive ainsi qu’un accès rapide au produit recherché.
 
