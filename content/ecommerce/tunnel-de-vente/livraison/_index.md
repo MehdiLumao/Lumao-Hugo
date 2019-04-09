@@ -28,6 +28,42 @@ Ce mode de livraison est très flexible puisque l’internaute choisit le point 
 
 Elle a lieu en 24 heures, le jour de la commande, voire dans l’heure qui suit. Autant dire qu’elle demande de la réactivité de la part du transporteur, mais aussi du e-commerçant en matière de disponibilité des stocks. C’est généralement le mode de livraison le plus cher. Il occasionne des frais supplémentaires pour l’internaute. Un abonnement annuel peut lui être proposé pour en profiter plus facilement.
 
+### DPD, de la flexibilité pour vos clients
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-dpd.png" alt="Mode de livraison DPD" />
+
+Parmi les experts de la livraison de colis en France figure [DPD](/ecommerce/tunnel-de-vente/livraison/dpd/), une filiale du groupe La Poste. Elle est spécialisée dans le transport des documents et des colis de moins de 30 kilos. Cette entreprise propose aux e-commerçants des modules à intégrer dans leur plateforme web ainsi que des formules qui apportent de la flexibilité à leurs clients. Ces derniers pourront ainsi retirer leur colis en point relais ou se faire livrer à domicile, sur le créneau horaire et à la date de leur choix.
+
+### Chronopost et Chronofresh :  tous vos produits, même frais, sont livrés rapidement
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-chronofresh.jpg" alt="Mode de livraison Chronopost & Chronofresh" />
+
+C’est l’expert du transport de colis légers en France. [Chronopost](/ecommerce/tunnel-de-vente/livraison/chronopost/) est un acteur historique de ce marché en pleine expansion. Et la filiale de La Poste et de DPD offre désormais des services spécialement dédiés au e-commerce : click & collect, livraison sur rendez-vous, retrait en point relais… Chronopost innove encore en proposant un service de livraison spécial produits alimentaires : Chronofresh. On vous dit tout sur Chronopost et ses différents services de livraison.
+
+### La livraison en point relais : souplesse et économies pour vous et vos clients
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-pointrelais.jpg" alt="Mode de livraison Point Relais" />
+
+Si votre site e-commerce propose la livraison à domicile de vos produits, il est aussi nécessaire de proposer la [livraison en point relais](/ecommerce/tunnel-de-vente/livraison/point-relais/). En effet, ce service répond aux besoins de vos clients qui souhaitent récupérer leur colis à l’heure et au jour de leur choix, dans un commerce situé près de leur domicile ou lieu de travail. Et ce mode de livraison est plus économique, ce qui fera vos affaires et celles de vos clients en ligne.
+
+### Colissimo : la livraison de colis par La Poste
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-colissimo.png" alt="Mode de livraison Colissimo" />
+
+La Poste propose différentes solutions de livraison aux professionnels, entreprises et e-commerçants. Parmi elles figure une offre d’expédition classique de colis en 2 jours ouvrés : [Colissimo](/ecommerce/tunnel-de-vente/livraison/colissimo/). Connue de tous, elle est associée à de nombreux services qui sécurisent les livraisons et favorisent l’acquisition et la fidélisation de clientèle : suivi de colis en temps réel, retour produit en boîte aux lettres, reprogrammation de livraison, etc. Découvrez tous les avantages de ce service de livraison de colis.
+
+### FedEx, le poids lourd américain de la livraison express à l’international
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-fedex.jpg" alt="Mode de livraison FedEx" />
+
+Créée en 1971, la société [FedEx](/ecommerce/tunnel-de-vente/livraison/fedex/) bénéficie d’une solide expérience en matière de transport, ce qui lui vaut une excellente réputation, notamment de l’autre côté de l’Atlantique. En 2016, avec le rachat de TNT, FedEx est également devenu un acteur prépondérant de la livraison express de colis en Europe. Si vous souhaitez développer votre e-commerce à l’international ou bénéficier d’un service de livraison express en France ou en Europe, découvrez les solutions proposées par ce géant du transport aérien et routier.
+
+### UPS, un des leaders mondiaux du transport express
+
+<img class="animate zoomIn margin-auto" src="/images/livraison/logo-ups.png" alt="Mode de livraison UPS" />
+
+Les employés d’UPS sont reconnaissables entre tous avec leur uniforme marron, couleur reprise dans l’habillage des véhicules et dans le logo de l’entreprise. Celle qu’on surnomme « Big Brown » est connue de tous, une réputation qu’elle doit notamment à sa longue histoire. Créée en 1907, [UPS](/ecommerce/tunnel-de-vente/livraison/ups/) bénéficie d’une solide expérience et, au cours des décennies, elle a étendu son réseau et perfectionné ses services. Découvrez toutes les solutions proposées par UPS aux acteurs du e-commerce.
+
 ## Les frais de livraison
 
 Votre site de vente en ligne doit communiquer de manière précise à l’internaute les modalités liées à la livraison de ses achats. Les frais de port doivent être transparents. Ils peuvent être réduits selon des conditions que vous définissez. Les frais de port peuvent aussi être offerts, totalement (franco de port) ou uniquement à partir d’un certain montant d’achat. 
