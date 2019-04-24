@@ -62,6 +62,22 @@ Pour choisir une solution, vous devrez comparer les offres :
 -	L’intégration : pouvez-vous facilement activer le module de paiement depuis l’administration de votre site ou devez-vous faire appel à un prestataire ? Avez-vous besoin de développer des fonctionnalités spécifiques ?
 -	La sécurité : c’est primordial. Non seulement, les dispositifs de sécurisation bancaire (3D Secure, protocole HTTPS, protocole SSL…) vous protègent des fraudes, telles que les impayés. Mais ils rassurent aussi l’internaute. 
 
+### PayPal, un service de paiement plébiscité par les internautes
+
+Proposer les paiements par compte [PayPal](/ecommerce/tunnel-de-vente/paiement/paypal/) sur votre site e-commerce vous permet non seulement de gérer les transactions, mais aussi de séduire de nouveaux clients. La plateforme enregistre en effet près de 270 millions d’utilisateurs dans le monde. Les raisons de son succès : la simplicité d’utilisation, la rapidité du paiement et la popularité d’un service accessible sur plus 190 marchés dans le monde. Nous vous proposons d’en savoir plus sur cette solution de paiement, son fonctionnement et ses avantages.
+
+### PayZen : gérez toutes vos transactions, même à l’international
+
+Parmi toutes les solutions de paiement disponibles sur le marché, il n’est pas toujours facile de s’y retrouver. Nous vous aidons dans votre choix et nous vous proposons de découvrir une des solutions les plus répandues en France : [PayZen](/ecommerce/tunnel-de-vente/paiement/payzen/). Cette plateforme de paiement 100 % made in France et sécurisée autorise de multiples moyens et types de paiements, même pour une clientèle internationale.
+
+### CyberSource : gérez vos paiements en ligne et sécurisez les transactions
+
+Vous recherchez une solution de paiement complète qui vous permet d’accepter de nombreux moyens de paiement dans différents pays et devises ? Découvrez les solutions proposées par [CyberSource](/ecommerce/tunnel-de-vente/paiement/cybersource/), une filiale de Visa qui accompagne les e-commerçants depuis les années 90. Par ailleurs, cette société américaine s’est fait une spécialité de la lutte contre la fraude. Elle a développé des outils de détection et de prévention des fraudes qui ont fait sa réputation à travers le monde. Plus de 400 000 entreprises font déjà appel à ses services.
+
+### Ogone/Ingenico ePayments : gérez toutes vos transactions grâce à un service complet
+
+Plus de 150 méthodes de paiement et plus de 150 devises acceptées, une gestion omnicanal des transactions, une présence dans plus de 170 pays, une expérience de plus de 20 ans… : [Ogone](/ecommerce/tunnel-de-vente/paiement/ogone/), aujourd’hui division du groupe français Ingenico, multiplie les arguments en faveur de sa solution de paiement en ligne et mobile. Découvrez les fonctionnalités de la plateforme Ingenico ePayments (ex-Ogone) et ses nombreux avantages.
+
 ## Comment mettre en place une solution de paiement sur un site de vente en ligne ?
 
 Après avoir signé un contrat de VAD (Vente à Distance) avec une banque ou un prestataire de paiement, vous pourrez intégrer un module de paiement sur votre site e-commerce, quel que soit le CMS utilisé (Magento, PrestaShop, etc.). Sa mise en place demande aussi de l’attention :
