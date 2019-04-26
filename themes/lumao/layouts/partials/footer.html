@@ -1,6 +1,7 @@
 	<footer class="footer-bottom">
 		<p class="copyright">&copy; {{ now.Year }} Lumao SASU <img src="{{ .Site.BaseURL }}favicon-32x32.png" alt="agence web Lumao" class="copyright__logo" /> - 835 305 657 R.C.S. Annecy - Développé avec <i class="fa fa-heart-o"></i> par {{ if eq $.Site.LanguageCode "fr-fr" }}{{ if .IsHome }}<a href="http://lavoweb.net">{{ end }}{{ end }}LavoWeb{{ if eq $.Site.LanguageCode "fr-fr" }}{{ if .IsHome }}</a>{{ end }}{{ end }} - {{ $.Site.Params.City }}</p>
 		<p class="copyright">Nous nous déplaçons sur {{ $.Site.Params.Cities }}</p>
+		<p class="copyright">Le nom "Magento" et le logo sont des marques commerciales de Magento, Inc.</p>
 	</footer>
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}dist/all.css">
 	<script src="{{ .Site.BaseURL }}dist/all.js"></script>
