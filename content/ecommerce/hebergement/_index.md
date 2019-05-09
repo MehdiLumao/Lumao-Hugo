@@ -40,6 +40,22 @@ Pour un site e-commerce, un hébergement doit pouvoir garantir :
 -	La gestion des pics de fréquentation, en période de soldes par exemple : pas de ralentissement, d’indisponibilité de service, de panne, etc.
 -	Un support réactif et de qualité
 
+## Docker : les avantages de la conteneurisation pour votre structure
+
+Les applications sont de plus en plus complexes. Par conséquent, elles demandent de l’espace et sont gourmandes en ressources. Pour optimiser une structure d’hébergement, les conteneurs sont devenus la solution la plus en vue. Et la plateforme [Docker](/ecommerce/hebergement/docker/) permet de créer et de déployer efficacement des conteneurs sur différents serveurs. Nous vous proposons d’en savoir plus sur cette technologie et ses différents avantages.
+
+## AWS, GCP, Azure : les leaders de l’hébergement sur le Cloud
+
+Les GAFAM sont en première ligne de la guerre pour la domination du cloud computing. Amazon, Google et Microsoft ont ainsi tous développé leur propre plateforme : [AWS, GCP et Azure](/ecommerce/hebergement/aws-gcp-azure/) qui, chacune, offre des solutions et des produits performants, sécurisés et économiques. Nous vous proposons d’en savoir plus sur chacun de ces puissants acteurs de l’hébergement web et du cloud computing.
+
+## OVH, hébergeur numéro 1 en France
+
+« On vous héberge ? » : c’est la question que vous pose [OVH](/ecommerce/hebergement/ovh/), hébergeur français dont la création remonte à 1999. Désormais à la tête d’un des parcs de serveurs les plus étendus du monde, la société roubaisienne fait figure de leader en matière de services cloud et d’hébergement. OVH propose aussi d’enregistrer votre nom de domaine, de vous fournir un accès internet, de déployer votre solution de téléphonie IP… Découvrez toutes les offres d’hébergement proposées par cette « licorne » française.
+
+## CDN Cloudflare : vos contenus web se rapprochent de vos clients
+
+Les CDN sont devenus en quelques années indispensables à une bonne expérience utilisateur. En effet, les sites internet sont de plus en plus volumineux, tout comme le trafic, et celui-ci provient du monde entier. Pour mettre en relation facilement votre site et vos clients, le réseau de diffusion de contenu est la solution à retenir. Rapprochez vos contenus de vos clients grâce au [CDN Cloudflare](/ecommerce/hebergement/cloudflare/). Nous vous proposons d’en savoir plus sur cette solution.
+
 Magento est un environnement complexe qui demande des ressources importantes. C’est pourquoi, en tant qu’experts de cette plateforme, nous sommes à même de vous conseiller la solution d’hébergement adaptée à votre site.
 
 Pour en savoir plus : [Eskio](https://eskio.net/)
