@@ -56,6 +56,12 @@ Dans la grande famille des CMS e-commerce, [Shopify](/ecommerce/cms/shopify/) ti
 
 Depuis 2016, [Demandware](/ecommerce/cms/demandware/) se nomme Commerce Cloud. En effet, ce CMS a été acquis par le géant mondial du CRM (Customer Relationship Management), Salesforce. Spécialisée depuis les années 2000 dans les logiciels en mode SaaS de gestion de la relation client (CRM/GRC), la société américaine a décidé d’enrichir son catalogue produits d’un CMS puissant : Commerce Cloud Salesforce. Nous vous proposons d’en savoir plus sur cette plateforme web e-commerce.
 
+## SAP Customer Experience / SAP Hybris
+
+<img class="animate zoomIn margin-auto" src="/images/cms/hybris.png" alt="CMS E-commerce Hybris" />
+
+Sans doute connaissez-vous déjà SAP pour ses logiciels ERP, des solutions de gestion performantes qui dominent largement ce marché au niveau mondial. Mais la société allemande n’en a pas fini d’innover. Elle propose désormais une suite de solutions cloud dédiées entièrement au commerce, au marketing et à la relation client : [SAP Customer Experience](/ecommerce/cms/hybris/) (ex-SAP Hybris). Nous vous proposons de découvrir les modules et fonctionnalités de cette solution pensée pour les stratégies e-commerce omnicanal.
+
 ## Sylius, un Framework e-commerce basé sur Symfony
 
 <img class="animate zoomIn margin-auto" src="/images/cms/sylius.png" alt="CMS E-commerce Sylius" />
