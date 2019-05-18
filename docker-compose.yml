@@ -6,3 +6,7 @@ services:
       - WORKDIR=/home/workspace
     volumes:
       - ./:/home/workspace
+  jekyll:
+    image: jekyll/jekyll
+    volumes:
+      - ./public:/srv/jekyll

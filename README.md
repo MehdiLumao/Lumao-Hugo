@@ -6,6 +6,7 @@
 docker-compose run gulp npm install
 docker-compose run gulp gulp css images js
 hugo
+docker-compose run jekyll jekyll build
 ```
 
 # Testing
