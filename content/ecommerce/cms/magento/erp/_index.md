@@ -1,6 +1,6 @@
 +++
 date = "2018-12-16"
-title = "Connecter Magento et ERP : Lumao gère votre Projet de A à Z"
+title = "Connecter Magento 2 et ERP : Lumao gère votre Projet de A à Z"
 h1 = "Assurez la communication entre site Magento et ERP de l’entreprise"
 description = "Lumao met en place des solutions pour connecter l’ERP de votre entreprise avec votre site e-commerce Magento. Demandez ici un devis gratuit et personnalisé."
 draft = false
@@ -14,7 +14,7 @@ synchroniser les données entre site Magento et ERP, plusieurs solutions techniq
 définissons celle qui convient à votre activité, à vos besoins et à votre stratégie commerciale.
 Contactez Lumao pour obtenir un devis personnalisé et gratuit.
 
-## Magento et ERP : synchronisez site marchand et outil de gestion
+## Magento 2 et ERP : synchronisez site marchand et outil de gestion
 
 Avec le développement du e-commerce, de plus en plus d’entreprises ont besoin d’intégrer leur(s)
 site(s) de vente en ligne dans leur système d’information. Pour cela, il est nécessaire de créer une

@@ -1,6 +1,6 @@
 +++
 date = "2019-01-29"
-title = "Magento Certified Developer | Lumao, agence certifiée Magento"
+title = "Magento 2 Certified Developer | Lumao, agence certifiée Magento"
 h1 = "Magento Certified Developer"
 description = "Pour le développement de votre site marchand, faites appel à des experts. Lumao est une agence certifiée Magento, le CMS e-commerce le plus utilisé."
 draft = false
@@ -24,7 +24,7 @@ Au sein de notre agence, nous disposons des cinq certifications proposées par M
 - Magento Certified Solution Specialist : cette certification teste les chefs de projet e-commerce Magento sur leurs capacités à modéliser un projet web Magento. Elle est centrée sur les règles de gestion natives du CMS (configuration du back-office) et sur le e-commerce global. Le développeur certifié est ainsi capable de répondre à tous les besoins e-commerce de son client.
 - Magento 2 Associate Developer :  elle valide les compétences du développeur et les connaissances de Magento 2 (modifications de l'interface utilisateur, optimisation de la base de données, personnalisations, structure du catalogue et de la commande…). Nos développeurs sont donc capables de migrer votre site e-commerce vers Magento 2.
 
-## Experts e-commerce certifiés Magento
+## Experts e-commerce certifiés Magento 2
 
 Le choix d’un prestataire pour la réalisation de son site e-commerce est crucial pour la bonne réussite du projet web. Nos certifications Magento témoignent donc de notre expertise et de notre parfaite maîtrise de ce CMS.
 

@@ -21,6 +21,7 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#da532c">
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangFr }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
+	<link rel="alternate" hreflang="x-default" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangCh }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlCh }}"/>
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangBe }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlBe }}"/>
 	<link rel="alternate" hreflang="{{ .Site.Params.hreflangLu }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlLu }}"/>
@@ -45,11 +46,7 @@
 		<div class="row">
 			<div class="col-sm-3">
 				<a class="animsition-link site-logo" href="{{ .Site.BaseURL }}" >
-					{{ if .IsHome }}
-					<h1><img src="{{ .Site.BaseURL }}agence_magento.svg" alt="Lumao - Développement Magento" /></h1>
-					{{ else }}
 					<img src="{{ .Site.BaseURL }}agence_magento.svg" alt="Lumao - Développement Magento" />
-					{{ end }}
 				</a>
 			</div>
 			<div class="col-sm-9">

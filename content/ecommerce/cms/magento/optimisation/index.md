@@ -1,6 +1,6 @@
 +++
 date = "2018-12-16"
-title = "Optimisation Magento : Améliorez vos Performances"
+title = "Optimisation Magento 2 : Améliorez vos Performances"
 h1 = "Optimisation Magento : améliorez les performances de votre site e-commerce"
 description = "Améliorez les performances de votre site Magento en confiant son optimisation à des experts de la plateforme e-commerce. Devis gratuit ici."
 draft = false
@@ -15,7 +15,7 @@ budget.
 
 ## Identifier les problèmes
 
-Avant d’optimiser un site Magento, il est indispensable de faire un audit, afin d’identifier les points
+Avant d’optimiser un site Magento 2, il est indispensable de faire un audit, afin d’identifier les points
 de blocage. Différentes données sont analysées afin de vérifier certaines hypothèses qui
 expliqueraient les baisses, ou le manque, de performance de votre site e-commerce.
 

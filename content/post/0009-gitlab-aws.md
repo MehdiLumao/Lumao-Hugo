@@ -67,7 +67,7 @@ On upload un fichier **app.zip**.
 ![AWS S3 upload fichier zip](/images/9/s3-5.png)
 On clic dessus pour voir le détail
 ![AWS S3 détail fichier uploadé](/images/9/s3-6.png)
-On copie-colle le lien, pour moi : **https://s3.eu-west-3.amazonaws.com/lumao-tuto-blog/app.zip**
+On copie-colle le lien, pour moi : **s3.eu-west-3.amazonaws_com/lumao-tuto-blog/app.zip**
 
 On le garde dans un coin, on en aura besoin après.
 

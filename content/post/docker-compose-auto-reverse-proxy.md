@@ -141,5 +141,5 @@ Træfɪk utilise le network _web_ pour communiquer avec ce container.
 Des articles qui m'ont bien aidé à mettre en place cette configuration :
 
 - https://techan.fr/traefik-et-docker-le-couple-ultime.html
-- https://blog.osones.com/traefik-un-reverse-proxy-pour-vos-conteneurs.html
+- https://blog.alterway.fr/traefik-un-reverse-proxy-pour-vos-conteneurs.html
 - https://github.com/mikeifomin

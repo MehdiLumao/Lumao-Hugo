@@ -1,6 +1,6 @@
 +++
 date = "2019-01-16"
-title = "Développement Magento : Réalisez votre Projet Web "
+title = "Développement Magento 2 : Réalisez votre Projet Web "
 h1 = "Développement Magento : des experts au service des e-commerçants"
 description = "Faites appel à des experts Magento pour développer votre site e-commerce et optimiser votre activité en ligne. Demandez-nous un devis sur mesure et gratuit."
 draft = false
@@ -14,7 +14,7 @@ La plateforme [Magento](/ecommerce/cms/magento/) est un CMS (Content Management 
 
 Pour votre commerce en ligne, faites la différence en développant votre site sous Magento. Grâce à cette **solution open source** enrichie de nombreuses extensions et fonctionnalités, vous allez pouvoir intégrer des milliers de produits pour décupler vos ventes sur le web et donc augmenter votre chiffre d’affaires. 
 
-## Pourquoi Magento est la meilleure solution e-commerce ?
+## Pourquoi Magento 2 est la meilleure solution e-commerce ?
 
 Un des points forts de Magento est sa **gestion multiboutique**. Idéale si vous dirigez plusieurs boutiques en ligne, vous pourrez toutes les gérer depuis une seule interface de gestion. Et pour profiter pleinement de toutes les ressources proposées par Magento, nos développeurs web vous conseillent sur le choix des plug-ins à installer. Votre clientèle est internationale ? Nous pouvons créer une boutique multilingue et multidevise.
 

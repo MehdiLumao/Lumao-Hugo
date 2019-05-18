@@ -1,6 +1,6 @@
 +++
 date = "2019-01-29"
-title = "Freelance Magento | Développement de projet web"
+title = "Freelance Magento 2 | Développement de projet web"
 h1 = "Freelance Magento : recherchez le bon profil"
 description = "Confiez le développement de votre projet e-commerce à des experts certifiés Magento. Nous vous proposons un devis gratuit et 100 % sur mesure."
 draft = false
@@ -28,7 +28,7 @@ Dès lors, une entreprise qui propose ses produits et/ou services sur un site Ma
 
 Les profils sont donc nombreux. Pour choisir un freelance, vous devez donc d’abord définir vos besoins en matière de prestations et de délais de livraison, ainsi que votre budget. L’avantage pour l’entreprise est de limiter les coûts en choisissant de faire appel ponctuellement à des professionnels, sans avoir à les recruter ou à former des équipes en interne.
 
-Pour trouver un développeur Magento Freelance, plusieurs solutions existent :
+Pour trouver un développeur Magento 2 freelance, plusieurs solutions existent :
 
 -	Les plateformes web spécialisées dans la mise en relation entre professionnels freelance et clients
 -	Le bouche-à-oreille

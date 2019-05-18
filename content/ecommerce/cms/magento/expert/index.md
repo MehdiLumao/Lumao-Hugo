@@ -1,6 +1,6 @@
 +++
 date = "2018-12-16"
-title = "Expert Magento | Développeur Web et Equipe Magento"
+title = "Expert Magento 2 | Développeur Web et Equipe Magento"
 h1 = "Expert Magento : bien plus qu’un développeur web au service de votre projet e-commerce"
 description = "Avec Lumao, votre projet e-commerce prend la voie du succès. Notre équipe d’experts Magento met à votre disposition toutes ses compétences. Devis gratuit."
 draft = false
@@ -17,7 +17,7 @@ demande à être construit, faites appel à une équipe d’experts Magento. Dé
 intégrateurs et chefs de projet e-commerce multiplient les savoir-faire et les domaines de
 connaissance, de manière à vous proposer une offre 100 % sur mesure.
 
-## Pourquoi faire appel à des experts Magento ?
+## Pourquoi faire appel à des experts Magento 2 ?
 
 Une équipe d’experts Magento se charge de :
 - Concevoir votre site e-commerce : ils étudient votre projet, vos besoins fonctionnels et la

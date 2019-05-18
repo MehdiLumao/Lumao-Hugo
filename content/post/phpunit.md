@@ -5,7 +5,6 @@ draft = false
 
 +++
 
-# PHPUnit
 ## Installation
 ````
 composer require phpunit/phpunit

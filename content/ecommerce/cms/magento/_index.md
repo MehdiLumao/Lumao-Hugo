@@ -1,6 +1,6 @@
 +++
 date = "2018-10-08-7"
-title = "Magento, une solution et des fonctionnalités pour votre boutique"
+title = "Magento 2, une solution et des fonctionnalités pour votre boutique"
 h1 = "Magento : une solution e-commerce performante"
 description = "Avec la plateforme Magento, boostez votre activité de vente en ligne ! Pour votre boutique, demandez un devis à notre agence spécialisée depuis 2008."
 draft = false
@@ -10,7 +10,7 @@ draft = false
 
 Lancé en 2008, Magento est un [CMS e-commerce](/ecommerce/cms/) puissant, permettant de créer et de gérer les sites de vente en ligne les plus divers. Cette plateforme open source s’est d’abord imposée aux Etats-Unis, puis à travers le monde entier. Elle revendique plus de 240 000 sites. En France aussi, cette solution technique a su convaincre bon nombre de e-commerçants et de développeurs, dont les experts de l’agence Lumao. Complète, flexible, évolutive : cette solution permet de développer des sites uniques et performants. Nous vous proposons ici d’en savoir plus sur ce CMS qui compte parmi les leaders du marché. Et pour la création de votre site Magento, demandez un devis gratuit et personnalisé à notre agence.
 
-## Pour votre projet e-commerce, faites appel à un expert Magento
+## Pour votre projet e-commerce, faites appel à un expert Magento 2
 
 Chez Lumao, vous êtes en relation avec une équipe spécialisée en création de sites de vente en ligne.
 Profitez des conseils et des compétences d’un [expert Magento](/ecommerce/cms/magento/expert/). Cette solution open source est
@@ -38,7 +38,7 @@ réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
 
 Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de [Magento Certified Developer](/ecommerce/cms/magento/certified-developer/). Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.
 
-## Freelance Magento : ce qu’il faut savoir
+## Freelance Magento 2 : ce qu’il faut savoir
 
 Vous souhaitez vendre vos produits ou vos services sur internet ? Et vous désirez faire appel à un [freelance Magento](/ecommerce/cms/magento/freelance/) ? Ils sont nombreux, ces professionnels, à proposer leurs services, tant la demande ne cesse d’augmenter. Le e-commerce est devenu incontournable et, par conséquent, le besoin en sites marchands ne cesse de grandir. Que vous fassiez appel à un développeur freelance ou à une agence spécialisée telle que Lumao, il sera toujours nécessaire de débuter votre projet web par une analyse concrète et précise de vos besoins. Et ce, sur le long terme. Cela permettra de déterminer les solutions à retenir, les compétences techniques requises, le nombre d’experts… et de dresser un devis détaillé adapté à vos objectifs.
 
@@ -72,7 +72,7 @@ Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur vot
 
 ## Confiez la maintenance de votre site Magento à des experts
 
-Une plateforme open source telle que Magento demande à être entretenue avec soin pour rester efficace sur la durée. En effet, parce que tout va très vite dans le web, votre site e-commerce doit être à jour, fonctionnel et exempt de toutes failles de sécurité. Le risque principal : un site qui ne s’affiche plus pendant des heures, voire des jours… Pour assurer la pérennité de votre boutique en ligne, un contrat [Magento maintenance](/ecommerce/cms/magento/maintenance/) est conseillé. Des experts de la solution apportent leur savoir-faire et leurs compétences techniques pour prévenir les problèmes, corriger les bugs, intervenir en cas d’urgence et améliorer les performances du site.
+Une plateforme open source telle que Magento 2 demande à être entretenue avec soin pour rester efficace sur la durée. En effet, parce que tout va très vite dans le web, votre site e-commerce doit être à jour, fonctionnel et exempt de toutes failles de sécurité. Le risque principal : un site qui ne s’affiche plus pendant des heures, voire des jours… Pour assurer la pérennité de votre boutique en ligne, un contrat [Magento maintenance](/ecommerce/cms/magento/maintenance/) est conseillé. Des experts de la solution apportent leur savoir-faire et leurs compétences techniques pour prévenir les problèmes, corriger les bugs, intervenir en cas d’urgence et améliorer les performances du site.
 
 ## Assurez la communication entre site Magento et ERP de l’entreprise
 
@@ -102,7 +102,7 @@ ces données. Mais comment connecter [PIM et Magento](/ecommerce/cms/magento/pim
 Comment assurer une bonne synchronisation sans perte de performance ? Lumao vous accompagne
 dans votre projet et trouve les solutions techniques adaptées à vos besoins.
 
-## Optimisation Magento : confiez-nous votre projet
+## Optimisation Magento 2 : confiez-nous votre projet
 
 Vous souhaitez améliorer les performances de votre site e-commerce ? Son taux de conversion n’est
 pas en adéquation avec vos objectifs, vous constatez une baisse d’activité anormale ? D’où viennent
