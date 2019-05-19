@@ -3218,7 +3218,7 @@ p {
   /* line 68, ../sass/modules/_site-header.scss */
   .menu li {
     float: left;
-    padding-left: 20px;
+    padding-left: 15px;
   }
 }
 @media (min-width: 992px) {
