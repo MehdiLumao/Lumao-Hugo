@@ -3,11 +3,11 @@
     <div class="container">
         <div class="title-block ">
             <h1 class="title-big">
-                Nos références
+                {{ default .Title .Params.h1 }}
             </h1>
         </div>
         <div class="row">
-            <p>Voici quelques références, nous avons un contrat de confidentialité avec la plupart de nos clients.</p>
+            {{ .Content }}
             <br />
         </div>
         <div class="row">
@@ -15,8 +15,9 @@
                 <div class="items-filter filter-button">
                     <span data-filter="*" class="active">Toutes</span>
                     <span data-filter=".dev">Dev</span>
-                    <span data-filter=".seo">SEO</span>
+                    <span data-filter=".hebergement">Hébergement</span>
                     <span data-filter=".perf">Performance</span>
+                    <span data-filter=".seo">SEO</span>
                 </div>
             </div>
         </div>
