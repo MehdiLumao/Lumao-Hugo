@@ -115,6 +115,18 @@ besoins et de vos objectifs en matière de rentabilité.
 
 Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une [refonte Magento](/ecommerce/cms/magento/refonte/) s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.
 
+## Développeur
+
+Choisir son [développeur Magento](/).
+
+## Référencement
+
+Créer une boutique performance n'est que la première étape de votre business en ligne, le plus important est le [référencement Magento](/ecommerce/referencement/), nous proposons des prestations via nos partenaires.
+
+## Hébergement
+
+Choisir un [hébergement Magento](/ecommerce/hebergement/) est une étape cruciale dans votre projet, c’est une solution e-commerce complexe qui nécessite des compétences très pointue. Il vaut mieux choisir un hébergeur qui travaille uniquement sur ce CMS pour avoir les meilleurs résultats.
+
 ## Formez-vous à Magento 2
 
 Performante, puissante, sécurisée, flexible : la nouvelle version de Magento offre de nombreux atouts pour votre site de vente en ligne. Mais un développement sous Magento 2 demande certaines compétences, des exigences techniques qui étaient déjà de mise pour exploiter Magento. Si vous souhaitez connaître les bonnes pratiques et gagner du temps dans la prise en main de l’outil, suivez une [formation Magento 2](/ecommerce/cms/magento/formation/). Grâce à elle, Magento 2 n’aura plus de secret pour vous et vos équipes de développeurs.
