@@ -115,17 +115,22 @@ besoins et de vos objectifs en matière de rentabilité.
 
 Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une [refonte Magento](/ecommerce/cms/magento/refonte/) s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.
 
-## Développeur
+## Développeur : avoir une boutique à votre image
 
-Choisir son [développeur Magento](/).
+Choisir son [développeur Magento](/) est une étape cruciale pour réaliser votre site e-commerce avec succès. Comment choisir entre un freelance et une agence ? Faut-il privilégier la réactivité ou la sécurité ?
 
-## Référencement
+## Référencement, avoir un site visible
 
-Créer une boutique performance n'est que la première étape de votre business en ligne, le plus important est le [référencement Magento](/ecommerce/referencement/), nous proposons des prestations via nos partenaires.
+Créer une boutique performance n'est que la première étape de votre business en ligne, le plus important est le [référencement Magento](/ecommerce/referencement/), nous proposons des prestations via nos partenaires. Ce serait dommage d'avoir le plus beau site mais que personne ne le sache.
 
-## Hébergement
+## De bonnes performances avec un hébergement fiable
 
-Choisir un [hébergement Magento](/ecommerce/hebergement/) est une étape cruciale dans votre projet, c’est une solution e-commerce complexe qui nécessite des compétences très pointue. Il vaut mieux choisir un hébergeur qui travaille uniquement sur ce CMS pour avoir les meilleurs résultats.
+Choisir un [hébergement Magento](/ecommerce/hebergement/) est une étape cruciale dans votre projet, c’est une solution e-commerce complexe qui nécessite des compétences très pointue. Il vaut mieux choisir un hébergeur qui travaille uniquement sur ce CMS pour avoir les meilleurs résultats. Nous proposons une offre avec monitoring 7 jours sur 7, 24 heures sur 24 de base.
+Si votre site à un problème le vendredi à 18h, vous n'attendrez pas jusqu'au lundi pour avoir une réponse.
+
+## Agence e-commerce : un studio à votre service
+
+Plutôt que de proposer une [agence Magento](/agence-ecom/) classique, nous préférons avoir un petit studio de développement composé d'expert et non de stagiaires.
 
 ## Formez-vous à Magento 2
 

@@ -15,7 +15,7 @@ réalisation à des professionnels qui maitrisent parfaitement les techniques de
 commerce comme les solutions Magento ou PrestaShop.
 
 En choisissant notre agence Lumao, vous optez pour une équipe professionnelle spécialisée dans le
-Magento qui saura comprendre vos besoins pour réaliser un site parfaitement fonctionnel pour vos
+CMS Magento qui saura comprendre vos besoins pour réaliser un site parfaitement fonctionnel pour vos
 clients.
 
 Pour vous garantir nos compétences, vous pourrez compter sur la satisfaction de nos clients actuels,
