@@ -10,6 +10,8 @@ Ce sont les géants mondiaux de l’[hébergement](/ecommerce/hebergement/) web.
 
 ## Amazon Web Services : le leader du marché
 
+<img class="animate zoomIn margin-auto" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" />
+
 AWS, pour Amazon Web Services, est une plateforme qui regroupe les services cloud proposés par le géant du e-commerce Amazon. Il fait figure de pionnier ; en effet, Amazon commercialise sa puissance infrastructure informatique depuis 2006. AWS s’est ainsi largement imposé dans le monde, même si d’autres acteurs d’importance se sont immiscés sur ce marché en pleine expansion.
 
 La plateforme AWS dispose de multiples fonctionnalités, modulables et évolutives : stockage, calcul, diffusion de données, analyse et machine learning, intégration d’applications, outils pour développeurs, sécurité…

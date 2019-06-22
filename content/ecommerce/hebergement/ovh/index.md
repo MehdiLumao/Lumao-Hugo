@@ -10,6 +10,8 @@ Fondée en 1999 par un étudiant lillois, la société OVH revendique aujourd’
 
 ## Présentation générale d’OVH
 
+<img class="animate zoomIn margin-auto" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" />
+
 OVH est une entreprise française dont le siège se situe à Roubaix, dans le Nord de la France. Elle a été fondée en 1999 par Octave Klaba. Cet hébergeur propose des solutions cloud privé et public, des serveurs dédiés, l’enregistrement de noms de domaines, des services de télécommunications, etc. 
 
 Avec aujourd’hui 28 datacenters répartis dans le monde, OVH est à la tête d’un des plus grands parcs de serveurs au monde. La société française revendique 18 millions d’applications hébergées et 1,3 million de clients dans près de 140 pays. Elle dispose également d’une puissance de frappe considérable puisqu’elle offre une capacité de 12 Tbps de bande passante.

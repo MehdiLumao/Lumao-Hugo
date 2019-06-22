@@ -12,6 +12,8 @@ Pour votre site internet et tous vos sites e-commerce, vous avez besoin d’un h
 
 Cloudflare est une société californienne créée en 2009. Ses fondateurs travaillent d’abord sur une solution pour lutter contre le spam ; ils mettent alors en place le projet Honey Pot. La protection et la sécurité sont toujours au cœur des solutions proposées par Cloudflare. Avec l’amélioration des performances web, ces services visent à toujours enrichir l’expérience utilisateur. Rendre accessibles les contenus à travers un réseau sécurisé, voici la principale mission de Cloudflare. 
 
+<img class="animate zoomIn margin-auto" src="/images/partners/cloudflare.svg" alt="Cloudflare CDN" />
+
 ## CDN : définition et avantages
 
 Avant de détailler l’offre de Cloudflare, revenons sur ce qu’est un CDN. Cette technologie est en effet devenue indispensable. Les volumes de données sont toujours plus importants et ils sont appelés partout dans le monde, parfois sur des laps de temps restreints, ce qui entraîne des pics de fréquentation et des montées en charge qu’un serveur ne peut pas toujours correctement gérer. En découlent des ralentissements de chargement, des pannes de services, des sites web inaccessibles…, autant de sources de frustration pour l’internaute, et de baisse de trafic et de ventes pour vous, e-commerçants.

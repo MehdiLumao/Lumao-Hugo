@@ -10,6 +10,8 @@ La configuration de votre [hébergement](/ecommerce/hebergement/) doit être opt
 
 ## Présentation générale de Docker
 
+<img class="animate zoomIn margin-auto" src="/images/partners/docker.svg" alt="Docker solution de containeurs" />
+
 Docker est le nom d’un logiciel imaginé par un ingénieur français, Solomon Hykes, et porté par une société du même nom, Docker Inc. Le projet open source a été lancé en 2013 et, depuis, Docker compte plusieurs millions d’utilisateurs dans le monde. 
 
 En quoi consiste Docker ? Il s’agit d’une plateforme de containérisation à partir de laquelle on peut facilement « packager » une application. Dans un « conteneur » isolé sont contenus l’application et tous les éléments, ou dépendances, dont elle a besoin pour fonctionner correctement : les librairies, les fichiers sources, les outils, les logiciels… Ce conteneur pourra ensuite être exécuté sur n’importe quel serveur et c’est le système d’exploitation (OS) de celui-ci qui est utilisé.
