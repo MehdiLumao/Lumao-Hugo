@@ -4,12 +4,19 @@ title = "Contact Lumao"
 draft = false
 slug = "contact"
 +++
+Intéressé pour en savoir plus sur notre expertise certifiée par Magento ?
+
+<div class="row">
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+</div>
+
 N'hésitez pas à parler de votre projet.
 
 <i class="fa fa-phone" aria-hidden="true"></i> +33 (0)4 58 10 14 18
 
 <i class="fa fa-at" aria-hidden="true"></i> via ce formulaire
-<form class="contact-form"  action="https://formspree.io/aurelien@lavoweb.net" method="POST">
+<form class="contact-form" action="https://formspree.io/aurelien@lavoweb.net" method="POST">
     <div class="row">
         <div class="col-md-6">
             <input class="form-input" type="text" placeholder="Nom" name="name" required/>
