@@ -7,6 +7,8 @@ slug = "job-magento"
 +++
 Avant toute chose, l'offre est pour plusieurs profils, c'est normal de ne pas avoir toutes les compétences !
 
+[Qui sommes-nous ?](/qui-sommes-nous/)
+
 On recherche un **[développeur Magento](/)** confirmé en télétravail (on paye l'espace de coworking si besoin). Tu peux travailler de n’importe où avec une bonne connexion, même à l’étranger si cela n’influence pas ta productivité.
 Si la stack technique te botte mais que tu es junior, c'est possible également de te former (uniquement sur Annecy) si tu es étudiant ou si tu as des compétences en graphisme/ops.
 

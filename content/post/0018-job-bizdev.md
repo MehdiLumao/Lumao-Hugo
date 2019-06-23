@@ -6,6 +6,8 @@ draft = false
 slug = "job-bizdev"
 +++
 
+[Qui sommes-nous ?](/qui-sommes-nous/)
+
 ## Vos principales missions
 
 Vous prospectez des clients B2B ayant envie d'ouvrir un site de vente en ligne. 

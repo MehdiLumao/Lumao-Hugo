@@ -6,6 +6,8 @@ draft = false
 slug = "job-apporteur-affaire"
 +++
 
+[Qui sommes-nous ?](/qui-sommes-nous/)
+
 Bonjour,
 
 On recherche un business developer/apporteur d'affaire capable d'apporter des projets e-commerce
