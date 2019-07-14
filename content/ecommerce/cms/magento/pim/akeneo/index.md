@@ -54,6 +54,6 @@ Le prix de la licence annuelle dépend du nombre de canaux dont vous avez besoin
 
 ## Comment mettre en place PIM Akeneo ?
 
-Nos experts Akeneo vous accompagnent dans la mise en place de votre projet PIM. Nous pouvons également connecter votre PIM à votre système e-commerce Magento ou autre. Et nous proposons des développements Akeneo sur mesure, adaptés à vos besoins.
+Nos experts Akeneo vous accompagnent dans la mise en place de votre projet PIM. Nous pouvons également connecter votre PIM à votre système e-commerce Magento ou autre. Et nous proposons des [développements Akeneo](/post/developpement-akeneo/) sur mesure, adaptés à vos besoins.
 
 Demandez votre devis gratuit et personnalisé.
