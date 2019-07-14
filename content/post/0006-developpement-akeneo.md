@@ -14,7 +14,7 @@ qui stocke les médias (photos, vidéos, musiques...).
 
 Akeneo est développé en Symfony 2 et repose sur Oro Platform, un framework robuste et développé activement.
 
-Nous proposons du développement custom sur le PIM Akeneo.
+Nous proposons du développement custom sur le [PIM Akeneo](/ecommerce/cms/magento/pim/akeneo/).
 
 <div class="title-block ">
     <h2 class="title-big">
