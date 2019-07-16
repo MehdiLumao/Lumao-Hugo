@@ -18,6 +18,8 @@ Akeneo PIM est basé sur un Framework puissant, Symfony 2, et exploite les meill
 
 ## Les fonctionnalités d’Akeneo PIM
 
+<p class="title-middle"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fmHAz9pSS38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 Akeneo PIM offre de nombreuses fonctionnalités. Elles sont accessibles via une interface simple et ergonomique. Grâce à cet outil ultra performant, vous gérez efficacement :
 
 -	Les données techniques de vos produits : poids, dimensions, matière, couleur, ingrédients…
