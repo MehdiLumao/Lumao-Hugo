@@ -10,6 +10,8 @@ De nos jours, plus question d’improviser sa boutique en ligne ou son site inte
 
 ## Des experts de la vente en ligne à votre service
 
+<img class="animate zoomIn margin-auto" src="/images/ville/grenoble.png" alt="Grenoble" />
+
 Aujourd’hui, pour vendre vos produits en ligne, un simple site internet ne suffit plus. Les attentes de vos clients sont en effet toujours plus nombreuses et spécifiques. Il est impératif d’y répondre, et de les anticiper. Pour cela, rien ne vaut l’expertise de professionnels du webmarketing. Chez Lumao, nous bénéficions d’une longue expérience et nous avons aidé des centaines de clients à atteindre leurs objectifs, voire à les dépasser. Nous sommes toujours à l’écoute de vos besoins et nous cernons avec vous les caractéristiques de votre site internet. Nous pouvons alors sélectionner les solutions techniques et outils qui permettront de mettre en œuvre une stratégie digitale unique et efficace. Ainsi nous vous proposons :
 
 -	Création d’une boutique en ligne sous Magento, la solution e-commerce leader du marché

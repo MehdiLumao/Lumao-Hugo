@@ -10,6 +10,8 @@ Vous êtes à la recherche de professionnels capables de développer votre site 
 
 ## Confiez-nous votre projet web
 
+<img class="animate zoomIn margin-auto" src="/images/ville/annecy.png" alt="Annecy" />
+
 La création d’un site internet, d’autant plus dans le e-commerce, demande de la réflexion en amont. C’est pourquoi dans un premier temps nous prenons contact avec vous afin que vous nous présentiez votre projet :
 
 -	Création d’un site vitrine ou d’un site e-commerce Magento

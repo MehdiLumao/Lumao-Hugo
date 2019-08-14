@@ -10,6 +10,8 @@ Pour vendre vos produits à travers tout le Grand-Duché de Luxembourg et au-del
 
 ## Gagnez en visibilité sur le web
 
+<img class="animate zoomIn margin-auto" src="/images/ville/luxembourg.png" alt="Luxembourg" />
+
 Difficile aujourd’hui de se passer d’un site web. Petites ou grandes entreprises, institutions, professionnels indépendants… : donnez rendez-vous aux internautes sur un site internet qui saura retranscrire votre identité et vos savoir-faire. Nous réalisons des sites en responsive design, parfaitement adaptés aux nouvelles habitudes d’internautes de plus en plus mobiles. Avec un design à l’image de votre entreprise, de votre association, de votre marque…, votre site internet vous ressemble et véhicule le bon message auprès de votre audience, de manière fluide et innovante. Qui plus est, votre site web est construit pour répondre aux exigences des moteurs de recherche en matière de référencement. Nous vous aidons par ailleurs à optimiser encore votre visibilité en activant d’autres leviers que le SEO.
 
 N’attendez plus et contactez notre agence web au Luxembourg pour recevoir un devis entièrement personnalisé.

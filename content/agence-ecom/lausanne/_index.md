@@ -10,6 +10,8 @@ Nos équipes interviennent dans tous vos projets web à Lausanne. Sur mesure, no
 
 ## Stratégie, développement, référencement… : comment créer une boutique en ligne à Lausanne ?
 
+<img class="animate zoomIn margin-auto" src="/images/ville/lausanne.svg" alt="Lausanne" />
+
 Vous souhaitez proposer vos produits à la vente en ligne ? Votre activité de service a besoin de visibilité sur internet et d’outils pour favoriser les souscriptions ? Une boutique en ligne robuste et performante est la solution. Mais comment la mettre en œuvre ? Dans notre agence e-commerce à Lausanne, nous suivons ces différentes étapes :
 
 -	Etude approfondie de votre activité, du marché et de la concurrence

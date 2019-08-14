@@ -10,6 +10,8 @@ Pour vendre vos produits ou proposer vos services sur internet, faites appel à 
 
 ## A Paris, votre projet e-commerce est entre de bonnes mains
 
+<img class="animate zoomIn margin-auto" src="/images/ville/paris.svg" alt="Paris" />
+
 Nos équipes prennent en main votre projet e-commerce de A à Z :
 
 -	Analyse de votre activité : vente à distance, dropshipping, marketplace, service…
