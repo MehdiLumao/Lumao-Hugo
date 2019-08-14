@@ -10,6 +10,8 @@ Désormais, le commerce en ligne est une piste incontournable pour les marques s
 
 ## Votre boutique en ligne sur mesure
 
+<img class="animate zoomIn margin-auto" src="/images/ville/geneve.png" alt="Genève" />
+
 Une boutique en ligne ne peut plus se résumer à des fiches produits et à un module de paiement. Les internautes attendent des marques et des entreprises qu’elles leur proposent une véritable expérience, un parcours d’achat à la fois attrayant et efficace à travers une interface intuitive et esthétique. C’est pourquoi, avant de choisir un CMS ou un lot de fonctionnalités, nous analysons votre activité, ainsi que la concurrence et le marché sur lequel vous vous positionnez. Nous définissons ensuite une stratégie digitale adaptée à vos besoins, que vous vendiez en direct vos produits ou que vous ayez choisi un système d’affiliations, de dropshipping, d’abonnements, etc.
 
 Quel que soit la taille de votre catalogue produits, le nombre de connexions, le volume de trafic…, nous trouvons la solution technologique la mieux adaptée. Design, contenus, UX, fonctionnalités sont également étudiés de près afin de répondre précisément aux attentes de votre clientèle.

@@ -10,6 +10,8 @@ Parce que les besoins de nos clients sont tous différents, notre [agence e-comm
 
 ## Un site internet adapté aux besoins de votre entreprise
 
+<img class="animate zoomIn margin-auto" src="/images/ville/bordeaux.png" alt="Bordeaux" />
+
 Notre agence web est spécialisée dans la création de sites internet. Nous imaginons des solutions adaptées aux besoins de nos clients, qui leur permettront non seulement de gagner en visibilité sur le web, mais aussi de développer leur activité professionnelle et d’en faciliter la gestion. Ainsi, après une étude approfondie de vos besoins, nous vous proposons différents services :
 
 -	Définition de votre stratégie digitale et webmarketing : création de logo et d’identité graphique, analyse des besoins de vos clients, étude concurrentielle…

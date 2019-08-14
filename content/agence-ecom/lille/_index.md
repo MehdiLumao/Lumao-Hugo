@@ -10,6 +10,8 @@ Créée en 2008, notre [agence e-commerce](/agence-ecom/) vous accompagne dans l
 
 ## Concevons votre boutique en ligne
 
+<img class="animate zoomIn margin-auto" src="/images/ville/lille.png" alt="Lille" />
+
 A Lille comme ailleurs en France et dans le monde, le e-commerce est devenu incontournable. Les consommateurs sont de plus en plus nombreux à réaliser leurs achats en ligne. Si vous aussi, vous souhaitez proposer sur internet vos produits ou vos services, faites appel à une agence web qui réunit toutes les compétences pour créer une boutique entièrement sur mesure. Quel que soit le volume de votre catalogue, votre business model, la nature de votre activité professionnelle…, nous avons la solution technique qui saura mettre en avant votre marque : fonctionnalités, CMS, hébergement... 
 
 Qui plus est, pour que cette entreprise rime avec succès, vous travaillez en collaboration étroite avec nos experts du webmarketing. Ensemble, vous définissez votre stratégie e-commerce et actionnez les bons leviers pour vendre mieux et plus : design, expérience client, SEO (référencement naturel), SEA (référencement payant), réseaux sociaux… 
