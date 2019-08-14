@@ -27,6 +27,18 @@ Ce CMS offre de multiples possibilités et s’adapte à tous les types d’acti
 et peu importe le nombre et le type de produits et services que vous proposez, nous avons une solution. 
 Pour un [développement Magento](/ecommerce/cms/magento/developpement/) sur mesure, nous vous proposons un devis adapté à votre projet, à vos objectifs et à vos différentes problématiques.
 
+## Magento 2 : votre e-commerce passe la vitesse supérieure
+
+Depuis sa création en 2008, Magento s’est largement imposé sur le marché des CMS e-commerce. Complet et performant, il permet en effet la création et la gestion de boutiques en ligne sur mesure, 
+adaptées aux besoins des e-commerçants. Pour accompagner ces derniers à travers les nouveaux enjeux de la vente en ligne, la solution a évolué en 2015 avec une nouvelle version : Magento 2. 
+Elle enrichit la version originale de nombreux avantages : des temps de chargement plus courts, un contrôle systématique des modules, des mises à jour simplifiées, etc. De quoi booster votre activité en ligne. 
+Si votre site e-commerce n’a pas encore entamé sa migration vers Magento 2 : pensez-y. La fin du support et des mises à jour de sécurité de Magento est prévue pour 2020.
+
+## Module Magento : étendez les fonctionnalités de votre site e-commerce
+
+Les CMS peuvent tous être enrichis de nouvelles options et fonctionnalités. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de [modules Magento](/ecommerce/cms/magento/module/) 
+taillés sur mesure pour votre activité, vos produits, vos services… et vos clients. Gratuites ou payantes, ces extensions existent par milliers. Nous vous proposons de vous guider à travers ce riche catalogue et nous vous donnons la liste de nos modules préférés.
+
 ## Magento Solution Partner, un gage de qualité pour votre projet e-commerce
 
 Chez Lumao, nous nous sommes passionnés pour Magento dès les débuts de la solution, en 2008.
