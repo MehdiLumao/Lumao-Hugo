@@ -20,3 +20,6 @@ paginate = 1000
     robots = "INDEX,FOLLOW"
     cities = "Annecy, Bordeaux, Chambéry, Grenoble, Lyon, Paris et dans toute la Haute-Savoie"
     city = "Annecy, France"
+    postalCode = "74600"
+    street = "22 bd du Semnoz"
+    phone = "+33 (0)4 58 10 14 18"

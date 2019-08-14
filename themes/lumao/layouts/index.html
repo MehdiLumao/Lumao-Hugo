@@ -514,4 +514,128 @@
 		</div>
 	</div>
 </div>
+<script type="application/ld+json">// <![CDATA[
+{
+	"@context": "http://schema.org",
+	"@graph":
+	[
+		{
+			"@type": "Organization",
+			"@id":"{{ .Site.BaseURL }}#organization",
+			"name": "Lumao",
+			"description":"{{ .Description }}",
+			"telephone": "{{ $.Site.Params.Phone }}",
+			"logo":{
+				"@id": "{{ .Site.BaseURL }}#primaryimage"
+			},
+			"address": {
+				"@id": "{{ .Site.BaseURL }}#siegeadresse"
+			},
+			"funder":{
+				"@id":"{{ .Site.BaseURL }}#person"
+			},
+			"foundingDate":"2019-01-08",
+			"numberOfEmployees":3,
+			"sameAs":[
+				"https://www.facebook.com/lumaoweb/",
+				"https://twitter.com/LumaoSAS",
+				"https://fr.linkedin.com/company/lumao",
+				"https://www.verif.com/societe/LUMAO-835305657/",
+				"https://github.com/LavoWeb",
+				"https://www.cms.fr/prestataires/ads-entry-5934-lumao.html",
+				"https://digital-grenoble.com/startup/lumao/",
+				"https://www.societe.com/societe/lumao-835305657.html",
+				"https://partners.magento.com/portal/details/partner/id/1987/",
+				"https://www.infogreffe.fr/entreprise-societe/835305657-lumao-740118B002370000.html",
+				"https://opengento.fr/adherents/lumao/"
+			],
+			"url":"{{ .Site.BaseURL }}#webpage",
+			"contactpoint":{
+				"@id":"{{ .Site.BaseURL }}#contactpoint"
+			},
+			"aggregateRating":{
+				"@id":"{{ .Site.BaseURL }}#aggregateRating"
+			}
+		},
+		{
+			"@type": "Person",
+			"@id":"{{ .Site.BaseURL }}#person",
+			"familyName" : "Lavorel",
+			"givenName":"Aurélien",
+			"sameAs":[
+				"https://www.linkedin.com/in/aurelienlavorel/",
+				"https://twitter.com/LavoWeb"
+			]
+		},
+		{
+			"@type": "WebPage",
+			"@id": "{{ .Site.BaseURL }}#webpage",
+			"url": "{{ .Site.BaseURL }}",
+			"inLanguage": "fr-FR",
+			"name": "Lumao",
+			"isPartOf": {
+				"@id": "{{ .Site.BaseURL }}#website"
+			},
+			"about": {
+				"@id": "{{ .Site.BaseURL }}#organization"
+			},
+			"primaryImageOfPage": {
+				"@id": "{{ .Site.BaseURL }}#primaryimage"
+			}
+		},
+		{
+			"@type":"ImageObject",
+			"@id":"{{ .Site.BaseURL }}#primaryimage",
+			"url":"{{ .Site.BaseURL }}agence_magento.svg"
+		},
+		{
+			"@type": "WebSite",
+			"@id": "{{ .Site.BaseURL }}#website",
+			"url": "{{ .Site.BaseURL }}",
+			"name": "Lumao",
+			"publisher": {
+				"@id": "{{ .Site.BaseURL }}#person"
+			}
+		},
+		{
+			"@type":"Place",
+			"@id":"{{ .Site.BaseURL }}#place",
+			"address":{
+				"@id":"{{ .Site.BaseURL }}#siegeadresse"
+			}
+		},
+		{
+			"@type" : "ContactPoint",
+			"@id":"{{ .Site.BaseURL }}#contactpoint",
+			"telephone" : "{{ $.Site.Params.Phone }}",
+			"contactType" : "customer service",
+			"areaServed" : "FR"
+		},
+		{
+			"@type": "PostalAddress",
+			"@id":"{{ .Site.BaseURL }}#siegeadresse",
+			"addressLocality": "{{ $.Site.Params.City }}",
+			"postalCode": "{{ $.Site.Params.PostalCode }}",
+			"streetAddress": "{{ $.Site.Params.Street }}"
+		},
+		{
+			"@type": "PostalAddress",
+			"@id":"{{ .Site.BaseURL }}#formationadresse",
+			"addressLocality": "{{ $.Site.Params.City }}",
+			"postalCode": "{{ $.Site.Params.PostalCode }}",
+			"streetAddress": "{{ $.Site.Params.Street }}",
+			"sameAs":[
+				"https://www.google.com/maps/place/Lumao/@45.8801817,6.0972261,15z/data=!4m5!3m4!1s0x0:0x7b37d42d724d4c83!8m2!3d45.8801817!4d6.0972261"
+			]
+		},
+		{
+			"@type":"aggregateRating",
+			"@id":"{{ .Site.BaseURL }}#aggregateRating",
+			"ratingValue": "5",
+			"reviewCount": "12"
+		}
+
+	]
+}
+// ]]></script>
 {{ partial "footer.html" . }}
