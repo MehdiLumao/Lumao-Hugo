@@ -88,4 +88,4 @@ Livré avec PHP Storm, Docker, Phing, Git, une clé SSH, un accès aux emails/Gi
 - [Développeur](/post/job-magento/)
 - [Commercial](/post/job-bizdev/)
 - [Secrétaire](/post/job-secretaire/)
-- Chef de projet - pas encore en ligne
+- [Chef de projet](/post/job-cdp/)
