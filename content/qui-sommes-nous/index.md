@@ -79,9 +79,11 @@ Serveurs cher OVH, Online ou AWS.
 
 ## Poste de développement
 
-Pc sous linux (Ubuntu), écran 15", 16Go de Ram, un I7 et 521Go de SSD.
+Pc sous linux (Ubuntu), écran 15", 16Go de Ram, un I7 et 512Go de SSD.
 
-Livré avec PHP Storm, Docker, Phing, Git, une clé SSH, un accès aux emails/Gitlab.
+Livré avec PHP Storm (suite complète), Docker, Phing, Git, une clé SSH, un accès aux emails/Gitlab.
+
+Pour le dev front, une VM Windows avec la suite Adobe.
 
 ## Nos offres
 
