@@ -34,6 +34,10 @@ adaptées aux besoins des e-commerçants. Pour accompagner ces derniers à trave
 Elle enrichit la version originale de nombreux avantages : des temps de chargement plus courts, un contrôle systématique des modules, des mises à jour simplifiées, etc. De quoi booster votre activité en ligne. 
 Si votre site e-commerce n’a pas encore entamé sa migration vers Magento 2 : pensez-y. La fin du support et des mises à jour de sécurité de Magento est prévue pour 2020.
 
+## PWA, une solution pour des boutiques en ligne toujours plus performante
+
+« Mobile first » : telle est la devise des moteurs de recherche, des développeurs, des e-commerçants, des référenceurs, etc. Pour autant, les applications natives consultées sur mobile ne transforment pas forcément. Google promeut ainsi depuis quelque temps un tout nouveau standard web baptisé [PWA](/ecommerce/cms/magento/pwa/) (Progressive Web App). Différentes solutions existent pour créer ce type de sites e-commerce accessibles partout et tout le temps. Nous vous proposons d’en savoir plus.
+
 ## Module Magento : étendez les fonctionnalités de votre site e-commerce
 
 Les CMS peuvent tous être enrichis de nouvelles options et fonctionnalités. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de [modules Magento](/ecommerce/cms/magento/module/) 
