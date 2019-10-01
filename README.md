@@ -11,5 +11,5 @@ docker-compose run jekyll jekyll build
 
 # Testing
 ```
-hugo server --buildDrafts
+hugo server --buildDrafts 
 ```
