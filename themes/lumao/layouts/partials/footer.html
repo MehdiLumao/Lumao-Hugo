@@ -23,8 +23,12 @@
 				to_webp: true
 			});
 		}, false);
-
+		if (window.location.href.indexOf('post') == -1) {
+			var script = document.createElement('script');
+			script.src = 'https://static.zdassets.com/ekr/snippet.js?key=5834f365-e0f5-4aed-929d-fd5bce2c17f7';
+			script.id = 'ze-snippet';
+			document.write(script.outerHTML);
+		}
 	</script>
-	<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5834f365-e0f5-4aed-929d-fd5bce2c17f7"> </script>
 	</body>
 </html>
