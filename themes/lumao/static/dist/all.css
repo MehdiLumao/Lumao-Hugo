@@ -3213,6 +3213,7 @@ p {
 .menu li {
   text-align: center;
   position: relative;
+  list-style: none;
 }
 @media (min-width: 768px) {
   /* line 68, ../sass/modules/_site-header.scss */
@@ -8901,7 +8902,7 @@ time, mark, audio, video {
   font: inherit;
   font-size: 100%;
   vertical-align: baseline;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 /* line 22, ../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */

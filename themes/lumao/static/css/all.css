@@ -3213,6 +3213,7 @@ p {
 .menu li {
   text-align: center;
   position: relative;
+  list-style: none;
 }
 @media (min-width: 768px) {
   /* line 68, ../sass/modules/_site-header.scss */
