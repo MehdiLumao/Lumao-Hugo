@@ -377,8 +377,8 @@
 	</div>
 	<div class="container">
 		<div id="home-portfolio" class="row">
-            {{ range (where .Data.Pages "Type" "freference") }}
-                {{ .Render "list" }}
+            {{ range where .Site.RegularPages "Type" "freference" }}
+				{{ .Render "list" }}
             {{ end }}
 		</div>
 		<div class="row">
