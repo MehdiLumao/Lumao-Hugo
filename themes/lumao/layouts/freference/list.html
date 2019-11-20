@@ -1,4 +1,4 @@
-<div class="col-md-4 col-sm-6 col-xs-12 {{ delimit $.Params "tags" ' ' }}">
+<div class="col-md-4 col-sm-6 col-xs-12">
     <div class="item-block animate zoomIn">
         <div class="item-desc ">
             <div class="adjust-block">
@@ -6,7 +6,7 @@
             </div>
         </div>
         <div class="item-img">
-            <img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="images/{{ .Params.Image }}" alt="{{ .Title }}">
+            <img src="images/{{ .Params.Image }}" alt="{{ .Title }}">
         </div>
     </div>
 </div>
