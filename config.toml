@@ -6,6 +6,10 @@ theme = "lumao"
 disableKinds = ["taxonomy","taxonomyTerm"]
 paginate = 1000
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 [params]
     hreflangEn = "en-us"
     hrefurlEn = "https://en.lumao.eu/"
