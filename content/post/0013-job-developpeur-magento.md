@@ -39,7 +39,7 @@ Tu utilises xDebug.
 (OpenShift, Kubernetes - et tu connais la différence entre les deux), tu sais configurer un DNS (A, CNAME, MX, TXT), un CDN (CloudFlare), tu sais ce qu'est un reverse proxy
 et tu connais bien la stack LAMP. Tu connais strace.
 
-Rémunération fixe (35-65k) en fonction des compétences et prime en fin de projet.
+Rémunération fixe (30-42k) en fonction des compétences et prime en fin de projet.
 
 On fournit un pc portable correct : i7, 16Go de RAM, 512 Go SSD. Installé sous Linux avec les emails configuré, la licence Jetbrains également et les accès Gitlab.
 
