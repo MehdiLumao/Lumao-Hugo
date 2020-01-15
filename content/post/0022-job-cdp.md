@@ -16,7 +16,9 @@ Gérer la communication (téléphone, email) avec les clients. Les éduquer, qua
 
 Gérer le planning et les priorités des développeurs.
 
-Pouvoir résoudre des "petits problèmes" de TMA sans l'aide de développeur. Exemple : suivre une documentation pour faire des requêtes SQL, changer une couleur en CSS, faire de la contribution.
+Pouvoir résoudre des "petits problèmes" de TMA sans l'aide de développeur. Exemple : suivre une documentation pour faire
+des requêtes SQL, changer une couleur en CSS, faire de la contribution, créer/débugger des règles de promotions, modifier
+des règles de frais de ports (config bo/json).
 
 ## Compétences
 
