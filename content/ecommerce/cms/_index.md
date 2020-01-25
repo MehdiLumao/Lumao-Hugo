@@ -73,3 +73,11 @@ Les projets e-commerce sont nombreux et variés ; tout comme les solutions dispo
 <img class="animate zoomIn margin-auto" src="/images/cms/orocommerce.png" alt="CMS E-commerce B2B OroCommerce" />
 
 Les acteurs du B2B le savent : les enjeux du e-commerce ne sont pas les mêmes qu’en B2C. Des cycles d’achat plus long, des décideurs multiples, des listes de prix variables, des commandes en gros et répétées… : les contraintes sont nombreuses. Pour y répondre, il existe désormais des CMS spécialisés B2B. Parmi eux, [OroCommerce](/ecommerce/cms/orocommerce/), une solution créée par des anciens de Magento. Découvrez ses fonctionnalités spécifiques.
+
+## Oxatis, une solution SaaS française pour créer une boutique en ligne
+
+C’est un des CMS les plus utilisés en France et en Europe. [Oxatis](/ecommerce/cms/oxatis/) propose depuis 2001 une solution
+SaaS performante et sécurisée aux e-commerçants qui souhaitent gérer facilement leur activité en
+ligne. La société marseillaise offre un très riche catalogue de fonctionnalités, orientées B2B mais
+aussi B2C. Et pour optimiser encore la gestion d’une activité professionnelle, la solution peut être
+connectée à différents progiciels de gestion tels que l’ERP Sage.
