@@ -1,7 +1,7 @@
 +++
 date = "2018-11-12"
 title = "La Maintenance de votre Site Magento par des Experts"
-h1 = "Magento et maintenance : prenez soin de votre site e-commerce"
+h1 = "Maintenance Magento : prenez soin de votre site e-commerce avec un contrat TMA"
 description = "Assurez la pérennité de votre site e-commerce Magento avec une agence web experte de la solution Magento. Profitez de contrats de maintenance sur mesure."
 draft = false
 +++
@@ -32,6 +32,22 @@ Souscrire un contrat de maintenance représente donc de nombreux avantages :
 -	C’est remplir la promesse d’un site marchand efficace et performant, ce qu’attendent de vous vos clients.
 
 Agence spécialisée en créations de sites internet et de [sites e-commerce Magento](/ecommerce/cms/magento/), Lumao vous propose des contrats de maintenance et d’assistance sur mesure. Nous intervenons rapidement pour toutes vos urgences. Profitez de la réactivité et de l’expertise technique de nos équipes.
+
+## Que proposez-vous ?
+
+Notre offre de Tierce Maintenance Applicative (TMA) comporte plusieurs points :
+
+- Maintenance en bon état de fonctionnement
+- Informer le client de toutes évolutions apportées
+- Correction des anomalies de fonctionnement
+- Effectuer des actions de maintenance correctives ou évolutives
+- Monitoring
+- Optimisation de la BDD
+- Intégration html
+- Conseil
+- Formation
+- Gestion de projet
+- Communication auprès du support Magento 
 
 ## Le mode maintenance Magento
 
