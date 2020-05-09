@@ -40,7 +40,7 @@ Si votre site e-commerce n’a pas encore entamé sa migration vers Magento 2 : 
 
 ## Module Magento : étendez les fonctionnalités de votre site e-commerce
 
-Les CMS peuvent tous être enrichis de nouvelles options et fonctionnalités. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de [modules Magento](/ecommerce/cms/magento/module/) 
+Les CMS peuvent tous être enrichis de nouvelles options et [fonctionnalités](/ecommerce/cms/magento/fonctionnel/). Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de [modules Magento](/ecommerce/cms/magento/module/) 
 taillés sur mesure pour votre activité, vos produits, vos services… et vos clients. Gratuites ou payantes, ces extensions existent par milliers. Nous vous proposons de vous guider à travers ce riche catalogue et nous vous donnons la liste de nos modules préférés.
 
 ## Magento Solution Partner, un gage de qualité pour votre projet e-commerce
