@@ -47,14 +47,16 @@ Cela n'empêche pas d'avoir des projets Magento fortement customisé, on a déj�
 
 ### Sur mesure
 
-Ici, vous n'avez aucun fonctionnel, uniquement un socle technique. Ce socle permets de créer un site qui réponds exactement à vos besoins.
+Ici, vous n'avez aucun fonctionnel, uniquement un socle technique. Ce socle permet de créer un site qui réponds exactement à vos besoins.
 Cependant, si votre cahier des charges n'est pas assez précis, des décisions de développements pourront être prises ayant un impact fort plus tard dans le projet.
 
-Les mises à jour sont compliqués à appliquer sur ce genre de structure, le budget technique passe souvent en dernier 
+Les mises à jour sont compliquées à appliquer sur ce genre de structure, le budget technique passe souvent en dernier 
 et on se retrouve avec des projets qui sont sur des technologies obsolète, on n'arrive plus à recruter des personnes ce
 qui force à faire une refonte.
 
 Il peut également y avoir des complications sur l'hébergement, si la solution n'évolue pas, vous ne pourrez pas changer de serveurs ce qui crée des problèmes à horizon de 5 ans.
+
+Si vous avez un fort volume de commande (>10 0000 par heure), le sur mesure est "obligatoire".
 
 De notre côté, on fait du 100% sur mesure uniquement quand on doit faire une interface à une API. Le dernier exemple en 
 date est un système de paiement raccordé à du Salesforce, il y avait 5 écrans à faire, aucune logique métier à implémenter,
