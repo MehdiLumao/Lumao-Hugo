@@ -56,7 +56,7 @@ qui force à faire une refonte.
 
 Il peut également y avoir des complications sur l'hébergement, si la solution n'évolue pas, vous ne pourrez pas changer de serveurs ce qui crée des problèmes à horizon de 5 ans.
 
-Si vous avez un fort volume de commandes (> 10 0000 par heure), le sur mesure est "obligatoire".
+Si vous avez un fort volume de commandes (> 10 000 par heure), le sur mesure est "obligatoire".
 
 De notre côté, on fait du 100% sur mesure uniquement quand on doit faire une interface à une API. Le dernier exemple en 
 date est un système de paiement raccordé à du Salesforce, il y avait 5 écrans à faire, aucune logique métier à implémenter,
