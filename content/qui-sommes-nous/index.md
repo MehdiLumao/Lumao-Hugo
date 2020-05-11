@@ -57,7 +57,8 @@ petite entreprise, si ça ne se passe pas bien, ça s'arrête.
 
 ### Tickets
 
-Wekan (Trello en open-source), par email également.
+Wekan (Trello en open-source) - passage en cours sur Youtrack, par email également.
+Suivi du temps passé via Clokify.
 
 ### Interne
 
@@ -71,9 +72,9 @@ Git, Gitlab pour les projets clients, Github pour l'opensource.
 
 Déploiement via Gitlab CI via script bash ou en Capistrano like sous Ansible.
 
-Dev, préprod et prod sous Docker. Images libres.
+Dev, préprod et prod sous Docker. Images libres. Quelques clients sous Magento Cloud.
 
-Monitoring via Graphana.
+Monitoring via Grafana.
 
 Serveurs cher OVH, Online ou AWS.
 
