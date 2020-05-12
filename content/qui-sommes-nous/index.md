@@ -12,7 +12,7 @@ Lumao est une agence à taille humaine, nous n'avons pas vocation à devenir une
 dans une démarche d'artisanat. On ne cherche pas à vendre le plus de jours possibles mais nous voulons aider nos clients
 à grossir.
 
-Il n'y a pas d'investisseur, la croissance est saine (pas d'embauche sans qu'il y ait au moins 6 mois de trésorerie)
+Il n'y a pas d'investisseur, la croissance est saine (pas d'embauche sans qu'il n'y ait au moins 6 mois de trésorerie)
 donc pas de pression sur le rendement.
 
 On essaye de corriger les défauts qu'on a eu dans les grosses agences.
@@ -29,7 +29,7 @@ Mutuelle haut de gamme (Wemind) + prévoyance.
 
 ### Télétravail
 
-Télétravail à temps complet, en France ou ailleurs. Si vous avez besoin d’interactions sociales plus intense, on paye
+Télétravail à temps complet, en France ou ailleurs. Si vous avez besoin d’interactions sociales plus intenses, on paye
 le coworking.
 
 ### Horaire libre
@@ -39,7 +39,7 @@ Les heures de travail sont libres, il faut juste être présent 2h pendant les h
 ### Formation
 
 On investit beaucoup dans les employés, le but étant de devenir expert technique, vous aurez des formations internes,
-beaucoup de collaboration et les certifications sont exigés après une certaine ancienneté.
+beaucoup de collaborations et les certifications sont exigées après une certaine ancienneté.
 
 ### Respect des temps de travail
 
