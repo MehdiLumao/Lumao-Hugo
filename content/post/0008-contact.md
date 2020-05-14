@@ -7,8 +7,9 @@ slug = "contact"
 Intéressé pour en savoir plus sur notre expertise certifiée par Magento ?
 
 <div class="row">
-    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
-    <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+    <div class="col-xs-4"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
+    <div class="col-xs-4"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
+    <div class="col-xs-4"><img class="animate zoomIn margin-auto" src="/images/certification/big_solution_specialist.png" alt="Certification Développeur associé Magento 2" /></div>
 </div>
 
 N'hésitez pas à parler de votre projet.
@@ -32,3 +33,7 @@ N'hésitez pas à parler de votre projet.
     <textarea class="form-input" placeholder="Votre Message" name="message"></textarea>
     <button class="btn form-btn" type="submit" value="Envoyer un message" style="width: auto;"><i class="fa fa-envelope" aria-hidden="true"></i> Envoyer un message</button>
 </form>
+
+<div class="row">
+    <img class="animate zoomIn margin-auto" src="/images/partners/Adobe_Solution_Partner.png" alt="Adobe" />
+</div>

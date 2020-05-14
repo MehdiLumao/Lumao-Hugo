@@ -27,6 +27,8 @@ Ce CMS offre de multiples possibilités et s’adapte à tous les types d’acti
 et peu importe le nombre et le type de produits et services que vous proposez, nous avons une solution. 
 Pour un [développement Magento](/ecommerce/cms/magento/developpement/) sur mesure, nous vous proposons un devis adapté à votre projet, à vos objectifs et à vos différentes problématiques.
 
+<img class="animate zoomIn center-block" src="/images/partners/Adobe_Solution_Partner.png" alt="Partenaire Adobe" />
+
 ## Magento 2 : votre e-commerce passe la vitesse supérieure
 
 Depuis sa création en 2008, Magento s’est largement imposé sur le marché des CMS e-commerce. Complet et performant, il permet en effet la création et la gestion de boutiques en ligne sur mesure, 
