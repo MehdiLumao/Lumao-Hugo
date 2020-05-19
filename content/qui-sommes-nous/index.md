@@ -43,7 +43,7 @@ beaucoup de collaborations et les certifications sont exigées après une certai
 
 ### Respect des temps de travail
 
-Contrat non cadre.
+Contrat non-cadre.
 
 ### Focus
 
@@ -58,7 +58,7 @@ petite entreprise, si ça ne se passe pas bien, ça s'arrête.
 ### Tickets
 
 Wekan (Trello en open-source) - passage en cours sur Youtrack, par email également.
-Suivi du temps passé via Clokify.
+Suivi du temps passé via Clockify.
 
 ### Interne
 
@@ -66,7 +66,7 @@ Skype pour la messagerie/appel, Slack pour les notifications.
 
 ### CVS
 
-Git, Gitlab pour les projets clients, Github pour l'opensource.
+Git, Gitlab pour les projets clients, Github pour l'open source.
 
 ### DevOps
 
