@@ -92,7 +92,7 @@ Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur vot
 
 ## Confiez la maintenance de votre site Magento à des experts
 
-Une plateforme open source telle que Magento 2 demande à être entretenue avec soin pour rester efficace sur la durée. En effet, parce que tout va très vite dans le web, votre site e-commerce doit être à jour, fonctionnel et exempt de toutes failles de sécurité. Le risque principal : un site qui ne s’affiche plus pendant des heures, voire des jours… Pour assurer la pérennité de votre boutique en ligne, un contrat [Magento maintenance](/ecommerce/cms/magento/maintenance/) est conseillé. Des experts de la solution apportent leur savoir-faire et leurs compétences techniques pour prévenir les problèmes, corriger les bugs, intervenir en cas d’urgence et améliorer les performances du site.
+Une plateforme open source telle que Magento 2 demande à être entretenue avec soin pour rester efficace sur la durée. En effet, parce que tout va très vite dans le web, votre site e-commerce doit être à jour, fonctionnel et exempt de toutes failles de sécurité. Le risque principal : un site qui ne s’affiche plus pendant des heures, voire des jours… Pour assurer la pérennité de votre boutique en ligne, un contrat de [maintenance TMA Magento](/ecommerce/cms/magento/maintenance/) est conseillé. Des experts de la solution apportent leur savoir-faire et leurs compétences techniques pour prévenir les problèmes, corriger les bugs, intervenir en cas d’urgence et améliorer les performances du site.
 
 ## Assurez la communication entre site Magento et ERP de l’entreprise
 
