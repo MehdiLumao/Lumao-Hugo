@@ -66,3 +66,19 @@ jobs:
           destination-github-username: 'LavoWeb'
           destination-repository-name: 'LumaoLu'
           user-email: aurelien@lavoweb.net
+
+      - name: Build FR
+        run: |
+         hugo --config config.toml --minify
+         cp .gitignore public
+         echo "lumao.eu" > public/CNAME
+
+      - name: Pushes to another repository FR
+        uses: cpina/github-action-push-to-another-repository@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'LavoWeb'
+          destination-repository-name: 'Lumao'
+          user-email: aurelien@lavoweb.net
