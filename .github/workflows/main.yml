@@ -18,7 +18,6 @@ jobs:
 #         wdPath: '.'
 
       - name: Build
-        uses: peaceiris/actions-hugo@v2
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: |
