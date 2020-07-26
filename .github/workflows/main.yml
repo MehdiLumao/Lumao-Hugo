@@ -17,7 +17,7 @@ jobs:
 #        with:
 #         wdPath: '.'
 
-      - name: Build
+      - name: Build BE
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: |
@@ -25,7 +25,7 @@ jobs:
          cp .gitignore public
          echo "be.lumao.eu" > public/CNAME
 
-      - name: Pushes to another repository
+      - name: Pushes to another repository BE
         uses: cpina/github-action-push-to-another-repository@master
         env:
           API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
@@ -33,4 +33,36 @@ jobs:
           source-directory: 'public'
           destination-github-username: 'LavoWeb'
           destination-repository-name: 'LumaoBe'
+          user-email: aurelien@lavoweb.net
+
+      - name: Build CH
+        run: |
+         hugo --config config.toml,configch.toml --minify
+         cp .gitignore public
+         echo "lumao.ch" > public/CNAME
+
+      - name: Pushes to another repository CH
+        uses: cpina/github-action-push-to-another-repository@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'LavoWeb'
+          destination-repository-name: 'LumaoCh'
+          user-email: aurelien@lavoweb.net
+
+      - name: Build LU
+        run: |
+         hugo --config config.toml,configch.toml --minify
+         cp .gitignore public
+         echo "lu.lumao.eu" > public/CNAME
+
+      - name: Pushes to another repository LU
+        uses: cpina/github-action-push-to-another-repository@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'LavoWeb'
+          destination-repository-name: 'LumaoLu'
           user-email: aurelien@lavoweb.net
