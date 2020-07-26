@@ -10,7 +10,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.69.2"
+          hugo-version: "0.74.2"
 
 #      - name: Compile with Grunt
 #        uses: elstudio/actions-js-build/build@v2
@@ -18,9 +18,12 @@ jobs:
 #         wdPath: '.'
 
       - name: Build
+        uses: peaceiris/actions-hugo@v2
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --config config.toml,configbe.toml
+        run: |
+         hugo --config config.toml,configbe.toml --minify
+         cp .gitignore public
 
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@master
