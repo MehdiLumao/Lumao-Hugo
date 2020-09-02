@@ -32,19 +32,19 @@ A partir de 1 000€/mois pour un hébergement scalable.
 
 ### Site simple
 
-Une seule boutique, moins de 400 produits, thème acheté, pas de connexions logistiques/comptable. A partir de 25 000€.
+Une seule boutique, moins de 400 produits, thème acheté, pas de connexions logistiques/comptable. A partir de 30 000€.
 
 ### Site simple avec thème sur mesure
 
-A partir de 45 000€.
+A partir de 50 000€.
 
 ### Site simple avec thème sur mesure PWA
 
-A partir de 65 000€.
+A partir de 80 000€.
 
 ### Site complexe
 
-A partir de 100 000€.
+A partir de 120 000€.
 
 ### TMA / Support
 
