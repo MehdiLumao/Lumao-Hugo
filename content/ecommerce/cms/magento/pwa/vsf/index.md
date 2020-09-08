@@ -10,6 +10,8 @@ Désormais, pour optimiser vos ventes en ligne, un site e-commerce ne peut se co
 
 ## Présentation de Vue Storefront
 
+<img class="animate zoomIn center-block" src="/images/partners/vsf_full.png" alt="Logo Vue Store Front" />
+
 Vue Storefront est une solution PWA développée par la société polonaise Divante. Elle est proposée sous licence open source MIT. Cette PWA est basée sur une architecture « headless », ce qui lui permet de se connecter à n’importe quelle plateforme e-commerce, principalement Magento 1 et 2, mais aussi Shopify, WooCommerce, Prestashop…
 
 Divante présente Vue Storefront comme la solution open source la plus complète du marché. Elle dispose en effet de nombreux outils et fonctionnalités. Et elle évolue régulièrement, suivant les dernières tendances shopping, les innovations technologiques du moment et les impératifs sans cesse revus des moteurs de recherche.
@@ -28,5 +30,7 @@ La PWA offre ainsi :
 -	Des outils accessibles, rapides et « faciles » à personnaliser et à mettre en œuvre. 
 
 ## Comment mettre en œuvre cette solution PWA
+
+<img class="animate zoomIn center-block" src="/images/partners/vsf.png" alt="Partenaire Vue Store Front" />
 
 Vous souhaitez créer une PWA e-commerce ? Ou transformer votre site e-commerce actuel en PWA performante ? Contactez nos équipes d’experts. Elles analysent vos besoins et déterminent avec vous vos objectifs afin de définir la meilleure solution. Nous utilisons les meilleurs outils pour développer des PWA efficaces et performantes, adaptées à votre activité en ligne. Spécialistes Magento, nous connectons votre backend à Vue Storefront afin que vous gériez votre vitrine efficacement, selon les tout derniers standards du web. Cette solution réactive et complète vous permettra de prendre de l’avance sur votre concurrence et de gagner en performance.
