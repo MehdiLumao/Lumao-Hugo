@@ -22,6 +22,12 @@ openvpn:
   restart: always
 ```
 
+Pour ajouter le support ipv6, il faut malheureusement lancer le containeur en root :
+
+```
+  privileged: true
+```
+
 On fait la configuration :
 
 ```
