@@ -121,9 +121,13 @@ On peut également créer par-dessus des règles en masse, soit directement sur 
 
 De base, une 30 aines de rapports sont disponibles pour analyser les ventes et les comportements utilisateurs.
 
+Google Analytics
+
 ### Recherche
 
 ElasticSearch est intégré de base dans Magento, on peut mettre des poids sur les attributs (le nom est plus important que la description), forcer l'affichage des résultats.
+
+Navigation par facette
 
 ### Référencement
 
@@ -136,6 +140,9 @@ De base ces fonctionnalités sont intégrés :
 - Index/noindex
 - Contribuer les titles, métas descriptions et h1
 - Remplir les alts des images
+- Server Side Rendering
+- URL Rewrite
+- Fil d'ariane
 
 ### Stock
 
@@ -144,3 +151,27 @@ On peut choisir un stock, dire à partir de quand il n'est plus disponible, auto
 ### Vente privée
 
 On peut organiser des ventes privées sur invitation (EE).
+
+### Checkout
+
+- Checkout en une seule page, 2 étapes (adresse livraison + mode de livraison, adresse facturation + mode de paiement + cgv)
+- Calcul des frais de livraison en temps réel
+- Sécurité SSL
+- Calcul de taxe en temps réel
+- Checkout invité, possibilité de créer un compte après avoir passé la commande
+- Date d'expiration du panier programmable
+- Expédition à plusieurs adresses
+- Frais de port par produit, poids et adresse de livraison
+- Franco de port
+
+### Service client
+
+- Passage de commande depuis l'administration
+- Email en copie de commande
+- Flux RSS des nouvelles commandes
+- Formulaire de contact
+- Admin du compte client
+- Liste des commandes passées
+- Mise à jour du mot de passe
+- Modification des emails depuis le BO
+
