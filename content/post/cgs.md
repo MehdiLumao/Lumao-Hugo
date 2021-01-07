@@ -14,7 +14,7 @@ private = true
 
 Le présent site, accessible à l'URL **https://lumao.eu/** (le « **Site** »), est édité par :
 
-**Lumao, SASU** au capital de **100** euros, inscrite au R.C.S. d'Annecy sous le numéro **835305657**, dont le siège social est situé au **22 boulevard du Semnoz, 74600 Annecy**, représenté(e) par Lavorel Aurélien dûment habilité(e),
+**Lumao, SASU** au capital de **100** euros, inscrite au R.C.S. d'Annecy sous le numéro **835305657**, dont le siège social est situé au **Lumao AXALP SERVICES 1 place Marie Curie 74000 Annecy**, représenté(e) par Lavorel Aurélien dûment habilité(e),
 
 (Ci-après désigné le « **Vendeur** »).
 
