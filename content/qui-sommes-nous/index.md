@@ -74,7 +74,7 @@ Dev, préprod et prod sous Docker. Images libres. Quelques clients sous Magento 
 
 Monitoring via Grafana.
 
-Serveurs cher OVH, Online ou AWS.
+Serveurs chez OVH, Online ou AWS.
 
 ## Poste de développement
 
