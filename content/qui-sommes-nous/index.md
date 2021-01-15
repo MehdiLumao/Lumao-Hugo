@@ -12,8 +12,7 @@ Lumao est une agence à taille humaine, nous n'avons pas vocation à devenir une
 dans une démarche d'artisanat. On ne cherche pas à vendre le plus de jours possibles mais nous voulons aider nos clients
 à grossir.
 
-Il n'y a pas d'investisseur, la croissance est saine (pas d'embauche sans qu'il n'y ait au moins 6 mois de trésorerie)
-donc pas de pression sur le rendement.
+Il n'y a pas d'investisseur, la croissance est saine donc pas de pression sur le rendement.
 
 On essaye de corriger les défauts qu'on a eu dans les grosses agences.
 
@@ -25,16 +24,15 @@ Salaire au-dessus du marché, on respecte les prétentions - pas de proposition 
 
 ### Mutuelle
 
-Mutuelle haut de gamme (Wemind) + prévoyance.
+Mutuelle haut de gamme (Alan) + prévoyance. Paie via Payfit.
 
 ### Télétravail
 
-Télétravail à temps complet, en France ou ailleurs. Si vous avez besoin d’interactions sociales plus intenses, on paye
-le coworking.
+Télétravail à temps complet, en France ou ailleurs.
 
 ### Horaire libre
 
-Les heures de travail sont libres, il faut juste être présent 2h pendant les horaires de bureaux pour les échanges avec l'équipe.
+Les heures de travail sont libres, il faut juste être présent pour les échanges avec l'équipe.
 
 ### Formation
 
@@ -57,12 +55,12 @@ petite entreprise, si ça ne se passe pas bien, ça s'arrête.
 
 ### Tickets
 
-Wekan (Trello en open-source) - passage en cours sur Youtrack, par email également.
+Youtrack, par email également.
 Suivi du temps passé via Clockify.
 
 ### Interne
 
-Skype pour la messagerie/appel, Slack pour les notifications.
+Discord pour la messagerie/appel.
 
 ### CVS
 
@@ -80,11 +78,13 @@ Serveurs cher OVH, Online ou AWS.
 
 ## Poste de développement
 
-Pc sous linux (Ubuntu), écran 15", 16Go de Ram, un I7 et 512Go de SSD.
+Pc sous linux (Ubuntu), écran 14", 32Go de Ram, un I5 et 1To de SSD.
+Mac pour la gestion de projet.
 
-Livré avec PHP Storm (suite complète), Docker, Phing, Git, une clé SSH, un accès aux emails/Gitlab.
+Livré avec PHP Storm (suite complète), Docker, Phing, Git, une clé SSH, un accès aux emails/Gitlab. 
+L'installation est automatique via un script Ansible, vous pouvez facilement ajouter vos logiciels.
 
-Pour le dev front, une VM Windows avec la suite Adobe.
+Pour le dev front, une VM Windows.
 
 ## Nos offres
 
