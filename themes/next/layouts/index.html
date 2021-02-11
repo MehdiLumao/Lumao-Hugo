@@ -1,5 +1,31 @@
 {{ partial "header.html" . }}
 
-CONTENT
+<div class="bg-gray-400 h-screen flex items-center justify-center relative overflow-hidden min-h-600 max-h-920">
+    <img alt="" src="{{ .Site.BaseURL }}images/home-top.jpg" width=""  class="absolute max-w-none xl:max-w-full" draggable="false"  />
+
+    <div class="bg-transparent-black absolute w-full h-full flex flex-col items-center justify-center">
+        <div class="container">
+            <div class="max-w-xl ml-36">
+                <h1 class="text-white text-7xl font-extrabold leading-tight mb-12">Nous sommes développeurs Magento</h1>
+                <p class="mb-12 mr-16 leading-normal text-white">
+                    Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs un partenaire certifié.
+                    Si vous êtes à la recherche d'une équipe d'experts et non pas d'un commercial, vous êtes au bon endroit.
+                </p>
+                <a href="" class="inline-flex font-bold text-lg text-primary border-b border-transparent hover:border-primary transition-all">
+                    <span>En savoir plus</span>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-gray-600 min-h-600"></div>
+<div class="bg-gray-500 min-h-600"></div>
+<div class="bg-gray-600 min-h-600"></div>
+<div class="bg-gray-500 min-h-600"></div>
 
 {{ partial "footer.html" . }}
