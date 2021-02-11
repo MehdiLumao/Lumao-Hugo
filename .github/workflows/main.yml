@@ -64,6 +64,7 @@ jobs:
 
       - name: Build FR
         run: |
+         npm ci
          hugo --config config.toml --minify
          cp .gitignore public
          echo "next.lumao.eu" > public/CNAME
