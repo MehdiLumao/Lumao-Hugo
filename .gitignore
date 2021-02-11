@@ -3,3 +3,4 @@ node_modules
 public/
 CNAME
 README.md
+resources/_gen

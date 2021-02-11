@@ -1,0 +1,12 @@
+name = "Lumao-Next"
+license = " "
+licenselink = " "
+description = "Lumao Next Hugo theme"
+homepage = "https://lumao.eu/"
+tags = ["blog", "plain", "blank", "starter"]
+features = ["blog"]
+min_version = 0.17
+
+[author]
+  name = "Lumao FTW"
+  homepage = "https://lumao.eu"

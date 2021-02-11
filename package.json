@@ -1,26 +1,30 @@
 {
-  "name": "lumao",
-  "version": "1.0.0",
-  "description": "Lumao Website",
-  "main": "gulpfile.js",
-  "dependencies": {
-    "critical": "^1.3.0",
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^4.1.0"
-  },
-  "devDependencies": {},
+  "name": "hugo-theme-lumao-next",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "hugo --gc"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LavoWeb/Lumao-Hugo.git"
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "postcss-cli": "^7.1.1",
+    "postcss-import": "^12.0.1"
   },
-  "author": "Aurélien Lavorel <aurelien@lavoweb.net>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LavoWeb/Lumao-Hugo/issues"
-  },
-  "homepage": "https://github.com/LavoWeb/Lumao-Hugo#readme"
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
+  }
 }

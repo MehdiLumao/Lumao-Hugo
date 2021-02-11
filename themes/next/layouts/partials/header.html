@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    {{- $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/postcss.config.js") -}}
+    {{- if .Site.IsServer }}
+        <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    {{ else }}
+        {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
+        <link rel="stylesheet" href="{{ $styles.Permalink }}">
+    {{ end -}}
+
+</head>
+<body>
+    <header>
+        HEADER
+    </header>
