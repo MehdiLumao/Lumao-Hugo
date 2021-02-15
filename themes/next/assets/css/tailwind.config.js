@@ -24,7 +24,7 @@ module.exports = {
         theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)'
       },
       fontFamily: {
-        sans: ['Inter var', ...defaultTheme.fontFamily.sans],
+        sans: ['Open sans', ...defaultTheme.fontFamily.sans],
       }
     }
   },
