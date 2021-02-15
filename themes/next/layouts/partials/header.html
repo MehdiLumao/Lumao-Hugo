@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     {{- $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/postcss.config.js") -}}
@@ -17,41 +18,83 @@
 
 </head>
 <body>
-<header class="absolute w-full z-10 top-0">
-    <div class="container mx-auto py-8 flex flex-wrap items-center">
-        <div class="flex w-full md:w-1/5 justify-center md:justify-start">
-            <a class="block" href="{{ .Site.BaseURL }}">
-                <img src="{{ .Site.BaseURL }}images/logo-light.svg" class="w-48 block" alt="Lumao - Développement Magento" />
-            </a>
-        </div>
 
-        <div class="flex w-full content-center justify-between md:w-4/5 md:justify-end">
-            <ul class="flex justify-between flex-1 md:flex-none items-center text-white font-semibold uppercase text-sm">
-                <li class="mr-4">
-                    <a href="{{ .Site.BaseURL }}" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5">
-                        Home
-                        <span class="w-1.5 h-1.5 mt-2 bg-primary rounded-full hidden group-hover:block"></span>
-                    </a>
-                </li>
-                <li class="mr-4">
-                    <a href="{{ .Site.BaseURL }}ecommerce/cms/magento/" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5">
-                        Magento 2
-                        <span class="w-1.5 h-1.5 mt-2 bg-primary rounded-full hidden group-hover:block"></span>
-                    </a>
-                </li>
-                <li class="mr-4">
-                    <a href="{{ .Site.BaseURL }}references" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5">
-                        Réalisations
-                        <span class="w-1.5 h-1.5 mt-2 bg-primary rounded-full hidden group-hover:block"></span>
-                    </a>
-                </li>
-                <li>
-                    <a href="{{ .Site.BaseURL }}post/contact" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5">
-                        Contact
-                        <span class="w-1.5 h-1.5 mt-2 bg-primary rounded-full hidden group-hover:block"></span>
-                    </a>
-                </li>
-            </ul>
+    <header
+        x-data="{ mobileMenuOpen: false }"
+        class="absolute md:absolute w-full z-10 top-0"
+        :class="{ 'absolute' : !mobileMenuOpen , 'fixed' : mobileMenuOpen}"
+        x-on:keydown.escape="mobileMenuOpen = false"
+    >
+        <div class="container mx-auto py-4 md:py-8 px-4 md:px-0 flex flex-wrap items-center">
+            <div class="flex w-3/5 md:w-1/5">
+                <a class="block z-10" href="{{ .Site.BaseURL }}">
+                    <img src="{{ .Site.BaseURL }}images/logo-light.svg" class="w-24 sm-36 md:w-48 block" alt="Lumao - Développement Magento" />
+                </a>
+            </div>
+
+            <div class="flex w-2/5 md:w-4/5 justify-end" >
+
+                <!-- mobile nav button -->
+                <button
+                    @click="mobileMenuOpen = !mobileMenuOpen"
+                    type="button"
+                    class="md:hidden inline-flex items-center justify-center text-white focus:outline-none z-10 relative tap-transparent"
+                >
+                    <span
+                        class="bg-gray-800 h-10 w-10 rounded-full absolute "
+                        x-show="mobileMenuOpen"
+                        x-transition:enter="transition duration-200 transform ease-out"
+                        x-transition:enter-start="opacity-1 scale-75"
+                        x-transition:leave="transition duration-100 transform ease-in"
+                        x-transition:leave-end="opacity-0 scale-100"
+                    ></span>
+                    <span class="sr-only">Open menu</span>
+
+                    <div
+                        class="hamburger hamburger--squeeze"
+                        :class="{ 'is-active' : mobileMenuOpen}"
+                    >
+                        <div class="hamburger-box">
+                            <div class="hamburger-inner"></div>
+                        </div>
+                    </div>
+
+                </button>
+
+                <!-- mobile menu -->
+                <div
+                    class="md:hidden bg-secondary fixed top-0 bottom-0 left-0 right-0 mobile-menu flex flex-col items-center justify-center"
+                    :class="[mobileMenuOpen ? 'open' : '']"
+                >
+                    <ul class="text-white text-2xl font-bold uppercase text-center leading-loose my-auto">
+                        {{ range .Site.Menus.main }}
+                            <li><a href="{{ .URL }}" class="hover:text-primary" title="{{ .Title }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+
+                    <ul class="mb-8 flex">
+                        {{ range .Site.Menus.social }}
+                            <li class="mr-2 last:mr-0 social">
+                                <a href="{{ .URL }}" title="{{ .Title }}" class="bg-white p-2 block rounded-full hover:bg-primary hover:text-white focus:bg-primary">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="h-4 w-4 fill-current">{{ .Name | safeHTML }}</svg>
+                                </a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
+
+                <!-- desktop nav -->
+                <ul class="hidden md:flex justify-between items-center text-white font-semibold uppercase text-sm">
+                    {{ range .Site.Menus.main }}
+                        <li class="mr-2 last:mr-0">
+                            <a href="{{ .URL }}" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5" title="{{ .Title }}">
+                                {{ .Name }}
+                                <span class="w-1.5 h-1.5 mt-2 bg-primary rounded-full hidden group-hover:block"></span>
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
         </div>
-    </div>
-</header>
+    </header>
+

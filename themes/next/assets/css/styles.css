@@ -1,4 +1,5 @@
 @import "node_modules/tailwindcss/base";
 @import "node_modules/tailwindcss/components";
 @import "assets/css/site";
+@import "assets/css/hamburger";
 @import "node_modules/tailwindcss/utilities";
