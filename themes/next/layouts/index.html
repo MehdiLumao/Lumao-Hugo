@@ -2,7 +2,7 @@
 
 <!-- section 1 -->
 <section class="bg-gray-400 flex items-center justify-center relative overflow-hidden h-600 sm:h-screen md:min-h-920 md:max-h-1080">
-    <img alt="" src="{{ .Site.BaseURL }}images/home-top.jpg" width=""  class="absolute max-w-none h-600 sm:h-screen xl:h-auto xl:max-w-full xl:top-0" draggable="false"  />
+    <img alt="" src="{{ .Site.BaseURL }}images/home-top.jpg" width=""  class="absolute max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"  />
 
     <div class="bg-transparent-black absolute w-full h-full flex flex-col items-center justify-end sm:justify-center">
         <div class="container px-4 md:px-0">
@@ -24,7 +24,7 @@
         </div>
     </div>
 </section>
-<div class="sm:hidden py-10 px-2 shadow-theme">
+<div class="sm:hidden py-12 px-2 shadow-theme">
     <p class="text-center text-sm font-bold ">
         {{ .Params.Intro }}
     </p>
@@ -32,7 +32,7 @@
 
 
 <!-- section 2 -->
-<section class="pt-20 mb-20 sm:mb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
+<section class="pt-12 sm:pt-20 mb-12 sm:mb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
     <h2 class="max-w-3xl text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl  font-bold">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
     <span class="bg-primary h-2.5 w-9 rounded-xl mt-4 md:mt-8"></span>
 
@@ -53,7 +53,7 @@
 </section>
 
 <!-- section 3 -->
-<section class="mb-20 sm:mb-48 mx-auto max-w-screen-xl flex items-center">
+<section class="mb-12 py-12 md:mb-72 md:py-0 mx-auto max-w-screen-xl flex items-center shadow-theme md:shadow-none">
     <div class="hidden xl:flex w-1/2 mr-12 relative items-center -z-1">
         <span class="block bg-gray-200 w-4/5 h-4/5 absolute -z-1 rounded-3xl ml-6 2xl:-ml-16"></span>
         <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="ml-auto" draggable="false"  />
@@ -85,13 +85,40 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
 </section>
+
+
+<!-- section 4 -->
+<section class="mb-20 mx-4 xl:mx-auto max-w-screen-xl relative">
+    <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14">
+        <h2 class="text-sm md:text-lg font-bold uppercase text-primary text-center mb-8">En chiffres</h2>
+        <div class="flex flex-col md:flex-row md:justify-around mx-2">
+            <div class="flex flex-col items-center mb-14">
+                <div class="text-6xl lg:text-7xl font-bold">3572</div>
+                <span class="bg-primary h-2.5 w-9 rounded-xl my-4"></span>
+                <div class="text-sm font-bold uppercase tracking-wider">heures de travail</div>
+            </div>
+            <div class="flex flex-col items-center mb-14 ">
+                <div class="text-6xl lg:text-7xl font-bold">172</div>
+                <span class="bg-primary h-2.5 w-9 rounded-xl my-4"></span>
+                <div class="text-sm font-bold uppercase tracking-wider">projets</div>
+            </div>
+            <div class="flex flex-col items-center mb-14 ">
+                <div class="text-6xl lg:text-7xl font-bold">132</div>
+                <span class="bg-primary h-2.5 w-9 rounded-xl my-4"></span>
+                <div class="text-sm font-bold uppercase tracking-wider">clients</div>
+            </div>
+            <div class="flex flex-col items-center bg-primary md:bg-transparent text-white py-12 md:py-0 relative z-10">
+                <div class="text-6xl lg:text-7xl font-bold">15231</div>
+                <span class="bg-white h-2.5 w-9 rounded-xl my-4"></span>
+                <div class="text-sm font-bold uppercase tracking-wider">lignes de code</div>
+                <div class="hidden md:block absolute bg-primary w-full h-full -z-1 rounded-3xl box-content px-6 py-24 -mt-40"></div>
+            </div>
+        </div>
+    </div>
+    <span class="hidden md:block bg-gray-200 w-2/5 h-full absolute rounded-3xl -z-1 top-0 right-4 xl:right-8 box-content py-20 -mt-32 2xl:right-0 2xl:-mr-28"></span>
+</section>
+
 
 <div class="bg-gray-600 min-h-600"></div>
 <div class="bg-gray-500 min-h-600"></div>
