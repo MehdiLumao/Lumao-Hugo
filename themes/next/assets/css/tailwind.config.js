@@ -1,4 +1,5 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
+const colors = require('tailwindcss/colors')
 
 module.exports = {
   theme: {
@@ -8,7 +9,8 @@ module.exports = {
         'primary-light': '#FFF0D9',
         secondary: '#432a43',
         accent: '#5ecddd',
-        'transparent-black': 'rgba(0, 0, 0, 0.5)'
+        'transparent-black': 'rgba(0, 0, 0, 0.5)',
+        gray: colors.trueGray,
       },
       height: {
         '600': '600px'
@@ -22,6 +24,9 @@ module.exports = {
       },
       boxShadow: {
         theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)'
+      },
+      zIndex: {
+        '-1': '-1',
       },
       fontFamily: {
         sans: ['Open sans', ...defaultTheme.fontFamily.sans],

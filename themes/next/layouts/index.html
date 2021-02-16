@@ -1,15 +1,16 @@
 {{ partial "header.html" . }}
 
+<!-- section 1 -->
 <section class="bg-gray-400 flex items-center justify-center relative overflow-hidden h-600 sm:h-screen md:min-h-920 md:max-h-1080">
     <img alt="" src="{{ .Site.BaseURL }}images/home-top.jpg" width=""  class="absolute max-w-none h-600 sm:h-screen xl:h-auto xl:max-w-full xl:top-0" draggable="false"  />
 
     <div class="bg-transparent-black absolute w-full h-full flex flex-col items-center justify-end sm:justify-center">
         <div class="container px-4 md:px-0">
             <div class="sm:max-w-sm md:max-w-lg xl:max-w-xl md:ml-24 xl:ml-36">
-                <h1 class="text-white text-center sm:text-left text-4xl md:text-5xl lg:text-7xl font-extrabold mb-12">
-                    Nous sommes développeurs <span class="text-primary">Magento</span>
+                <h1 class="text-white text-center sm:text-left text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-extrabold mb-12">
+                    Nous sommes développeurs <span class="text-primary">Magento.</span>
                 </h1>
-                <p class="hidden sm:block mb-12 mr-16 leading-normal text-white">
+                <p class="hidden sm:block mb-12 mr-16 leading-relaxed text-white">
                     {{ .Params.Intro }}
                 </p>
                 <a href="" class="hidden sm:inline-flex font-bold text-lg text-primary relative group">
@@ -23,18 +24,19 @@
         </div>
     </div>
 </section>
-
-<div class="sm:hidden py-10 px-2 shadow-2xl">
+<div class="sm:hidden py-10 px-2 shadow-theme">
     <p class="text-center text-sm font-bold ">
         {{ .Params.Intro }}
     </p>
 </div>
 
-<section class="pt-16 pb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
-    <h2 class="max-w-3xl text-4xl md:text-5xl lg:text-7xl font-bold">Nous <span class="text-primary ">aimons</span> ce que nous faisons</h2>
+
+<!-- section 2 -->
+<section class="pt-20 mb-20 sm:mb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
+    <h2 class="max-w-3xl text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl  font-bold">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
     <span class="bg-primary h-2.5 w-9 rounded-xl mt-4 md:mt-8"></span>
 
-    <div class="sm:grid grid-cols-3 gap-4 lg:gap-24 mt-4 sm:mt-20 mx-8 sm:mx-0">
+    <div class="sm:grid grid-cols-3 gap-4 lg:gap-24 mt-4 sm:mt-20 mx-4 sm:mx-0">
         {{ range .Params.Love.Item }}
             <div class="flex flex-col items-center border-b sm:border-0 pt-10 pb-8 px-4 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
                 <svg xmlns="http://www.w3.org/2000/svg" width="86" height="85" class="text-primary fill-current">{{ .icon  | safeHTML }}</svg>
@@ -47,8 +49,48 @@
                 </a>
             </div>
         {{ end }}
-
     </div>
+</section>
+
+<!-- section 3 -->
+<section class="mb-20 sm:mb-48 mx-auto max-w-screen-xl flex items-center">
+    <div class="hidden xl:flex w-1/2 mr-12 relative items-center -z-1">
+        <span class="block bg-gray-200 w-4/5 h-4/5 absolute -z-1 rounded-3xl ml-6 2xl:-ml-16"></span>
+        <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="ml-auto" draggable="false"  />
+    </div>
+
+    <div class="mx-4 xl:mx-0 xl:w-1/2 flex flex-col">
+        <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-center xl:text-left">Notre <span class="text-primary">expertise</span> pour votre projet e-commerce</h2>
+        <span class="block rounded-xl bg-primary h-2.5 w-9 xl:w-40 mx-auto xl:-ml-24 mt-4 mb-8 xl:my-14"></span>
+
+        <div class="sm:max-w-none sm:flex items-center">
+            <div class="sm:w-1/2 xl:hidden sm:mr-8 relative flex items-center">
+                <span class="hidden md:block bg-gray-200 w-4/5 h-4/5 max-w-xs absolute rounded-3xl -z-1"></span>
+                <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="mb-8 sm:mb-0 mx-auto sm:mr-0 sm:ml-auto w-full max-w-xs sm:max-w-md" draggable="false"  />
+            </div>
+            <div class="sm:w-1/2 xl:w-full">
+                <p class="font-bold mb-8 text-sm md:text-base xl:text-lg">
+                    Lumao est une agence web spécialisée dans le développement de projets e-commerce basés sur le CMS Magento.
+                </p>
+                <p class="text-gray-500 xl:leading-relaxed mb-8 text-sm md:text-base xl:text-lg">
+                    Magento est une plateforme "tout-en-un" de vente à distance, un CMS (Content Management System, ou Sytème de Gestion de Contenu) de commerce électronique. Créé en 2008, Magento équipe à ce jour plusieurs centaines de milliers de sites e-commerce à travers le monde. Les qualités de Magento n'ont d'égal que sa technicité, qui requiert le concours d'une équipe de développeurs et d'intégrateurs spécialisés. Forte de ses certifications Magento, l'agence web Lumao vous propose son expertise technique et le dévouement de son équipe, dans un seul but : le succès de votre projet e-commerce.
+                </p>
+
+                <a href="" class="border border-primary text-primary font-bold text-sm xl:text-lg inline-flex rounded-full px-12 py-4 hover:bg-primary hover:text-white">
+                    <span>Demandez un devis</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
 </section>
 
 <div class="bg-gray-600 min-h-600"></div>

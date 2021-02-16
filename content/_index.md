@@ -4,6 +4,8 @@ title = "Développeur Magento"
 h1 = "Développement Magento"
 description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? C'est ici."
 draft = false
+
+
 intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs un partenaire certifié. Si vous êtes à la recherche d'une équipe d'experts et non pas d'un commercial, vous êtes au bon endroit."
 
 [[love.item]]
