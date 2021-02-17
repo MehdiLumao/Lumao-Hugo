@@ -2,6 +2,17 @@
     -webkit-tap-highlight-color: transparent;
 }
 
+
+@screen lg {
+    .col-count-2 {
+        column-count: 2;
+    }
+
+    .col-gap-6 {
+        column-gap: 6rem;
+    }
+}
+
 .mobile-menu {
     clip-path: polygon(100% 0, 100% 0, 0 100%, 0 100%);
     transition: clip-path 0.7s cubic-bezier(0.4, 0, 0.2, 1);

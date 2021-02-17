@@ -11,6 +11,8 @@ module.exports = {
         accent: '#5ecddd',
         'accent-light': '#e0fcf8',
         'transparent-black': 'rgba(0, 0, 0, 0.5)',
+        'gradient-dark': '#0098c7',
+        'gradient-light': '#0de9c9',
         gray: colors.trueGray
       },
       height: {
