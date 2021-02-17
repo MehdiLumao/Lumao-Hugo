@@ -9,8 +9,9 @@ module.exports = {
         'primary-light': '#FFF0D9',
         secondary: '#432a43',
         accent: '#5ecddd',
+        'accent-light': '#e0fcf8',
         'transparent-black': 'rgba(0, 0, 0, 0.5)',
-        gray: colors.trueGray,
+        gray: colors.trueGray
       },
       height: {
         '600': '600px'
