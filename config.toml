@@ -1,7 +1,7 @@
 languageCode = "fr-fr"
 title = "Développement Magento NEXT"
 description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? C'est ici."
-baseurl = "https://lumao.eu/"
+baseurl = "https://next.lumao.eu/"
 theme = "next"
 disableKinds = ["taxonomy","taxonomyTerm"]
 paginate = 1000
