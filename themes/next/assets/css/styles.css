@@ -2,4 +2,5 @@
 @import "node_modules/tailwindcss/components";
 @import "assets/css/site";
 @import "assets/css/hamburger";
+@import "assets/css/fonts";
 @import "node_modules/tailwindcss/utilities";
