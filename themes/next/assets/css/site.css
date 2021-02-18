@@ -40,3 +40,9 @@
 .open .social {
     transform: translate3d(0, 0, 0);
 }
+
+@screen md {
+    .fake-gradient {
+        background: linear-gradient(90deg, theme('colors.gray-theme.800') 50%, theme('colors.gray-theme.900') 50%);
+    }
+}
