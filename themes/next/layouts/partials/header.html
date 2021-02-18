@@ -64,7 +64,7 @@
                     class="md:hidden bg-secondary fixed top-0 bottom-0 left-0 right-0 mobile-menu flex flex-col items-center justify-center"
                     :class="[mobileMenuOpen ? 'open' : '']"
                 >
-                    <ul class="text-white text-2xl font-bold uppercase text-center leading-loose my-auto">
+                    <ul class="text-white text-2xl font-bold font-accent uppercase text-center leading-loose my-auto">
                         {{ range .Site.Menus.main }}
                             <li><a href="{{ .URL }}" class="hover:text-primary" title="{{ .Title }}">{{ .Name }}</a></li>
                         {{ end }}
@@ -82,7 +82,7 @@
                 </div>
 
                 <!-- desktop nav -->
-                <ul class="hidden md:flex justify-between items-center text-white font-semibold uppercase text-sm">
+                <ul class="hidden md:flex justify-between items-center text-white font-bold uppercase text-sm font-accent">
                     {{ range .Site.Menus.main }}
                         <li class="mr-2 last:mr-0">
                             <a href="{{ .URL }}" class="inline-flex items-center flex-col hover:text-primary py-2 px-4 group hover:-mb-3.5" title="{{ .Title }}">

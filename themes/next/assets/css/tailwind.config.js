@@ -40,6 +40,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Open sans', ...defaultTheme.fontFamily.sans],
+        accent: ['Gilroy']
       }
     }
   },

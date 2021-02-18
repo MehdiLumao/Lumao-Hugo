@@ -30,3 +30,11 @@
     url('../fonts/open-sans-v18-latin-700italic.woff2') format('woff2'),
     url('../fonts/open-sans-v18-latin-700italic.woff') format('woff');
 }
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+    url('../fonts/gilroy-latin-700.woff2') format('woff2'),
+    url('../fonts/gilroy-latin-700.woff') format('woff');
+}

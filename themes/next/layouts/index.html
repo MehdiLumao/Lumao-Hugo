@@ -7,13 +7,13 @@
     <div class="bg-transparent-black absolute w-full h-full flex flex-col items-center justify-end sm:justify-center">
         <div class="container px-4 md:px-0">
             <div class="sm:max-w-sm md:max-w-lg xl:max-w-xl md:ml-24 xl:ml-36">
-                <h1 class="text-white text-center sm:text-left text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-extrabold mb-12">
-                    Nous sommes développeurs <span class="text-primary">Magento.</span>
+                <h1 class="text-white text-center sm:text-left text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mb-12 font-accent">
+                    Nous sommes développeurs <span class="text-primary">Magento</span>.
                 </h1>
                 <p class="hidden sm:block mb-12 mr-16 leading-loose text-white">
                     {{ .Params.Intro }}
                 </p>
-                <a href="" class="hidden sm:inline-flex font-bold text-lg text-primary relative group">
+                <a href="" class="hidden sm:inline-flex font-bold text-lg text-primary relative group font-accent">
                     <span>En savoir plus</span>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -33,14 +33,14 @@
 
 <!-- section 2 -->
 <section class="pt-12 sm:pt-20 mb-12 sm:mb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
-    <h2 class="max-w-3xl text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl  font-bold">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
+    <h2 class="max-w-3xl text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-accent font-bold">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
     <span class="bg-primary h-2.5 w-9 rounded-xl mt-4 md:mt-8"></span>
 
     <div class="sm:grid grid-cols-3 gap-4 lg:gap-24 mt-4 sm:mt-20 mx-4 sm:mx-0">
         {{ range .Params.Love }}
             <div class="flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
                 <svg xmlns="http://www.w3.org/2000/svg" width="86" height="85" class="text-primary fill-current">{{ .icon  | safeHTML }}</svg>
-                <h3 class="font-bold text-xl mt-8 mb-3">{{ .title }}</h3>
+                <h3 class="font-bold text-xl mt-8 mb-3 font-accent">{{ .title }}</h3>
                 <p class="text-gray-500 text-sm sm:text-base">{{ .text }}</p>
                 <a class="hidden sm:block mt-10 p-4 bg-primary-light rounded-full" href="{{ .url }}">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 text-primary fill-current">
@@ -60,7 +60,7 @@
     </div>
 
     <div class="mx-4 xl:mx-0 xl:w-1/2 flex flex-col">
-        <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-center xl:text-left">Notre <span class="text-primary">expertise</span> pour votre projet e-commerce</h2>
+        <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-center xl:text-left font-accent">Notre <span class="text-primary">expertise</span> pour votre projet e-commerce</h2>
         <span class="block rounded-xl bg-primary h-2.5 w-9 xl:w-40 mx-auto xl:-ml-24 mt-4 mb-8 xl:my-14"></span>
 
         <div class="sm:max-w-none sm:flex items-center">
@@ -90,7 +90,7 @@
 
 <!-- section 4 -->
 <section class="mb-12 md:mb-40 mx-4 xl:mx-auto max-w-screen-xl relative">
-    <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14">
+    <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent">
         <h2 class="text-sm md:text-lg font-bold uppercase text-primary text-center mb-8">En chiffres</h2>
         <div class="flex flex-col md:flex-row md:justify-around mx-2">
             <div class="flex flex-col items-center mb-14">
@@ -121,8 +121,8 @@
 
 <!-- section 5 -->
 <section class="mb-12 py-12 md:mb-24 md:py-0 mx-4 xl:mx-auto max-w-screen-xl text-center">
-    <span class="text-lg text-accent uppercase font-bold">Découvrir</span>
-    <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold">Nos services</h2>
+    <span class="text-lg text-accent uppercase font-bold font-accent">Découvrir</span>
+    <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold font-accent">Nos services</h2>
     <span class="mt-4 block text-gray-500">Ce que nous proposons à nos clients.</span>
 
     <div class="sm:grid grid-cols-2 gap-4 grid-cols-3 lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 mt-10 sm:mt-20">
@@ -137,13 +137,13 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | safeHTML }}</svg>
                     <span class="absolute block rounded-full h-24 w-24 bg-accent-light top-3 left-8 -z-1"></span>
                 </div>
-                <h3 class="font-bold text-xl mt-12 mb-3">{{ .title }}</h3>
+                <h3 class="font-bold font-accent text-xl mt-12 mb-3">{{ .title }}</h3>
                 <p class="text-gray-500 text-sm sm:text-base">{{ .text }}</p>
             </div>
         {{ end }}
     </div>
 
-    <a href="" class="bg-accent text-white font-bold text-sm xl:text-lg inline-flex rounded-full px-12 py-4 mt-4 sm:mt-16">
+    <a href="" class="bg-accent text-white font-bold font-accent text-sm xl:text-lg inline-flex rounded-full px-12 py-4 mt-4 sm:mt-16">
         <span>Demandez un devis</span>
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -154,16 +154,16 @@
 
 <section class="py-12 md:py-24 bg-gradient-to-br from-gradient-dark to-gradient-light flex flex-col items-center">
     <div class="container px-4 text-white max-w-screen-xl">
-        <div class="flex flex-col items-center mb-8 lg:mb-0">
+        <div class="flex flex-col items-center mb-8 lg:mb-0 font-accent">
             <span class="text-lg uppercase font-bold mb-4">Nos solutions</span>
             <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold text-center">Pourquoi Magento ?</h2>
             <span class="bg-white h-2.5 w-9 rounded-xl mt-6"></span>
         </div>
 
 
-        <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold">01.</span>
+        <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold font-accent">01.</span>
         <div class="relative flex items-center lg:mt-4 xl:mt-6 2xl:mt-8">
-            <h3 class="text-xl  lg:text-3xl xl:text-4xl 2xl:text-5xl font-bold ">Pour sa polyvalence</h3>
+            <h3 class="text-xl  lg:text-3xl xl:text-4xl 2xl:text-5xl font-bold font-accent">Pour sa polyvalence</h3>
             <span class="bg-white h-2.5 w-16 rounded-xl absolute -left-24"></span>
         </div>
 
@@ -173,7 +173,7 @@
             <p class="mb-6">La plateforme e-commerce Magento est-elle la meilleure qui soit sur le marché ? Est-elle garante de la réussite de votre projet ou du développement de votre chiffre d'affaires en ligne ? À ces questions, il n'existe pas de réponse miracle qui puisse être donnée sans une étude de votre projet par notre équipe d'experts. En effet, Lumao est composée de développeurs et d'intégrateurs expérimentés et ayant à leur compteur de nombreux projets réalisés avec succès : nous connaissons les points forts et les points faibles de Magento, et l'étude de votre projet, de vos objectifs, voire de votre site e-commerce existant, nous permettra de vous dire si, oui ou non, Magento peut vous aider à vous développer sur le net dans le domaine du commerce en ligne.</p>
             <p class="mb-6">À la vérité, Magento est une plateforme très polyvalente, très puissante, dont voici quelques-unes des qualités.</p>
 
-            <a href="" class="inline-flex font-bold relative group">
+            <a href="" class="inline-flex font-bold font-accent relative group">
                 <span>En savoir plus</span>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
