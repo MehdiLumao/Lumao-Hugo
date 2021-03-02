@@ -86,6 +86,17 @@ L'installation est automatique via un script Ansible, vous pouvez facilement ajo
 
 Pour le dev front, une VM Windows.
 
+## Cooptation
+
+Chèque cadeau fnac ou équivalent, chèque vacance ou prime.
+
+- 2k pour un profil 2 ans d’expérience
+- 4k pour un profil 5 ans d’expérience
+
+L’expérience c’est sur notre stack pas en tant que boulanger ou dev java, hors stages / alternance.
+
+La cooptation est versée après validation de la période d'essai.
+
 ## Nos offres
 
 - [Développeur](/post/job-magento/)
