@@ -41,6 +41,9 @@ module.exports = {
       fontFamily: {
         sans: ['Open sans', ...defaultTheme.fontFamily.sans],
         accent: ['Gilroy']
+      },
+      borderRadius: {
+        '4xl': '2.2rem'
       }
     }
   },
