@@ -19,7 +19,8 @@ module.exports = {
           800: '#202020',
           750: '#242424',
           700: '#2b2b2b',
-          600: '#3e3e3e'
+          600: '#3e3e3e',
+          100: '#f5f5f5'
         }
       },
       height: {
@@ -33,7 +34,8 @@ module.exports = {
         '1080': '1080px'
       },
       boxShadow: {
-        theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)'
+        theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)',
+        lg: '0 32px 34px -14px rgba(128, 130, 145, 0.33)',
       },
       zIndex: {
         '-1': '-1',
