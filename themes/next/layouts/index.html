@@ -259,7 +259,7 @@
 </section>
 
 <!-- Pourquoi Lumao -->
-<section class="bg-gray-theme-100 py-24 text-center px-8 sm:px-20 xl:px-0">
+<section class="relative bg-gray-theme-100 py-24 text-center px-8 sm:px-20 xl:px-0">
     <div class="max-w-screen-xl mx-auto">
         <span class="text-lg text-primary uppercase font-bold font-accent">Qui sommes-nous</span>
         <h2 class="text-5xl xl:text-6xl 2xl:text-7xl font-bold font-accent">Pourquoi Lumao ?</h2>
@@ -341,7 +341,16 @@
             </div>
         </div>
     </div>
+
+    <div class="absolute bottom-60 right-20 transform rotate-90 hidden xl:flex items-center">
+        <span class="text-xs uppercase tracking-widest mr-3">Pourquoi Lumao</span>
+        <span class="block bg-primary h-0.5 w-10 my-8 mx-auto rounded-xl"></span>
+    </div>
+
 </section>
+
+<!-- We create beautiful sites -->
+
 
 
 {{ partial "footer.html" . }}

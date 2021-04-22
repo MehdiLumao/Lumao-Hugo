@@ -46,7 +46,10 @@ module.exports = {
       },
       borderRadius: {
         '4xl': '2.2rem'
-      }
+      },
+      letterSpacing: {
+        widest: '.30em',
+       }
     }
   },
   variants: {
