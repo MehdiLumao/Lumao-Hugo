@@ -49,7 +49,11 @@ module.exports = {
       },
       letterSpacing: {
         widest: '.30em',
-       }
+      },
+      screens: {
+        'xs': '550px',
+        '3xl': '1650px',
+      }
     }
   },
   variants: {
