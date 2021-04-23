@@ -416,13 +416,13 @@
     </div>
 
     <!-- Bookmark -->
-    <div class="absolute top-60 right-20 transform rotate-90 hidden xl:flex items-center">
+    <div class="absolute top-64 right-20 transform rotate-90 hidden xl:flex items-center">
         <span class="text-xs uppercase tracking-widest">Pourquoi Lumao</span>
     </div>
 </section>
 
 <!-- Our skills -->
-<section class="relative pb-32 mt-20 px-8 sm:px-20 xl:px-0">
+<section class="relative pb-24 px-8 sm:px-20 xl:px-0">
 
     <!-- Title -->
     <div class="max-w-screen-xl mx-auto">
@@ -491,17 +491,17 @@
 </section>
 
 <!-- Our references -->
-<section class="relative text-center mt-40 pb-32 px-12">
+<section class="relative text-center lg:mt-40 mb-24 md:mb-32 px-12">
 
     <div class="relative flex flex-col bg-secondary px-10 pt-24 pb-36 rounded-t-3xl mb-36">
 
         <!-- Title -->
         <span class="text-lg text-primary uppercase font-bold font-accent">Réalisations</span>
-        <h2 class="text-5xl font-bold font-accent text-white">Nos référence</h2>
+        <h2 class="text-5xl font-bold font-accent text-white">Nos références</h2>
 
         <!-- Slider -->
         <div class="max-w-screen-xl absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-1/2 w-full mx-auto h-48">
-            <ul class="flex flex-col lg:flex-row h-full rounded-3xl overflow-hidden bg-white shadow-lg">
+            <ul class="flex flex-row h-full rounded-3xl overflow-hidden bg-white shadow-lg">
                 <li class="flex items-center justify-center w-1/4 h-full bg-gray-200">
                     <img alt="" src="{{ .Site.BaseURL }}images/logos/one-elec.png" class="w-2/3" draggable="false"/>
                 </li>
@@ -534,6 +534,41 @@
         </svg>
         <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
     </a>
+
+</section>
+
+<!-- Blog -->
+<section class="text-center px-8 sm:px-20 xl:px-0 mb-32">
+    <div class="max-w-screen-xl mx-auto">
+        <span class="text-lg text-accent uppercase font-bold font-accent">Actualités</span>
+        <h2 class="text-5xl font-bold font-accent">Derniers articles</h2>
+
+        <span class="block bg-accent h-2.5 w-9 rounded-xl mt-8 mb-12 mx-auto"></span>
+
+        <div class="flex flex-col items-center lg:items-start lg:flex-row lg:space-x-10">
+        
+            <!-- Post 1 -->
+            <div class="rounded-3xl overflow-hidden relative xl:top-12 mb-12 xl:mb-0 w-3/4 sm:w-1/2 lg:w-1/4">
+                <img alt="" src="{{ .Site.BaseURL }}images/blog/post-1.jpg" class="rounded-3xl w-full" draggable="false"/>
+                <p class="font-bold xl:text-lg mt-6 mb-1">Recrutement développeur Magento</p>
+                <p class="text-gray-500 xl:text-lg">05 juillet 2020</p>
+            </div>
+
+            <!-- Post 2 -->
+            <div class="rounded-3xl overflow-hidden mb-12 xl:mb-0 w-3/4 sm:w-1/2 lg:w-1/2">
+                <img alt="" src="{{ .Site.BaseURL }}images/blog/post-2.jpg" class="rounded-3xl w-full" draggable="false"/>
+                <p class="font-bold xl:text-lg mt-6 mb-1">VPN Docker</p>
+                <p class="text-gray-500 xl:text-lg">05 juillet 2020</p>
+            </div>
+
+            <!-- Post 3 -->
+            <div class="rounded-3xl overflow-hidden relative xl:top-12 mb-12 xl:mb-0 w-3/4 sm:w-1/2 lg:w-1/4">
+                <img alt="" src="{{ .Site.BaseURL }}images/blog/post-3.jpg" class="rounded-3xl w-full" draggable="false"/>
+                <p class="font-bold xl:text-lg mt-6 mb-1">Amazon SES Magento 2</p>
+                <p class="text-gray-500 xl:text-lg">05 juillet 2020</p>
+            </div>
+        </div>
+    </div>
 
 </section>
 
