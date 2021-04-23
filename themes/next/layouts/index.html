@@ -490,4 +490,51 @@
     </div>
 </section>
 
+<!-- Our references -->
+<section class="relative text-center mt-40 pb-32 px-12">
+
+    <div class="relative flex flex-col bg-secondary px-10 pt-24 pb-36 rounded-t-3xl mb-36">
+
+        <!-- Title -->
+        <span class="text-lg text-primary uppercase font-bold font-accent">Réalisations</span>
+        <h2 class="text-5xl font-bold font-accent text-white">Nos référence</h2>
+
+        <!-- Slider -->
+        <div class="max-w-screen-xl absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-1/2 w-full mx-auto h-48">
+            <ul class="flex flex-col lg:flex-row h-full rounded-3xl overflow-hidden bg-white shadow-lg">
+                <li class="flex items-center justify-center w-1/4 h-full bg-gray-200">
+                    <img alt="" src="{{ .Site.BaseURL }}images/logos/one-elec.png" class="w-2/3" draggable="false"/>
+                </li>
+                <li class="flex items-center justify-center w-1/4 h-full">
+                    <img alt="" src="{{ .Site.BaseURL }}images/logos/top-chaleur.png" class="w-2/3" draggable="false"/>
+                </li>
+                <li class="flex items-center justify-center w-1/4 h-full bg-gray-200">
+                    <img alt="" src="{{ .Site.BaseURL }}images/logos/edilians.png" class="w-2/3" draggable="false"/>
+                </li>
+                <li class="flex items-center justify-center w-1/4 h-full">
+                    <img alt="" src="{{ .Site.BaseURL }}images/logos/tandem-sante.png" class="w-2/3" draggable="false"/>
+                </li>
+            </ul>
+
+            <span class="absolute block left-0 top-1/2 transform -translate-y-1/2 -translate-x-full bg-primary rounded-l-3xl w-10 h-10 cursor-pointer text-white">
+                <!-- TODO : add svg arrow -->
+            </span>
+
+            <span class="absolute block right-0 top-1/2 transform -translate-y-1/2 translate-x-full bg-primary rounded-r-3xl w-10 h-10 cursor-pointer text-white">
+                <!-- TODO : add svg arrow -->
+            </span>
+        </div>
+    </div>
+
+    <!-- Link -->
+    <a href="#" class="inline-flex font-bold text-2xl lg:text-lg text-primary relative group font-accent">
+        <span>Nos réalisations</span>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+        </svg>
+        <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+    </a>
+
+</section>
+
 {{ partial "footer.html" . }}
