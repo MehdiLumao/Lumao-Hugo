@@ -23,6 +23,9 @@ module.exports = {
           100: '#f5f5f5'
         }
       },
+      minWidth: {
+        '350': '350px'
+      },
       height: {
         '600': '600px'
       },
