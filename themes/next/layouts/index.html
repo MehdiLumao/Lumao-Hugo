@@ -515,55 +515,86 @@
 </section>
 
 <!-- Our references -->
-<section class="relative text-center lg:mt-40 mb-16 md:mb-64 md:px-12">
+<section class="relative text-center lg:mt-40 mb-16 md:mb-32 md:px-12">
 
-    <div class="relative flex flex-col bg-secondary px-10 pt-10 md:pt-24 pb-28 md:pb-36 md:rounded-t-3xl md:mb-36">
+    <div class="relative flex flex-col bg-secondary px-5 md:-px10 pt-10 md:pt-24 pb-16 md:pb-36 md:rounded-t-3xl md:mb-64">
 
         <!-- Title -->
         <span class="text-lg text-primary uppercase font-bold font-accent">Réalisations</span>
-        <h2 class="text-5xl text-center font-bold font-accent text-white">Nos références</h2>
+        <h2 class="text-4xl md:text-5xl text-center font-bold font-accent text-white">Nos références</h2>
 
-        <!-- Slider -->
-        <div class="max-w-screen-xl relative md:absolute md:bottom-0 md:left-1/2 transform md:-translate-x-1/2 md:translate-y-1/2 w-full mx-auto h-48 px-5 md:px-0 mt-10 md:mt-0">
-
-            <!-- Logos -->
-            <ul class="flex flex-row h-full rounded-3xl overflow-hidden bg-white shadow-lg mb-10">
-                <li class="flex items-center justify-center w-1/4 h-full bg-gray-200">
-                    <img alt="" src="{{ .Site.BaseURL }}images/logos/one-elec.png" class="w-2/3" draggable="false"/>
-                </li>
-                <li class="flex items-center justify-center w-1/4 h-full">
-                    <img alt="" src="{{ .Site.BaseURL }}images/logos/top-chaleur.png" class="w-2/3" draggable="false"/>
-                </li>
-                <li class="flex items-center justify-center w-1/4 h-full bg-gray-200">
-                    <img alt="" src="{{ .Site.BaseURL }}images/logos/edilians.png" class="w-2/3" draggable="false"/>
-                </li>
-                <li class="flex items-center justify-center w-1/4 h-full">
-                    <img alt="" src="{{ .Site.BaseURL }}images/logos/tandem-sante.png" class="w-2/3" draggable="false"/>
-                </li>
-            </ul>
-
-            <span class="absolute hidden md:flex left-0 top-1/2 transform -translate-y-1/2 -translate-x-full bg-primary rounded-l-3xl w-10 h-10 cursor-pointer text-white">
+        <div x-data="{swiper: null}"
+            x-init="swiper = new Swiper($refs.container, {
+                loop: true,
+                slidesPerView: 1,
+                spaceBetween: 0,
+            
+                breakpoints: {
+                    550: {
+                        slidesPerView: 2,
+                        spaceBetween: 0,
+                    },
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 0,
+                    },
+                    992: {
+                    slidesPerView: 4,
+                    spaceBetween: 0,
+                    },
+                },
+                })"
+            class="w-full md:w-10/12 2xl:w-full mx-auto flex flex-row max-w-screen-xl relative md:absolute md:bottom-0 md:left-1/2 transform md:-translate-x-1/2 md:translate-y-1/2 mt-10 md:mt-0">
+            
+            <span class="absolute hidden md:flex left-0 top-1/2 transform -translate-y-1/2 -translate-x-full bg-primary rounded-l-3xl w-10 h-10 cursor-pointer text-white" @click="swiper.slidePrev()" >
                 <!-- TODO : add reversed svg arrow -->
             </span>
 
-            <span class="absolute hidden md:flex right-0 top-1/2 transform -translate-y-1/2 translate-x-full bg-primary rounded-r-3xl w-10 h-10 cursor-pointer text-white">
+            <div class="swiper-container rounded-3xl overflow-hidden" x-ref="container">
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                    <div class="flex items-center swiper-slide bg-white h-40">
+                        <div class="flex h-3/4 md:h-full">
+                            <img class="w-3/4 mx-auto object-contain" src="{{ .Site.BaseURL }}images/logos/one-elec.png" alt="">
+                        </div>
+                    </div>
+                            
+                    <div class="flex items-center swiper-slide bg-gray-200 h-40">
+                        <div class="flex h-3/4 md:h-full">
+                            <img class="w-3/4 mx-auto object-contain" src="{{ .Site.BaseURL }}images/logos/top-chaleur.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="flex items-center swiper-slide bg-white h-40">
+                        <div class="flex h-3/4 md:h-full">
+                            <img class="w-3/4 mx-auto object-contain" src="{{ .Site.BaseURL }}images/logos/edilians.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="flex items-center swiper-slide bg-gray-200 h-40">
+                        <div class="flex h-3/4 md:h-full">
+                            <img class="w-3/4 mx-auto object-contain" src="{{ .Site.BaseURL }}images/logos/tandem-sante.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <span class="absolute hidden md:flex right-0 top-1/2 transform -translate-y-1/2 translate-x-full bg-primary rounded-r-3xl w-10 h-10 cursor-pointer text-white" @click="swiper.slideNext()" >
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                 </svg>
             </span>
-
-            <!-- Link -->
-            <a href="#" class="inline-flex font-bold text-lg md:text-2xl text-primary relative group font-accent">
-                <span>Nos réalisations</span>
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                </svg>
-                <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
-            </a>
         </div>
-        
-    </div>
 
+        <!-- Link -->
+        <a href="#" class="inline-flex font-bold text-lg md:text-2xl text-primary relative group font-accent mx-auto mt-10 md:absolute md:left-1/2 transform md:-translate-x-1/2 md:translate-y-1/2 md:-bottom-44">
+            <span>Nos réalisations</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+            <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+        </a>
+    </div>
 </section>
 
 <!-- Blog -->
