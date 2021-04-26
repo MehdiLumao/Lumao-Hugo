@@ -2,7 +2,6 @@
     -webkit-tap-highlight-color: transparent;
 }
 
-
 @screen lg {
     .col-count-2 {
         column-count: 2;

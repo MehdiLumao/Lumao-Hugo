@@ -1,0 +1,30 @@
+<section class="mb-12 py-12 md:mb-24 md:py-0 mx-4 xl:mx-auto max-w-screen-xl text-center">
+    <span class="text-lg text-accent uppercase font-bold font-accent">Découvrir</span>
+    <h2 class="text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold font-accent">Nos services</h2>
+    <span class="mt-4 block text-gray-500">Ce que nous proposons à nos clients.</span>
+
+    <div class="sm:grid gap-4 grid-cols-3 lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 mt-10 sm:mt-20">
+        {{ range .Params.Service }}
+            <div
+                class="
+                    flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-10 sm:rounded-3xl
+                    {{ if .shadow }} sm:shadow-theme {{ end }}
+                "
+            >
+                <div class="relative">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | safeHTML }}</svg>
+                    <span class="absolute block rounded-full h-24 w-24 bg-accent-light top-3 left-8 -z-1"></span>
+                </div>
+                <h3 class="font-bold font-accent text-xl mt-12 mb-3">{{ .title }}</h3>
+                <p class="text-gray-500 text-sm sm:text-base">{{ .text }}</p>
+            </div>
+        {{ end }}
+    </div>
+
+    <a href="" class="bg-accent text-white font-bold font-accent text-sm xl:text-lg inline-flex rounded-full px-12 py-4 mt-4 sm:mt-16">
+        <span>Demandez un devis</span>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+        </svg>
+    </a>
+</section>
