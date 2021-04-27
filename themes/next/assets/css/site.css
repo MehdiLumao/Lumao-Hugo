@@ -45,3 +45,52 @@
         background: linear-gradient(90deg, theme('colors.gray-theme.800') 50%, theme('colors.gray-theme.900') 50%);
     }
 }
+
+.highlighted-label {
+    @apply inline-flex relative font-bold font-accent text-lg group max-w-max;
+}
+
+.btn {
+    @apply inline-flex items-center cursor-pointer border font-bold font-accent text-sm xl:text-lg rounded-full px-12 py-6 sm:py-4;
+}
+
+.btn-primary {
+    @apply bg-primary text-white hover:bg-white hover:text-primary hover:border-primary;
+}
+
+.btn-primary-transparent {
+    @apply border-primary text-primary hover:bg-primary hover:text-white;
+}
+
+.btn-accent {
+    @apply bg-accent text-white;
+}
+
+.btn-gray {
+    @apply border border-gray-300 text-gray-300  hover:border-primary hover:text-primary hover:bg-white 
+}
+
+.btn-white {
+    @apply border-white text-white hover:bg-white hover:text-accent;
+}
+
+
+.divider {
+    @apply block h-2.5 w-9 rounded-xl bg-primary;
+}
+
+.divider-aside {
+    @apply mt-4 lg:mt-0 lg:absolute lg:-left-24;
+}
+
+.up-title {
+    @apply text-sm md:text-lg font-bold uppercase text-center;
+}
+
+.xl-title {
+    @apply text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-accent font-bold;
+}
+
+.lg-title {
+    @apply text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-bold font-accent;
+}
