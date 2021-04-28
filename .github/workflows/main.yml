@@ -70,7 +70,7 @@ jobs:
          echo "next.lumao.eu" > public/CNAME
 
       - name: Pushes to another repository FR
-        uses: cpina/github-action-push-to-another-repository@master
+        uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
         with:
