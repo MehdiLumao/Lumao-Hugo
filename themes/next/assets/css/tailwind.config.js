@@ -34,6 +34,7 @@ module.exports = {
         '920': '920px'
       },
       maxHeight: {
+        '400': '400px',
         '1080': '1080px'
       },
       boxShadow: {
