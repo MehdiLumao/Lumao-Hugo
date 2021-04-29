@@ -46,6 +46,13 @@
     }
 }
 
+.hero-mask {
+    mask-image: url('/images/hero-mask.png');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+    mask-position: bottom;
+}
+
 .highlighted-label {
     @apply inline-flex relative font-bold font-accent text-lg group max-w-max;
 }
@@ -92,5 +99,5 @@
 }
 
 .lg-title {
-    @apply text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-bold font-accent;
+    @apply text-3xl xl:text-4xl 2xl:text-5xl font-bold font-accent;
 }
