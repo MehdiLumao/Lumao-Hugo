@@ -58,7 +58,7 @@
 }
 
 .btn {
-    @apply inline-flex items-center cursor-pointer border font-bold font-accent text-sm xl:text-lg rounded-full px-12 py-6 sm:py-4;
+    @apply inline-flex items-center cursor-pointer border font-bold font-accent text-sm xl:text-lg rounded-full px-12 py-4 sm:py-4;
 }
 
 .btn-primary {
