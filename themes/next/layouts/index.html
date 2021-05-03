@@ -1,16 +1,16 @@
 {{ partial "header.html" . }}
 
 <!-- Hero -->
-<section class="bg-gray-400 flex items-center justify-center relative overflow-hidden h-600 sm:h-screen md:min-h-920 md:max-h-1080">
+<section class="relative flex items-center justify-center overflow-hidden bg-gray-400 h-600 sm:h-screen md:min-h-920 md:max-h-1080">
     <img alt="" src="{{ .Site.BaseURL }}images/home-top.jpg" width=""  class="absolute max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"  />
 
-    <div class="bg-transparent-black absolute w-full h-full flex flex-col items-center justify-end sm:justify-center">
+    <div class="absolute flex flex-col items-center justify-end w-full h-full bg-transparent-black sm:justify-center">
         <div class="container px-4 md:px-0">
             <div class="sm:max-w-sm md:max-w-lg xl:max-w-xl md:ml-24 xl:ml-36">
-                <h1 class="text-white text-center sm:text-left text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mb-12 font-accent">
+                <h1 class="mb-12 text-4xl font-bold text-center text-white sm:text-left md:text-5xl xl:text-6xl 2xl:text-7xl font-accent">
                     Nous sommes développeurs <span class="text-primary">Magento</span>.
                 </h1>
-                <p class="hidden sm:block mb-12 mr-16 leading-loose text-white">
+                <p class="hidden mb-12 mr-16 leading-loose text-white sm:block">
                     {{ .Params.Intro }}
                 </p>
                 <a href="" class="hidden sm:inline-flex text-primary highlighted-label">
@@ -24,25 +24,25 @@
         </div>
     </div>
 </section>
-<div class="sm:hidden py-12 px-2 shadow-theme">
-    <p class="text-center text-sm font-bold ">
+<div class="px-2 py-12 sm:hidden shadow-theme">
+    <p class="text-sm font-bold text-center ">
         {{ .Params.Intro }}
     </p>
 </div>
 
 <!-- We love what we do -->
-<section class="pt-12 sm:pt-20 mb-12 sm:mb-48 text-center mx-auto max-w-screen-xl flex flex-col items-center">
-    <h2 class="xl-title max-w-3xl">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
-    <span class="divider mt-4 md:mt-8"></span>
+<section class="flex flex-col items-center max-w-screen-xl pt-12 mx-auto mb-12 text-center sm:pt-20 sm:mb-48">
+    <h2 class="max-w-3xl xl-title">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
+    <span class="mt-4 divider md:mt-8"></span>
 
-    <div class="sm:grid grid-cols-3 gap-4 lg:gap-24 mt-4 sm:mt-20 mx-4 sm:mx-0">
+    <div class="grid-cols-3 gap-4 mx-4 mt-4 sm:grid lg:gap-24 sm:mt-20 sm:mx-0">
         {{ range .Params.Love }}
-            <div class="flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
-                <svg xmlns="http://www.w3.org/2000/svg" width="86" height="85" class="text-primary fill-current">{{ .icon  | safeHTML }}</svg>
-                <h3 class="font-bold text-xl mt-8 mb-3 font-accent">{{ .title }}</h3>
-                <p class="text-gray-500 text-sm sm:text-base">{{ .text }}</p>
-                <a class="hidden sm:block mt-10 p-4 bg-primary-light rounded-full" href="{{ .url }}">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 text-primary fill-current">
+            <div class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
+                <svg xmlns="http://www.w3.org/2000/svg" width="86" height="85" class="fill-current text-primary">{{ .icon  | safeHTML }}</svg>
+                <h3 class="mt-8 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
+                <p class="text-sm text-gray-500 sm:text-base">{{ .text }}</p>
+                <a class="hidden p-4 mt-10 rounded-full sm:block bg-primary-light" href="{{ .url }}">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 fill-current text-primary">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                     </svg>
                 </a>
@@ -52,26 +52,26 @@
 </section>
 
 <!-- Our experience -->
-<section class="mb-12 py-12 md:mb-72 md:py-0 mx-auto max-w-screen-xl flex items-center shadow-theme md:shadow-none">
-    <div class="hidden xl:flex w-1/2 mr-12 relative items-center -z-1">
-        <span class="block bg-gray-200 w-4/5 h-4/5 absolute -z-1 rounded-3xl ml-6 2xl:-ml-16"></span>
+<section class="flex items-center max-w-screen-xl py-12 mx-auto mb-12 md:mb-72 md:py-0 shadow-theme md:shadow-none">
+    <div class="relative items-center hidden w-1/2 mr-12 xl:flex -z-1">
+        <span class="absolute block w-4/5 ml-6 bg-gray-200 h-4/5 -z-1 rounded-3xl 2xl:-ml-16"></span>
         <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="ml-auto" draggable="false"  />
     </div>
 
-    <div class="mx-4 xl:mx-0 xl:w-1/2 flex flex-col">
-        <h2 class="xl-title text-center xl:text-left ">Notre <span class="text-primary">expertise</span> pour votre projet e-commerce</h2>
-        <span class="divider w-9 xl:w-40 mx-auto xl:-ml-24 mt-4 mb-8 xl:my-14"></span>
+    <div class="flex flex-col mx-4 xl:mx-0 xl:w-1/2">
+        <h2 class="text-center xl-title xl:text-left ">Notre <span class="text-primary">expertise</span> pour votre projet e-commerce</h2>
+        <span class="mx-auto mt-4 mb-8 divider w-9 xl:w-40 xl:-ml-24 xl:my-14"></span>
 
-        <div class="sm:max-w-none sm:flex items-center">
-            <div class="sm:w-1/2 xl:hidden sm:mr-8 relative flex items-center">
-                <span class="hidden md:block bg-gray-200 w-4/5 h-4/5 max-w-xs absolute rounded-3xl -z-1"></span>
-                <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="mb-8 sm:mb-0 mx-auto sm:mr-0 sm:ml-auto w-full max-w-xs sm:max-w-md" draggable="false"  />
+        <div class="items-center sm:max-w-none sm:flex">
+            <div class="relative flex items-center sm:w-1/2 xl:hidden sm:mr-8">
+                <span class="absolute hidden w-4/5 max-w-xs bg-gray-200 md:block h-4/5 rounded-3xl -z-1"></span>
+                <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="w-full max-w-xs mx-auto mb-8 sm:mb-0 sm:mr-0 sm:ml-auto sm:max-w-md" draggable="false"  />
             </div>
             <div class="sm:w-1/2 xl:w-full">
-                <p class="font-bold mb-8 text-sm md:text-base xl:text-lg">
+                <p class="mb-8 text-sm font-bold md:text-base xl:text-lg">
                     Lumao est une agence web spécialisée dans le développement de projets e-commerce basés sur le CMS Magento.
                 </p>
-                <p class="text-gray-500 xl:leading-loose mb-8 text-sm md:text-base xl:text-lg">
+                <p class="mb-8 text-sm text-gray-500 xl:leading-loose md:text-base xl:text-lg">
                     Magento est une plateforme "tout-en-un" de vente à distance, un CMS (Content Management System, ou Sytème de Gestion de Contenu) de commerce électronique. Créé en 2008, Magento équipe à ce jour plusieurs centaines de milliers de sites e-commerce à travers le monde. Les qualités de Magento n'ont d'égal que sa technicité, qui requiert le concours d'une équipe de développeurs et d'intégrateurs spécialisés. Forte de ses certifications Magento, l'agence web Lumao vous propose son expertise technique et le dévouement de son équipe, dans un seul but : le succès de votre projet e-commerce.
                 </p>
 
@@ -87,43 +87,43 @@
 </section>
 
 <!-- Stats -->
-<section class="mb-12 md:mb-40 mx-4 xl:mx-auto max-w-screen-xl relative">
+<section class="relative max-w-screen-xl mx-4 mb-12 md:mb-40 xl:mx-auto">
     <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent">
-        <h2 class="up-title text-primary mb-8">En chiffres</h2>
-        <div class="flex flex-col md:flex-row md:justify-around mx-2">
+        <h2 class="mb-8 up-title text-primary">En chiffres</h2>
+        <div class="flex flex-col mx-2 md:flex-row md:justify-around">
             <div class="flex flex-col items-center mb-14">
-                <div class="text-6xl lg:text-7xl font-bold">3572</div>
-                <span class="divider my-4"></span>
-                <div class="text-sm font-bold uppercase tracking-wider">heures de travail</div>
+                <div class="text-6xl font-bold lg:text-7xl">3572</div>
+                <span class="my-4 divider"></span>
+                <div class="text-sm font-bold tracking-wider uppercase">heures de travail</div>
             </div>
             <div class="flex flex-col items-center mb-14 ">
-                <div class="text-6xl lg:text-7xl font-bold">172</div>
-                <span class="divider my-4"></span>
-                <div class="text-sm font-bold uppercase tracking-wider">projets</div>
+                <div class="text-6xl font-bold lg:text-7xl">172</div>
+                <span class="my-4 divider"></span>
+                <div class="text-sm font-bold tracking-wider uppercase">projets</div>
             </div>
             <div class="flex flex-col items-center mb-14 ">
-                <div class="text-6xl lg:text-7xl font-bold">132</div>
-                <span class="divider my-4"></span>
-                <div class="text-sm font-bold uppercase tracking-wider">clients</div>
+                <div class="text-6xl font-bold lg:text-7xl">132</div>
+                <span class="my-4 divider"></span>
+                <div class="text-sm font-bold tracking-wider uppercase">clients</div>
             </div>
-            <div class="flex flex-col items-center bg-primary md:bg-transparent text-white py-12 md:py-0 relative z-10">
-                <div class="text-6xl lg:text-7xl font-bold">15231</div>
-                <span class="divider bg-white my-4"></span>
-                <div class="text-sm font-bold uppercase tracking-wider">lignes de code</div>
-                <div class="hidden md:block absolute bg-primary w-full h-full -z-1 rounded-3xl box-content px-6 py-24 -mt-40"></div>
+            <div class="relative z-10 flex flex-col items-center py-12 text-white bg-primary md:bg-transparent md:py-0">
+                <div class="text-6xl font-bold lg:text-7xl">15231</div>
+                <span class="my-4 bg-white divider"></span>
+                <div class="text-sm font-bold tracking-wider uppercase">lignes de code</div>
+                <div class="box-content absolute hidden w-full h-full px-6 py-24 -mt-40 md:block bg-primary -z-1 rounded-3xl"></div>
             </div>
         </div>
     </div>
-    <span class="hidden md:block bg-gray-200 w-2/5 h-full absolute rounded-3xl -z-1 top-0 right-4 xl:right-8 box-content py-20 -mt-32 2xl:right-0 2xl:-mr-28"></span>
+    <span class="box-content absolute top-0 hidden w-2/5 h-full py-20 -mt-32 bg-gray-200 md:block rounded-3xl -z-1 right-4 xl:right-8 2xl:right-0 2xl:-mr-28"></span>
 </section>
 
 <!-- Services -->
-<section class="mb-12 py-12 md:mb-24 md:py-0 mx-4 xl:mx-auto max-w-screen-xl text-center">
+<section class="max-w-screen-xl py-12 mx-4 mb-12 text-center md:mb-24 md:py-0 xl:mx-auto">
     <span class="up-title text-accent">Découvrir</span>
     <h2 class="xl-title">Nos services</h2>
-    <span class="mt-4 block text-gray-500">Ce que nous proposons à nos clients.</span>
+    <span class="block mt-4 text-gray-500">Ce que nous proposons à nos clients.</span>
 
-    <div class="sm:grid gap-4 grid-cols-3 lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 mt-10 sm:mt-20">
+    <div class="grid-cols-3 gap-4 mt-10 sm:grid lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 sm:mt-20">
         {{ range .Params.Service }}
             <div
                 class="
@@ -133,15 +133,15 @@
             >
                 <div class="relative">
                     <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | safeHTML }}</svg>
-                    <span class="absolute block rounded-full h-24 w-24 bg-accent-light top-3 left-8 -z-1"></span>
+                    <span class="absolute block w-24 h-24 rounded-full bg-accent-light top-3 left-8 -z-1"></span>
                 </div>
-                <h3 class="font-bold font-accent text-xl mt-12 mb-3">{{ .title }}</h3>
-                <p class="text-gray-500 text-sm sm:text-base">{{ .text }}</p>
+                <h3 class="mt-12 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
+                <p class="text-sm text-gray-500 sm:text-base">{{ .text }}</p>
             </div>
         {{ end }}
     </div>
 
-    <a href="" class="btn btn-accent mt-4 sm:mt-16">
+    <a href="" class="mt-4 btn btn-accent sm:mt-16">
         <span>Demandez un devis</span>
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -150,21 +150,21 @@
 </section>
 
 <!-- Why Magento -->
-<section class="py-12 md:py-24 bg-gradient-to-br from-gradient-dark to-gradient-light flex flex-col items-center">
-    <div class="container px-4 text-white max-w-screen-xl">
+<section class="flex flex-col items-center py-12 md:py-24 bg-gradient-to-br from-gradient-dark to-gradient-light">
+    <div class="container max-w-screen-xl px-4 text-white">
         <div class="flex flex-col items-center mb-8 lg:mb-0 font-accent">
-            <span class="up-title mb-4">Nos solutions</span>
-            <h2 class="xl-title text-center">Pourquoi Magento ?</h2>
-            <span class="divider bg-white mt-6"></span>
+            <span class="mb-4 up-title">Nos solutions</span>
+            <h2 class="text-center xl-title">Pourquoi Magento ?</h2>
+            <span class="mt-6 bg-white divider"></span>
         </div>
 
-        <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold font-accent">01.</span>
+        <span class="text-5xl font-bold lg:text-7xl xl:text-8xl 2xl:text-9xl font-accent">01.</span>
         <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
             <h3 class="lg-title">Pour sa polyvalence</h3>
-            <span class="divider divider-aside bg-white lg:w-16"></span>
+            <span class="bg-white divider divider-aside lg:w-16"></span>
         </div>
 
-        <div class="text-sm lg:text-base 2xl:text-lg mt-8 lg:mt-16 leading-normal xl:leading-relaxed 2xl:leading-loose col-count-2 col-gap-6">
+        <div class="col-gap-6 mt-8 text-sm leading-normal lg:text-base 2xl:text-lg lg:mt-16 xl:leading-relaxed 2xl:leading-loose col-count-2">
             <p class="mb-6">L'utilisation d'un CMS pour un site e-commerce est une solution intéressante sur le papier par rapport au développement d'un outil "maison", car les logiciels qui existent sur le marché sont en général bien pensés sur un mode "tout-en-un" : gestion du catalogue, des clients, des commandes, mais aussi du marketing en ligne, du référencement naturel (SEO), etc. Magento n'est évidemment pas le seul outil sur le marché, et en tant que chef d'entreprise ou responsable de site e-commerce vous avez la nécessité de vous poser la question suivante : pourquoi devrais-je opter pour Magento ?</p>
             <p class="mb-6">Magento est une solution e-commerce qui se couple facilement avec votre CMS actuel, que ce soit EZ Publish, Drupal, Joomla ou Wordpress.</p>
             <p class="mb-6">La plateforme e-commerce Magento est-elle la meilleure qui soit sur le marché ? Est-elle garante de la réussite de votre projet ou du développement de votre chiffre d'affaires en ligne ? À ces questions, il n'existe pas de réponse miracle qui puisse être donnée sans une étude de votre projet par notre équipe d'experts. En effet, Lumao est composée de développeurs et d'intégrateurs expérimentés et ayant à leur compteur de nombreux projets réalisés avec succès : nous connaissons les points forts et les points faibles de Magento, et l'étude de votre projet, de vos objectifs, voire de votre site e-commerce existant, nous permettra de vous dire si, oui ou non, Magento peut vous aider à vous développer sur le net dans le domaine du commerce en ligne.</p>
@@ -182,38 +182,38 @@
 </section>
 
 <!-- Catalogs -->
-<section class="py-12 md:py-24 flex flex-col items-center">
-    <div class="container px-4 max-w-screen-xl">
+<section class="flex flex-col items-center py-12 md:py-24">
+    <div class="container max-w-screen-xl px-4">
 
-        <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold font-accent">02.</span>
+        <span class="text-5xl font-bold lg:text-7xl xl:text-8xl 2xl:text-9xl font-accent">02.</span>
         <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6 ">
             <h3 class="lg-title">Pour les gros <span class="block text-primary">catalogues</span></h3>
             <span class="divider divider-aside lg:w-16"></span>
         </div>
 
 
-        <div class="lg:grid grid-cols-2 gap-24 xl:gap-36 2xl:gap-48 mt-8 lg:mt-12">
-            <div class="text-sm leading-normal xl:leading-relaxed lg:text-base grid grid-cols-1 self-start">
+        <div class="grid-cols-2 gap-24 mt-8 lg:grid xl:gap-36 2xl:gap-48 lg:mt-12">
+            <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
                 <p class="font-bold 2xl:text-lg lg:mb-12">La plupart des CMS de e-commerce qui existent sur le marché ne sont pas tous pensés pour gérer des catalogues de plusieurs milliers de produits, loin de là. Magento au contraire, a été dès le début pensé dans une optique de robustesse et dispose d'outils réellement bien pensés.</p>
-                <img src="{{ .Site.BaseURL }}images/home-catalog-1.jpg" class="rounded-xl lg:rounded-4xl my-8 lg:order-last lg:mt-16 lg:mb-0 2xl:mt-24 relative 2xl:max-w-3xl 2xl:-left-28 z-10" alt="" />
+                <img src="{{ .Site.BaseURL }}images/home-catalog-1.jpg" class="relative z-10 my-8 rounded-xl lg:rounded-4xl lg:order-last lg:mt-16 lg:mb-0 2xl:mt-24 2xl:max-w-3xl 2xl:-left-28" alt="" />
                 <p class="2xl:leading-loose ">La robustesse de Magento consiste à dire que la plateforme est développée pour fonctionner toujours de manière performante, et ce quelle que soit la taille du catalogue (principe de scalabilité). En termes de développement en effet, il est tout à fait possible d'avoir un outil qui fonctionne de manière très satisfaisante avec quelques produits, mais qui se met à ralentir ou planter dès qu'un seuil critique est atteint. A contrario, Magento ne subit aucune dégradation de performances avec un catalogue de très grande taille. Sur certains autres CMS, l'utilisation de nombreux produits requiert des modifications très importantes du coeur de l'outil : les performances peuvent donc tenir le cap, mais au prix de développements spécifiques coûteux en termes de maintenance. De plus, trop de développement spécifique peut nuire au principe même du CMS et entraîner des difficultés lors de mises à jour de version. Magento, au contraire, peut gérer sans difficulté ni ralentissement plusieurs dizaines de milliers d'articles.</p>
 
-                <img src="{{ .Site.BaseURL }}images/dots.png" class="hidden relative w-48 lg:block lg:order-last justify-self-end mt-16 2xl:-right-24" alt="" />
+                <img src="{{ .Site.BaseURL }}images/dots.png" class="relative hidden w-48 mt-16 lg:block lg:order-last justify-self-end 2xl:-right-24" alt="" />
             </div>
 
 
-            <div class="text-sm leading-normal lg:text-base xl:leading-relaxed grid grid-cols-1 self-start">
+            <div class="grid self-start grid-cols-1 text-sm leading-normal lg:text-base xl:leading-relaxed">
                 <p class="mt-8 mb-12 lg:my-0 lg:order-first 2xl:leading-loose">Toujours dans cette optique de gestion de grands catalogues, Magento dispose en natif d'outils permettant d'effectuer des actions en masse. Ceci permet, au quotidien, de gagner un temps précieux dans la gestion de sa boutique, lorsqu'on souhaite faire des modifications théoriquement longues. Certains outils concurrents de Magento, qui ne disposent pas de ces fonctionnalités pratiques, imposent de faire la plupart des actions individuellement sur chaque article par exemple, faisant perdre beaucoup de temps - même s'il existe des modules additionnels pour améliorer ces problèmes, cela vient au prix d'un coût additionnel en acquisition du module, maintenance, et apprentissage.</p>
 
-                <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold font-accent">03.</span>
-                <div class="relative z-20 flex flex-col items-start justify-center  lg:mt-4 xl:mt-6 ">
+                <span class="text-5xl font-bold lg:text-7xl xl:text-8xl 2xl:text-9xl font-accent">03.</span>
+                <div class="relative z-20 flex flex-col items-start justify-center lg:mt-4 xl:mt-6 ">
                     <h3 class="lg-title">Pour <span class="text-primary">le B2B</span></h3>
                     <span class="divider divider-aside lg:w-16"></span>
                 </div>
 
-                <img src="{{ .Site.BaseURL }}images/home-catalog-2.jpg" class="rounded-xl lg:rounded-4xl my-8 lg:my-16 lg:order-first 2xl:my-24 relative 2xl:max-w-3xl 2xl:-left-28" alt="" />
+                <img src="{{ .Site.BaseURL }}images/home-catalog-2.jpg" class="relative my-8 rounded-xl lg:rounded-4xl lg:my-16 lg:order-first 2xl:my-24 2xl:max-w-3xl 2xl:-left-28" alt="" />
 
-                <p class="2xl:leading-loose mb-8 lg:my-12">La plupart des CMS, excepté Magento, ne sont en réalité que très peu voire pas du tout pensés pour le commerce entre professionnels (B2B). Bien que la vente B2C classique partage de nombreux points communs avec la vente B2B, cette dernière possède ses spécificités, que Magento gère parfaitement. Notre équipe de développeurs Magento peut également et à votre demande mettre au point toutes sortes de fonctionnalités spécifiques. Si vous êtes à la tête d'une entreprise présente sur le marché B2B, il est fort probable que Magento soit la solution la plus adaptée à votre projet de site e-commerce : gestion d'une société, flexibilité des prix en fonction du client via des grilles tarifaires spécifiques, gestion des devis, adaptation du catalogue à un client particulier, paiement en compte, etc. Parmi les nombreuses fonctionnalités B2B, mais qui en réalité intéressent tout type de société, on trouve également de nombreux outils, complétés par notre équipe d'experts Magento, qui permettent d'interfacer votre site e-commerce avec votre système d'information et notamment votre ERP.</p>
+                <p class="mb-8 2xl:leading-loose lg:my-12">La plupart des CMS, excepté Magento, ne sont en réalité que très peu voire pas du tout pensés pour le commerce entre professionnels (B2B). Bien que la vente B2C classique partage de nombreux points communs avec la vente B2B, cette dernière possède ses spécificités, que Magento gère parfaitement. Notre équipe de développeurs Magento peut également et à votre demande mettre au point toutes sortes de fonctionnalités spécifiques. Si vous êtes à la tête d'une entreprise présente sur le marché B2B, il est fort probable que Magento soit la solution la plus adaptée à votre projet de site e-commerce : gestion d'une société, flexibilité des prix en fonction du client via des grilles tarifaires spécifiques, gestion des devis, adaptation du catalogue à un client particulier, paiement en compte, etc. Parmi les nombreuses fonctionnalités B2B, mais qui en réalité intéressent tout type de société, on trouve également de nombreux outils, complétés par notre équipe d'experts Magento, qui permettent d'interfacer votre site e-commerce avec votre système d'information et notamment votre ERP.</p>
 
                 <a href="" class="highlighted-label text-primary">
                     <span>Demandez un devis</span>
@@ -229,22 +229,22 @@
 </section>
 
 <!-- ERP -->
-<section class="bg-secondary flex flex-col lg:flex-row">
-    <div class="lg:w-5/12 relative overflow-hidden">
+<section class="flex flex-col bg-secondary lg:flex-row">
+    <div class="relative overflow-hidden lg:w-5/12">
         <img src="{{ .Site.BaseURL }}images/home-erp.jpg" class="lg:absolute lg:h-full lg:max-w-none" alt="" />
     </div>
-    <div class="lg:w-7/12 py-8 lg:py-36">
-        <div class="lg:max-w-screen-md px-4 lg:pl-20 xl:pl-32 text-white">
+    <div class="py-8 lg:w-7/12 lg:py-36">
+        <div class="px-4 text-white lg:max-w-screen-md lg:pl-20 xl:pl-32">
 
-            <span class="text-5xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-bold font-accent">04.</span>
+            <span class="text-5xl font-bold lg:text-7xl xl:text-8xl 2xl:text-9xl font-accent">04.</span>
             <div class="relative z-20 flex flex-col items-start justify-center mb-8 lg:mb-12 lg:mt-4 xl:mt-6 ">
                 <h3 class="lg-title">Pour l'intégration <span class="text-primary">ERP</span></h3>
                 <span class="bg-primary h-2.5 w-9 mt-4 lg:mt-0 rounded-xl lg:absolute lg:-left-16"></span>
             </div>
 
-            <p class="text-sm lg:text-base leading-relaxed lg:leading-relaxed 2xl:leading-loose">Bien que Magento soit conçu comme un CMS autonome, il ne montrera sa pleine puissance qu'une fois couplé à votre SI et à votre ERP. Nos développeurs vous aideront à définir les meilleures pratiques pour faire interagir votre système informatique et votre site e-commerce : mise à jour des articles (stock, prix, informations diverses), intégration des nouveaux clients et des commandes. Magento dispose de manière native d'une très grande facilité d'adaptation face aux principaux ERP du marché. Contactez-nous sans plus attendre pour que notre équipe puisse vous accompagner au mieux dans la réalisation de vos objectifs.</p>
+            <p class="text-sm leading-relaxed lg:text-base lg:leading-relaxed 2xl:leading-loose">Bien que Magento soit conçu comme un CMS autonome, il ne montrera sa pleine puissance qu'une fois couplé à votre SI et à votre ERP. Nos développeurs vous aideront à définir les meilleures pratiques pour faire interagir votre système informatique et votre site e-commerce : mise à jour des articles (stock, prix, informations diverses), intégration des nouveaux clients et des commandes. Magento dispose de manière native d'une très grande facilité d'adaptation face aux principaux ERP du marché. Contactez-nous sans plus attendre pour que notre équipe puisse vous accompagner au mieux dans la réalisation de vos objectifs.</p>
 
-            <a href="" class="inline-flex max-w-max font-bold text-sm lg:text-lg text-primary relative group font-accent mt-8 lg:mt-12">
+            <a href="" class="relative inline-flex mt-8 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
                 <span>Demandez un devis</span>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -256,31 +256,31 @@
 </section>
 
 <!-- Why Lumao -->
-<section class="relative bg-gray-theme-100 py-12 md:py-24 text-center md:px-8 sm:px-20 xl:px-0">
+<section class="relative py-12 text-center bg-gray-theme-100 md:py-24 md:px-8 sm:px-20 xl:px-0">
     <div class="max-w-screen-xl mx-auto">
         
         <div class="px-8">
             <span class="up-title text-primary">Qui sommes-nous</span>
-            <h2 class="xl-title mt-2 md:mt-0">Pourquoi Lumao ?</h2>
+            <h2 class="mt-2 xl-title md:mt-0">Pourquoi Lumao ?</h2>
         </div>
 
-        <hr class="my-8 md:hidden w-3/4 mx-auto">
+        <hr class="w-3/4 mx-auto my-8 md:hidden">
 
-        <div class="xl:grid gap-4 grid-cols-3 lg:gap-8 lg:mx-8 xl:gap-12 md:mt-5 xl:mt-20">
+        <div class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12 md:mt-5 xl:mt-20">
         
             <!-- Block 01 -->
-            <div class="rounded-3xl overflow-hidden relative xl:top-6 mb-16 xl:mb-0">
-                <div class="flex flex-col md:pt-16 px-8 xl:px-12 font-bold">
-                    <span class="text-lg font-accent text-primary mb-4">01</span>
+            <div class="relative mb-16 overflow-hidden rounded-3xl xl:top-6 xl:mb-0">
+                <div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
+                    <span class="mb-4 text-lg font-accent text-primary">01</span>
 
                     <h4 class="text-3xl md:text-4xl font-accent">Pour la création de <span  class="text-primary">votre site web</span></h4>
 
-                    <span class="divider mx-auto my-8"></span>
+                    <span class="mx-auto my-8 divider"></span>
 
-                    <p class="text-xl xl:text-base font-bold">Nous vous accompagnons dans la création de votre site internet, de sa conception à sa mise en ligne.</p>
+                    <p class="text-xl font-bold xl:text-base">Nous vous accompagnons dans la création de votre site internet, de sa conception à sa mise en ligne.</p>
                 </div>
 
-                <div class="text-xl xl:text-base flex flex-col py-10 px-4 xl:px-12 text-gray-500 leading-7">
+                <div class="flex flex-col px-4 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
                     Nos experts rassemblent toutes leurs compétences pour créer le site qui répond à vos besoins et à ceux de vos visiteurs. Design, contenus, technologie, fonctionnalités, référencement… : tout est étudié pour vous offrir un site web performant, à l’image de l’activité que vous souhaitez promouvoir en ligne.
                 </div>
 
@@ -293,23 +293,23 @@
             </div>
 
             <!-- Block 02 -->
-            <div class="sm:rounded-3xl shadow-theme overflow-hidden mb-16 xl:mb-0">
-                <div class="flex flex-col bg-secondary text-white py-16 px-8 xl:px-12 font-bold">
-                    <span class="text-lg font-accent text-primary mb-4">02</span>
+            <div class="mb-16 overflow-hidden sm:rounded-3xl shadow-theme xl:mb-0">
+                <div class="flex flex-col px-8 py-16 font-bold text-white bg-secondary xl:px-12">
+                    <span class="mb-4 text-lg font-accent text-primary">02</span>
 
                     <h4 class="text-3xl md:text-4xl font-accent">Pour concevoir votre site <span class="text-primary">e-commerce</span></h4>
 
-                    <span class="divider mx-auto my-8"></span>
+                    <span class="mx-auto my-8 divider"></span>
 
-                    <p class="text-xl xl:text-base font-normal">Si vous souhaitez faire réaliser un site par une agence web, vous pourrez confier votre projet de e-commerce à Lumao. </p>
+                    <p class="text-xl font-normal xl:text-base">Si vous souhaitez faire réaliser un site par une agence web, vous pourrez confier votre projet de e-commerce à Lumao. </p>
 
                 </div>
 
-                <div class="text-xl xl:text-base flex flex-col py-10 px-8 xl:px-12 text-gray-500 leading-7">
+                <div class="flex flex-col px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
                     Notre agence web vous accompagnera dans votre vie numérique. La présence sur le net devient indispensable pour entretenir votre clientèle et démarcher de nouveaux prospects. Votre vitrine se doit d’être fonctionnelle et facile à prendre en main. Por vous aider à mieux comprendre notre rôle à vos côtés consultez la page agence web, vous en apprendrez plus sur ce que l’on pourra réaliser pour vous.
                 </div>
 
-                <a href="#" class="btn btn-primary mb-16 shadow-lg">
+                <a href="#" class="mb-16 shadow-lg btn btn-primary">
                     <span class="text-xl xl-text-base">En savoir plus</span>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -318,19 +318,19 @@
             </div>
 
             <!-- Block 03 -->
-            <div class="rounded-3xl overflow-hidden relative xl:top-6 md:mb-16 xl:mb-0">
-                <div class="flex flex-col md:pt-16 px-4 xl:px-12 font-bold">
-                    <span class="text-lg font-accent text-primary mb-4">03</span>
+            <div class="relative overflow-hidden rounded-3xl xl:top-6 md:mb-16 xl:mb-0">
+                <div class="flex flex-col px-4 font-bold md:pt-16 xl:px-12">
+                    <span class="mb-4 text-lg font-accent text-primary">03</span>
 
                     <h4 class="text-3xl md:text-4xl font-accent">Pour une <span class="text-primary">boutique en ligne </span>bien pensée</h4>
 
-                    <span class="divider mx-auto my-8"></span>
+                    <span class="mx-auto my-8 divider"></span>
 
-                    <p class="text-xl xl:text-base font-bold">Le succès de votre présence sur le net est indissociable de la bonne construction de votre site.</p>
+                    <p class="text-xl font-bold xl:text-base">Le succès de votre présence sur le net est indissociable de la bonne construction de votre site.</p>
 
                 </div>
 
-                <div class="text-xl xl:text-base flex flex-col py-10 px-8 xl:px-12 text-gray-500 leading-7">
+                <div class="flex flex-col px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
                     Si là n’est pas le seul facteur de réussite il n’en demeure pas moins que c’est l’un des principaux. Vos clients seront guidés des fiches-produits à la validation du panier en quelques clics intuitifs. L’acte d’achat sur votre site e-commerce réalisé par notre agence sera fluide et sans contrainte pouvant dissuader l’acquéreur. 
                 </div>
 
@@ -345,24 +345,24 @@
     </div>
 
     <!-- Bookmark -->
-    <div class="absolute bottom-60 right-20 transform rotate-90 hidden 3xl:flex items-center">
-        <span class="text-xs uppercase tracking-widest">Pourquoi Lumao</span>
+    <div class="absolute items-center hidden transform rotate-90 bottom-60 right-20 3xl:flex">
+        <span class="text-xs tracking-widest uppercase">Pourquoi Lumao</span>
         <span class="absolute -right-12 bg-primary h-0.5 w-10 mx-auto rounded-xl"></span>
     </div>
 
 </section>
 
 <!-- Beautiful websites -->
-<section class="relative py-16 md:py-32 lg:py-48 px-8 sm:px-20 xl:px-0 shadow-theme md:shadow-none mb-20 md:mb-0">
-    <div class="max-w-screen-xl mx-auto flex flex-col lg:flex-row items-center">
+<section class="relative px-8 py-16 mb-20 md:py-32 lg:py-48 sm:px-20 xl:px-0 shadow-theme md:shadow-none md:mb-0">
+    <div class="flex flex-col items-center max-w-screen-xl mx-auto lg:flex-row">
 
-        <div class="relative flex flex-col lg:flex-row items-center md:w-3/4 lg:mr-12 mb-10 md:mb-20 lg:mb-0">
-            <div class="mb-12 lg:mb-0 text-center lg:text-left">
+        <div class="relative flex flex-col items-center mb-10 lg:flex-row md:w-3/4 lg:mr-12 md:mb-20 lg:mb-0">
+            <div class="mb-12 text-center lg:mb-0 lg:text-left">
                 <!-- Title -->
-                <h2 class="lg-title text-center lg:text-left">Nous créons<br>de magnifiques sites</h2>
+                <h2 class="text-center lg-title lg:text-left">Nous créons<br>de magnifiques sites</h2>
 
                 <!-- Link -->
-                <a href="#" class="highlighted-label text-primary hidden md:inline-flex mt-8 lg:mt-6">
+                <a href="#" class="hidden mt-8 highlighted-label text-primary md:inline-flex lg:mt-6">
                     <span>Nos réalisations</span>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -372,59 +372,59 @@
             </div>
 
             <!-- Picture -->
-            <span class="hidden lg:block mr-0 bg-gray-200 w-4/5 h-4/5 absolute right-8 -z-1 rounded-3xl"></span>
-            <div class="relative rounded-3xl mx-auto md:ml-auto w-full xs:w-3/5 lg:w-2/5 h-80 md:h-96 lg:h-auto overflow-hidden">
-                <img alt="" src="{{ .Site.BaseURL }}images/home-beautiful-sites.jpg" class="absolute lg:relative bottom-0 left-1/2 transform -translate-x-1/2 lg:-translate-x-none w-full" draggable="false"/>
+            <span class="absolute hidden w-4/5 mr-0 bg-gray-200 lg:block h-4/5 right-8 -z-1 rounded-3xl"></span>
+            <div class="relative w-full mx-auto overflow-hidden rounded-3xl md:ml-auto xs:w-3/5 lg:w-2/5 h-80 md:h-96 lg:h-auto">
+                <img alt="" src="{{ .Site.BaseURL }}images/home-beautiful-sites.jpg" class="absolute bottom-0 w-full transform -translate-x-1/2 lg:relative left-1/2 lg:-translate-x-none" draggable="false"/>
             </div>
         </div>
 
-        <ul class="relative md:w-1/2 flex flex-col sm:max-w-none sm:flex">
+        <ul class="relative flex flex-col md:w-1/2 sm:max-w-none sm:flex">
 
             <!-- Step 1 -->
-            <li class="relative pb-4 md:pb-8 flex items-baseline">
+            <li class="relative flex items-baseline pb-4 md:pb-8">
                 <div class="mr-4 md:mr-12 -left-px">
                     <!-- Bullet -->
-                    <span class="relative block w-3 h-3 rounded-full border-2 border-primary">
-                        <span class="hidden md:block absolute inset-1/2 transform -translate-y-2/4 -translate-x-2/4 w-14 h-14 rounded-full border-2 border-primary"></span>
+                    <span class="relative block w-3 h-3 border-2 rounded-full border-primary">
+                        <span class="absolute hidden transform border-2 rounded-full md:block inset-1/2 -translate-y-2/4 -translate-x-2/4 w-14 h-14 border-primary"></span>
                     </span>
                 </div>
                 <div>
-                    <p class="leading-7 md:font-bold text-sm md:text-base xl:text-lg">Nous convenons d'un planning</p>
-                    <p class="leading-7 md:text-gray-500 text-sm md:text-base xl:text-lg">afin de développer votre e-commerce pour votre deadline.</p>
+                    <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">Nous convenons d'un planning</p>
+                    <p class="text-sm leading-7 md:text-gray-500 md:text-base xl:text-lg">afin de développer votre e-commerce pour votre deadline.</p>
                 </div>
                 <!-- Line -->
                 <span class="absolute left-1 bottom-0 bg-primary h-3/4 md:h-1/2 w-0.5 mx-auto rounded-xl"></span>
             </li>
 
             <!-- Step 2 -->
-            <li class="relative pb-4 md:pb-8 flex items-baseline">
+            <li class="relative flex items-baseline pb-4 md:pb-8">
                 <!-- Bullet -->
-                <div class="mr-4 md:mr-12 relative -left-px">
-                    <span class="block w-3 h-3 rounded-full border-2 border-primary"></span>
+                <div class="relative mr-4 md:mr-12 -left-px">
+                    <span class="block w-3 h-3 border-2 rounded-full border-primary"></span>
                 </div>
                 <div>
-                    <p class="leading-7 md:font-bold text-sm md:text-base xl:text-lg">C'est la phase de création du site-web</p>
-                    <p class="leading-7 md:text-gray-500 text-sm md:text-base xl:text-lg">tous les jours, vous verrez les nouvelles fonctionnalités que nous faisons pour votre site.</p>
+                    <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">C'est la phase de création du site-web</p>
+                    <p class="text-sm leading-7 md:text-gray-500 md:text-base xl:text-lg">tous les jours, vous verrez les nouvelles fonctionnalités que nous faisons pour votre site.</p>
                 </div>
                 <!-- Line -->
                 <span class="absolute left-1 bottom-0 bg-primary h-3/4 w-0.5 mx-auto rounded-xl"></span>
             </li>
 
             <!-- Step 3 -->
-            <li class="pb-4 md:pb-8 flex items-baseline">
+            <li class="flex items-baseline pb-4 md:pb-8">
                 <!-- Bullet -->
-                <div class="mr-4 md:mr-12 relative -left-px">
-                    <span class="block w-3 h-3 rounded-full border-2 border-primary"></span>
+                <div class="relative mr-4 md:mr-12 -left-px">
+                    <span class="block w-3 h-3 border-2 rounded-full border-primary"></span>
                 </div>
                 <div>
-                    <p class="leading-7 md:font-bold text-sm md:text-base xl:text-lg">Une mise en production a lieu</p>
-                    <p class="leading-7 md:text-gray-500 text-sm md:text-base xl:text-lg">toutes les 2 semaines avec les changements que vous aurez préalablement validés.</p>
+                    <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">Une mise en production a lieu</p>
+                    <p class="text-sm leading-7 md:text-gray-500 md:text-base xl:text-lg">toutes les 2 semaines avec les changements que vous aurez préalablement validés.</p>
                 </div>
             </li>
         </ul>
 
         <!-- Link -->
-        <a href="#" class="highlighted-label text-primary md:hidden mt-8 lg:mt-6 w-full">
+        <a href="#" class="w-full mt-8 highlighted-label text-primary md:hidden lg:mt-6">
             <span>Nos réalisations</span>
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -434,66 +434,66 @@
     </div>
 
     <!-- Bookmark -->
-    <div class="absolute top-64 right-20 transform rotate-90 hidden xl:flex items-center">
-        <span class="text-xs uppercase tracking-widest">Pourquoi Lumao</span>
+    <div class="absolute items-center hidden transform rotate-90 top-64 right-20 xl:flex">
+        <span class="text-xs tracking-widest uppercase">Pourquoi Lumao</span>
     </div>
 </section>
 
 <!-- Skills -->
-<section class="relative pb-16 md:pb-24 px-8 sm:px-20 xl:px-0">
+<section class="relative px-8 pb-16 md:pb-24 sm:px-20 xl:px-0">
 
     <!-- Title -->
     <div class="max-w-screen-xl mx-auto">
-        <h2 class="lg-title xl:w-1/2 text-center lg:text-left mb-8 md:mb-16">Nous avons<br>des compétences<br>incroyables</h2>
+        <h2 class="mb-8 text-center lg-title xl:w-1/2 lg:text-left md:mb-16">Nous avons<br>des compétences<br>incroyables</h2>
     </div>
     
-    <img src="{{ .Site.BaseURL }}images/dots.png" class="hidden absolute 2xl:-left-16 3xl:-left-3 2xl:block w-48" />
+    <img src="{{ .Site.BaseURL }}images/dots.png" class="absolute hidden w-48 2xl:-left-16 3xl:-left-3 2xl:block" />
 
-    <div class="max-w-screen-xl mx-auto flex flex-col lg:flex-row-reverse items-start">
+    <div class="flex flex-col items-start max-w-screen-xl mx-auto lg:flex-row-reverse">
 
-        <div class="relative flex flex-col lg:flex-row items-center w-full xs:w-3/4 lg:w-1/2 mx-auto mb-10 lg:mb-0">
+        <div class="relative flex flex-col items-center w-full mx-auto mb-10 lg:flex-row xs:w-3/4 lg:w-1/2 lg:mb-0">
 
-            <p class="block lg:hidden text-gray-500 text-center md:text-left leading-8 mb-10">En plus d'aimer le café, nous aimons notre travail, dans l'équipe nous avons des compétences rares.</p>
+            <p class="block mb-10 leading-8 text-center text-gray-500 lg:hidden md:text-left">En plus d'aimer le café, nous aimons notre travail, dans l'équipe nous avons des compétences rares.</p>
 
             <!-- Picture -->
             <div class="h-1/2">
-                <img alt="" src="{{ .Site.BaseURL }}images/home-skills.jpg" class="rounded-3xl w-full" draggable="false"/>
+                <img alt="" src="{{ .Site.BaseURL }}images/home-skills.jpg" class="w-full rounded-3xl" draggable="false"/>
             </div>
         </div>
 
-        <div class="mx-auto w-full xs:w-3/4 lg:w-1/2 px-4 md:px-12">
-            <p class="hidden lg:block text-gray-500 text-center md:text-left leading-8 mb-6">En plus d'aimer le café, nous aimons notre travail, dans l'équipe nous avons des compétences rares.</p>
+        <div class="w-full px-4 mx-auto xs:w-3/4 lg:w-1/2 md:px-12">
+            <p class="hidden mb-6 leading-8 text-center text-gray-500 lg:block md:text-left">En plus d'aimer le café, nous aimons notre travail, dans l'équipe nous avons des compétences rares.</p>
 
             <!-- Skills -->
             <ul class="mb-6">
                 <li>
-                    <p class="text-lg font-bold mb-3">Expertise Magento 1</p>
-                    <div class="w-100 h-2 bg-gray-200 rounded-full mb-8">
-                        <div class="w-11/12 h-2 bg-accent rounded-full"></div>
+                    <p class="mb-3 text-lg font-bold">Expertise Magento 1</p>
+                    <div class="h-2 mb-8 bg-gray-200 rounded-full w-100">
+                        <div class="w-11/12 h-2 rounded-full bg-accent"></div>
                     </div>
                 </li>
                 <li>
-                    <p class="text-lg font-bold mb-3">Design</p>
-                    <div class="w-100 h-2 bg-gray-200 rounded-full mb-8">
-                        <div class="w-10/12 h-2 bg-accent rounded-full"></div>
+                    <p class="mb-3 text-lg font-bold">Design</p>
+                    <div class="h-2 mb-8 bg-gray-200 rounded-full w-100">
+                        <div class="w-10/12 h-2 rounded-full bg-accent"></div>
                     </div>
                 </li>
                 <li>
-                    <p class="text-lg font-bold mb-3">Marketing (SEO, SEA)</p>
-                    <div class="w-100 h-2 bg-gray-200 rounded-full mb-8">
-                        <div class="w-8/12 h-2 bg-accent rounded-full"></div>
+                    <p class="mb-3 text-lg font-bold">Marketing (SEO, SEA)</p>
+                    <div class="h-2 mb-8 bg-gray-200 rounded-full w-100">
+                        <div class="w-8/12 h-2 rounded-full bg-accent"></div>
                     </div>
                 </li>
                 <li>
-                    <p class="text-lg font-bold mb-3">Magento 2</p>
-                    <div class="w-100 h-2 bg-gray-200 rounded-full mb-8">
-                        <div class="w-11/12 h-2 bg-accent rounded-full"></div>
+                    <p class="mb-3 text-lg font-bold">Magento 2</p>
+                    <div class="h-2 mb-8 bg-gray-200 rounded-full w-100">
+                        <div class="w-11/12 h-2 rounded-full bg-accent"></div>
                     </div>
                 </li>
             </ul>
 
             <!-- Link -->
-            <a href="#" class="highlighted-label text-accent mt-8">
+            <a href="#" class="mt-8 highlighted-label text-accent">
                 <span>Nos réalisations</span>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -503,11 +503,11 @@
         </div>
     </div>
 
-    <span class="hidden lg:block bg-gray-200 w-1/3 h-full absolute right-0 top-0 -z-1 rounded-l-3xl"></span>
+    <span class="absolute top-0 right-0 hidden w-1/3 h-full bg-gray-200 lg:block -z-1 rounded-l-3xl"></span>
 
     <!-- Bookmark -->
-    <div class="absolute top-16 3xl:top-72 right-20 transform rotate-90 hidden xl:flex items-center">
-        <span class="text-xs uppercase tracking-widest">Pourquoi Lumao</span>
+    <div class="absolute items-center hidden transform rotate-90 top-16 3xl:top-72 right-20 xl:flex">
+        <span class="text-xs tracking-widest uppercase">Pourquoi Lumao</span>
     </div>
 </section>
 
