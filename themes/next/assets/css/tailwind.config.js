@@ -8,6 +8,7 @@ module.exports = {
         primary: '#ff9c00',
         'primary-light': '#FFF0D9',
         secondary: '#432a43',
+        'secondary-dark': '#331f33',
         accent: '#5ecddd',
         'accent-light': '#e0fcf8',
         'transparent-black': 'rgba(0, 0, 0, 0.5)',
@@ -28,6 +29,7 @@ module.exports = {
       },
       height: {
         '600': '600px',
+        '700': '700px',
         '750': '750px',
       },
       minHeight: {
