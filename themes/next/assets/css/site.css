@@ -54,15 +54,15 @@
 }
 
 .highlighted-label {
-    @apply inline-flex relative font-bold font-accent text-lg group max-w-max;
+    @apply relative inline-flex text-lg font-bold font-accent group max-w-max;
 }
 
 .btn {
-    @apply inline-flex items-center cursor-pointer border font-bold font-accent text-sm xl:text-lg rounded-full px-12 py-4 sm:py-4;
+    @apply inline-flex items-center px-12 py-4 text-sm font-bold border rounded-full cursor-pointer font-accent xl:text-lg sm:py-4;
 }
 
 .btn-primary {
-    @apply bg-primary text-white hover:bg-white hover:text-primary hover:border-primary;
+    @apply text-white bg-primary hover:bg-white hover:text-primary hover:border-primary;
 }
 
 .btn-primary-transparent {
@@ -70,7 +70,7 @@
 }
 
 .btn-accent {
-    @apply bg-accent text-white;
+    @apply text-white bg-accent;
 }
 
 .btn-gray {
@@ -78,7 +78,7 @@
 }
 
 .btn-white {
-    @apply border-white text-white hover:bg-white hover:text-accent;
+    @apply text-white border-white hover:bg-white hover:text-accent;
 }
 
 
@@ -91,13 +91,13 @@
 }
 
 .up-title {
-    @apply text-sm md:text-lg font-bold uppercase text-center;
+    @apply text-sm font-bold text-center uppercase md:text-lg;
 }
 
 .xl-title {
-    @apply text-4xl md:text-5xl xl:text-6xl 2xl:text-7xl font-accent font-bold;
+    @apply text-4xl font-bold md:text-5xl xl:text-6xl 2xl:text-7xl font-accent;
 }
 
 .lg-title {
-    @apply text-3xl xl:text-4xl 2xl:text-5xl font-bold font-accent;
+    @apply text-3xl font-bold xl:text-4xl 2xl:text-5xl font-accent;
 }

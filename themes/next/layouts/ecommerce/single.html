@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <!-- Hero -->
-<section class="relative flex items-center justify-center overflow-x-hidden bg-gray-400 h-600 sm:h-screen md:min-h-920 md:max-h-1080">
+<section class="relative flex items-center justify-center overflow-hidden bg-gray-400 h-600 sm:h-screen md:min-h-920 md:max-h-1080">
     <img alt="" src="{{ .Site.BaseURL }}images/cms/single/hero.jpg" class="absolute object-cover min-h-full max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"/>
 
     <div class="absolute flex flex-col items-center justify-end w-full h-full sm:justify-center">
@@ -541,7 +541,7 @@
 </section>
 
 <!-- Section 17 -->
-<section class="relative px-8 mx-auto mt-24 mb-12 text-sm md:container md:px-0 lg:mb-24 md:text-base">
+<section class="relative px-8 mx-auto mt-24 mb-12 text-sm md:container md:px-0 lg:mb-32 md:text-base">
     <div class="mb-5 lg:w-1/2 lg:mr-0 lg:ml-auto">
         <h2 class="lg-title">Freelance ou <span class="text-primary">agence ?</span></h2>
         <span class="relative my-6 divider lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
@@ -550,9 +550,9 @@
         <p class="leading-8 text-gray-500">Le e-commerce est devenu incontournable et, par conséquent, le besoin en sites marchands ne cesse de grandir. Que vous fassiez appel à un développeur freelance ou à une agence spécialisée telle que Lumao, il sera toujours nécessaire de débuter votre projet web par une analyse concrète et précise de vos besoins. Et ce, sur le long terme. Cela permettra de déterminer les solutions à retenir, les compétences techniques requises, le nombre d’experts… et de dresser un devis détaillé adapté à vos objectifs.</p>
     </div>
 
-    <div class="relative flex flex-col mx-auto lg:left-32 lg:absolute lg:top-12 md:container">
-        <span class="relative hidden w-1/4 bg-gray-200 lg:block lg:h-750 lg:absolute -z-1 rounded-3xl"></span>
-        <div class="relative w-full pb-12 text-right lg:absolute lg:w-1/4 lg:left-24 lg:h-700 lg:py-24">
+    <div class="relative flex flex-col mx-auto lg:left-12 xl:left-32 lg:absolute lg:top-12 md:container lg:w-1/2">
+        <span class="relative hidden w-1/2 bg-gray-200 lg:block lg:h-650 lg:absolute -z-1 rounded-3xl"></span>
+        <div class="relative w-full pb-12 text-right lg:absolute lg:w-1/2 lg:left-12 xl:left-24 lg:h-600 lg:py-24">
             <div class="relative overflow-hidden h-52 sm:h-72 md:h-96 lg:h-full rounded-3xl">
                 <img src="{{ .Site.BaseURL }}images/cms/single/placeholder-12.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
             </div>
@@ -579,10 +579,131 @@
 </section>
 
 <!-- Section 19 -->
-<section class="flex flex-col items-center px-8 mx-auto mt-16 text-center md:container">
-    <span class="mb-2 up-title text-primary md:mb-0">L'agence</span>
-    <h2 class="px-10 xl-title">Nos domaines d'intervention</h2>
+<section class="flex flex-col items-center px-8 mx-auto mt-16 md:container">
+    <span class="mb-2 text-center up-title text-primary md:mb-0">L'agence</span>
+    <h2 class="px-10 text-center xl-title">Nos domaines d'intervention</h2>
     <span class="mt-4 mb-10 divider md:mt-8 lg:mb-20"></span>
+    
+    <div class="container max-w-screen-xl grid-cols-2 gap-24 px-4 lg:grid xl:gap-36 2xl:gap-48">
+        <div class="w-full">
+            <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
+                <h3 class="lg-title"><span class="block text-primary">Optimisation</span>Magento 2</h3>
+                <span class="divider divider-aside lg:w-16"></span>
+            </div>
+
+            <div class="mt-4 mb-10 lg:mb-20">
+                <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
+                    <p class="mb-4 font-bold 2xl:text-lg">Confiez nous votre projet</p>
+                    <p class="text-gray-500 2xl:leading-loose">Vous souhaitez améliorer les performances de votre site e-commerce ? Son taux de conversion n’est pas en adéquation avec vos objectifs, vous constatez une baisse d’activité anormale ? D’où viennent ces problèmes ? En nous confiant votre projet d’optimisation Magento, nous analysons d’abord votre situation. Après avoir identifié les éléments qui freinent la conversion et ceux qui mettent à mal votre visibilité, nous trouvons les solutions adaptées et les mettons en place dans le respect de vos besoins et de vos objectifs en matière de rentabilité.</p>
+
+                    <a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+                        <span>L'optimisation</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                        <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
+                <h3 class="lg-title"><span class="text-primary">Refonte</span> Magento</h3>
+                <span class="divider divider-aside lg:w-9"></span>
+            </div>
+
+            <div class="mt-4 mb-10 lg:mb-20">
+                <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
+                    <p class="mb-4 font-bold 2xl:text-lg">Faites évoluer votre boutique</p>
+                    
+                    <p class="text-gray-500 2xl:leading-loose">Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une refonte Magento s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.</p>
+
+                    <a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+                        <span>En savoir plus</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                        <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+                    </a>
+
+                    <img src="{{ .Site.BaseURL }}images/cms/single/placeholder-13.jpg" class="relative z-10 mt-8 rounded-xl lg:rounded-4xl lg:order-last lg:mt-16 lg:mb-0 2xl:mt-24 2xl:max-w-3xl 2xl:-left-28" alt="" />
+
+                    <img src="{{ .Site.BaseURL }}images/dots.png" class="relative hidden w-48 mt-16 lg:block lg:order-last justify-self-end" alt="" />
+                </div>
+            </div>
+        </div>
+
+        <div class="relative w-full mb-10 lg:top-44 lg:mb-44">
+            <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
+                <h3 class="lg-title"><span class="block text-primary">Maintenance</span>de votre site</span></h3>
+            </div>
+
+            <div class="mt-4 mb-10 lg:mb-20">
+                <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
+                    <p class="mb-4 font-bold 2xl:text-lg">Faites évoluer votre boutique</p>
+                    <p class="text-gray-500 2xl:leading-loose">Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une refonte Magento s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.</p>
+
+                    <a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+                        <span>En savoir plus</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                        <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+                    </a>
+
+                    <div class="relative z-20 hidden transform translate-y-16 lg:block">
+                        <span class="relative transform rotate-90 divider lg:w-16 2xl-left-7"></span>
+                    </div>
+                </div>
+
+                <img src="{{ .Site.BaseURL }}images/cms/single/placeholder-14.jpg" class="relative z-10 hidden my-8 lg:block rounded-xl lg:rounded-4xl lg:order-last lg:mt-16 lg:mb-0 2xl:mt-16 2xl:max-w-3xl 2xl:-left-28" alt="" />
+                
+            </div>
+
+            <div class="w-full">
+                <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
+                    <h3 class="lg-title"><span class="block text-primary">Réferencement</span></h3>
+                    <span class="z-20 divider divider-aside lg:w-16"></span>
+                </div>
+    
+                <div class="mt-4 mb-10 lg:mb-20">
+                    <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
+                        <p class="mb-4 font-bold 2xl:text-lg">Votre site visible</p>
+                        <p class="text-gray-500 2xl:leading-loose">Créer une boutique performance n’est que la première étape de votre business en ligne, le plus important est le référencement Magento, nous proposons des prestations via nos partenaires. Ce serait dommage d’avoir le plus beau site mais que personne ne le sache.</p>
+    
+                        <a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+                            <span>Le réferencement</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                            </svg>
+                            <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+                        </a>
+                    </div>
+                </div>
+
+                <img src="{{ .Site.BaseURL }}images/cms/single/placeholder-14.jpg" class="relative z-10 block my-8 lg:hidden rounded-xl lg:rounded-4xl lg:order-last lg:mt-16 lg:mb-0 2xl:mt-16 2xl:max-w-3xl 2xl:-left-28" alt="" />
+    
+                <div class="relative flex flex-col items-start justify-center lg:mt-4 xl:mt-6">
+                    <h3 class="lg-title"><span class="text-primary">Hébergement</span></h3>
+                    <span class="divider divider-aside lg:w-9 lg:-left-16"></span>
+                </div>
+    
+                <div class="mt-4 mb-10 lg:mb-20">
+                    <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
+                        <p class="mb-4 font-bold 2xl:text-lg">Fiable et bonnes performances</p>
+                        <p class="text-gray-500 2xl:leading-loose">Choisir un hébergement Magento est une étape cruciale dans votre projet, c’est une solution e-commerce complexe qui nécessite des compétences très pointue. Il vaut mieux choisir un hébergeur qui travaille uniquement sur ce CMS pour avoir les meilleurs résultats. Nous proposons une offre avec monitoring 7 jours sur 7, 24 heures sur 24 de base. Si votre site à un problème le vendredi à 18h, vous n’attendrez pas jusqu’au lundi pour avoir une réponse.</p>
+    
+                        <a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+                            <span>Contactez-nous</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                            </svg>
+                            <span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- Formez-vous à Magento 2 -->
