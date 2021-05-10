@@ -27,6 +27,9 @@ module.exports = {
       minWidth: {
         '350': '350px'
       },
+      width: {
+        '3xl': '48rem',
+      },
       height: {
         '600': '600px',
         '650': '650px',
