@@ -4,7 +4,7 @@
 <section class="relative flex items-center justify-center overflow-hidden bg-gray-400 h-600 sm:h-screen md:min-h-920 md:max-h-1080">
     <img alt="" src="{{ .Site.BaseURL }}images/projects/single/hero.jpg" class="absolute object-cover min-h-full max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"/>
 
-    <div class="absolute flex flex-col items-center justify-end w-full h-full sm:justify-center">
+    <div class="absolute flex flex-col items-center justify-center w-full h-full">
         <div class="container px-4 text-center md:px-0">
             <p class="mb-2 text-lg text-primary">Case study</p>
             <h1 class="mb-12 text-6xl font-bold text-white md:text-5xl xl:text-6xl 2xl:text-9xl font-accent">
@@ -28,7 +28,7 @@
 </section>
 
 <!-- Section 19 -->
-<section class="flex flex-col items-center px-8 mx-auto mt-16 md:container">
+<section class="relative flex flex-col items-center px-8 mx-auto mt-16 md:container">
     
     <div class="container max-w-screen-xl grid-cols-2 gap-24 px-4 lg:grid xl:gap-36 2xl:gap-48">
         <div class="w-full">
@@ -37,7 +37,7 @@
                 <span class="divider divider-aside lg:w-16"></span>
             </div>
 
-            <div class="mt-4 mb-20">
+            <div class="mt-4 mb-5 lg:mb-20">
                 <div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
                     <p class="mb-4 font-bold 2xl:text-lg">Orfeva est artisan de médailles de baptême estampées et dorées à l’or fin. Les modèles proposés sont exclusifs et entièrement fabriqués en France avec les techniques d’antan. Les bijoux sont représentatifs d’un savoir faire traditionnel afin de concevoir un bijou porteur de sens à garder toute sa vie.</p>
                 </div>
@@ -64,26 +64,31 @@
             <div class="mt-4 mb-10">
                 <img src="https://via.placeholder.com/800x500" class="relative z-10 my-8 rounded-xl lg:rounded-4xl lg:order-last lg:mt-16 lg:mb-0 2xl:mt-16 2xl:max-w-3xl 2xl:-left-28" alt="" />
 
-                <img src="{{ .Site.BaseURL }}images/dots.png" class="relative w-48 mt-16 justify-self-end" alt="" />
+                <img src="{{ .Site.BaseURL }}images/dots.png" class="relative hidden w-48 mt-16 lg:block justify-self-end" alt="" />
             </div>
         </div>
     </div>
+
+    <!-- Bookmark -->
+    <div class="absolute right-0 items-center hidden transform rotate-90 bottom-60 3xl:flex">
+        <span class="text-xs tracking-widest uppercase">Qui est Orfeva</span>
+    </div>
 </section>
 
-<section class="flex max-w-screen-xl mx-4 mt-24 mb-12 xl:mx-auto">
-    <div class="flex flex-col items-end w-1/2">
-        <h2 class="pr-16 text-right xl-title">Le challenge et les solutions</h2>
-        <span class="relative w-24 my-4 divider right-8"></span>
+<section class="flex flex-col max-w-screen-xl mx-4 mt-5 mb-12 lg:flex-row lg:mt-24 xl:mx-auto">
+    <div class="flex flex-col items-center lg:items-end lg:w-1/2">
+        <h2 class="text-center lg:text-right lg:pr-16 xl-title">Le challenge et les solutions</h2>
+        <span class="relative w-24 my-4 divider lg:right-8"></span>
     </div>
-    <div class="w-1/2 mt-32">
+    <div class="mt-5 lg:mt-32 lg:w-1/2">
         <p class="leading-8 text-gray-500 2xl:text-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
 </section>
 
-<section class="relative max-w-screen-xl mx-8 mb-24 lg:mx-auto md:px-0">
+<section class="relative max-w-screen-xl mx-8 mb-10 lg:mb-24 lg:mx-auto md:px-0">
     <img alt="" src="https://via.placeholder.com/1200x700" class="w-full rounded-3xl" draggable="false"/>
 
-    <div class="container px-8 mx-auto mt-10 lg:w-7/12 lg:mr-0 lg:ml-auto">		
+    <div class="container relative mx-auto mt-10 lg:px-8 lg:w-7/12 lg:mr-0 lg:ml-auto">		
 		<ul>
             <li class="relative flex items-baseline pb-4 md:pb-8">
                 <div class="leading-8 lg:absolute lg:-left-10">
@@ -121,6 +126,11 @@
 			</svg>
 			<span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
 		</a>
+
+        <!-- Bookmark -->
+        <div class="absolute items-center hidden transform rotate-90 -top-40 -right-56 3xl:flex">
+            <span class="text-xs tracking-widest uppercase">Challenge et solution</span>
+        </div>
 	</div>
 </section>
 
@@ -190,19 +200,19 @@
     </div>
 </section>
 
-<section class="flex max-w-screen-xl mx-4 mt-24 mb-12 md:mb-40 xl:mx-auto">
-    <div class="flex flex-col items-end w-1/2">
-        <h2 class="pr-16 text-right xl-title">Les chiffres</h2>
-        <span class="relative w-24 my-4 divider right-8"></span>
+<section class="flex flex-col max-w-screen-xl mx-4 mt-24 mb-12 lg:flex-row md:mb-40 xl:mx-auto">
+    <div class="flex flex-col items-center lg:items-end lg:w-1/2">
+        <h2 class="text-center lg:pr-16 lg:text-right xl-title">Les chiffres</h2>
+        <span class="relative w-24 my-4 divider lg:right-8"></span>
     </div>
-    <div class="w-1/2">
+    <div class="lg:w-1/2">
         <p class="leading-8 text-gray-500 2xl:text-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt</p>
     </div>
 </section>
 
 
-<section class="relative max-w-screen-xl mx-4 mt-32 mb-12 md:mb-40 xl:mx-auto">
-    <div class="mt-44 md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent">
+<section class="relative max-w-screen-xl mx-4 mb-12 lg:mt-32 md:mb-40 xl:mx-auto">
+    <div class="lg:mt-44 md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent">
         <div class="flex flex-col mx-2 md:flex-row md:justify-around">
             <div class="flex flex-col items-center my-6">
                 <div class="flex text-6xl font-bold lg:text-7xl">-50<span class="text-3xl">%</span></div>
@@ -223,6 +233,11 @@
         </div>
     </div>
     <span class="box-content absolute top-0 hidden w-2/5 h-full py-20 -mt-32 bg-gray-200 md:block rounded-3xl -z-1 right-4 xl:right-8 2xl:right-0 2xl:-mr-28"></span>
+
+    <!-- Bookmark -->
+    <div class="absolute items-center hidden transform rotate-90 top-1/2 -right-56 3xl:flex">
+        <span class="text-xs tracking-widest uppercase">Les chiffres</span>
+    </div>
 </section>
 
 {{ partial "_references.html" . }}
