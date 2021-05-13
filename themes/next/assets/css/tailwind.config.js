@@ -47,6 +47,7 @@ module.exports = {
       boxShadow: {
         theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)',
         lg: '0 32px 34px -14px rgba(128, 130, 145, 0.33)',
+        'inset-white': 'inset 0px 0px 0px 20px #fff',
       },
       zIndex: {
         '-1': '-1',

@@ -80,12 +80,42 @@
         <div class="flex flex-col items-center mx-auto text-center">
             <h2 class="xl-title">L'expérience utilisateur</h2>
             <span class="mt-4 divider md:mt-8"></span>
-
         </div>
 
         <div class="relative mx-auto my-10 md:my-16">
-            <img alt="" src="https://via.placeholder.com/1200x700" class="w-full mb-8 rounded-3xl" draggable="false"/>
-            <img alt="" src="https://via.placeholder.com/1200x700" class="w-full rounded-3xl" draggable="false"/>
+
+            <div x-data="{swiper: null}"
+            x-init="swiper = new Swiper($refs.container, {
+                loop: true,
+                slidesPerView: 1,
+                centeredSlides: true,
+                slidesPerGroup: 1,
+                spaceBetween: 0,
+                pagination: {
+                    el: '.swiper-pagination',
+                    type: 'bullets',
+                    bulletClass: 'swiper-pagination-bullet bg-primary',
+                },
+                })"
+            class="w-full mx-auto mb-5 md:w-3/4 lg:w-full">
+
+                <div class="h-64 overflow-hidden swiper-container rounded-3xl md:h-96 lg:h-700" x-ref="container">
+                    <div class="relative h-full cursor-pointer swiper-wrapper rounded-3xl">
+                        <div class="relative h-full overflow-hidden swiper-slide">
+                            <img alt="" src="https://via.placeholder.com/1200x700" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" draggable="false"/>
+                        </div>
+                        <div class="relative h-full overflow-hidden swiper-slide">
+                            <img alt="" src="https://via.placeholder.com/1300x600" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" draggable="false"/>
+                        </div>
+                        <div class="relative h-full overflow-hidden swiper-slide">
+                            <img alt="" src="https://via.placeholder.com/1100x800" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" draggable="false"/>
+                        </div>
+                    </div>
+
+                    <div class="absolute top-0 left-0 z-50 w-full h-64 md:h-96 lg:h-700 rounded-3xl shadow-inset-white"></div>
+                    <div class="relative mt-10 swiper-pagination"></div>
+                </div>
+            </div>
 
             <!-- Bookmark -->
             <div class="absolute items-center hidden transform rotate-90 -right-56 top-1/2 3xl:flex">
@@ -100,10 +130,53 @@
             </div>
         </div>
 
-        <div class="w-3/4 grid-cols-3 gap-4 mx-auto mb-10 sm:grid lg:gap-16 sm:w-full">
-            <img alt="" src="https://via.placeholder.com/330x730" class="w-full mb-8 sm:mb-0 rounded-3xl" draggable="false"/>
-            <img alt="" src="https://via.placeholder.com/330x730" class="w-full mb-8 sm:mb-0 rounded-3xl" draggable="false"/>
-            <img alt="" src="https://via.placeholder.com/330x730" class="w-full mb-8 sm:mb-0 rounded-3xl" draggable="false"/>
+        <div x-data="{swiper: null}"
+            x-init="swiper = new Swiper($refs.container, {
+                loop: true,
+                slidesPerView: 1,
+                centeredSlides: true,
+                slidesPerGroup: 1,
+                spaceBetween: 0,
+                pagination: {
+                    el: '.swiper-pagination',
+                    type: 'bullets',
+                    bulletClass: 'swiper-pagination-bullet bg-primary',
+                },
+            
+                breakpoints: {
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 30,
+                        slidesPerGroup: 3,
+                    },
+                },
+                })"
+            class="w-3/4 mx-auto mb-5 sm:w-1/2 md:w-full">
+
+            <div class="overflow-hidden swiper-container rounded-3xl" x-ref="container">
+                <div class="cursor-pointer swiper-wrapper">
+                    <div class="relative mb-8 swiper-slide sm:mb-0">
+                        <img alt="" src="https://via.placeholder.com/330x730" class="w-full rounded-3xl" draggable="false"/>
+                        <div class="absolute top-0 left-0 w-full h-full rounded-3xl shadow-inset-white"></div>
+                    </div>
+
+                    <div class="relative mb-8 swiper-slide sm:mb-0">
+                        <img alt="" src="https://via.placeholder.com/330x730" class="w-full rounded-3xl" draggable="false"/>
+                        <div class="absolute top-0 left-0 w-full h-full rounded-3xl shadow-inset-white"></div>
+                    </div>
+
+                    <div class="relative mb-8 swiper-slide sm:mb-0">
+                        <img alt="" src="https://via.placeholder.com/330x730" class="w-full rounded-3xl" draggable="false"/>
+                        <div class="absolute top-0 left-0 w-full h-full rounded-3xl shadow-inset-white"></div>
+                    </div>
+
+                    <div class="relative mb-8 swiper-slide sm:mb-0">
+                        <img alt="" src="https://via.placeholder.com/330x730" class="w-full rounded-3xl" draggable="false"/>
+                        <div class="absolute top-0 left-0 w-full h-full rounded-3xl shadow-inset-white"></div>
+                    </div>
+                </div>
+                <div class="relative mt-10 swiper-pagination"></div>
+            </div>
         </div>
         
         <div class="flex justify-center">
