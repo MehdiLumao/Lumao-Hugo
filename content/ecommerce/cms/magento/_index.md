@@ -51,7 +51,7 @@ Chez Lumao, nous nous sommes passionnés pour Magento dès les débuts de la sol
 Cet investissement nous permet de connaître parfaitement la plateforme e-commerce et de
 l’adapter à vos besoins. Certifiée [Magento Solution Partner](/ecommerce/cms/magento/solution-partner/), Lumao met à votre service son expertise
 technique et ses connaissances du domaine de l’e-commerce. Ce cocktail de compétences et de
-passion, nous l’exploitons dans l’intérêt de votre activité. Nos équipes vous accompagnent dans la
+passion, nous l’exploitons dans l’intérêt de votre activité. Nos équipes de [consultants](/ecommerce/cms/magento/consultant/) vous accompagnent dans la
 réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
 
 ## Magento Certified Developer
@@ -137,7 +137,7 @@ Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… 
 
 ## Développeur : avoir une boutique à votre image
 
-Choisir son [développeur Magento](/) est une étape cruciale pour réaliser votre site e-commerce avec succès. Comment choisir entre un freelance et une agence ? Faut-il privilégier la réactivité ou la sécurité ?
+Choisir son [développeur Magento](/) est une étape cruciale pour réaliser votre site e-commerce avec succès. Comment choisir son [prestataire](/ecommerce/cms/magento/prestataire/) entre un freelance et une agence ? Faut-il privilégier la réactivité ou la sécurité ?
 
 ## Référencement, avoir un site visible
 
@@ -151,6 +151,10 @@ Si votre site à un problème le vendredi à 18h, vous n'attendrez pas jusqu'au 
 ## Agence e-commerce : un studio à votre service
 
 Plutôt que de proposer une [agence Magento](/agence-ecom/) classique, nous préférons avoir un petit studio de développement composé d'expert et non de stagiaires.
+
+## Salaire d'un développeur Magento
+
+Combien [gagne un dev Magento 2](/ecommerce/cms/magento/salaire-developpeur/) ?
 
 ## Formez-vous à Magento 2
 
