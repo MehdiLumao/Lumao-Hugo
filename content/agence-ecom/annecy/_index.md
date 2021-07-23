@@ -33,3 +33,5 @@ Si vous souhaitez mettre en ligne un nouveau site internet, celui-ci se doit de 
 Si vous souhaitez lancer votre activité en ligne, nos experts en marketing digital et en e-commerce vous conseillent tout au long de votre projet. Notre agence est certifiée Magento, le CMS leader des plateformes dédiées aux sites de vente en ligne. Grâce à cette solution, à la fois robuste et flexible, vous bénéficiez d’une boutique hautement performante et que vous pourrez enrichir de nouveaux modules au gré des besoins de vos clients et de vos propres attentes. Profitez de l’expérience de développeurs qui travaillent sur Magento depuis les débuts de la solution en 2008.
 
 En Haute-Savoie, notre agence web accompagne des clients dans toute la France et au-delà. Contactez-nous pour obtenir un devis personnalisé. Quel que soit votre projet ou votre activité, nous vous proposons un ensemble de prestations et de services sur mesure. A chaque étape, vous êtes consulté et conseillé par un expert afin que les actions menées arrivent à leur terme dans les délais.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/palai-ile.jpg" alt="Le Palais de I'Île" />

@@ -46,3 +46,5 @@ Les équipes de notre agence e-commerce se tiennent à votre disposition pour to
 -	Etc.
 
 Vous avez une question ou besoin de plus de renseignements ? Contactez nos équipes.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/bourscheid.jpg" alt="Bourscheid" />
