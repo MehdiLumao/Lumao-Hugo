@@ -111,6 +111,9 @@ Nos autres emplacements :
 - [agence e-commerce à Marseille](/agence-ecom/marseille/)
 - [agence e-commerce à Montpellier](/agence-ecom/montpellier/)
 - [agence e-commerce à Nantes](/agence-ecom/nantes/)
+- [agence e-commerce à Rennes](/agence-ecom/rennes/)
+- [agence e-commerce à Strasbourg](/agence-ecom/strasbourg/)
+- [agence e-commerce à Toulouse](/agence-ecom/toulouse/)
 
 ## Combien coûte la création du site ?
 

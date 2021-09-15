@@ -35,4 +35,8 @@ draft = false
 <p>Omnicanalité, expérience mobile poussée, fonctionnalité d’achat assisté pour plus d’engagement… Magento 2 offre une expérience d’achat plus riche et optimisée.</p>
 <p>Enfin, votre prestataire Magento 2 vous le dira, la nouvelle version du CMS est plus sûre grâce à la double authentification, à la nouvelle extension Braintree et ses mises à jour régulières, mais aussi par la mise en conformité des différents services techniques.</p> 
 
+## Nos localisations :
+
+- [intégrateur & prestataire Magento Bordeaux](/ecommerce/cms/magento/prestataire/bordeaux/)
+
 <p>N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoins.</p>

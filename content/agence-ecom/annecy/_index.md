@@ -1,8 +1,8 @@
 +++
 date = "2019-08-13"
-title = "Agence e-commerce Annecy : création de sites web"
-h1 = "Confiez votre site internet à une agence e-commerce à Annecy"
-description = "Confiez votre projet web à des experts de la création de sites internet. Nos équipes sont certifiées Magento, le CMS leader des solutions e-commerce."
+title = "Agence Ecommerce Magento 2 Annecy - Lumao (74)"
+h1 = "Agence e-commerce Magento 2 sur Annecy : pourquoi vous entourer de développeurs experts ?"
+description = "Vous cherchez une agence E-Commerce à Annecy (74) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 +++
 
@@ -35,3 +35,24 @@ Si vous souhaitez lancer votre activité en ligne, nos experts en marketing digi
 En Haute-Savoie, notre agence web accompagne des clients dans toute la France et au-delà. Contactez-nous pour obtenir un devis personnalisé. Quel que soit votre projet ou votre activité, nous vous proposons un ensemble de prestations et de services sur mesure. A chaque étape, vous êtes consulté et conseillé par un expert afin que les actions menées arrivent à leur terme dans les délais.
 
 <img class="animate zoomIn margin-auto" src="/images/ville/palai-ile.jpg" alt="Le Palais de I'Île" />
+
+<p>Si Magento a toujours été un CMS de choix pour le développement de sites internet et spécialement la création de boutiques en ligne puissantes et fiables, Magento 2 fait désormais montre d’une modularité et d’une scalabilité étonnante. Revue des possibilités grâce à votre agence e-commerce Magento 2 sur Annecy.</p>
+<h2>Magento 2 : un concentré de technologies pour le e-commerce</h2>
+<p>Rien de nouveau sous le soleil, de ce côté-là, Magento est et reste la plateforme dédiée pour la création de e-commerces pérennes. Le moment où, pour vous, tout bascule, est celui de la transition vers Magento 2.</p>
+<p>Vous ne vous êtes pas encore penché sur le problème ? Vous craignez de vous lancer ? Vous pensez ne pas avoir suffisamment de compétences techniques pour lancer la migration ? Si rien n’est jamais insurmontable, il vaut mieux en effet disposer de bases solides en codage ou faire appel à un développeur expert.</p>
+<p>Chez Lumao nous mettons à votre disposition toute une équipe de développeurs certifiés Magento et Magento 2. Formés pour vous accompagner, ils sont capables de répondre à toutes les attentes et à toutes les questions que vous leur soumettrez.</p>
+<p>Et le jeu en vaut la chandelle : Magento 2 offre un temps de chargement plus court, un processus d’achat plus rapide et une augmentation significative du nombre de commandes à passer chaque heure. Il est aussi plus sécurisé et utilise PHP 7 pour son développement.</p>
+<h2>Lumao : offrez-vous un site sur-mesure grâce à une agence e-commerce spécialisée Magento 2</h2>
+<p>Au-delà de l’aspect technique purement lié à l’évolution du logiciel, en tant qu’utilisateur quotidien du back-office vous apprécierez aussi le changement avec un design simplifié et des fonctions mises en avant pour un travail tout en efficacité.</p>
+<p>L’interface est naturellement plus intuitive et le tableau de bord peut être entièrement personnalisé. Si vous le souhaitez, nous pouvons la paramétrer pour vous, selon vos besoins et ceux de votre boutique.</p>
+<p>Catalogue produits ajustable, promotions personnalisables, blog, tunnel de commande épuré, pluralité des moyens de paiement acceptés en France… Votre site ne ressemble à aucun autre, d’un côté de l’écran comme de l’autre.</p>
+<p>En tant qu’agence e-commerce Magento 2 sur Annecy, nous possédons une connaissance pointue du CMS Open Source et apprécions de la partager avec vous, tout simplement parce que nous aimons ce que nous faisons.</p>
+<h2>Nos développeurs sont tous spécialisés Magento 2</h2>
+<p>Depuis 2008, Magento n’a cessé de croître et de se développer pour aujourd’hui équiper des centaines de milliers de sites à travers le monde. Et s’il a fait du commerce électronique sa spécialité, c’est que ce CMS est avant tout un véritable un véritable petit bijou de technologie.</p>
+<p>Chaque jour, nos développeurs apprécient de plonger dans son code pour répondre aux attentes les plus pertinentes de nos clients. Rejoignez-nous ! Agence e-commerce spécialisée Magento 2 sur Annecy, nous vous attendons pour développer ensemble votre boutique.</p>
+<p>Notre expertise Magento est sans limites ou presque puisqu’en plus de mutualiser le café, nous mutualisons les compétences. En matière de design, nous manions la souris et le nouveau thème responsive Luma, mieux que personne.</p>
+<p>Quant à l’aspect SEO et SEA inhérent à toute création numérique, là encore nous sommes compétents. Pour savoir à quel point, venez nous rencontrer.</p>
+<h2>Rencontrons-nous à Annecy pour parler de votre activité !</h2>
+<p>Sports d’hiver ou sports nautiques, restauration gastronomique ou produits du terroir, la ville d’Annecy et ses environs ne manquent pas d’attraits pour le chef d’entreprise que vous êtes.</p>
+<p>Vous souhaitez faire parler de vous et transcender les frontières ? Communiquer par-delà les limites de votre ville et développer la vente de vos marchandises ou le nombre de visites dans votre établissement ?</p>
+<p>Rien n’est plus efficace qu’un site internet ou un e-commerce développé avec Magento 2. Si en plus vous pouviez bénéficier de l’appui d’une équipe sympathique et motivée tout serait parfait non ?</p>
