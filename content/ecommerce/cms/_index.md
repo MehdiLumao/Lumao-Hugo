@@ -74,7 +74,7 @@ custom = true
 			</li>
 		</ul>
 		<div class="mt-2 text-center md:text-left md:ml-12">
-			<a href="" class="btn btn-primary-transparent">
+			<a href="/post/contact/" class="btn btn-primary-transparent">
 				<span class="text-lg">Contactez-nous</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />

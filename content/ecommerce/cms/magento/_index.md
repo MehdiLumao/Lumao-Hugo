@@ -124,7 +124,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="flex flex-col px-4 text-sm leading-7 text-gray-500 xl:text-base xl:px-12">
 					« Mobile first » : telle est la devise des moteurs de recherche, des développeurs, des e-commerçants, des référenceurs, etc. Pour autant, les applications natives consultées sur mobile ne transforment pas forcément. Google promeut ainsi depuis quelque temps un tout nouveau standard web baptisé PWA (Progressive Web App). Différentes solutions existent pour créer ce type de sites e-commerce accessibles partout et tout le temps. Nous vous proposons d’en savoir plus.
 				</div>
-				<a href="#" class="my-8 btn btn-gray">
+				<a href="/ecommerce/cms/magento/pwa/" class="my-8 btn btn-gray">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -136,14 +136,13 @@ image = "/images/cms/single/hero.jpg"
 				<div class="relative flex flex-col px-8 pt-16 pb-8 font-bold text-white bg-secondary xl:px-12">
 					<h4 class="mb-5 text-3xl font-accent"><span class="text-primary">Module </span>Magento</h4>
 					<img alt="" src="/images/cms/single/logo-module.svg" class="h-24 mx-auto mb-8" draggable="false"/>
-					<p class="text-xl font-normal xl:text-base">Etendez les fonctionnalités de
-						votre site e-commerce</p>
+					<p class="text-xl font-normal xl:text-base">Etendez les fonctionnalités de votre site e-commerce</p>
 					<span class="absolute bottom-0 mx-auto transform -translate-x-1/2 translate-y-1/2 left-1/2 divider"></span>
 				</div>
 				<p class="px-8 py-8 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
 					Les CMS peuvent tous être enrichis de nouvelles options et <span class="text-primary">fonctionnalités</span>. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de <span class="text-primary">modules Magento</span> taillés sur mesure pour votre activité, vos produits, vos services… et vos clients. Gratuites ou payantes, ces extensions existent par milliers. Nous vous proposons de vous guider à travers ce riche catalogue et nous vous donnons la liste de nos modules préférés.
 				</p>
-				<a href="#" class="mb-16 shadow-lg btn btn-primary">
+				<a href="/ecommerce/cms/magento/module/" class="mb-16 shadow-lg btn btn-primary">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -159,10 +158,10 @@ image = "/images/cms/single/hero.jpg"
 						projet e-commerce</p>
 					<span class="mx-auto my-8 divider"></span>
 				</div>
-				<div class="flex flex-col px-8 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
+				<div class="px-8 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
 					Chez Lumao, nous nous sommes passionnés pour Magento dès les débuts de la solution, en 2008. Cet investissement nous permet de connaître parfaitement la plateforme e-commerce et de l’adapter à vos besoins. Certifiée <span class="text-primary">Magento Solution Partner</span>, Lumao met à votre service son expertise technique et ses connaissances du domaine de l’e-commerce. Ce cocktail de compétences et de passion, nous l’exploitons dans l’intérêt de votre activité. Nos équipes vous accompagnent dans la réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
 				</div>
-				<a href="#" class="my-8 btn btn-gray">
+				<a href="/ecommerce/cms/magento/solution-partner/" class="my-8 btn btn-gray">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -178,11 +177,11 @@ image = "/images/cms/single/hero.jpg"
 	<div class="py-8 lg:w-1/2 lg:py-36">
 		<div class="text-right text-white lg:max-w-screen-md lg:pl-20 xl:pl-32">
 			<div class="flex flex-col lg:items-end">
-				<h2 class="mb-2 lg-title">Magento Cerified Developer</h2>
+				<h2 class="mb-2 lg-title">Magento Certified Developer</h2>
 				<span class="relative my-6 divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			</div>
 			<p class="leading-8 opacity-70">Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de Magento Certified Developer. Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.</p>
-			<a href="" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
+			<a href="/ecommerce/cms/magento/certified-developer" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
 				<span>Magento Certified</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -237,7 +236,7 @@ image = "/images/cms/single/hero.jpg"
 			</div>
 			<p class="font-bold leading-8">Un site de vente en ligne offre de multiples fonctionnalités spécifiques, utiles à la fois côté internautes et côté e-commerçant : le paiement en ligne, la mise au panier, l’historique des commandes, etc.</p>
 			<p class="leading-8 text-gray-500">Avec la plateforme Magento, vous avez accès à nombre de ces outils très pratiques qui vous permettent de faire fonctionner votre boutique en ligne. Pour que celle-ci gagne en performance et anticipe les attentes de vos clients, vous aurez rapidement besoin de nouvelles fonctionnalités. Ces modules d’extension sont proposés sur Magento Marketplace, une boutique en ligne sur laquelle développeurs et éditeurs proposent des milliers d’outils innovants qui vous permettront de booster votre activité.</p>
-			<a href="" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
+			<a href="/ecommerce/cms/magento/marketplace/" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
 				<span>Voir le Marketplace</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -252,7 +251,7 @@ image = "/images/cms/single/hero.jpg"
 			<p class="font-bold lg:text-2xl">Créez votre place de marché</p>
 			<span class="relative my-6 divider bg-primary lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<p class="leading-8 text-gray-500"><span class="font-bold text-black">Si Magento s’est imposé dans le domaine des sites e-commerce B2C mono-vendeur, la plateforme permet désormais de créer des places de marché.</span> L’extension Magento B2B Marketplace fait partie des solutions plébiscitées pour transformer un site de vente en ligne en place de marché destinée aux professionnels. Découvrez les fonctionnalités de cet outil ainsi que des informations sur les marketplaces et leur business model. Et si vous souhaitez être accompagné dans la mise en place de ce module sur votre site Magento, demandez-nous un devis personnalisé.</p>
-			<a href="" class="inline-flex mt-8 text-primary highlighted-label">
+			<a href="/ecommerce/cms/magento/b2b-marketplace/" class="inline-flex mt-8 text-primary highlighted-label">
 				<span>Créez votre Marketplace</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -310,7 +309,7 @@ image = "/images/cms/single/hero.jpg"
 			</div>
 			<p class="leading-8 text-gray-500">Pour utiliser la plateforme Magento et l’ensemble des fonctionnalités e-commerce disponibles, il est nécessaire dans un premier temps de télécharger la solution et de l’installer. Avec Magento download, en un clic, vous obtenez les fichiers systèmes compressés, qu’il vous faudra ensuite déposer sur un FTP pour les installer sur votre serveur. Vous voulez en savoir plus ? Nous vous expliquons les étapes essentielles à l’installation de Magento. Et si vous souhaitez que des spécialistes du CMS se chargent de A à Z de la conception de votre site de vente en ligne, contactez Lumao pour recevoir un devis personnalisé.</p>
 			<div class="mt-8 text-center md:text-left">
-				<a href="" class="btn btn-primary-transparent">
+				<a href="/ecommerce/cms/magento/telecharger/" class="btn btn-primary-transparent">
 					<span class="text-lg">Téléchargez Magento</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -336,7 +335,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="flex flex-col px-4 mt-8 text-sm leading-7 text-gray-500 xl:text-base xl:px-12">
 					En plus des fonctionnalités spécifiques à la vente – paiement, commande, gestion des stocks, livraison… –, la plateforme permet d’administrer l’ensemble des textes, visuels, animations, fiches produits, logos, photos, infographies… présents dans vos pages. Ces contenus, qu’ils soient transactionnels ou purement éditoriaux, ont de plus en plus d’importance dans le succès de votre site e-commerce. Découvrez ici pourquoi et comment les optimiser pour qu’ils séduisent votre clientèle.
 				</div>
-				<a href="#" class="my-8 btn btn-gray">
+				<a href="/ecommerce/cms/magento/cms-contenu/" class="my-8 btn btn-gray">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -354,7 +353,7 @@ image = "/images/cms/single/hero.jpg"
 				<p class="px-8 py-8 text-sm leading-7 text-gray-500 xl:text-base xl:px-12">
 					En présence d’un important catalogue produits, il est donc absolument nécessaire de mettre en place un moteur de recherche interne intelligent. Ce type d’outils ne cesse de se perfectionner, offrant toujours plus de facilité de recherche à l’internaute. Mais quel moteur de recherche interne choisir ? Comment le mettre en place ? On vous explique tout ici.
 				</p>
-				<a href="#" class="mb-16 shadow-lg btn btn-primary">
+				<a href="/ecommerce/cms/magento/moteur-recherche/" class="mb-16 shadow-lg btn btn-primary">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -372,7 +371,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="flex flex-col px-8 text-sm leading-7 text-gray-500 xl:text-base xl:px-12">
 					Cet outil est une véritable aide au choix pour l’internaute ; et pour vous, e-commerçant, c’est un moyen d’augmenter le panier d’achats moyen. Pour profiter d’une telle solution, idéale pour les « gros » sites e-commerce, faites appel aux équipes de Lumao. Nous étudions votre projet, depuis votre catalogue « produits » jusqu’aux données collectées, afin de paramétrer efficacement ce moteur de recommandation et de le personnaliser.
 				</div>
-				<a href="#" class="my-8 btn btn-gray">
+				<a href="/ecommerce/cms/magento/recommandation/" class="my-8 btn btn-gray">
 					<span class="text-xl xl-text-base">En savoir plus</span>
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -467,7 +466,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="relative overflow-hidden h-52 sm:h-72 md:h-96 lg:h-full rounded-3xl">
 				<img src="/images/cms/single/placeholder-12.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
 			</div>
-			<a href="" class="relative hidden mt-8 text-sm font-bold lg:inline-flex max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
+			<a href="/post/contact/" class="relative hidden mt-8 text-sm font-bold lg:inline-flex max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
 				<span>Demandez un devis</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -501,7 +500,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 					<p class="mb-4 font-bold 2xl:text-lg">Confiez nous votre projet</p>
 					<p class="text-gray-500 2xl:leading-loose">Vous souhaitez améliorer les performances de votre site e-commerce ? Son taux de conversion n’est pas en adéquation avec vos objectifs, vous constatez une baisse d’activité anormale ? D’où viennent ces problèmes ? En nous confiant votre projet d’optimisation Magento, nous analysons d’abord votre situation. Après avoir identifié les éléments qui freinent la conversion et ceux qui mettent à mal votre visibilité, nous trouvons les solutions adaptées et les mettons en place dans le respect de vos besoins et de vos objectifs en matière de rentabilité.</p>
-					<a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+					<a href="/ecommerce/cms/magento/optimisation" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 						<span>L'optimisation</span>
 						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -518,7 +517,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 					<p class="mb-4 font-bold 2xl:text-lg">Faites évoluer votre boutique</p>
 					<p class="text-gray-500 2xl:leading-loose">Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une refonte Magento s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.</p>
-					<a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+					<a href="/ecommerce/cms/magento/refonte/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 						<span>En savoir plus</span>
 						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -538,7 +537,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 					<p class="mb-4 font-bold 2xl:text-lg">Faites évoluer votre boutique</p>
 					<p class="text-gray-500 2xl:leading-loose">Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une refonte Magento s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.</p>
-					<a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+					<a href="/ecommerce/cms/magento/maintenance/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 						<span>En savoir plus</span>
 						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -560,7 +559,7 @@ image = "/images/cms/single/hero.jpg"
 					<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 						<p class="mb-4 font-bold 2xl:text-lg">Votre site visible</p>
 						<p class="text-gray-500 2xl:leading-loose">Créer une boutique performance n’est que la première étape de votre business en ligne, le plus important est le référencement Magento, nous proposons des prestations via nos partenaires. Ce serait dommage d’avoir le plus beau site mais que personne ne le sache.</p>
-						<a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+						<a href="/ecommerce/referencement/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 							<span>Le réferencement</span>
 							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -578,7 +577,7 @@ image = "/images/cms/single/hero.jpg"
 					<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 						<p class="mb-4 font-bold 2xl:text-lg">Fiable et bonnes performances</p>
 						<p class="text-gray-500 2xl:leading-loose">Choisir un hébergement Magento est une étape cruciale dans votre projet, c’est une solution e-commerce complexe qui nécessite des compétences très pointue. Il vaut mieux choisir un hébergeur qui travaille uniquement sur ce CMS pour avoir les meilleurs résultats. Nous proposons une offre avec monitoring 7 jours sur 7, 24 heures sur 24 de base. Si votre site à un problème le vendredi à 18h, vous n’attendrez pas jusqu’au lundi pour avoir une réponse.</p>
-						<a href="" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+						<a href="/ecommerce/hebergement/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 							<span>Contactez-nous</span>
 							<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -604,7 +603,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="bg-primary h-2.5 w-9 mt-4 lg:mt-0 rounded-xl lg:absolute lg:-left-16"></span>
 			</div>
 			<p class="text-sm leading-relaxed lg:text-base lg:leading-relaxed 2xl:leading-loose">Performante, puissante, sécurisée, flexible : la nouvelle version de Magento offre de nombreux atouts pour votre site de vente en ligne. Mais un développement sous Magento 2 demande certaines compétences, des exigences techniques qui étaient déjà de mise pour exploiter Magento. Si vous souhaitez connaître les bonnes pratiques et gagner du temps dans la prise en main de l’outil, suivez une formation Magento 2. Grâce à elle, Magento 2 n’aura plus de secret pour vous et vos équipes de développeurs.</p>
-			<a href="" class="relative inline-flex mt-8 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
+			<a href="/post/contact/" class="relative inline-flex mt-8 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
 				<span>Contactez-nous</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />

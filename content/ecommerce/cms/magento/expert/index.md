@@ -77,7 +77,7 @@ custom = true
 				<p class="leading-8"><span class="font-bold">Faire évoluer, maintenir, voire optimiser, les performances du site :</span> migration, refonte, optimisation SEO, intégration de nouveaux modules, ajout de nouvelles pages, corrections des bugs et des failles de sécurité, mise à jour des extensions, etc. La gestion de la plateforme Magento demande donc de multiples compétences. Un développeur expérimenté, un intégrateur, un conseiller web… sont autant de métiers nécessaires à la mise en place de votre projet e-commerce.</p>
 			</li>
 		</ul>
-		<a href="" class="inline-flex text-primary highlighted-label">
+		<a href="/post/contact/" class="inline-flex text-primary highlighted-label">
 			<span>Contactez-nous</span>
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -95,7 +95,7 @@ custom = true
 
 <section class="relative max-w-screen-xl mx-auto md:px-0 mb-24">
 	<div class="flex justify-center lg:absolute mt-8">
-		<a href="" class="btn btn-primary-transparent">
+		<a href="/post/contact/" class="btn btn-primary-transparent">
 			<span>Demandez un devis</span>
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
 				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -138,7 +138,7 @@ custom = true
 				<p class="leading-8"><span class="font-bold">D’un site à jour, performant, visible et stable : infogérance, maintenance, optimisation SEO, mise à jour, corrections des bugs et des failles de sécurité, migration des données, etc.</p>
 			</li>
 		</ul>
-		<a href="" class="hidden sm:inline-flex text-primary highlighted-label">
+		<a href="/post/contact/" class="hidden sm:inline-flex text-primary highlighted-label">
 			<span>Contactez-nous</span>
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />

@@ -1,0 +1,5 @@
+{{ range where .Data.Pages "Type" "reference" }}
+	{{ .Title }}
+{{ end }}
+
+{{ partial "footer.html" . }}
