@@ -1,0 +1,73 @@
+{{ partial "header.html" . }}
+
+{{- if .Params.hero -}}
+	<!-- Big Hero -->
+	<section class="relative flex items-center justify-center overflow-hidden bg-gray-400 h-600 sm:h-screen md:min-h-920 md:max-h-1080">
+		{{- if .Params.image -}}
+			<img alt="" src="{{ .Params.image }}" class="absolute object-cover min-h-full max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"/>
+		{{- end -}}
+
+		{{- if .Params.study -}}
+			<div class="absolute flex flex-col items-center justify-center w-full h-full">
+				<div class="container px-4 text-center md:px-0">
+					<p class="mb-2 text-lg text-primary font-bold uppercase">Case study</p>
+					<h1 class="mb-12 text-6xl font-bold text-white md:text-5xl xl:text-6xl 2xl:text-9xl font-accent">
+						{{ default .Title .Params.h1 }}
+					</h1>
+				</div>
+			</div>
+		{{- else -}}
+			<div class="absolute flex flex-col items-center justify-end w-full h-full sm:justify-center">
+				<div class="container px-4 text-center md:px-0 sm:text-left">
+					<div class="mb-28 sm:max-w-sm md:max-w-lg xl:max-w-xl md:ml-24 xl:ml-36">
+						<p class="mb-2 uppercase font-bold text-lg text-primary">{{ default .Title .Params.subtitle }}</p>
+						<h1 class="mb-12 text-4xl font-bold text-white md:text-5xl xl:text-6xl 2xl:text-7xl font-accent">
+							{{ default .Title .Params.h1 | markdownify }}
+						</h1>
+						<p class="hidden leading-loose text-white md:block">
+							{{ default .Title .Params.intro }}
+						</p>
+					</div>
+				</div>
+			</div>
+		{{- end -}}
+	</section>
+{{- else -}}
+	<!-- Mini Hero -->
+	<section class="relative flex items-center justify-center h-56 overflow-hidden bg-gray-400">
+		<img alt="" src="{{ .Site.BaseURL }}images/blog/placeholder-hero.jpg" width="" class="absolute max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"/>
+		<div class="absolute flex flex-col items-center justify-end w-full h-full bg-transparent-black sm:justify-center">
+			<div class="container absolute px-4 text-gray-200 md:px-0 bottom-8">
+				<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17l-4 4m0 0l-4-4m4 4V3" />
+				</svg>
+			</div>
+		</div>
+	</section>
+	<section class="flex flex-col items-center px-8 mx-auto mt-12 text-center lg:mt-16 sm:pt-20 md:container">
+		<span class="up-title text-primary">{{ default .Title .Params.subtitle }}</span>
+		<h1 class="px-10 xl-title">{{ default .Title .Params.h1 }}</h1>
+		<span class="mt-4 mb-10 divider md:mt-8 lg:mb-16"></span>
+	</section>
+{{- end -}}
+
+{{- if .Params.custom -}}
+	<main>{{ .Content | markdownify }}</main>
+{{- else -}}
+	<main class="default">{{ .Content | markdownify }}</main>
+{{- end -}}
+
+
+{{- if .Params.work -}}
+	{{ partial "_references.html" . }}
+{{- end -}}
+
+{{- if .Params.blog -}}
+	{{ partial "_blog.html" . }}
+{{- end -}}
+
+{{- if .Params.contact -}}
+	{{ partial "_contact.html" . }}
+{{- end -}}
+
+{{ partial "footer.html" . }}

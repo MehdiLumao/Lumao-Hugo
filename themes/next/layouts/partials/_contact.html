@@ -9,29 +9,33 @@
             </div>
         </div>
 
-        <form action="" method="POST">
+        <form action="https://formspree.io/aurelien@lavoweb.net" method="POST">
 
             <div class="flex flex-col mx-auto mt-8 mb-10 md:mt-14 md:mb-20 md:w-3/4">
                 <!-- Name -->
-                <label for="last_name" class="sr-only">Nom</label>
-                <input type="text" name="last_name" id="last_name" placeholder="Nom" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white">
+                <label for="name" class="sr-only">Nom</label>
+                <input type="text" name="name" id="name" required placeholder="Nom" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white">
 
                 <!-- Email -->
-                <label for="email" class="sr-only">Email</label>
-                <input type="text" name="email" id="email" placeholder="Email" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white">
+                <label for="_replyto" class="sr-only">Email</label>
+                <input type="text" name="_replyto" id="_replyto" required placeholder="Email" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white">
 
                 <!-- Message -->
                 <label for="message" class="sr-only">Message</label>
                 <textarea placeholder="Message" id="message" name="message" rows="1" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white"></textarea>
 
+                <input type="hidden" name="_subject" value="Contact Lumao" />
+                <input type="hidden" name="_next" value="/post/merci/" />
+                <input type="hidden" name="_format" value="plain" />
+                <input type="text" name="_gotcha" class="hidden" />
             </div>
 
-            <a type="submit" class="btn btn-white">
+            <button type="submit" class="btn btn-white">
                 <span class="text-xl xl-text-base">Envoyer</span>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                 </svg>
-            </a>
+            </button>
         </form>
 
     </div>

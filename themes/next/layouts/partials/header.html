@@ -21,6 +21,20 @@
         <link rel="stylesheet" href="{{ $styles.Permalink }}">
     {{ end -}}
 
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}favicon-16x16.png">
+    <link rel="manifest" href="{{ .Site.BaseURL }}site.webmanifest">
+    <link rel="mask-icon" href="{{ .Site.BaseURL }}safari-pinned-tab.svg" color="#5ecddd">
+    <meta name="msapplication-TileColor" content="#5ecddd">
+    <meta name="theme-color" content="#5ecddd">
+
+    <link rel="alternate" hreflang="{{ .Site.Params.hreflangFr }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
+    <link rel="alternate" hreflang="x-default" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}"/>
+    <link rel="alternate" hreflang="{{ .Site.Params.hreflangCh }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlCh }}"/>
+    <link rel="alternate" hreflang="{{ .Site.Params.hreflangBe }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlBe }}"/>
+    <link rel="alternate" hreflang="{{ .Site.Params.hreflangLu }}" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlLu }}"/>
+
 </head>
 <body class="min-w-350">
 

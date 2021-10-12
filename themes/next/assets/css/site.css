@@ -17,7 +17,7 @@
     transition: clip-path 0.7s cubic-bezier(0.4, 0, 0.2, 1);
     &.open {
          clip-path: polygon(0 0, 200vw 0, 100% 100%, -100vw 100%);
-     }
+    }
 }
 
 .social {
@@ -100,4 +100,22 @@
 
 .lg-title {
     @apply text-3xl font-bold xl:text-4xl 2xl:text-5xl font-accent;
+}
+
+main {
+    iframe {
+        width: 100%;
+    }
+
+    &.default {
+        @apply mx-auto prose xl:prose-xl mb-32 px-4 sm:px-0;
+
+        a {
+            text-underline-offset: 5px;
+            text-decoration-color: theme('colors.accent');
+            &:hover {
+                color: theme('colors.accent');
+            }
+        }
+    }
 }
