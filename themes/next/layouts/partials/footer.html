@@ -37,7 +37,13 @@
 
                             <div class="grid grid-cols-2 gap-4 mb-8 lg:mb-0">
                                 {{ range .Site.Menus.social }}
-                                    <a href="{{ .URL }}" title="{{ .Title }}" class="bg-gray-theme-600 text-accent p-4 block hover:bg-primary hover:text-white focus:bg-primary rounded-lg">
+                                    <a
+                                        href="{{ .URL }}"
+                                        title="{{ .Title }}"
+                                        class="bg-gray-theme-600 text-accent p-4 block hover:bg-primary hover:text-white focus:bg-primary rounded-lg"
+                                        target="_blank"
+                                        rel="noopener"
+                                    >
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="h-4 w-4 fill-current">{{ .Name | safeHTML }}</svg>
                                     </a>
                                 {{ end }}

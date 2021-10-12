@@ -1,5 +1,6 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 const colors = require('tailwindcss/colors')
+const { spacing } = require('tailwindcss/defaultTheme');
 
 module.exports = {
   theme: {
@@ -27,6 +28,9 @@ module.exports = {
       minWidth: {
         '350': '350px'
       },
+      maxWidth: {
+        48: spacing['48']
+      },
       width: {
         '3xl': '48rem',
       },
@@ -42,7 +46,8 @@ module.exports = {
       },
       maxHeight: {
         '400': '400px',
-        '1080': '1080px'
+        '1080': '1080px',
+        36: spacing['36']
       },
       boxShadow: {
         theme: '0 23px 154px -20px rgba(197, 197, 197, 0.66)',

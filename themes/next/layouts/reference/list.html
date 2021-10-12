@@ -1,5 +1,30 @@
-{{ range where .Data.Pages "Type" "reference" }}
-	{{ .Title }}
-{{ end }}
+{{ partial "header.html" . }}
+
+<section class="relative flex items-center justify-center h-56 overflow-hidden bg-gray-400">
+	<img alt="" src="{{ .Site.BaseURL }}images/blog/placeholder-hero.jpg" width="" class="absolute max-w-none h-600 sm:h-full xl:h-auto xl:max-w-full xl:top-0" draggable="false"/>
+	<div class="absolute flex flex-col items-center justify-end w-full h-full bg-transparent-black sm:justify-center">
+		<div class="container absolute px-4 text-gray-200 md:px-0 bottom-8">
+			<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17l-4 4m0 0l-4-4m4 4V3" />
+			</svg>
+		</div>
+	</div>
+</section>
+<section class="flex flex-col items-center px-8 mx-auto mt-12 text-center lg:mt-16 sm:pt-20 md:container">
+	<span class="up-title text-primary">{{ default .Title .Params.subtitle }}</span>
+	<h1 class="px-10 xl-title">{{ default .Title .Params.h1 }}</h1>
+	<span class="mt-4 mb-10 divider md:mt-8 lg:mb-16"></span>
+</section>
+
+<main class="container mx-auto px-4 sm:px-0 mb-32">
+	<div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-16 mt-12">
+		{{ range where .Data.Pages "Type" "reference" }}
+			<a target="_blank" rel="noopener" href="{{ .Params.Link_url }}" class="flex justify-center items-center">
+				<img src="{{ .Site.BaseURL }}images/reference/{{ .Params.Image }}" alt="{{ .Title }}" class="max-w-48 max-h-36" >
+			</a>
+		{{ end }}
+	</div>
+</main>
+
 
 {{ partial "footer.html" . }}
