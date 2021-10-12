@@ -45,7 +45,7 @@ paginate = 1000
         identifier = "realisation"
         name = "Réalisations"
         title = "Réalisations"
-        url = "/references"
+        url = "/reference"
          weight = 3
     [[menu.main]]
         identifier = "contact"
