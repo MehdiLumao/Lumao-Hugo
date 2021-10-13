@@ -1,7 +1,7 @@
 +++
 date = "2016-12-24T12:50:52+01:00"
 title = "Suunto"
-image = "suunto.png"
+image = "suunto.svg"
 link_url = "https://www.suunto.com/fr-fr/"
 tags = ["dev", "perf"]
 slug = "suunto"

@@ -5,8 +5,8 @@ h1 = "La solution<br><span class='text-primary'>e-commerce</span> performante."
 description = "Avec la plateforme Magento, boostez votre activité de vente en ligne ! Pour votre boutique, demandez un devis à notre agence spécialisée depuis 2008."
 draft = false
 
-work = true
-blog = true
+work = false
+blog = false
 contact = true
 hero = true
 subtitle = "Magento"
@@ -191,13 +191,22 @@ image = "/images/cms/single/hero.jpg"
 		</div>
 	</div>
 	<div class="relative overflow-hidden lg:w-1/2 bg-secondary-dark">
-		<!-- TODO : Magento logos -->
+        <!--
+		<div class="items-center grid grid-cols-3 gap-12 px-12 sm:p-36 ">
+            <img src="/images/badge/badge0.png" alt="Magento Community Insider"  class="mx-auto w-full" />
+            <img src="/images/badge/badge5.png" alt="Magento 2 Certified Associate Developer"  class="mx-auto w-full" />
+            <img src="/images/badge/badge6.png" alt="Magento Certified Developer"  class="mx-auto w-full" />
+            <img src="/images/badge/badge7.png" alt="Magento Certified Developer Plus"  class="mx-auto w-full" />
+            <img src="/images/badge/badge8.png" alt="Magento Certified Front end Developer"  class="mx-auto w-full" />
+            <img src="/images/badge/badge9.png" alt="Magento Certified Solution Specialist"  class="mx-auto w-full" />
+        </div>
+        -->
 	</div>
 </section>
 
 
 <!-- Section 1 -->
-<section class="flex flex-col items-center px-8 mx-auto mt-16 text-center md:container">
+<section class="flex flex-col items-center px-8 mx-auto mt-9 lg:mt-24 text-center md:container">
 	<span class="mb-2 up-title text-primary md:mb-0">Marketplace</span>
 	<h2 class="px-10 xl-title">Magento Marketplace</h2>
 	<span class="mt-4 mb-10 divider md:mt-8 lg:mb-36"></span>
