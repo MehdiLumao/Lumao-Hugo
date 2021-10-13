@@ -140,7 +140,7 @@ image = "/images/cms/single/hero.jpg"
 					<span class="absolute bottom-0 mx-auto transform -translate-x-1/2 translate-y-1/2 left-1/2 divider"></span>
 				</div>
 				<p class="px-8 py-8 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
-					Les CMS peuvent tous être enrichis de nouvelles options et <span class="text-primary">fonctionnalités</span>. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de <span class="text-primary">modules Magento</span> taillés sur mesure pour votre activité, vos produits, vos services… et vos clients. Gratuites ou payantes, ces extensions existent par milliers. Nous vous proposons de vous guider à travers ce riche catalogue et nous vous donnons la liste de nos modules préférés.
+					Les CMS peuvent tous être enrichis de nouvelles options et <a href="/ecommerce/cms/magento/fonctionnel/" class="text-primary hover:underline">fonctionnalités</a>. Magento n’échappe pas à la règle. La plateforme se personnalise au gré des ajouts de <a href="/ecommerce/cms/magento/module/" class="text-primary hover:underline">modules Magento</a> taillés sur mesure pour votre activité, vos produits, vos services… et vos clients. Gratuites ou payantes, ces extensions existent par milliers. Nous vous proposons de vous guider à travers ce riche catalogue et nous vous donnons la liste de nos modules préférés.
 				</p>
 				<a href="/ecommerce/cms/magento/module/" class="mb-16 shadow-lg btn btn-primary">
 					<span class="text-xl xl-text-base">En savoir plus</span>
@@ -159,7 +159,7 @@ image = "/images/cms/single/hero.jpg"
 					<span class="mx-auto my-8 divider"></span>
 				</div>
 				<div class="px-8 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
-					Chez Lumao, nous nous sommes passionnés pour Magento dès les débuts de la solution, en 2008. Cet investissement nous permet de connaître parfaitement la plateforme e-commerce et de l’adapter à vos besoins. Certifiée <span class="text-primary">Magento Solution Partner</span>, Lumao met à votre service son expertise technique et ses connaissances du domaine de l’e-commerce. Ce cocktail de compétences et de passion, nous l’exploitons dans l’intérêt de votre activité. Nos équipes vous accompagnent dans la réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
+					Chez Lumao, nous nous sommes passionnés pour Magento dès les débuts de la solution, en 2008. Cet investissement nous permet de connaître parfaitement la plateforme e-commerce et de l’adapter à vos besoins. Certifiée <a href="/ecommerce/cms/magento/solution-partner/" class="text-primary hover:underline">Magento Solution Partner</a>, Lumao met à votre service son expertise technique et ses connaissances du domaine de l’e-commerce. Ce cocktail de compétences et de passion, nous l’exploitons dans l’intérêt de votre activité. Nos équipes vous accompagnent dans la réalisation de votre projet e-commerce et l’emmènent sur la voie du succès.
 				</div>
 				<a href="/ecommerce/cms/magento/solution-partner/" class="my-8 btn btn-gray">
 					<span class="text-xl xl-text-base">En savoir plus</span>
