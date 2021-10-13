@@ -22,7 +22,16 @@
 
                 <!-- Message -->
                 <label for="message" class="sr-only">Message</label>
-                <textarea placeholder="Message" id="message" name="message" rows="1" class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white"></textarea>
+                <textarea
+                    placeholder="Message"
+                    id="message"
+                    name="message"
+                    :rows="focus"
+                    class="px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white transition-all"
+                    x-on:focus="focus = 8"
+                    x-on:blur="if (!$el.value) focus = 1"
+                    x-data="{ focus: 1 }"
+                ></textarea>
 
                 <input type="hidden" name="_subject" value="Contact Lumao" />
                 <input type="hidden" name="_next" value="/post/merci/" />
