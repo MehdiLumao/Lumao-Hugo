@@ -132,7 +132,7 @@
                 "
             >
                 <div class="relative">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | safeHTML }}</svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | markdownify }}</svg>
                     <span class="absolute block w-24 h-24 rounded-full bg-accent-light top-3 left-8 -z-1"></span>
                 </div>
                 <h3 class="mt-12 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
