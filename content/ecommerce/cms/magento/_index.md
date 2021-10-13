@@ -174,13 +174,13 @@ image = "/images/cms/single/hero.jpg"
 
 <!-- Magento Certified developer -->
 <section class="flex flex-col bg-secondary lg:flex-row">
-	<div class="py-8 lg:w-1/2 lg:py-36">
-		<div class="text-right text-white lg:max-w-screen-md lg:pl-20 xl:pl-32">
+	<div class="py-10 lg:w-1/2 lg:py-24 xl:flex xl:items-center">
+		<div class="lg:text-right text-white px-8 lg:px-16 mx-auto xl:max-w-screen-md">
 			<div class="flex flex-col lg:items-end">
-				<h2 class="mb-2 lg-title">Magento Certified Developer</h2>
-				<span class="relative my-6 divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
+				<h2 class="lg-title">Magento Certified Developer</h2>
+				<span class="relative my-6 divider w-9 lg:w-24 lg:my-9"></span>
 			</div>
-			<p class="leading-8 opacity-70">Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de Magento Certified Developer. Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.</p>
+			<p class="text-sm lg:text-base leading-relaxed lg:leading-loose lg:opacity-70 xl:mr-8">Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de Magento Certified Developer. Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.</p>
 			<a href="/ecommerce/cms/magento/certified-developer" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
 				<span>Magento Certified</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
@@ -190,9 +190,8 @@ image = "/images/cms/single/hero.jpg"
 			</a>
 		</div>
 	</div>
-	<div class="relative overflow-hidden lg:w-1/2 bg-secondary-dark">
-        <!--
-		<div class="items-center grid grid-cols-3 gap-12 px-12 sm:p-36 ">
+	<div class="relative overflow-hidden lg:w-1/2 bg-secondary-dark flex items-center justify-center">
+		<div class="items-center grid grid-cols-3 md:grid-cols-6 lg:grid-cols-3 gap-12 px-8 lg:px-16 xl:px-24 2xl:px-48 py-14">
             <img src="/images/badge/badge0.png" alt="Magento Community Insider"  class="mx-auto w-full" />
             <img src="/images/badge/badge5.png" alt="Magento 2 Certified Associate Developer"  class="mx-auto w-full" />
             <img src="/images/badge/badge6.png" alt="Magento Certified Developer"  class="mx-auto w-full" />
@@ -200,7 +199,6 @@ image = "/images/cms/single/hero.jpg"
             <img src="/images/badge/badge8.png" alt="Magento Certified Front end Developer"  class="mx-auto w-full" />
             <img src="/images/badge/badge9.png" alt="Magento Certified Solution Specialist"  class="mx-auto w-full" />
         </div>
-        -->
 	</div>
 </section>
 
