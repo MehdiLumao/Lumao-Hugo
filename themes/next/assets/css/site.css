@@ -102,6 +102,7 @@
     @apply text-3xl font-bold xl:text-4xl 2xl:text-5xl font-accent;
 }
 
+/*! purgecss start ignore */
 main {
     iframe {
         width: 100%;
@@ -119,3 +120,4 @@ main {
         }
     }
 }
+/*! purgecss end ignore */
