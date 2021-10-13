@@ -38,7 +38,7 @@
     <div class="grid-cols-3 gap-4 mx-4 mt-4 sm:grid lg:gap-24 sm:mt-20 sm:mx-0">
         {{ range .Params.Love }}
             <div class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
-                <svg xmlns="http://www.w3.org/2000/svg" width="86" height="85" class="fill-current text-primary">{{ .icon | markdownify }}</svg>
+                <img src="/images/home/{{ .icon }}" alt="" width="86" height="85" />
                 <h3 class="mt-8 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
                 <p class="text-sm text-gray-500 sm:text-base">{{ .text }}</p>
                 <a class="hidden p-4 mt-10 rounded-full sm:block bg-primary-light" href="{{ .url }}">
