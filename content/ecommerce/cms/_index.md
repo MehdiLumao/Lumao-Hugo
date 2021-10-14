@@ -53,7 +53,7 @@ custom = true
 		<span class="relative hidden w-1/4 bg-gray-200 lg:block lg:h-750 lg:absolute -z-1 rounded-3xl"></span>
 		<div class="relative w-full pb-12 lg:absolute lg:w-1/4 lg:left-24 lg:h-750 lg:py-24">
 			<div class="relative overflow-hidden h-52 sm:h-72 md:h-96 lg:h-full rounded-3xl">
-				<img src="/images/cms/placeholder-2.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
+				<img src="/images/cms/placeholder-2.jpg" alt="" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
 			</div>
 		</div>
 	</div>
@@ -94,7 +94,7 @@ custom = true
 				<span class="absolute left-0 w-1/2 bg-gray-200 opacity-25 h-80 lg:h-full rounded-3xl"></span>
 				<div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-magento.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-magento.svg" alt="Logo Magento" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -113,7 +113,7 @@ custom = true
 				<span class="absolute w-1/2 bg-gray-200 lg:right-0 h-80 lg:h-full rounded-3xl"></span>
 				<div class="w-full py-10 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-presta.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-presta.png" alt="Logo Prestashop" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -130,7 +130,7 @@ custom = true
 				<span class="absolute left-0 w-1/2 bg-gray-200 h-80 lg:h-full rounded-3xl"></span>
 				<div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-woo.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-woo.png" alt="Logo Woocommerce" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -154,7 +154,7 @@ custom = true
 				<span class="absolute w-1/2 bg-black lg:right-0 h-80 lg:h-full rounded-3xl opacity-40"></span>
 				<div class="w-full py-10 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-drupal.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-drupal.png" alt="Logo Drupal" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -171,7 +171,7 @@ custom = true
 				<span class="absolute left-0 w-1/2 bg-black h-80 lg:h-full rounded-3xl opacity-40"></span>
 				<div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-shopify.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-shopify.png" alt="Logo Shopify" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -195,7 +195,7 @@ custom = true
 				<span class="absolute w-1/2 bg-white lg:right-0 h-80 lg:h-full rounded-3xl opacity-30"></span>
 				<div class="w-full py-10 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-salesforce.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-salesforce.svg" alt="Logo Salesforce" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -212,7 +212,7 @@ custom = true
 				<span class="absolute left-0 w-1/2 bg-white h-80 lg:h-full rounded-3xl opacity-30"></span>
 				<div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-hybris.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-hybris.svg" alt="Logo Hybris" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -236,7 +236,7 @@ custom = true
 				<span class="absolute w-1/2 bg-gray-200 lg:right-0 h-80 lg:h-full rounded-3xl"></span>
 				<div class="w-full py-10 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-sylius.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-sylius.svg" alt="Logo Sylius" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -253,7 +253,7 @@ custom = true
 				<span class="absolute left-0 w-1/2 bg-gray-200 h-80 lg:h-full rounded-3xl"></span>
 				<div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-oro.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-oro.png" alt="Logo Oro Commerce" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -270,7 +270,7 @@ custom = true
 				<span class="absolute w-1/2 bg-gray-200 lg:right-0 h-80 lg:h-full rounded-3xl"></span>
 				<div class="w-full py-10 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/logo-oxatis.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/logo-oxatis.png" alt="Logo Oxatis" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>

@@ -56,7 +56,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="absolute left-0 hidden w-1/2 bg-gray-200 xl:block h-80 lg:h-full rounded-3xl"></span>
 				<div class="right-0 w-full h-56 lg:absolute lg:w-11/12 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/single/placeholder-2.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
+						<img src="/images/cms/single/placeholder-2.jpg" alt="" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
 					</div>
 				</div>
 			</div>
@@ -116,7 +116,7 @@ image = "/images/cms/single/hero.jpg"
 			<!-- Block 01 -->
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
-					<h4 class="mb-10 text-3xl font-accent">P<span  class="text-primary">W</span>A</h4>
+					<h3 class="mb-10 text-3xl font-accent">P<span  class="text-primary">W</span>A</h3>
 					<img alt="" src="/images/cms/single/logo-pwa.svg" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-bold xl:text-base">Une solution pour des boutiques en ligne toujours plus performante</p>
 					<span class="mx-auto my-8 divider"></span>
@@ -134,7 +134,7 @@ image = "/images/cms/single/hero.jpg"
 			<!-- Block 02 -->
 			<div class="mb-10 overflow-hidden sm:rounded-3xl shadow-theme xl:mb-0">
 				<div class="relative flex flex-col px-8 pt-16 pb-8 font-bold text-white bg-secondary xl:px-12">
-					<h4 class="mb-5 text-3xl font-accent"><span class="text-primary">Module </span>Magento</h4>
+					<h3 class="mb-5 text-3xl font-accent"><span class="text-primary">Module </span>Magento</h3>
 					<img alt="" src="/images/cms/single/logo-module.svg" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-normal xl:text-base">Etendez les fonctionnalités de votre site e-commerce</p>
 					<span class="absolute bottom-0 mx-auto transform -translate-x-1/2 translate-y-1/2 left-1/2 divider"></span>
@@ -152,7 +152,7 @@ image = "/images/cms/single/hero.jpg"
 			<!-- Block 03 -->
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-4 font-bold md:pt-16 xl:px-12">
-					<h4 class="mb-5 text-3xl font-accent">Magento Solution <span class="text-primary">Partner</span></h4>
+					<h3 class="mb-5 text-3xl font-accent">Magento Solution <span class="text-primary">Partner</span></h3>
 					<img alt="" src="/images/cms/single/logo-business.png" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-bold xl:text-base">Un gage de qualité pour votre
 						projet e-commerce</p>
@@ -235,7 +235,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="right-0 w-full lg:absolute lg:w-11/12 lg:h-full lg:py-24">
 					<div class="relative flex items-center justify-center h-full bg-white lg:overflow-hidden rounded-3xl lg:shadow-theme">
 						<div class="max-w-full px-10 text-center lg:px-10">
-							<img src="/images/cms/single/logo-magento.svg" class="w-48 mb-5 lg:w-52"/>
+							<img src="/images/cms/single/logo-magento.svg" class="w-48 mb-5 lg:w-52" alt="" />
 							<span class="text-2xl font-bold">Marketplace</span>
 						</div>
 					</div>
@@ -310,7 +310,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="absolute hidden w-1/2 bg-gray-200 lg:block lg:right-0 h-80 lg:h-full rounded-3xl"></span>
 				<div class="w-full py-5 lg:absolute lg:w-11/12 h-80 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/single/placeholder-10.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
+						<img src="/images/cms/single/placeholder-10.jpg" alt="" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
 					</div>
 				</div>
 			</div>
@@ -400,7 +400,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="absolute hidden w-1/2 h-64 bg-white lg:block lg:right-0 lg:h-full rounded-3xl opacity-30"></span>
 				<div class="w-full h-64 py-5 lg:absolute lg:w-11/12 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/single/ico-erp.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/single/ico-erp.svg" alt="" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -416,7 +416,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="absolute left-0 hidden w-1/2 h-64 bg-white lg:block lg:h-full rounded-3xl opacity-30"></span>
 				<div class="right-0 w-full h-64 py-5 lg:absolute lg:w-11/12 lg:h-full lg:py-24">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/single/ico-crm.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/single/ico-crm.svg" alt="" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -432,7 +432,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="absolute hidden w-1/2 h-64 bg-white lg:block lg:right-0 lg:h-full rounded-3xl opacity-30"></span>
 				<div class="w-full h-64 py-5 lg:absolute lg:w-11/12 lg:py-24 lg:h-full">
 					<div class="relative h-full overflow-hidden bg-white rounded-3xl shadow-theme">
-						<img src="/images/cms/single/ico-pim.svg" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
+						<img src="/images/cms/single/ico-pim.svg" alt="" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-40 lg:max-h-72 top-1/2 left-1/2 lg:px-20"/>
 					</div>
 				</div>
 			</div>
@@ -471,7 +471,7 @@ image = "/images/cms/single/hero.jpg"
 		<span class="relative hidden w-1/2 bg-gray-200 lg:block lg:h-650 lg:absolute -z-1 rounded-3xl"></span>
 		<div class="relative w-full pb-12 text-right lg:absolute lg:w-1/2 lg:left-12 xl:left-24 lg:h-600 lg:py-24">
 			<div class="relative overflow-hidden h-52 sm:h-72 md:h-96 lg:h-full rounded-3xl">
-				<img src="/images/cms/single/placeholder-12.jpg" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
+				<img src="/images/cms/single/placeholder-12.jpg" alt="" class="absolute object-cover min-w-full min-h-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"/>
 			</div>
 			<a href="/post/contact/" class="relative hidden mt-8 text-sm font-bold lg:inline-flex max-w-max lg:text-lg text-primary group font-accent lg:mt-12">
 				<span>Demandez un devis</span>
