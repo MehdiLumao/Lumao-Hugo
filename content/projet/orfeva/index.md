@@ -232,7 +232,7 @@ contact = true
                 <span class="absolute left-0 w-1/2 bg-black h-80 lg:h-full rounded-3xl opacity-40"></span>
                 <div class="right-0 w-full py-10 lg:absolute lg:w-11/12 h-80 lg:h-full lg:py-24">
                     <div class="relative h-full overflow-hidden bg-white rounded-3xl">
-                        <img src="/images/cms/logo-magento-inline.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20"/>
+                        <img src="/images/cms/logo-magento-inline.png" class="absolute max-w-full px-10 transform -translate-x-1/2 -translate-y-1/2 max-h-48 top-1/2 left-1/2 lg:px-20" alt="" />
                     </div>
                 </div>
             </div>
