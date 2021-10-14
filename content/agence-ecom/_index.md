@@ -107,6 +107,14 @@ Pour la création de votre site web, faites appel à un partenaire de confiance.
 
 Créer une boutique en ligne demande désormais de nombreuses compétences techniques et connaissances en marketing digital. En effet, les consommateurs sont en attente d’expérience utilisateur à la fois fiable, intuitive, innovante et attrayante. Choix du CMS et des fonctionnalités, espace d’hébergement, référencement, contenus, développements spécifiques, stratégie digitale… les éléments à prendre en compte pour concevoir un site e-commerce performant et sécurisé se multiplient et se complexifient. Grâce à l’expérience d’une [agence e-commerce à Lausanne](/agence-ecom/lausanne/), vous bénéficiez de services sur mesure et d’un accompagnement personnalisé. Seuls des experts pourront concevoir le site qui répond parfaitement à vos besoins, présents, mais aussi à venir.
 
+Nos autres emplacements :
+- [agence e-commerce à Marseille](/agence-ecom/marseille/)
+- [agence e-commerce à Montpellier](/agence-ecom/montpellier/)
+- [agence e-commerce à Nantes](/agence-ecom/nantes/)
+- [agence e-commerce à Rennes](/agence-ecom/rennes/)
+- [agence e-commerce à Strasbourg](/agence-ecom/strasbourg/)
+- [agence e-commerce à Toulouse](/agence-ecom/toulouse/)
+
 ## Combien coûte la création du site ?
 
 Avant de demander un devis, vous pouvez consulter nos [grilles de tarifs](/agence-ecom/grille-tarif/).

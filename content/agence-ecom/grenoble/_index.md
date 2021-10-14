@@ -41,3 +41,5 @@ Nous créons un site qui vous ressemble : professionnel et performant. Faites ap
 ## Votre projet web par une agence à Grenoble
 
 Notre agence réalise des projets dans toute la région Auvergne-Rhône-Alpes, de Grenoble en Isère à Lyon dans le Rhône, en passant par Annecy en Haute-Savoie. Faites appel à des experts certifiés Magento qui mettent à votre disposition leur expérience et leurs compétences. Où que vous vous trouviez en France, vous bénéficiez des services d’une agence e-commerce toujours à l’écoute de vos besoins et de ceux de vos visiteurs et clients. Contactez-nous pour en savoir plus.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/bastille.jpg" alt="Bastille" />

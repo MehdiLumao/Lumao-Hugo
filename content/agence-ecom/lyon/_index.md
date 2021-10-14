@@ -39,3 +39,5 @@ Parce qu’un site internet ne se résume pas à une interface agréable pour l�
 -	Etc.
 
 Si vous envisagez de créer un site internet à Lyon, contactez Lumao. Notre agence web est à l’écoute de tous vos projets. Nos experts vous conseillent et vous aident à concrétiser vos ambitions. Associez à votre site internet les services d’une agence qui a à cœur de vous emmener sur la voie du succès. Pour obtenir un devis sur mesure et gratuit, contactez-nous.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/bartholdi.jpg" alt="Fontaine Bartholdi" />

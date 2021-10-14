@@ -52,3 +52,5 @@ Dans notre agence web, nous multiplions les talents. C’est pourquoi nous somme
 -	Etc.
 
 Contactez-nous pour en savoir plus. Nous étudions votre demande pour vous proposer un devis personnalisé.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/vigne-leman.jpg" alt="Vigne et lac léman" />

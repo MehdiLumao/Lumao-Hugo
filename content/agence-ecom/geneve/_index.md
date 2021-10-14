@@ -49,3 +49,5 @@ En Suisse, dans le canton de Genève, notre agence web vous accompagne dans tous
 -	Etc.
 
 Contactez Lumao, agence spécialisée e-commerce et Magento, pour obtenir un devis sur mesure.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/jet-eau.jpg" alt="Jet d'eau" />

@@ -9,7 +9,7 @@ Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la co
 
 ### Edition du site
 
-Le site lumao.eu est édité par la société LUMAO SASU, au capital social de 100 euros, immatriculée au Registre du Commerce et des Sociétés d’Annecy sous le n° 83530565700016 et dont le siège social est situé au Lumao AXALP SERVICES 1 place Marie Curie 74000 Annecy (TVA intracommunautaire n° FR 68 835305657).
+Le site lumao.eu est édité par la société LUMAO SASU, au capital social de 100 euros, immatriculée au Registre du Commerce et des Sociétés d’Annecy sous le n° 83530565700024 et dont le siège social est situé au Lumao AXALP SERVICES 1 place Marie Curie 74000 Annecy (TVA intracommunautaire n° FR 68 835305657).
 
 ### Responsable de publication
 

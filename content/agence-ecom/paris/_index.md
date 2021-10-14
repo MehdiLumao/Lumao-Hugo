@@ -34,3 +34,5 @@ C’est pour nous la meilleure solution, open source qui plus est, pour vous aid
 ## Des experts certifiés Magento à Paris
 
 En faisant appel à notre agence Magento à Paris, vous travaillez avec une équipe certifiée par la solution. Développeurs et intégrateurs multiplient ainsi les compétences tout en étant toujours au fait des dernières nouveautés. C’est au service de nos clients, à Paris comme partout en France, que nous proposons nos services. Contactez-nous pour nous faire part de votre projet e-commerce et obtenir un devis sur mesure.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/piramide-louvre.jpg" alt="Pyramide louvre" />
