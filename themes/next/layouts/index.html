@@ -38,7 +38,7 @@
     <div class="grid-cols-3 gap-4 mx-4 mt-4 sm:grid lg:gap-24 sm:mt-20 sm:mx-0">
         {{ range .Params.Love }}
             <div class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
-                <img src="/images/home/{{ .icon }}" alt="" width="86" height="85" />
+                <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="86" height="85" />
                 <h3 class="mt-8 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
                 <p class="text-sm text-gray-500 sm:text-base">{{ .text }}</p>
                 <a class="hidden p-4 mt-10 rounded-full sm:block bg-primary-light" href="{{ .url }}">
@@ -132,7 +132,7 @@
                 "
             >
                 <div class="relative">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="85">{{ .icon  | markdownify }}</svg>
+                    <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="85" height="85" />
                     <span class="absolute block w-24 h-24 rounded-full bg-accent-light top-3 left-8 -z-1"></span>
                 </div>
                 <h3 class="mt-12 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
