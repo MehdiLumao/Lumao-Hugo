@@ -8,11 +8,11 @@ draft = false
 
 Vous avez choisi un CMS e-commerce open source, par exemple Magento ou PrestaShop, pour créer et gérer votre [site de vente en ligne](/ecommerce/). Celui-ci doit aussi être hébergé sur un serveur afin d’être accessible sur internet. Les solutions d’hébergement sont très nombreuses sur le marché. Et toutes ne sont pas adaptées à votre projet web. Voici des informations pour vous aider à voir plus clair dans le monde des hébergeurs. Et Lumao vous propose un service 100 % sur mesure, un hébergement e-commerce à la fois performant, fiable et sécurisé.
 
-<div class="row">
-    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" /></div>
-    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
-    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/docker.svg" alt="Docker solution de containeurs" /></div>
-    <div class="col-xs-3"><img class="animate zoomIn margin-auto" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" /></div>
+<div class="grid grid-cols-2 gap-4 sm:gap-8 sm:grid-cols-4 xl:gap-16">
+    <img class="" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" />
+    <img class="" src="/images/certification/community.png" alt="Certification Partenaire Magento" />
+    <img class="" src="/images/partners/docker.svg" alt="Docker solution de containeurs" />
+    <img class="" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" />
 </div>
 
 ## Les principaux types d’hébergements Magento
@@ -42,25 +42,25 @@ Pour un site e-commerce, un hébergement doit pouvoir garantir :
 
 ## Docker : les avantages de la conteneurisation pour votre structure
 
-<img class="animate zoomIn margin-auto" src="/images/partners/docker.svg" alt="Docker solution de containeurs" />
+<img class="mx-auto" src="/images/partners/docker.svg" alt="Docker solution de containeurs" />
 
 Les applications sont de plus en plus complexes. Par conséquent, elles demandent de l’espace et sont gourmandes en ressources. Pour optimiser une structure d’hébergement, les conteneurs sont devenus la solution la plus en vue. Et la plateforme [Docker](/ecommerce/hebergement/docker/) permet de créer et de déployer efficacement des conteneurs sur différents serveurs. Nous vous proposons d’en savoir plus sur cette technologie et ses différents avantages.
 
 ## AWS, GCP, Azure : les leaders de l’hébergement sur le Cloud
 
-<img class="animate zoomIn margin-auto" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" />
+<img class="mx-auto" src="/images/partners/aws.png" alt="AWS hébergement Magento 2 avec mise à l'échelle" />
 
 Les GAFAM sont en première ligne de la guerre pour la domination du cloud computing. Amazon, Google et Microsoft ont ainsi tous développé leur propre plateforme : [AWS, GCP et Azure](/ecommerce/hebergement/aws-gcp-azure/) qui, chacune, offre des solutions et des produits performants, sécurisés et économiques. Nous vous proposons d’en savoir plus sur chacun de ces puissants acteurs de l’hébergement web et du cloud computing.
 
 ## OVH, hébergeur numéro 1 en France
 
-<img class="animate zoomIn margin-auto" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" />
+<img class="mx-auto" src="/images/partners/OVH.svg" alt="OVH hébergeur Magento 2" />
 
 « On vous héberge ? » : c’est la question que vous pose [OVH](/ecommerce/hebergement/ovh/), hébergeur français dont la création remonte à 1999. Désormais à la tête d’un des parcs de serveurs les plus étendus du monde, la société roubaisienne fait figure de leader en matière de services cloud et d’hébergement. OVH propose aussi d’enregistrer votre nom de domaine, de vous fournir un accès internet, de déployer votre solution de téléphonie IP… Découvrez toutes les offres d’hébergement proposées par cette « licorne » française.
 
 ## CDN Cloudflare : vos contenus web se rapprochent de vos clients
 
-<img class="animate zoomIn margin-auto" src="/images/partners/cloudflare.svg" alt="Cloudflare CDN" />
+<img class="mx-auto" src="/images/partners/cloudflare.svg" alt="Cloudflare CDN" />
 
 Les CDN sont devenus en quelques années indispensables à une bonne expérience utilisateur. En effet, les sites internet sont de plus en plus volumineux, tout comme le trafic, et celui-ci provient du monde entier. Pour mettre en relation facilement votre site et vos clients, le réseau de diffusion de contenu est la solution à retenir. Rapprochez vos contenus de vos clients grâce au [CDN Cloudflare](/ecommerce/hebergement/cloudflare/). Nous vous proposons d’en savoir plus sur cette solution.
 
