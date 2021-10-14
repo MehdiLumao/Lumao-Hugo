@@ -117,7 +117,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
 					<h3 class="mb-10 text-3xl font-accent">P<span  class="text-primary">W</span>A</h3>
-					<img alt="" src="/images/cms/single/logo-pwa.svg" class="h-24 mx-auto mb-8" draggable="false"/>
+					<img alt="PWA" src="/images/cms/single/logo-pwa.svg" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-bold xl:text-base">Une solution pour des boutiques en ligne toujours plus performante</p>
 					<span class="mx-auto my-8 divider"></span>
 				</div>
@@ -135,7 +135,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="mb-10 overflow-hidden sm:rounded-3xl shadow-theme xl:mb-0">
 				<div class="relative flex flex-col px-8 pt-16 pb-8 font-bold text-white bg-secondary xl:px-12">
 					<h3 class="mb-5 text-3xl font-accent"><span class="text-primary">Module </span>Magento</h3>
-					<img alt="" src="/images/cms/single/logo-module.svg" class="h-24 mx-auto mb-8" draggable="false"/>
+					<img alt="Module Magento" src="/images/cms/single/logo-module.svg" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-normal xl:text-base">Etendez les fonctionnalités de votre site e-commerce</p>
 					<span class="absolute bottom-0 mx-auto transform -translate-x-1/2 translate-y-1/2 left-1/2 divider"></span>
 				</div>
@@ -153,7 +153,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-4 font-bold md:pt-16 xl:px-12">
 					<h3 class="mb-5 text-3xl font-accent">Magento Solution <span class="text-primary">Partner</span></h3>
-					<img alt="" src="/images/cms/single/logo-business.png" class="h-24 mx-auto mb-8" draggable="false"/>
+					<img alt="Magento Solution Partner" src="/images/cms/single/logo-business.png" class="h-24 mx-auto mb-8" draggable="false"/>
 					<p class="text-xl font-bold xl:text-base">Un gage de qualité pour votre
 						projet e-commerce</p>
 					<span class="mx-auto my-8 divider"></span>
@@ -301,7 +301,7 @@ image = "/images/cms/single/hero.jpg"
 	<div class="flex flex-col justify-end mx-auto mt-16 mb-16 lg:mt-0 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base">
 			<div class="mb-4 lg:mb-8">
-				<img src="/images/cms/single/ico-download.svg" class=""/>
+				<img alt="" src="/images/cms/single/ico-download.svg" class=""/>
 			</div>
 			<h2 class="mb-2 lg-title">Magento Download</h2>
 			<p class="font-bold lg:text-2xl">Installez votre CMS</p>
@@ -335,7 +335,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
 					<img alt="" src="/images/cms/single/ico-cms.svg" class="w-20 mx-auto mb-8" draggable="false"/>
-					<h4 class="text-3xl font-accent">Magento <span  class="text-primary">CMS</span></h4>
+					<h3 class="text-3xl font-accent">Magento <span  class="text-primary">CMS</span></h3>
 					<span class="mx-auto my-5 lg:my-8 divider"></span>
 					<p class="text-sm font-bold xl:text-base">Un CMS permet avant tout de créer et de gérer des contenus. Il en va de même pour Magento CMS.</p>
 				</div>
@@ -353,7 +353,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="mb-10 overflow-hidden sm:rounded-3xl shadow-theme xl:mb-0">
 				<div class="relative flex flex-col px-8 pt-16 pb-8 font-bold text-white bg-secondary xl:px-12">
 					<img alt="" src="/images/cms/single/ico-intelligent.svg" class="w-20 mx-auto mb-8" draggable="false"/>
-					<h4 class="mb-5 text-3xl font-accent">Moteur de recherche <span class="text-primary">intelligent</span></h4>
+					<h3 class="mb-5 text-3xl font-accent">Moteur de recherche <span class="text-primary">intelligent</span></h3>
 					<span class="absolute bottom-0 hidden mx-auto transform -translate-x-1/2 translate-y-1/2 lg:block left-1/2 divider"></span>
 					<p class="text-sm font-normal xl:text-base">Si votre clientèle ne trouve pas le produit qu’elle est venue trouver sur votre site, vous passerez à côté d’une transaction</p>
 				</div>
@@ -371,7 +371,7 @@ image = "/images/cms/single/hero.jpg"
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-4 font-bold md:pt-16 xl:px-12">
 					<img alt="" src="/images/cms/single/ico-reco.svg" class="w-20 mx-auto mb-8" draggable="false"/>
-					<h4 class="text-3xl lg:mb-5 font-accent">Moteur de <span class="text-primary">recommandation</span></h4>
+					<h3 class="text-3xl lg:mb-5 font-accent">Moteur de <span class="text-primary">recommandation</span></h3>
 					<span class="mx-auto my-5 lg:my-8 divider"></span>
 					<p class="text-sm font-bold xl:text-base">Améliorez l’expérience des utilisateurs de votre site marchand grâce à un moteur de recommandation. </p>
 				</div>
