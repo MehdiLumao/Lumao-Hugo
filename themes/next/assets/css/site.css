@@ -91,7 +91,7 @@
 }
 
 .up-title {
-    @apply text-sm font-bold text-center uppercase md:text-lg;
+    @apply text-sm font-accent font-bold text-center uppercase md:text-lg;
 }
 
 .xl-title {
