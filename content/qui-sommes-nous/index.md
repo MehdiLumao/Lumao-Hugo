@@ -21,6 +21,7 @@ On essaye de corriger les défauts qu'on a eu dans les grosses agences.
 ### Financier
 
 Salaire au-dessus du marché, on respecte les prétentions - pas de proposition si ça ne colle pas.
+Ticket restaurant (Swile) de 9€, 60% prise en charge employeur.
 
 ### Mutuelle
 
