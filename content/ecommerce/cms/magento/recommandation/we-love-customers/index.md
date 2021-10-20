@@ -1,8 +1,8 @@
 +++
 date = "2019-01-21"
-title = "We Love Customers : Améliorez la fidélisation"
+title = "We Love Customers : Améliorer fidélisation - Agence Magento LUMAO"
 h1 = "We Love Customers, une solution de parrainage automatisée"
-description = "Vos clients vous aiment, aidez-les à le montrer."
+description = "We love customers est une solution de parrainage automatisé. Découvrez cet outil très puissant afin de fidéliser vos clients."
 draft = false
 +++
 

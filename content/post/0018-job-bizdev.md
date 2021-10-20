@@ -1,7 +1,7 @@
 +++
 date = "2019-01-07T16:11:14+01:00"
-title = "Recrutement Business Developer"
-description = ""
+title = "Recrutement Business Developer - Agence Magento LUMAO"
+description = "L'agence Lumao recrute un / une Business Developper. Consultez vite nos offres d'emploi. Nous recrutons des spécialistes en business developpement."
 draft = false
 slug = "job-bizdev"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2019-01-07T16:11:14+01:00"
-title = "Recrutement Chef de projet technique Magento"
-description = ""
+title = "Recrutement Chef de projet technique Magento - Agence LUMAO"
+description = "L'agence Lumao recrute un Chef de projet technique Magento. Consultez nos offres d'emploi. Nous recrutons toute l'année des spécialistes de Magento."
 draft = false
 slug = "job-cdp"
 +++

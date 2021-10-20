@@ -1,6 +1,6 @@
 +++
 date = "2019-01-29"
-title = "Référencement Site E-Commerce Magento : Stratégie SEO sur mesure avec Lumao"
+title = "Référencement Site E-Commerce Magento : Stratégie SEO avec Lumao"
 h1 = "Référencement de votre site e-commerce Magento"
 description = "Votre boutique doit être visible sur les moteurs de recherche. Confiez le référencement de votre site e-commerce à des experts. Devis gratuit sur mesure."
 draft = false

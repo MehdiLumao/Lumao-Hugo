@@ -1,8 +1,8 @@
 +++
 date = "2020-05-09"
-title = "Liste des fonctionnalités de Magento"
+title = "Liste des fonctionnalités de Magento  - Agence LUMAO"
 #h1 = "Développement Magento : des experts au service des e-commerçants"
-description = "Faites appel à des experts Magento pour comprendre la richesse fonctionnelle de Magento."
+description = "Voici une liste précise de certaines fonctionalités de Magento. Faites appel à des experts Magento pour comprendre la richesse fonctionnelle de Magento."
 draft = false
 +++
 

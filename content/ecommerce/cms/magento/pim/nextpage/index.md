@@ -1,6 +1,6 @@
 +++
 date = "2019-03-18"
-title = "NextPage : valorisez vos données produits et créez vos catalogues produits"
+title = "NextPage : valorisez vos données produits & créez vos catalogues"
 h1 = "NextPage, créez tous vos catalogues produits efficacement à partir de vos données"
 description = "Découvrez nextPage, une solution PIM qui vous permet de créer automatiquement vos catalogues produits à partir de vos données produits. Plus d’infos ici."
 draft = false

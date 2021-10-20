@@ -1,6 +1,7 @@
 +++
 date = "2018-02-22T11:11:14+01:00"
 title = "Envoyer des mails via Amazon SES sur Magento 2"
+description = "Vous aussi vous cherchez comment envoyer des mails via Amazon SES sur le CMS Magento 2. Nous pouvons vous aider très rapidement."
 draft = false
 slug = "magento-ses"
 +++

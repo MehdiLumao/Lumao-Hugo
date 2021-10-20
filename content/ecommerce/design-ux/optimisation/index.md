@@ -1,6 +1,6 @@
 +++
 date = "2019-01-29"
-title = "Optimisation UX et Canal de Conversion "
+title = "Optimisation UX et Canal de Conversion - Agence Magento LUMAO"
 h1 = "Optimisation de l’UX et du canal de conversion : comment faire ?"
 description = "En optimisant l’UX de votre site marchand, vous améliorez l’expérience qu’en ont les utilisateurs et augmentez votre taux de conversion. Plus d'infos ici."
 draft = false

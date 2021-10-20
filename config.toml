@@ -1,6 +1,6 @@
 languageCode = "fr-fr"
 title = "Développement Magento"
-description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? C'est ici."
+description = "Une équipe de développeurs & d'intégrateurs spécialisés & certifiés sur le CMS Magento. Vous cherchez des experts et non des commerciaux ? C'est ici."
 baseurl = "https://lumao.eu/"
 theme = "lumao"
 disableKinds = ["taxonomy","taxonomyTerm"]

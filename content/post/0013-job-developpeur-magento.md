@@ -1,7 +1,7 @@
 +++
 date = "2018-04-09"
-title = "Recrutement développeur Magento"
-description = "Vous êtes à la recherche d'un emploi de Développeur Magento ? C'est ici qu'il faut cliquer :)"
+title = "Recrutement développeur Magento  - Agence  LUMAO"
+description = "L'agence Lumao recrute un / une Développeur Magento 1/2. Consultez vite nos offres d'emploi. Nous recrutons des spécialistes en développement chaque année."
 draft = false
 slug = "job-magento"
 +++
