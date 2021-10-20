@@ -52,7 +52,7 @@ custom = true
 	<div class="container lg:w-7/12 mx-auto lg:mr-0 lg:ml-auto px-8">
 		<h2 class="lg-title mt-8 lg:mt-20">Au service de votre projet<br><span class="text-primary">e-commerce</span></h2>
 		<span class="divider relative lg:-left-12 w-9 lg:w-24 my-6 lg:my-10"></span>
-		<p class="text-lg mb-8 font-bold leading-8">Depuis son lancement en 2008, la plateforme Magento est largement plébiscitée par les acteurs du e-commerce. La solution open source permet en effet de produire des boutiques en ligne performantes, stables et modulables.</p>
+		<p class="text-lg mb-8 font-bold leading-8">Depuis son lancement en 2008, la <a href="/ecommerce/cms/magento/">plateforme Magento</a> est largement plébiscitée par les acteurs du e-commerce. La solution open source permet en effet de produire des boutiques en ligne performantes, stables et modulables.</p>
 		<p class="leading-8">S’il est relativement aisé d’installer la solution et d’utiliser le CMS, il devient rapidement complexe d’exploiter pleinement les outils disponibles, de faire évoluer le site, de le maintenir fonctionnel sur la durée, de le personnaliser totalement, de le connecter à un système d’information… Magento demande des compétences techniques particulières, d’autant plus depuis la sortie de Magento 2 en 2015. Pour votre site e-commerce, que celui-ci soit déjà en ligne ou demande à être construit, faites appel à une équipe d’experts Magento. Développeurs, mais aussi intégrateurs et chefs de projet e-commerce multiplient les savoir-faire et les domaines de connaissance, de manière à vous proposer une offre 100 % sur mesure.</p>
 	</div>
 	<img src="/images/dots.png" class="hidden lg:block absolute w-48 -left-1/4 ml-8 mt-16" alt="" />

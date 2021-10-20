@@ -18,7 +18,7 @@ image = "/images/cms/single/hero.jpg"
 
 <section class="px-8 py-12 shadow-theme md:shadow-none">
 	<p class="block mb-8 font-bold text-center md:hidden sm:text-lg">
-		Lancé en 2008, Magento est un CMS e-commerce puissant, permettant de créer et de gérer les sites de vente en ligne les plus divers. Cette plateforme open source s’est d’abord imposée aux Etats-Unis, puis à travers le monde entier. Elle revendique plus de 240 000 sites.
+		Lancé en 2008, Magento est un <a href="/ecommerce/cms/">CMS e-commerce</a> puissant, permettant de créer et de gérer les sites de vente en ligne les plus divers. Cette plateforme open source s’est d’abord imposée aux Etats-Unis, puis à travers le monde entier. Elle revendique plus de 240 000 sites.
 	</p>
 	<p class="mx-auto text-center md:w-1/2 sm:text-lg md:font-bold">
 		En France aussi, cette solution technique a su convaincre bon nombre de e-commerçants et de développeurs, dont les experts de l’agence Lumao. Complète, flexible, évolutive : cette solution permet de développer des sites uniques et performants. Nous vous proposons ici d’en savoir plus sur ce CMS qui compte parmi les leaders du marché. Et pour la création de votre site Magento, demandez un devis gratuit et personnalisé à notre agence.
@@ -617,6 +617,18 @@ image = "/images/cms/single/hero.jpg"
 				</svg>
 				<span class="w-0 h-0.5 bg-primary absolute -bottom-0.5 group-hover:w-full transition-all"></span>
 			</a>
+		</div>
+	</div>
+	<div class="py-8 lg:w-7/12 lg:py-36">
+		<div class="px-4 text-white lg:max-w-screen-md lg:pl-20 xl:pl-32">
+			<ul>
+                <li><a href="/ecommerce/cms/magento/formation/">formation</a></li>
+                <li><a href="/ecommerce/cms/magento/freelance/">freelance</a></li>
+                <li><a href="/ecommerce/cms/magento/prestataire/">prestataire</a></li>
+                <li><a href="/ecommerce/cms/magento/connect/">connect</a></li>
+                <li><a href="/ecommerce/cms/magento/salaire-developpeur/">salaire developpeur</a></li>
+                <li><a href="/ecommerce/cms/magento/consultant/">consultant</a></li>
+            </ul>
 		</div>
 	</div>
 </section>

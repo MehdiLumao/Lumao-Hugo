@@ -87,7 +87,7 @@ custom = true
 <section class="flex py-16 text-sm text-white bg-primary xl:py-28 md:text-base">
 	<div class="flex flex-col px-8 mx-auto lg:flex-row md:container">
 		<div class="relative flex flex-col w-full lg:items-end lg:w-1/2 lg:text-right lg:px-20 lg:h-600">
-			<h2 class="mb-2 text-3xl lg:text-4xl xl-title">Magento</h2>
+			<h2 class="mb-2 text-3xl lg:text-4xl xl-title"><a href="/ecommerce/cms/magento/">Magento</a></h2>
 			<p class="font-bold lg:text-2xl">une plateforme puissante et complète</p>
 			<span class="relative my-6 bg-white divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="w-full my-6 transform lg:absolute lg:translate-x-full -right-0 lg:h-full lg:mt-0">
@@ -106,7 +106,7 @@ custom = true
 	<!-- Section 6 -->
 	<div class="flex flex-col justify-end px-8 mx-auto mb-16 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Prestashop</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/prestashop/">Prestashop</a></h2>
 			<p class="font-bold lg:text-2xl">une valeur sûre à la française</p>
 			<span class="relative my-6 divider bg-primary lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="left-0 w-full my-6 transform lg:absolute lg:-translate-x-full lg:h-full lg:full lg:mb-0">
@@ -123,7 +123,7 @@ custom = true
 	<!-- Section 7 -->
 	<div class="flex flex-col px-8 mx-auto lg:flex-row md:container">
 		<div class="relative flex flex-col w-full text-sm lg:items-end lg:w-1/2 lg:text-right lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Woo commerce</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/woocommerce/">Woo commerce</a></h2>
 			<p class="font-bold lg:text-2xl">l’extension pour transformer un site wordpress en boutique</p>
 			<span class="relative my-6 divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="w-full my-6 transform lg:absolute lg:translate-x-full -right-0 lg:h-full lg:mt-0">
@@ -147,7 +147,7 @@ custom = true
 	<!-- Section 8 -->
 	<div class="flex flex-col justify-end px-8 mx-auto mb-16 lg:flex-row md:container lg:mb-24 xl:mb-32 lg:h-600">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base">
-			<h2 class="mb-2 lg-title">Drupal Commerce</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/drupal/">Drupal Commerce</a></h2>
 			<p class="font-bold lg:text-2xl">une solution possible</p>
 			<span class="relative my-6 divider bg-primary lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="left-0 w-full my-6 transform lg:absolute lg:-translate-x-full lg:h-full lg:full lg:mb-0">
@@ -164,7 +164,7 @@ custom = true
 	<!-- Section 9 -->
 	<div class="flex flex-col px-8 mx-auto lg:flex-row md:container">
 		<div class="relative flex flex-col w-full text-sm lg:items-end lg:w-1/2 lg:text-right lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Shopify</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/shopify/">Shopify</a></h2>
 			<p class="font-bold lg:text-2xl">avantages et inconvénients<br>de ce cms canadien</p>
 			<span class="relative my-6 divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="w-full my-6 transform lg:absolute lg:translate-x-full -right-0 lg:h-full lg:mt-0">
@@ -188,7 +188,7 @@ custom = true
 	<!-- Section 10 -->
 	<div class="flex flex-col justify-end px-8 mx-auto mb-16 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Salesforce</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/demandware/">Salesforce</a></h2>
 			<p class="font-bold lg:text-2xl">Commerce cloud ex-demandware</p>
 			<span class="relative my-6 bg-white divider lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="left-0 w-full my-6 transform lg:absolute lg:-translate-x-full lg:h-full lg:full lg:mb-0">
@@ -205,7 +205,7 @@ custom = true
 	<!-- Section 11 -->
 	<div class="flex flex-col px-8 mx-auto lg:flex-row md:container">
 		<div class="relative flex flex-col w-full text-sm lg:items-end lg:w-1/2 lg:text-right lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Sap Hybris</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/hybris/">Sap Hybris</a></h2>
 			<p class="font-bold lg:text-2xl">Sap customer experience</p>
 			<span class="relative my-6 bg-white divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="w-full my-6 transform lg:absolute lg:translate-x-full -right-0 lg:h-full lg:mt-0">
@@ -229,7 +229,7 @@ custom = true
 <section class="relative flex flex-col py-16 xl:py-32">
 	<div class="flex flex-col justify-end px-8 mx-auto mb-16 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Sylius</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/sylius/">Sylius</a></h2>
 			<p class="font-bold lg:text-2xl">un framework e-commerce<br>basé sur symfony</p>
 			<span class="relative my-6 divider bg-primary lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="left-0 w-full my-6 transform lg:absolute lg:-translate-x-full lg:h-full lg:full lg:mb-0">
@@ -246,7 +246,7 @@ custom = true
 	<!-- Section 13 -->
 	<div class="flex flex-col px-8 mx-auto mb-16 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:items-end lg:w-1/2 lg:text-right lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Oro commerce</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/orocommerce/">Oro commerce</a></h2>
 			<p class="font-bold lg:text-2xl">Oro commerce un cms pour développer une activité b2b sur le web</p>
 			<span class="relative my-6 divider lg:-right-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="w-full my-6 transform lg:absolute lg:translate-x-full -right-0 lg:h-full lg:mt-0">
@@ -263,7 +263,7 @@ custom = true
 	<!-- Section 14 -->
 	<div class="flex flex-col justify-end px-8 mx-auto lg:flex-row md:container">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base lg:h-600">
-			<h2 class="mb-2 lg-title">Oxatis</h2>
+			<h2 class="mb-2 lg-title"><a href="/ecommerce/cms/oxatis/">Oxatis</a></h2>
 			<p class="font-bold lg:text-2xl">une solution saas française pour créer une boutique en ligne</p>
 			<span class="relative my-6 divider bg-primary lg:-left-12 w-9 lg:w-24 lg:my-10"></span>
 			<div class="left-0 w-full my-6 transform lg:absolute lg:-translate-x-full lg:h-full lg:full lg:mb-0">
