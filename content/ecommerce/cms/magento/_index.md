@@ -1,7 +1,7 @@
 +++
 date = "2018-10-08-7"
-title = "Magento 2, une solution et des fonctionnalités pour votre boutique"
-h1 = "La solution<br><span class='text-primary'>e-commerce</span> performante."
+title = "Magento 2, Solution et des fonctionnalités pour votre boutique"
+h1 = "Magento : une solution e-commerce performante"
 description = "Avec la plateforme Magento, boostez votre activité de vente en ligne ! Pour votre boutique, demandez un devis à notre agence spécialisée depuis 2008."
 draft = false
 

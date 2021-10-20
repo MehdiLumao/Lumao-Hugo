@@ -1,6 +1,6 @@
 +++
 date = "2019-01-29"
-title = "Cross-Selling | Vente Croisée de Produits"
+title = "Cross-Selling | Vente Croisée de Produits - Agence Magento LUMAO"
 h1 = "Cross selling : définition, avantages et mise en place"
 description = "Découvrez la définition du cross selling : principe, avantages, risques… Vous saurez tout de cette technique et pourrez la mettre en place sur votre site."
 draft = false

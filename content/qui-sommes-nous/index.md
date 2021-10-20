@@ -1,7 +1,7 @@
 +++
 date = "2019-06-21"
-title = "Qui sommes nous ?"
-h1 = "Qui sommes nous ?"
+title = "Qui sommes nous ? Agence E-commerce 100% Magento"
+h1 = "Envie d'en savoir plus sur LUMAO ? Une équipe de développeurs spécialisés sur le CMS Magento à votre service. Réponse rapide."
 description = ""
 draft = false
 +++
@@ -21,6 +21,7 @@ On essaye de corriger les défauts qu'on a eu dans les grosses agences.
 ### Financier
 
 Salaire au-dessus du marché, on respecte les prétentions - pas de proposition si ça ne colle pas.
+Ticket restaurant (Swile) de 9€, 60% prise en charge employeur.
 
 ### Mutuelle
 

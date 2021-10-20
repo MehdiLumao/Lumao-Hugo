@@ -1,8 +1,8 @@
 +++
 date = "2019-08-28"
-title = "Grille de tarif agence e-commerce"
+title = "Grille de tarif agence e-commerce - Agence Magento LUMAO"
 h1 = "Combien coûte un site internet ?"
-description = "Combien coûte un site internet clé en main ?"
+description = "Vous souhaitez savoir combien coûte un site sous le CMS magento ? Une refonte ? Des journées de consulting d'un expert magento 2 ?"
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 date = "2019-04-09"
 title = "FedEx, transport express de fret en France et à l’international"
 h1 = "FedEx, leader du transport de fret express à l’international"
-description = "FedEx, transport express de fret en France et à l’international"
+description = "Vous cherchez des informations sur le transporteur FedEx ? Cette page vous serez très certainement utile. Il suffit de cliquer ici."
 draft = false
 +++
 
