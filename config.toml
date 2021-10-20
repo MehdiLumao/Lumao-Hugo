@@ -45,13 +45,13 @@ paginate = 1000
         identifier = "realisation"
         name = "Réalisations"
         title = "Réalisations"
-        url = "/reference"
+        url = "/reference/"
          weight = 3
     [[menu.main]]
         identifier = "contact"
         name = "Contact"
         title = "Contact"
-        url = "/post/contact"
+        url = "/post/contact/"
         weight = 4
     [[menu.social]]
         identifier = "github"

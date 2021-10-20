@@ -181,7 +181,7 @@ image = "/images/cms/single/hero.jpg"
 				<span class="relative my-6 divider w-9 lg:w-24 lg:my-9"></span>
 			</div>
 			<p class="text-sm lg:text-base leading-relaxed lg:leading-loose lg:opacity-70 xl:mr-8">Chez Lumao, nous multiplions les compétences. Et elles sont validées par plusieurs certifications, dont celle de Magento Certified Developer. Au sein de notre agence, les experts ne cessent d’approfondir leurs connaissances du CMS afin de vous offrir un service de qualité. Grâce à nos compétences en développement, nous sommes en mesure de concevoir le site qui prend en compte tous vos besoins, même les plus spécifiques.</p>
-			<a href="/ecommerce/cms/magento/certified-developer" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
+			<a href="/ecommerce/cms/magento/certified-developer/" class="hidden mt-8 sm:inline-flex text-primary highlighted-label">
 				<span>Magento Certified</span>
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -507,7 +507,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 					<p class="mb-4 font-bold 2xl:text-lg">Confiez nous votre projet</p>
 					<p class="text-gray-500 2xl:leading-loose">Vous souhaitez améliorer les performances de votre site e-commerce ? Son taux de conversion n’est pas en adéquation avec vos objectifs, vous constatez une baisse d’activité anormale ? D’où viennent ces problèmes ? En nous confiant votre projet d’optimisation Magento, nous analysons d’abord votre situation. Après avoir identifié les éléments qui freinent la conversion et ceux qui mettent à mal votre visibilité, nous trouvons les solutions adaptées et les mettons en place dans le respect de vos besoins et de vos objectifs en matière de rentabilité.</p>
-					<a href="/ecommerce/cms/magento/optimisation" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+					<a href="/ecommerce/cms/magento/optimisation/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 						<span>L'optimisation</span>
 						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
