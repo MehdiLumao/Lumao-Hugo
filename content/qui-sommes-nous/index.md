@@ -1,8 +1,8 @@
 +++
 date = "2019-06-21"
 title = "Qui sommes nous ? Agence E-commerce 100% Magento"
-h1 = "Envie d'en savoir plus sur LUMAO ? Une équipe de développeurs spécialisés sur le CMS Magento à votre service. Réponse rapide."
-description = ""
+h1 = "Qui sommes nous ?"
+description = "Envie d'en savoir plus sur LUMAO ? Une équipe de développeurs spécialisés sur le CMS Magento à votre service. Réponse rapide."
 draft = false
 +++
 
