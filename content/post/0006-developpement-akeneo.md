@@ -1,6 +1,7 @@
 +++
 date = "2017-04-07T13:41:14+01:00"
 title = "Développement Akeneo - PIM Magento Agence & Developpeur"
+h1 = "Développement Akeneo"
 description = "Que vous cherchiez du conseil ou encore du développement sur le PIM Akeneo, nous sommes là. LUMAO est une équipe de développeurs certifiés Magento"
 draft = false
 tag = [ "prestation" ]

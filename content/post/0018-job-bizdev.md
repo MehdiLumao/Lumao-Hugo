@@ -1,6 +1,7 @@
 +++
 date = "2019-01-07T16:11:14+01:00"
 title = "Recrutement Business Developer - Agence Magento LUMAO"
+h1 = "Recrutement Business Developer"
 description = "L'agence Lumao recrute un / une Business Developper. Consultez vite nos offres d'emploi. Nous recrutons des spécialistes en business developpement."
 draft = false
 slug = "job-bizdev"

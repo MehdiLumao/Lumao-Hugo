@@ -1,6 +1,7 @@
 +++
 date = "2017-04-09T16:11:14+01:00"
 title = "Recrutement secrétaire freelance  - Agence Magento LUMAO"
+h1 = "Recrutement secrétaire freelance"
 description = "L'agence Lumao recrute un/une secrétaire freelance. Consultez nos offres d'emploi. Nous recrutons toute l'année des spécialistes du CMS Magento"
 draft = false
 slug = "job-secretaire"
