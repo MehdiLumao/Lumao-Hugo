@@ -4,7 +4,7 @@ title = "Présentation Seocampus 2017"
 draft = false
 
 +++
-Merci d'être venu si nombreux à ma conférence au [SEO Campus Paris 2017](https://paris.seo-campus.org/). J'étais _"un peu"_ stressé, j'espère que ça vous a plu quand même.
+Merci d'être venu si nombreux à ma conférence au [SEO Campus Paris 2017](https://www.seo-camp.org/). J'étais _"un peu"_ stressé, j'espère que ça vous a plu quand même.
 
 Voici les liens des modules que j'ai évoqués :
 

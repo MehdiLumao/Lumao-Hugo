@@ -112,11 +112,11 @@ Vous pouvez à tout moment configurer votre logiciel de navigation de manière �
 
 Nous utilisons des outils de communication permettant de partager des liens avec certains réseaux sociaux. Si vous cliquez sur ces fonctionnalités, la société les fournissant peut collecter votre adresse IP, les pages que vous visitez sur notre site et peut placer des cookies lorsque vous êtes connecté à leurs services. Vos interactions avec ces fonctionnalités sont gouvernées par la politique de confidentialité de la société en question. Pour plus d'informations sur les cookies déposés par ces réseaux sociaux, nous vous invitons à consulter leurs chartes de la vie privée accessibles via les liens suivants :
 
-LinkedIn: http://www.linkedin.com/static?key=privacy\_policy&amp;trk=hb\_ft\_priv
+LinkedIn: https://fr.linkedin.com/legal/privacy-policy
 
 Facebook: http://www.facebook.com/about/privacy/
 
-Twitter: https://twitter.com/privacy
+Twitter: https://twitter.com/en/privacy
 
 ## 6.4       Comment configurer votre logiciel de navigation ?
 
