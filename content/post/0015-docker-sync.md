@@ -1,6 +1,7 @@
 +++
 date = "2018-11-26"
-title = "Docker Sync"
+title = "Docker Sync - Agence Ecommerce Magento Grand Compte LUMAO"
+h1 = "Docker Sync"
 draft = false
 slug = "docker-sync"
 +++

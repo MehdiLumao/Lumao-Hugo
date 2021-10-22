@@ -1,6 +1,7 @@
 +++
 date = "2019-01-07T16:11:14+01:00"
-title = "Tester un script Gitlab CI"
+title = "Tester un script Gitlab CI - Agence Boutique Magento LUMAO"
+h1 = "Tester un script Gitlab CI"
 description = ""
 draft = false
 slug = "test-gitlab-ci"

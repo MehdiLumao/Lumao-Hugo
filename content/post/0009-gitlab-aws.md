@@ -1,6 +1,7 @@
 +++
 date = "2018-02-22T11:11:14+01:00"
-title = "Gitlab CI + AWS"
+title = "Gitlab CI + AWS - Meillere Agence Ecommerce Magento LUMAO"
+h1 = "Gitlab CI + AWS"
 draft = false
 slug = "gitlab-aws"
 +++

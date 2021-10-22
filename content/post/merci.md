@@ -1,6 +1,7 @@
 +++
 date = "2016-12-24T14:49:14+01:00"
-title = "Merci de nous avoir contacté"
+title = "Merci de nous avoir contacté - Agence Magento LUMAO"
+h1 = "Merci de nous avoir contacté"
 draft = false
 private = true
 

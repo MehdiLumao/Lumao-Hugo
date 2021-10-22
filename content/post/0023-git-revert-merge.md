@@ -1,6 +1,7 @@
 +++
 date = "2019-10-16"
-title = "Git revert merge"
+title = "Git revert merge - Consultant Freelance Magento LUMAO"
+h1 = "Git revert merge"
 description = ""
 draft = false
 slug = "git-revert-merge"
