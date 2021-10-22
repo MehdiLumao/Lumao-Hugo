@@ -76,5 +76,5 @@ jobs:
         with:
           source-directory: 'public'
           destination-github-username: 'LavoWeb'
-          destination-repository-name: 'LumaoNext'
+          destination-repository-name: 'Lumao'
           user-email: aurelien@lumao.eu
