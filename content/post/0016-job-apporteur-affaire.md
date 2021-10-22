@@ -1,7 +1,7 @@
 +++
 date = "2017-04-09T16:11:14+01:00"
 title = "Recrutement freelance apporteur d'affaire"
-description = "Vous avez des contacts avec des projets Magento ? On a de la capacité"
+description = "Vous avez des contacts avec des projets Magento ? L'agence LUMAO est disponible afin de réaliser des projets Ecommerce Magento."
 draft = false
 slug = "job-apporteur-affaire"
 +++

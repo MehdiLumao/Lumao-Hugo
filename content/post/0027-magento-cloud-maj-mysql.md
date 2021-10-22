@@ -1,7 +1,7 @@
 +++
 date = "2020-10-09"
 title = "Comment mettre à jour MySQL sur Magento Cloud ?"
-description = "Tutoriel pour mettre à jour MySQL sur Magento Cloud"
+description = "Tutoriel pour mettre à jour MySQL sur Magento Cloud. Un article simple et clair rédigé par l'agence Ecommerce Magento LUMAO."
 draft = false
 slug = "magento-cloud-maj-mysql"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2020-05-09"
 title = "Magento ou développement sur mesure ?"
-description = "Comment choisir entre un CMS et un développement sur mesure"
+description = "Comment choisir entre un CMS et un développement sur mesure. Magento ou From scratch ? Des élements de réponses ici avec l'agence LUMAO."
 draft = false
 slug = "magento-ou-custom"
 +++
