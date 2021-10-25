@@ -9,4 +9,6 @@ Disallow: /post/mentions-legales/
 Disallow: /post/page/
 Disallow: /freference/
 Disallow: /lumao-iban.pdf
+Disallow: /*/index.xml
+Disallow: /*/index.html
 Sitemap: /sitemap.xml
