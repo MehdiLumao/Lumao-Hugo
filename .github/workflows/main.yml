@@ -78,3 +78,4 @@ jobs:
           destination-github-username: 'LavoWeb'
           destination-repository-name: 'Lumao'
           user-email: aurelien@lumao.eu
+          target-branch: master
