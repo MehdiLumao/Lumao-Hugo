@@ -38,5 +38,10 @@ draft = false
 ## Nos localisations :
 
 - [intégrateur & prestataire Magento Bordeaux](/ecommerce/cms/magento/prestataire/bordeaux/)
+- [intégrateur & prestataire Magento Lille](/ecommerce/cms/magento/prestataire/lille/)
+- [intégrateur & prestataire Magento Lyon](/ecommerce/cms/magento/prestataire/lyon/)
+- [intégrateur & prestataire Magento Marseille](/ecommerce/cms/magento/prestataire/marseille/)
+- [intégrateur & prestataire Magento Montpellier](/ecommerce/cms/magento/prestataire/montpellier/)
+- [intégrateur & prestataire Magento Nantes](/ecommerce/cms/magento/prestataire/nantes/)
 
 <p>N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoins.</p>
