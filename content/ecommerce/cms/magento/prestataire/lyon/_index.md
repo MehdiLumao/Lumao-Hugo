@@ -12,23 +12,39 @@ Lyon, bercée par le Rhône et le mélange des cultures, est une ville sans cess
 
 Vous êtes artisan, restaurateur, artiste, vous rêvez de vente en ligne et de commerce international, mais, vous n'avez pas encore trouvé l'[intégrateur & prestataire Magento](/ecommerce/cms/magento/prestataire/) à Lyon, en qui placer votre confiance.
 
-<p>Pour Magento vous savez : il s'agit tout simplement d'une des meilleures plateformes pour créer, mettre en place, maintenir et administrer votre boutique en ligne, d'abord en étant accompagné, puis en toute autonomie.</p>
-<p>Pour le ecommerce, là aussi vous êtes sûr de vous : vos clients actuels vous le demandent et vos prospects soutiennent entièrement votre projet.</p>
-<p>Il ne vous reste qu'à trouver le meilleur intégrateur, le meilleur prestataire Magento à Lyon, pour monter une équipe efficace autour d'un projet porteur et cohérent. Avec Lumao faites-nous confiance, vous savez désormais à qui vous adresser.</p>
-<h2>Les avantages de notre agence e-commerce</h2>
-<p>Vous êtes avant tout un acteur du commerce physique. Vous possédez plusieurs boutiques et le centre-ville lyonnais n'a plus aucun secret pour vous. Vous êtes donc à la recherche d'un accompagnement complet pour vous développer sur la toile. Misez sur Lumao.</p>
-<p>Parce que votre marque et votre clientèle existent déjà, vous attendez une expertise et un développement sur mesure pour votre e-boutique afin qu'elle s'intègre parfaitement à votre branding et qu'elle affiche une totale cohérence aux yeux de vos clients habitués. Misez sur Lumao.</p>
-<p>Parce que vous n'avez pas de temps à perdre en corrections de bug et autres installations de correctif, vous souhaitez bénéficier des meilleurs outils et pour les faire fonctionner, d'une intégration aux petits oignons. Misez sur les meilleurs intégrateurs et prestataires Magento à Lyon. Misez sur Lumao.</p>
-<p>Parce que nous sommes les prestataires lyonnais experts sur Magento qu'il vous faut, nous avons choisi de valider toutes les certifications disponibles sur le CMS. Magento et Magento 2, n'ont aucun secret pour nous.</p>
+Pour Magento vous savez : il s'agit tout simplement d'une des meilleures plateformes pour créer, mettre en place, maintenir et administrer votre boutique en ligne, d'abord en étant accompagné, puis en toute autonomie.
+
+Pour le ecommerce, là aussi vous êtes sûr de vous : vos clients actuels vous le demandent et vos prospects soutiennent entièrement votre projet.
+
+Il ne vous reste qu'à trouver le meilleur intégrateur, le meilleur prestataire Magento à Lyon, pour monter une équipe efficace autour d'un projet porteur et cohérent. Avec Lumao faites-nous confiance, vous savez désormais à qui vous adresser.
+
+## Les avantages de notre agence e-commerce
+
+Vous êtes avant tout un acteur du commerce physique. Vous possédez plusieurs boutiques et le centre-ville lyonnais n'a plus aucun secret pour vous. Vous êtes donc à la recherche d'un accompagnement complet pour vous développer sur la toile. Misez sur Lumao.
+
+Parce que votre marque et votre clientèle existent déjà, vous attendez une expertise et un développement sur mesure pour votre e-boutique afin qu'elle s'intègre parfaitement à votre branding et qu'elle affiche une totale cohérence aux yeux de vos clients habitués. Misez sur Lumao.
+
+Parce que vous n'avez pas de temps à perdre en corrections de bug et autres installations de correctif, vous souhaitez bénéficier des meilleurs outils et pour les faire fonctionner, d'une intégration aux petits oignons. Misez sur les meilleurs intégrateurs et prestataires Magento à Lyon. Misez sur Lumao.
+
+Parce que nous sommes les prestataires lyonnais experts sur Magento qu'il vous faut, nous avons choisi de valider toutes les certifications disponibles sur le CMS. Magento et Magento 2, n'ont aucun secret pour nous.
 
 <img class="animate zoomIn margin-auto" src="/images/ville/lyon.png" alt="Lyon" />
 
-<h2>Les avantages du CMS e-commerce Magento</h2>
-<p>Une fois le CMS bien en main, Magento offre la possibilité de gérer simultanément et facilement, plusieurs boutiques en ligne. Cela vous permet notamment de publier un même article sur différents sites, et ce, depuis le même back-office, sans avoir à recommencer plusieurs fois la même opération.</p>
-<p>Quelles que soient vos ambitions en matière de e-commerce, Magento peut vous aider à les concrétiser. L'outil dispose en effet d'un catalogue de fonctions et de plug-ins suffisamment vaste pour vous permettre de développer vos ventes rapidement.</p>
-<p>En tant que CMS open source majoritairement recommandé, Magento est à la fois maintenu et en constant développement. Cet atout vous permet de l'utiliser longtemps, quels que soient le devenir et le développement de votre boutique.</p>
-<p>Enfin, Magento est un atout sérieux en termes de visibilité. D'un point de vue référencement et SEO, de nombreux conseils et des recommandations ciblées vous sont délivrés directement depuis l'interface de gestion.</p>
-<h2>Lyon, ville d'art, de culture et de web</h2>
-<p>Vous l'aurez compris, pour le bien de votre entreprise et pour son expansion sur internet, vous avez tout intérêt à choisir Magento et les nombreuses possibilités qu'offre le logiciel.</p>
-<p>Et, pour le comprendre et l'articuler autour de votre marque, la meilleure chose à faire est encore de vous offrir les services d'un intégrateur et prestataire Magento à Lyon.</p>
-<p>En tant que ville historique d'art et de culture, celle qui est largement considérée comme la capitale gastronomique de la France, se devait de faire un bond vers le futur en accueillant toujours plus d'entreprises du web. C'est chose faite !</p>
+## Les avantages du CMS e-commerce Magento
+
+Une fois le CMS bien en main, Magento offre la possibilité de gérer simultanément et facilement, plusieurs boutiques en ligne. Cela vous permet notamment de publier un même article sur différents sites, et ce, depuis le même back-office, sans avoir à recommencer plusieurs fois la même opération.
+
+Quelles que soient vos ambitions en matière de e-commerce, Magento peut vous aider à les concrétiser. L'outil dispose en effet d'un catalogue de fonctions et de plug-ins suffisamment vaste pour vous permettre de développer vos ventes rapidement.
+
+En tant que CMS open source majoritairement recommandé, Magento est à la fois maintenu et en constant développement. Cet atout vous permet de l'utiliser longtemps, quels que soient le devenir et le développement de votre boutique.
+
+Enfin, Magento est un atout sérieux en termes de visibilité. D'un point de vue référencement et SEO, de nombreux conseils et des recommandations ciblées vous sont délivrés directement depuis l'interface de gestion.
+
+## Lyon, ville d'art, de culture et de web
+
+Vous l'aurez compris, pour le bien de votre entreprise et pour son expansion sur internet, vous avez tout intérêt à choisir Magento et les nombreuses possibilités qu'offre le logiciel.
+
+Et, pour le comprendre et l'articuler autour de votre marque, la meilleure chose à faire est encore de vous offrir les services d'un intégrateur et prestataire Magento à Lyon.
+
+En tant que ville historique d'art et de culture, celle qui est largement considérée comme la capitale gastronomique de la France, se devait de faire un bond vers le futur en accueillant toujours plus d'entreprises du web. C'est chose faite !
+
