@@ -20,7 +20,7 @@ On essaye de corriger les défauts qu'on a eu dans les grosses agences.
 
 ### Financier
 
-Salaire au-dessus du marché, on respecte les prétentions - pas de proposition si ça ne colle pas.
+Salaire au-dessus du marché de la province, on respecte les prétentions - pas de proposition si ça ne colle pas.
 Ticket restaurant (Swile) de 9€, 60% prise en charge employeur.
 
 ### Mutuelle
@@ -42,7 +42,7 @@ beaucoup de collaborations et les certifications sont exigées après une certai
 
 ### Respect des temps de travail
 
-Contrat non-cadre.
+Contrat non-cadre de base, possibilité d'être cadre.
 
 ### Focus
 
