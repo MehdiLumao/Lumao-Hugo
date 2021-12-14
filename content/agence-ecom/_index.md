@@ -21,7 +21,7 @@ clients.
 Pour vous garantir nos compétences, vous pourrez compter sur la satisfaction de nos clients actuels,
 mais également sur les certifications obtenues auprès de Magento en tant que partenaire certifié.
 
-<div class="row">
+<div class="flex justify-center">
     <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
     <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
 </div>

@@ -84,7 +84,7 @@ besoins et de votre budget.
 
 ### Des experts Magento pour optimiser votre site
 
-<div class="row">
+<div class="flex justify-center">
     <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/community.png" alt="Certification Partenaire Magento" /></div>
     <div class="col-xs-6"><img class="animate zoomIn margin-auto" src="/images/certification/big_associate_developer_m2.png" alt="Certification Développeur associé Magento 2" /></div>
 </div>
