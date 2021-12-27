@@ -18,7 +18,9 @@ draft = false
 <p>Vous avez déjà un site internet et vous souhaitez l’adapter ? Nos développeurs sont spécialisés Magento et Magento 2, un CMS puissant, mais adaptable, capable de cohabiter avec d’autres logiciels et même avec votre ERP (Enterprise Resource Planning) si vous en utilisez un.</p>
 <h2>Agence Ecommerce Magento 2 à Marseille et création digitale</h2>
 <p>Qui a dit que le digital n’était pas pour vous ? Ce n’est pas parce que vous êtes propriétaire d’un magasin historiquement marseillais, que vous ne pouvez pas prendre le virage du numérique avec aisance.</p>
-<p>Il suffit pour cela de trouver une [agence e-commerce Magento 2](/agence-ecom/) à Marseille, capable de vous comprendre, de vous orienter et de répondre à vos besoins. Vous pensez qu’un catalogue de plusieurs milliers de produits est un problème ? Sans doute pas le nôtre.</p>
+
+Il suffit pour cela de trouver une [agence e-commerce Magento 2](/agence-ecom/) à Marseille, capable de vous comprendre, de vous orienter et de répondre à vos besoins. Vous pensez qu’un catalogue de plusieurs milliers de produits est un problème ? Sans doute pas le nôtre.
+
 <p>Parce que nous sommes depuis toujours spécialistes du CMS Magento, nous disposons de nombreuses certifications lesquelles vous assurent par avance, de la qualité de notre travail.</p>
 <p>Magento Developer, Developer Plus, Front End Developer, Solution Specialist et Magento 2 Associate Developer, nos équipes maintiennent leurs connaissances à jour pour une qualité de service irréprochable.</p>
 <h2>Par amour du web</h2>

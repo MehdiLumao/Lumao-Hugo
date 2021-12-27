@@ -9,6 +9,7 @@ Maintenant, il est temps de customiser le déploiement pour mettre nos containeu
 
 <h2 class="post-title">Configuration Beanstalk (EB)</h2>
 Pas grand chose à faire, si vous avez ceci dans votre tableau de bord, c'est bon :
+
 ![AWS EB Docker](/images/10/beanstalk.png)
 
 <h2 class="post-title">Dockerfile</h2>
