@@ -10,6 +10,8 @@ Freelance ou agence, telle est la question ! Difficile parfois, de savoir à que
 
 ## Freelance ou agence ? Tout dépend de votre projet
 
+<img class="animate zoomIn margin-auto" src="/images/ville/lille.png" alt="Developpeur Freelance Magento Lille - Lumao (59)" />
+
 Dans les prochains mois, pour toucher une plus large clientèle, vous avez décidé de vendre vos produits ou de proposer vos services en ligne. Pour cela, vous avez besoin d'un site marchand fonctionnel et agréable à utiliser.
 
 À moins de tout faire vous-même, ce qui suppose en plus de vos qualités de dirigeant, de commerçant, ou d'expert en service, des connaissances relativement pointues en création de sites internet, vous aurez besoin de l'aide d'un prestataire.

@@ -11,6 +11,8 @@ Plus que jamais le commerce en ligne est pertinent et donc, concurrentiel. Pour 
 
 ## Pourquoi marier Magento et e-commerce ?
 
+<img class="animate zoomIn margin-auto" src="/images/ville/peyrou.jpg" alt="Developpeur Freelance Magento Montpellier - Lumao (34)" />
+
 Vous pouvez nous croire sur parole ou vous fier aux différents arguments en faveur du mariage Magento et e-commerce. Ils sont nombreux et souvent répétés parce que toujours vrais.
 
 Magento comme Magento 2, possèdent une bibliothèque de fonctionnalités si impressionnante qu'il est difficile voir impossible de les connaître toutes. Promotions, produits, gestions des catégories et des actions marketing... Compliqué de ne pas trouver son bonheur.

@@ -10,6 +10,8 @@ La création d'un site internet demande la mobilisation de nombreuses ressources
 
 ## Magento : une plateforme open source et technique
 
+<img class="animate zoomIn margin-auto" src="/images/ville/bordeaux.png" alt="Developpeur Freelance Magento Bordeaux - Lumao (33)" />
+
 Première chose à savoir quant à la difficulté ou non de maîtriser les bases avec Magento, le CMS est codé en langage PHP, lequel n'est pas le plus aisé à maitriser pour les débutants.
 
 De plus, Magento demande des compétences techniques avancées telle que le développement full-stack. Pour cela, vous aurez besoin d'un prestataire expert capable de manier à la fois le développement front-end et back-end, mais aussi le développement d'application et la gestion de bases de données.

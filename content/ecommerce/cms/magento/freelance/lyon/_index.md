@@ -9,6 +9,9 @@ draft = false
 Vouloir vendre en ligne, c'est bien. Être visible et pouvoir être facilement trouvé par les clients, c'est mieux. C'est ce que vous proposent Lumao, son équipe et ses développeurs freelances Magento, tous basés à Lyon.
 
 ## Le développeur Magento, une opportunité de croissance pour votre entreprise
+
+<img class="animate zoomIn margin-auto" src="/images/ville/lyon.png" alt="Developpeur Freelance Magento Lyon - Lumao (69)" />
+
 Tout comme le service client ou le prestataire en référencement, le développeur Magento qualifié et expérimenté, représente une véritable plus-valus pour votre entreprise.
 
 Pour votre boutique déjà fonctionnelle, il créé et code de nouvelles fonctionnalités inédites pour vous permettre de travailler plus vite, de mieux vous organiser, de gagner du temps et donc, de l'argent.

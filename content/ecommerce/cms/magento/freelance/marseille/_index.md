@@ -10,6 +10,8 @@ Professionnel jusqu'au bout de ses certifications, le développeur Magento peut 
 
 ## Qui est le développeur freelance spécialisé Magento ?
 
+<img class="animate zoomIn margin-auto" src="/images/ville/calanque-marseille.jpg" alt="Developpeur Freelance Magento Marseille - Lumao (13)" />
+
 Installé derrière son écran géant ou son set d'écran 4K, le développeur web code encore et toujours des lignes de symboles que lui seul comprend. Capable de maîtriser les langages web à la perfection, il est notamment féru de PHP et d'HTML.
 
 À ses heures perdues il utilise aussi MySQL et JavaScript, lesquels lui permettent de répondre à presque toutes les questions par "c'est possible avec un peu de temps".

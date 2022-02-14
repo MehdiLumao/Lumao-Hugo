@@ -43,3 +43,7 @@ En faisant appel à Lumao, vous bénéficiez des services d’experts du dévelo
 - [développeur freelance Magento Lyon](/ecommerce/cms/magento/freelance/lyon/)
 - [développeur freelance Magento Marseille](/ecommerce/cms/magento/freelance/marseille/)
 - [développeur freelance Magento Montpelier](/ecommerce/cms/magento/freelance/montpelier/)
+- [développeur freelance Magento Nantes](/ecommerce/cms/magento/freelance/nantes/)
+- [développeur freelance Magento Paris](/ecommerce/cms/magento/freelance/paris/)
+- [développeur freelance Magento Rennes](/ecommerce/cms/magento/freelance/rennes/)
+- [développeur freelance Magento Toulouse](/ecommerce/cms/magento/freelance/toulouse/)
