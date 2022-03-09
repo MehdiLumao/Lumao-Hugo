@@ -32,3 +32,7 @@ draft = false
 <p>Quelles sont vos attentes ? Quel que soit le projet, il est toujours intéressant de réaliser un cahier des charges détaillé. Pour la bonne compréhension de toutes les parties il est essentiel, puisqu’il permet de budgétiser plus facilement l'ensemble du projet et d’éviter les pertes de temps.</p>
 <p>Quel est votre budget ? En corrélation avec le cahier des charges, établir un budget prévisionnel fait partie des priorités. Il vous permet entre autres, d’allouer une partie de vos moyens à différents prestataires et notamment de recruter un consultant Magento 2.</p>
 <p>Le support technique fait-il partie de l’offre proposée ? En effet, si vous faites appel à un service extérieur c’est aussi pour bénéficier d’un service après-vente efficace. En tant qu’agence de développeurs Magento 2 experts, LUMAO propose un support applicatif dans son forfait mensualisé de maintenance.</p> 
+
+- [consultant Magento Bordeaux](/ecommerce/cms/magento/consultant/bordeaux/)
+- [consultant Magento Lille](/ecommerce/cms/magento/consultant/lille/)
+- [consultant Magento Lyon](/ecommerce/cms/magento/consultant/lyon/)

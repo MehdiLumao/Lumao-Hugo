@@ -38,6 +38,7 @@ Pour trouver un développeur Magento 2 freelance, plusieurs solutions existent :
 
 En faisant appel à Lumao, vous bénéficiez des services d’experts du développement web sous Magento, mais également de spécialistes du e-commerce. Certifiée Magento, notre agence connaît parfaitement la solution et vous fait profiter de tout son potentiel, dans le respect de vos besoins, mais aussi des enjeux du e-commerce et du référencement naturel. Nous nous chargeons de la création de votre site de vente en ligne et, selon votre demande, de sa maintenance et de ses évolutions futures. Demandez-nous un devis ; il est gratuit et entièrement sur mesure.
 
+- [développeur freelance Magento Annecy](/ecommerce/cms/magento/freelance/annecy/)
 - [développeur freelance Magento Bordeaux](/ecommerce/cms/magento/freelance/bordeaux/)
 - [développeur freelance Magento Lille](/ecommerce/cms/magento/freelance/lille/)
 - [développeur freelance Magento Lyon](/ecommerce/cms/magento/freelance/lyon/)
@@ -46,4 +47,5 @@ En faisant appel à Lumao, vous bénéficiez des services d’experts du dévelo
 - [développeur freelance Magento Nantes](/ecommerce/cms/magento/freelance/nantes/)
 - [développeur freelance Magento Paris](/ecommerce/cms/magento/freelance/paris/)
 - [développeur freelance Magento Rennes](/ecommerce/cms/magento/freelance/rennes/)
+- [développeur freelance Magento Strasbourg](/ecommerce/cms/magento/freelance/strasbourg/)
 - [développeur freelance Magento Toulouse](/ecommerce/cms/magento/freelance/toulouse/)
