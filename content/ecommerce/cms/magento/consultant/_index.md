@@ -36,3 +36,8 @@ draft = false
 - [consultant Magento Bordeaux](/ecommerce/cms/magento/consultant/bordeaux/)
 - [consultant Magento Lille](/ecommerce/cms/magento/consultant/lille/)
 - [consultant Magento Lyon](/ecommerce/cms/magento/consultant/lyon/)
+- [consultant Magento Marseille](/ecommerce/cms/magento/consultant/marseille/)
+- [consultant Magento Montpellier](/ecommerce/cms/magento/consultant/montpellier/)
+- [consultant Magento Nantes](/ecommerce/cms/magento/consultant/nantes/)
+- [consultant Magento Paris](/ecommerce/cms/magento/consultant/paris/)
+- [consultant Magento Rennes](/ecommerce/cms/magento/consultant/rennes/)
