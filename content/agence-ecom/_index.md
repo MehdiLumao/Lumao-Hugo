@@ -114,6 +114,8 @@ Nos autres emplacements :
 - [agence e-commerce à Rennes](/agence-ecom/rennes/)
 - [agence e-commerce à Strasbourg](/agence-ecom/strasbourg/)
 - [agence e-commerce à Toulouse](/agence-ecom/toulouse/)
+- [agence e-commerce à le Havre](/agence-ecom/le-havre/)
+- [agence e-commerce à St Etienne](/agence-ecom/st-etienne/)
 
 ## Combien coûte la création du site ?
 
