@@ -1,7 +1,6 @@
 +++
 date = "2022-05-23"
 title = "Consultant Magento 2 Toulouse - Lumao Ecommerce (31)"
-"
 h1 = "Consultant Magento 2 à Toulouse : rendez-vous chez Lumao ecommerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Toulouse (31) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false

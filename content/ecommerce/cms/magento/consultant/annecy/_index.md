@@ -1,7 +1,6 @@
 +++
 date = "2022-05-23"
 title = "Consultant Magento 2 Annecy - Lumao Ecommerce (74)"
-"
 h1 = "Retailer à Annecy : pourquoi choisir Magento 2 pour votre e-commerce ?"
 description = "Si vous cherchez un consultant Magento 2 proche de Annecy (74) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
