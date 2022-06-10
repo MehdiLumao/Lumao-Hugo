@@ -85,7 +85,7 @@ Mac pour la gestion de projet.
 Livré avec PHP Storm (suite complète), Docker, Phing, Git, une clé SSH, un accès aux emails/Gitlab. 
 L'installation est automatique via un script Ansible, vous pouvez facilement ajouter vos logiciels.
 
-Pour le dev front, une VM Windows.
+Pour le dev front, Zeplin + Photopea.
 
 ## Cooptation
 
@@ -97,6 +97,10 @@ Chèque cadeau fnac ou équivalent, chèque vacance ou prime.
 L’expérience c’est sur notre stack pas en tant que boulanger ou dev java, hors stages / alternance.
 
 La cooptation est versée après validation de la période d'essai.
+
+## Onboarding
+
+Déplacement de 2/3 jours sur Annecy payé par l'entreprise (trajet, hôtel, repas) à l'arrivée, je donne le pc, présente les outils, l'équipe.
 
 ## Nos offres
 
