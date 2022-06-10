@@ -34,6 +34,8 @@ Pouvoir faire du JavaScript (au moins jQuery). Savoir chiffrer une intégration.
 Pouvoir appeler des APIs (REST et SOAP...). Pouvoir faire des flux de commandes/produits/clients pour des connexions ERP, CRM, PIM. Savoir créer une grille Magento.
 Tu utilises xDebug.
 
+Grille de salaire / compétences : https://docs.google.com/spreadsheets/d/1ifdXQCQYLQDooKSLKSgKA9V1_xXaHG6Kxdt0ePVnVvU/edit?usp=sharing
+
 - Développeur Magento Fullstack. Tu es expert sur un des points du dessus et tu es capable de tout faire dans l'autre.
 
 - Devops. Tu sais faire un des points du dessus et en plus tu maitrises Docker, Ansible, tu sais faire du shell. Idéalement tu connais bien une solution d'orchestration 
