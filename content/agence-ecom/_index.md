@@ -120,6 +120,10 @@ Nos autres emplacements :
 - [agence e-commerce à le Havre](/agence-ecom/le-havre/)
 - [agence e-commerce à St Etienne](/agence-ecom/st-etienne/)
 - [agence e-commerce à Villeurbanne](/agence-ecom/villeurbanne/)
+- [agence e-commerce à Aix en Provence](/agence-ecom/aix-en-provence/)
+- [agence e-commerce à Clermont Ferrand](/agence-ecom/clermont-ferrand/)
+- [agence e-commerce à Le Mans](/agence-ecom/le-mans/)
+- [agence e-commerce à Nîmes](/agence-ecom/nimes/)
 
 ## Combien coûte la création du site ?
 
