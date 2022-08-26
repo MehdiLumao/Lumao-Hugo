@@ -124,6 +124,11 @@ Nos autres emplacements :
 - [agence e-commerce à Clermont Ferrand](/agence-ecom/clermont-ferrand/)
 - [agence e-commerce à Le Mans](/agence-ecom/le-mans/)
 - [agence e-commerce à Nîmes](/agence-ecom/nimes/)
+- [agence e-commerce à Amiens](/agence-ecom/amiens/)
+- [agence e-commerce à Brest](/agence-ecom/brest/)
+- [agence e-commerce à Limoges](/agence-ecom/limoges/)
+- [agence e-commerce à Perpignan](/agence-ecom/perpignan/)
+- [agence e-commerce à Tours](/agence-ecom/tours/)
 
 ## Combien coûte la création du site ?
 
