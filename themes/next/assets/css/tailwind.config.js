@@ -70,7 +70,10 @@ module.exports = {
       screens: {
         'xs': '550px',
         '3xl': '1650px',
-      }
+      },
+      fontSize: {
+        '10xl': ['8.75rem'], //140px
+      },
     }
   },
   variants: {
