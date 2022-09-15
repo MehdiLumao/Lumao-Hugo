@@ -64,6 +64,67 @@
     </div>
 </section>
 
+<!-- Why Lumao -->
+<section class="relative py-12 text-center bg-gray-theme-100 md:py-24 md:px-8 sm:px-20 xl:px-0">
+    <div class="container px-4 max-w-screen-xl mx-auto">
+
+        <div class="flex flex-col items-center">
+            <h2 class="max-w-5xl xl-title">L'expérience utilisateur</h2>
+            <span class="mt-4 divider md:mt-8"></span>
+        </div>
+
+        <div class="lg:gap-8 lg:mx-8 xl:gap-12 mt-10 md:mt-20">
+            <div class="mb-8 overflow-hidden rounded-3xl shadow-theme border-8 md:border-16 border-white">
+                <img src="{{ .Site.BaseURL }}images/jewels1.jpg" class="" alt="" />
+            </div>
+            <div class="mb-16 overflow-hidden rounded-3xl shadow-theme xl:mb-0 border-8 md:border-16 border-white">
+                <img src="{{ .Site.BaseURL }}images/jewels2.jpg" class="" alt="" />
+            </div>
+            <div class="flex justify-end">
+                <div class="w-1/2 text-left text-gray-500 leading-loose mt-16">
+                    <p class="pb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                    <p>
+                        <span class="block font-bold text-black">Réflexion UX</span>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                        Aliqua. Ut enim ad minim veniam</p>
+                </div>
+            </div>
+        </div>
+
+        <hr class="w-3/4 mx-auto my-8 md:hidden">
+
+        <div class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12 md:mt-5 xl:mt-20">
+
+            <!-- Block 01 -->
+            <div class="mb-16 overflow-hidden rounded-3xl shadow-theme xl:mb-0 border-8 md:border-16 border-white">
+                <img src="{{ .Site.BaseURL }}images/jewels3.jpg" class="" alt="" />
+            </div>
+
+            <!-- Block 02 -->
+            <div class="mb-16 overflow-hidden rounded-3xl shadow-theme xl:mb-0 border-8 md:border-16 border-white">
+                <img src="{{ .Site.BaseURL }}images/jewels4.jpg" alt="" />
+            </div>
+
+            <!-- Block 03 -->
+            <div class="mb-16 overflow-hidden sm:rounded-3xl shadow-theme xl:mb-0 border-8 md:border-16 border-white">
+                <img src="{{ .Site.BaseURL }}images/jewels3.jpg" alt="" />
+            </div>
+        </div>
+        <a href="/ecommerce/" class="mt-16 btn btn btn-primary-transparent">
+            <span class="text-xl xl-text-base">En savoir plus</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+            </svg>
+        </a>
+    </div>
+
+    <!-- Bookmark -->
+    <div class="absolute items-center hidden transform rotate-90 bottom-1/2 right-20 3xl:flex">
+        <span class="text-xs tracking-widest uppercase">Une expérience unique</span>
+    </div>
+
+</section>
+
 {{ partial "_references.html" . }}
 {{ partial "_contact.html" . }}
 {{ partial "footer.html" . }}
