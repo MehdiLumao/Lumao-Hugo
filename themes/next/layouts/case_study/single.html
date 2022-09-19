@@ -199,6 +199,68 @@
     </div>
 </section>
 
+<!-- UX -->
+<section class="relative py-12 text-center bg-gray-theme-100 md:py-24 md:px-8 sm:px-20 xl:px-0">
+    <div class="container px-4 max-w-screen-xl mx-auto">
+
+        <div class="flex flex-col items-center">
+            <h2 class="max-w-5xl xl-title">La prestation</h2>
+            <span class="mt-4 divider md:mt-8"></span>
+        </div>
+
+        <hr class="w-3/4 mx-auto my-8 md:hidden">
+
+        <div class="gap-4 md:grid md:grid-cols-2 xl:grid-cols-3 lg:gap-8 lg:mx-8 xl:gap-12 md:mt-10 xl:mt-20">
+
+            <!-- Block 01 -->
+            <div class="flex flex-col items-center p-10 mb-16 overflow-hidden rounded-3xl xl:mb-0">
+                <img src="{{ .Site.BaseURL }}images/icone-dev.svg" alt="" class="">
+                <span class="mt-7 text-xl font-accent">Développement</span>
+                <p class="pt-6 pb-10 text-gray-500">
+                    Développement de modules, projets, intégration CSS responsive
+                </p>
+                <a href="/ecommerce/" class="flex items-center justify-center w-10 h-10 text-primary bg-primary-light rounded-full">
+                    <span class="sr-only">En savoir plus</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 fill-current">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Block 02 -->
+            <div class="flex flex-col items-center p-10 mb-16 overflow-hidden rounded-3xl shadow-theme xl:mb-0 bg-white">
+                <img src="{{ .Site.BaseURL }}images/icone-hebergement.svg" alt="" class="">
+                <span class="mt-7 text-xl font-accent">Hébergement</span>
+                <p class="pt-6 pb-10 text-gray-500">
+                    Hébergement sur nos serveurs cloud haute disponibilité
+                </p>
+                <a href="/ecommerce/" class="flex items-center justify-center w-10 h-10 text-primary bg-primary-light rounded-full">
+                    <span class="sr-only">En savoir plus</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 fill-current">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                    </svg>
+                </a>
+            </div>
+
+            <!-- Block 03 -->
+            <div class="flex flex-col items-center p-10 mb-16 overflow-hidden sm:rounded-3xl xl:mb-0">
+                <img src="{{ .Site.BaseURL }}images/icone-tma.svg" alt="" class="">
+                <span class="mt-7 text-xl font-accent">TMA</span>
+                <p class="pt-6 pb-10 text-gray-500">
+                    Forfait mensualisé de maintenance
+                </p>
+                <a href="/ecommerce/" class="flex items-center justify-center w-10 h-10 text-primary bg-primary-light rounded-full">
+                    <span class="sr-only">En savoir plus</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 fill-current">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</section>
+
 {{ partial "_references.html" . }}
 {{ partial "_contact.html" . }}
 {{ partial "footer.html" . }}
