@@ -48,18 +48,27 @@
     <h2 class="max-w-3xl xl-title">Nous <span class="text-primary">aimons</span> ce que nous faisons</h2>
     <span class="mt-4 divider md:mt-8"></span>
 
-    <div class="grid-cols-3 gap-4 mx-4 mt-4 sm:grid lg:gap-24 sm:mt-20 sm:mx-0">
+    <div
+         class="grid-cols-3 gap-4 mx-4 mt-4 sm:grid lg:gap-24 sm:mt-20 sm:mx-0"
+         x-data="{ selected: 2 }"
+    >
         {{ range .Params.Love }}
-            <div class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl sm:shadow-theme first:shadow-none last:shadow-none">
+            <a
+                    href="{{ .url }}"
+                    class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl"
+                    :class="selected == {{ .index }} ? 'shadow-theme' : ''"
+                    @mouseover="selected = {{ .index }}"
+                    @mouseleave="selected = null"
+            >
                 <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="86" height="85" />
                 <h3 class="mt-8 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
                 <p class="text-sm text-gray-500 sm:text-base">{{ .text }}</p>
-                <a class="hidden p-4 mt-10 rounded-full sm:block bg-primary-light" href="{{ .url }}">
+                <span class="hidden p-4 mt-10 rounded-full sm:block bg-primary-light">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 fill-current text-primary">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                     </svg>
-                </a>
-            </div>
+                </span>
+            </a>
         {{ end }}
     </div>
 </section>
@@ -136,13 +145,16 @@
     <h2 class="xl-title">Nos services</h2>
     <span class="block mt-4 text-gray-500">Ce que nous proposons à nos clients.</span>
 
-    <div class="grid-cols-3 gap-4 mt-10 sm:grid lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 sm:mt-20">
+    <div
+            class="grid-cols-3 gap-4 mt-10 sm:grid lg:gap-8 lg:mx-8 xl:gap-12 xl:mx-20 sm:mt-20"
+            x-data="{ selected: 2 }"
+    >
         {{ range .Params.Service }}
             <div
-                class="
-                    flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-10 sm:rounded-3xl
-                    {{ if .shadow }} sm:shadow-theme {{ end }}
-                "
+                class=" flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-10 sm:rounded-3xl"
+                :class="selected == {{ .index }} ? 'shadow-theme' : ''"
+                @mouseover="selected = {{ .index }}"
+                @mouseleave="selected = null"
             >
                 <div class="relative">
                     <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="85" height="85" />
