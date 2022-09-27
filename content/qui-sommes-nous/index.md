@@ -16,12 +16,16 @@ Il n'y a pas d'investisseur, la croissance est saine donc pas de pression sur le
 
 On essaye de corriger les défauts qu'on a eu dans les grosses agences.
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-oNucSzPefQk-cEd_53wvxodgliTBg2EfjiE1t4pl3IikZUyOcO9WJEOJzqrg4nO120AV7EKafyan/pubchart?oid=461312662&amp;format=image"></iframe>
+
 ## Nos avantages
 
 ### Financier
 
 Salaire au-dessus du marché de la province, on respecte les prétentions - pas de proposition si ça ne colle pas.
 Ticket restaurant (Swile) de 9€, 60% prise en charge employeur.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-oNucSzPefQk-cEd_53wvxodgliTBg2EfjiE1t4pl3IikZUyOcO9WJEOJzqrg4nO120AV7EKafyan/pubchart?oid=218773829&amp;format=image"></iframe>
 
 ### Mutuelle
 
@@ -34,6 +38,8 @@ Télétravail à temps complet, en France ou ailleurs.
 ### Horaire libre
 
 Les heures de travail sont libres, il faut juste être présent pour les échanges avec l'équipe.
+
+<iframe width="400" height="300" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-oNucSzPefQk-cEd_53wvxodgliTBg2EfjiE1t4pl3IikZUyOcO9WJEOJzqrg4nO120AV7EKafyan/pubchart?oid=1977427001&amp;format=image"></iframe>
 
 ### Formation
 
