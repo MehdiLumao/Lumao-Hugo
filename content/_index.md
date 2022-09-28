@@ -60,4 +60,13 @@ intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialis�
     title = "Performance"
     text = "Audit des performances"
     url = "/"
+[[beautiful]]
+    index = 1
+    img = 'home-beautiful-sites.jpg'
+[[beautiful]]
+    index = 2
+    img = 'home-beautiful-sites2.jpg'
+[[beautiful]]
+    index = 3
+    img = 'home-beautiful-sites3.jpg'
 +++

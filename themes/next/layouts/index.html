@@ -58,7 +58,7 @@
                     class="flex flex-col items-center px-4 py-8 border-b sm:border-0 xl:px-12 sm:rounded-3xl"
                     :class="selected == {{ .index }} ? 'shadow-theme' : ''"
                     @mouseover="selected = {{ .index }}"
-                    @mouseleave="selected = null"
+                    @mouseleave="selected = 2"
             >
                 <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="86" height="85" />
                 <h3 class="mt-8 mb-3 text-xl font-bold font-accent">{{ .title }}</h3>
@@ -74,7 +74,7 @@
 </section>
 
 <!-- Our experience -->
-<section class="flex items-center max-w-screen-xl py-12 mx-auto mb-12 md:mb-72 md:py-0 shadow-theme md:shadow-none">
+<section class="flex items-center max-w-screen-xl py-12 mx-auto mb-12 md:mb-32 md:py-0 shadow-theme md:shadow-none">
     <div class="relative items-center hidden w-1/2 mr-12 xl:flex -z-1">
         <span class="absolute block w-4/5 ml-6 bg-gray-200 h-4/5 -z-1 rounded-3xl 2xl:-ml-16"></span>
         <img alt="" src="{{ .Site.BaseURL }}images/home-expertise.jpg" width=""  class="ml-auto" draggable="false"  />
@@ -109,34 +109,61 @@
 </section>
 
 <!-- Stats -->
-<section class="relative max-w-screen-xl mx-4 mb-12 md:mb-40 xl:mx-auto">
-    <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent">
-        <h2 class="mb-8 up-title text-primary">En chiffres</h2>
-        <div class="flex flex-col mx-2 md:flex-row md:justify-around">
-            <div class="flex flex-col items-center mb-14">
-                <div class="text-6xl font-bold lg:text-7xl">3572</div>
-                <span class="my-4 divider"></span>
-                <div class="text-sm font-bold tracking-wider uppercase">heures de travail</div>
+<section class="stats relative max-w-screen-xl mx-4 mb-12 md:mb-40 xl:mx-auto">
+    <div class="mb-48">
+        <h2 class="xl-title text-center">En chiffres</h2>
+    </div>
+    <div class="md:bg-white md:shadow-theme md:rounded-3xl md:pt-10 md:pb-14 font-accent lg:h-80">
+        <div
+                class="lg:absolute top-0 lg:top-auto lg:bottom-6 w-full flex flex-col lg:mx-2 md:flex-row md:justify-around"
+                x-data="{ selected: 4 }"
+        >
+            <div
+                    class="card"
+                    :class="selected == 1 ? 'hover' : ''"
+                    @mouseover="selected !== 1 ? selected = 1 : selected = null"
+            >
+                <div class="flex flex-col items-center justify-end pointer-events-none">
+                    <div class="text-6xl font-bold lg:text-7xl">3572</div>
+                    <span class="my-4 divider"></span>
+                    <div class="text-sm font-bold tracking-wider uppercase">heures de travail</div>
+                </div>
             </div>
-            <div class="flex flex-col items-center mb-14 ">
-                <div class="text-6xl font-bold lg:text-7xl">172</div>
-                <span class="my-4 divider"></span>
-                <div class="text-sm font-bold tracking-wider uppercase">projets</div>
+            <div class="card"
+                 @mouseover="selected !== 2 ? selected = 2 : selected = null"
+                 :class="selected == 2 ? 'hover' : ''"
+            >
+                <div class="flex flex-col items-center justify-end pointer-events-none">
+                    <div class="text-6xl font-bold lg:text-7xl">172</div>
+                    <span class="my-4 divider"></span>
+                    <div class="text-sm font-bold tracking-wider uppercase">projets</div>
+                </div>
             </div>
-            <div class="flex flex-col items-center mb-14 ">
-                <div class="text-6xl font-bold lg:text-7xl">132</div>
-                <span class="my-4 divider"></span>
-                <div class="text-sm font-bold tracking-wider uppercase">clients</div>
+            <div
+                    class="card"
+                    @mouseover="selected !== 3 ? selected = 3 : selected = null"
+                    :class="selected == 3 ? 'hover' : ''"
+            >
+                <div class="flex flex-col items-center justify-end pointer-events-none">
+                    <div class="text-6xl font-bold lg:text-7xl">132</div>
+                    <span class="my-4 divider"></span>
+                    <div class="text-sm font-bold tracking-wider uppercase">client</div>
+                </div>
             </div>
-            <div class="relative z-10 flex flex-col items-center py-12 text-white bg-primary md:bg-transparent md:py-0">
-                <div class="text-6xl font-bold lg:text-7xl">15231</div>
-                <span class="my-4 bg-white divider"></span>
-                <div class="text-sm font-bold tracking-wider uppercase">lignes de code</div>
-                <div class="box-content absolute hidden w-full h-full px-6 py-24 -mt-40 md:block bg-primary -z-1 rounded-3xl"></div>
+            <div
+                    class="card"
+                    @mouseover="selected !== 4 ? selected = 4 : selected = 4"
+                    :class="selected == 4 ? 'hover' : ''"
+            >
+                <div class="flex flex-col items-center justify-end pointer-events-none">
+                    <div class="text-6xl font-bold lg:text-7xl">15231</div>
+                    <span class="my-4 divider"></span>
+                    <div class="text-sm font-bold tracking-wider uppercase">lignes de code</div>
+                </div>
             </div>
         </div>
     </div>
-    <span class="box-content absolute top-0 hidden w-2/5 h-full py-20 -mt-32 bg-gray-200 md:block rounded-3xl -z-1 right-4 xl:right-8 2xl:right-0 2xl:-mr-28"></span>
+    <span class="box-content absolute -bottom-10 hidden w-2/5 h-5/6 bg-gray-200 md:block rounded-3xl -z-1 right-4 xl:right-8 2xl:right-0 2xl:-mr-28"></span>
 </section>
 
 <!-- Services -->
@@ -154,7 +181,7 @@
                 class=" flex flex-col items-center border-b sm:border-0 py-8 px-4 xl:px-10 sm:rounded-3xl"
                 :class="selected == {{ .index }} ? 'shadow-theme' : ''"
                 @mouseover="selected = {{ .index }}"
-                @mouseleave="selected = null"
+                @mouseleave="selected = 2"
             >
                 <div class="relative">
                     <img src="/images/home/{{ .icon }}" alt="{{ .title }}" width="85" height="85" />
@@ -387,8 +414,11 @@
 
 </section>
 
-<!-- Beautiful websites -->
-<section class="relative px-8 py-16 mb-20 md:py-32 lg:py-48 sm:px-20 xl:px-0 shadow-theme md:shadow-none md:mb-0">
+<!-- Beautiful websites new -->
+<section
+        class="relative px-8 py-16 mb-20 md:py-32 lg:py-48 sm:px-20 xl:px-0 shadow-theme md:shadow-none md:mb-0"
+         x-data="{ img: 1 }"
+    >
     <div class="flex flex-col items-center max-w-screen-xl mx-auto lg:flex-row">
 
         <div class="relative flex flex-col items-center mb-10 lg:flex-row md:w-3/4 lg:mr-12 md:mb-20 lg:mb-0">
@@ -408,48 +438,74 @@
 
             <!-- Picture -->
             <span class="absolute hidden w-4/5 mr-0 bg-gray-200 lg:block h-4/5 right-8 -z-1 rounded-3xl"></span>
-            <div class="relative w-full mx-auto overflow-hidden rounded-3xl md:ml-auto xs:w-3/5 lg:w-2/5 h-80 md:h-96 lg:h-auto">
-                <img alt="" src="{{ .Site.BaseURL }}images/home-beautiful-sites.jpg" class="absolute bottom-0 w-full transform -translate-x-1/2 lg:relative left-1/2 lg:-translate-x-none" draggable="false"/>
-            </div>
+            {{ range .Params.Beautiful }}
+                <div class="relative w-full mx-auto overflow-hidden rounded-3xl md:ml-auto xs:w-3/5 lg:w-2/5 h-80 md:h-96 lg:h-auto"
+                     :class="img == {{ .index }} ? 'block' : 'hidden'"
+                >
+                    <img alt="" src="{{ .Site.BaseURL }}images/{{ .img }}" class="absolute bottom-0 w-full transform -translate-x-1/2 lg:relative left-1/2 lg:-translate-x-none" draggable="false"/>
+                </div>
+            {{ end }}
         </div>
 
         <ul class="relative flex flex-col md:w-1/2 sm:max-w-none sm:flex">
 
             <!-- Step 1 -->
-            <li class="relative flex items-baseline pb-4 md:pb-8">
-                <div class="mr-4 md:mr-12 -left-px">
+            <li class="relative flex items-baseline pb-4 md:pb-7">
+                <div class="mr-4 md:mr-12">
                     <!-- Bullet -->
-                    <span class="relative block w-3 h-3 border-2 rounded-full border-primary">
-                        <span class="absolute hidden transform border-2 rounded-full md:block inset-1/2 -translate-y-2/4 -translate-x-2/4 w-14 h-14 border-primary"></span>
-                    </span>
+                    <div class="relative">
+                        <span class="absolute z-20 block w-3 h-3 border-2 rounded-full border-primary inset-1/2 transform -translate-y-2/4 -translate-x-2/4 pointer-events-none">
+                        </span>
+                        <span
+                                class="cursor-pointer absolute hidden z-10 bg-white border-2 rounded-full md:block inset-1/2 -translate-y-2/4 -translate-x-2/4 w-14 h-14 border-primary opacity-0 hover:opacity-100 transition duration-150 ease-in-out transform scale-50 hover:scale-100 ring-8 ring-white"
+                                :class="img == 1 ? 'opacity-100 scale-100' : ''"
+                                @mouseover="img = 1"
+                        ></span>
+                    </div>
                 </div>
                 <div>
                     <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">Nous convenons d'un planning</p>
                     <p class="text-sm leading-7 md:text-gray-500 md:text-base xl:text-lg">afin de développer votre e-commerce pour votre deadline.</p>
                 </div>
                 <!-- Line -->
-                <span class="absolute left-1 bottom-0 bg-primary h-3/4 md:h-1/2 w-0.5 mx-auto rounded-xl"></span>
+                <span class="absolute -left-px bottom-0 bg-primary h-2/3 w-0.5 mx-auto"></span>
             </li>
 
             <!-- Step 2 -->
-            <li class="relative flex items-baseline pb-4 md:pb-8">
-                <!-- Bullet -->
-                <div class="relative mr-4 md:mr-12 -left-px">
-                    <span class="block w-3 h-3 border-2 rounded-full border-primary"></span>
+            <li class="relative flex items-baseline pb-4 md:pb-7">
+                <div class="mr-4 md:mr-12">
+                    <!-- Bullet -->
+                    <div class="relative">
+                        <span class="absolute z-20 block w-3 h-3 border-2 rounded-full border-primary inset-1/2 transform -translate-y-2/4 -translate-x-2/4 pointer-events-none">
+                        </span>
+                        <span
+                              class="cursor-pointer absolute hidden z-10 bg-white border-2 rounded-full md:block inset-1/2 -translate-y-2/4 -translate-x-2/4 w-14 h-14 border-primary opacity-0 hover:opacity-100 transition duration-150 ease-in-out transform scale-50 hover:scale-100 ring-8 ring-white"
+                              :class="img == 2 ? 'opacity-100 scale-100' : ''"
+                              @mouseover="img = 2"
+                        ></span>
+                    </div>
                 </div>
                 <div>
                     <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">C'est la phase de création du site-web</p>
                     <p class="text-sm leading-7 md:text-gray-500 md:text-base xl:text-lg">tous les jours, vous verrez les nouvelles fonctionnalités que nous faisons pour votre site.</p>
                 </div>
                 <!-- Line -->
-                <span class="absolute left-1 bottom-0 bg-primary h-3/4 w-0.5 mx-auto rounded-xl"></span>
+                <span class="absolute -left-px bottom-0 bg-primary h-2/3 w-0.5 mx-auto"></span>
             </li>
 
             <!-- Step 3 -->
-            <li class="flex items-baseline pb-4 md:pb-8">
-                <!-- Bullet -->
-                <div class="relative mr-4 md:mr-12 -left-px">
-                    <span class="block w-3 h-3 border-2 rounded-full border-primary"></span>
+            <li class="relative flex items-baseline pb-4 md:pb-7">
+                <div class="mr-4 md:mr-12 -left-px">
+                    <!-- Bullet -->
+                    <div class="relative">
+                        <span class="absolute z-20 block w-3 h-3 border-2 rounded-full border-primary inset-1/2 transform -translate-y-2/4 -translate-x-2/4 pointer-events-none">
+                        </span>
+                        <span
+                                class="cursor-pointer absolute hidden z-10 bg-white border-2 rounded-full md:block inset-1/2 -translate-y-2/4 -translate-x-2/4 w-14 h-14 border-primary opacity-0 hover:opacity-100 transition duration-150 ease-in-out transform scale-50 hover:scale-100 ring-8 ring-white"
+                                :class="img == 3 ? 'opacity-100 scale-100' : ''"
+                                @mouseover="img = 3"
+                        ></span>
+                    </div>
                 </div>
                 <div>
                     <p class="text-sm leading-7 md:font-bold md:text-base xl:text-lg">Une mise en production a lieu</p>

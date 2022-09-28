@@ -120,4 +120,20 @@ main {
         }
     }
 }
+
+.stats {
+    .card {
+        @apply lg:rounded-3xl py-12 pb-14 lg:pt-36 lg:pb-20 lg:w-52;
+        &.hover {
+             @apply bg-primary;
+            div {
+                @apply text-white;
+            }
+            .divider {
+                @apply bg-white;
+            }
+         }
+    }
+}
+
 /*! purgecss end ignore */
