@@ -71,28 +71,48 @@ image = "/images/cms/single/hero.jpg"
 </section>
 
 <!-- Section 4 -->
-<section class="px-8 mb-8 text-center lg:mb-24 lg:px-0 md:mt-16">
+<section class="px-8 mb-8 text-center lg:mb-24 lg:px-0 md:mt-16"
+     x-data="{swiper: null}"
+    x-init="swiper = new Swiper($refs.widget, {
+        slidesPerView: 1,
+        spaceBetween: 20,
+        grabCursor: true,
+        watchOverflow: true,
+        loop: true,
+        breakpoints: {
+            1024: {
+                slidesPerView: 2,
+                centeredSlides: true,
+            },
+        },
+    })"
+>
 	<div class="flex flex-col items-center px-8 mx-auto md:container">
 		<span class="mb-2 up-title text-primary md:mb-0">Pour votre projet e-commerce</span>
 		<h2 class="px-10 xl-title">Passez à la vitesse supérieure</h2>
 		<span class="mt-4 mb-10 divider md:mt-8 lg:mb-20"></span>
 	</div>
-	<div class="flex flex-wrap items-start w-full lg:flex-nowrap xl:h-600">
-		<div class="order-2 w-1/2 pr-4 lg:pr-0 xl:h-full lg:w-3/12 lg:order-1">
-			<div class="relative overflow-hidden h-36 sm:h-48 md:h-56 lg:h-80 xl:h-full rounded-3xl lg:rounded-l-none">
-				<img src="/images/cms/single/placeholder-3.jpg" class="absolute object-cover h-full min-w-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="" />
-			</div>
-		</div>
-		<div class="order-1 w-full px-0 lg:w-6/12 xl:h-full lg:order-2 lg:px-10">
-			<div class="relative h-64 mb-8 overflow-hidden sm:h-80 lg:mb-0 xl:h-full rounded-3xl">
-				<img src="/images/cms/single/placeholder-4.jpg" class="absolute object-cover h-full min-w-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="" />
-			</div>
-		</div>
-		<div class="order-3 w-1/2 pl-4 lg:pl-0 xl:h-full lg:w-3/12">
-			<div class="relative overflow-hidden h-36 sm:h-48 md:h-56 lg:h-80 xl:h-full rounded-3xl lg:rounded-r-none">
-				<img src="/images/cms/single/placeholder-5.jpg" class="absolute object-cover h-full min-w-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="" />
-			</div>
-		</div>
+	<div class="swiper-container w-full lg:flex-nowrap xl:h-600"
+            x-ref="widget"
+            x-cloak
+>
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="relative overflow-hidden h-36 sm:h-48 md:h-56 lg:h-80 xl:h-full rounded-3xl lg:rounded-l-none">
+                    <img src="/images/img3.jpg" class="object-cover h-full" alt="" />
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="relative h-64 mb-8 overflow-hidden sm:h-80 lg:mb-0 xl:h-full rounded-3xl">
+                    <img src="/images/img3.jpg" class="object-cover h-full" alt="" />
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <div class="relative overflow-hidden h-36 sm:h-48 md:h-56 lg:h-80 xl:h-full rounded-3xl lg:rounded-r-none">
+                    <img src="/images/img3.jpg" class="object-cover h-full" alt="" />
+                </div>
+            </div>
+        </div>
 	</div>
 </section>
 
