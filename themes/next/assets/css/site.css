@@ -121,6 +121,25 @@ main {
     }
 }
 
+.why {
+    .card {
+        @apply relative mb-16 overflow-hidden rounded-3xl xl:top-6 xl:mb-0;
+        .card-top {
+            @apply flex flex-col px-8 font-bold md:pt-16 xl:px-12;
+        }
+        &.hover,
+        &.selected {
+             @apply shadow-theme;
+            .card-top {
+                @apply py-16 text-white bg-secondary;
+            }
+            .btn {
+                @apply btn-primary;
+            }
+         }
+    }
+}
+
 .stats {
     .card {
         @apply lg:rounded-3xl py-12 pb-14 lg:pt-36 lg:pb-20 lg:w-52;
