@@ -20,6 +20,8 @@ Vous êtes commerçant ? Installé à Dijon ? Dans le centre-ville touristique d
 
 ## Magento 2, la plateforme dédiée à la vente en ligne
 
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/dijon/1.png" alt="Agence Ecommerce Magento 2 Dijon - Lumao (21)" />
+
 Lancée en 2008, Magento est un CMS entièrement axé et développé pour proposer les fonctionnalités les plus adaptées aux e-commerçants. Open source, il présente également l’avantage de pouvoir être enrichi par les développeurs les plus expérimentés au fil de leurs idées.
 
 S’il est particulièrement attrayant, c’est que Magento 2 permet une totale personnalisation de l’interface développée. Ainsi, faire appel à une agence ecommerce spécialisée Magento 2 à Dijon, c’est avant tout vous démarquer et assurer les meilleures chances de réussite à votre business.
@@ -37,6 +39,8 @@ Parce qu’aujourd’hui, le commerce digital est majoritairement omnicanal, uti
 Parce que la performance commerciale de votre boutique en ligne est l’élément qui vous intéresse le plus, Magento 2 vous permet de suivre facilement les KPI les plus révélateurs : taux de conversion, nombre de commandes, panier moyen ou encore évolution du chiffre d’affaires.
 
 Parce que les certifications vous apportent l’assurance d’une équipe sûre et d’une démarche gagnante, Magento propose depuis plusieurs années, différentes certifications ouvertes notamment aux développeurs qui souhaitent les valider.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/dijon/2.png" alt="Agence Ecommerce Magento 2 Dijon - Lumao (21)" />
 
 ## À Dijon, en Bourgogne et dans le tout le grand est, les experts Lumao vous accompagnent
 

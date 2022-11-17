@@ -11,11 +11,17 @@ draft = false
 <p>Basé en Loire-Atlantique vous êtes à la recherche du prestataire qui saura partager avec vous ses compétences et donner à votre boutique en ligne existante le second souffle dont elle a besoin ?</p>
 <p>Rencontrer une agence e-commerce Magento 2 à Nantes est sans aucun doute la solution que vous attendiez. Votre site n’est pas encore lancé ? Faites confiance à nos experts développeurs spécialisés Magento et Magento 2, pour vous guider dans sa création.</p>
 <h2>Développement de modules Magento 2 sur mesure</h2>
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/nantes/1.png" alt="Agence Ecommerce Magento 2 Nantes  - Lumao (44)" />
+
 <p>En tant que CMS open source particulièrement adapté à la conception puis à la gestion des e-commerces, Magento se veut modulable et extensible en fonction des besoins. Si malgré son impressionnante bibliothèque d’extensions, vous ne trouvez pas celle qu’il vous faut, créez-la !</p>
 <p>Vous n’avez pas les connaissances nécessaires ou vous manquez de temps ? Nos développeurs Magento 2 se chargent de tout pour vous. En tant qu’agence e-commerce Magento 2 à Nantes, nous nous rendons disponibles et nous sommes compétents.</p>
 <p>Nous développons le module Magento qui manque à votre boutique pour proposer à votre clientèle, l’option qui change tout. Nous sommes également développeurs experts de modules passerelles entre votre solution e-commerce et Magento ou Magento 2.</p>
 <p>Dites-nous de quoi vous avez besoin, nous vous montrerons tout ce que nous pouvons faire pour vous !</p>
 <h2>Hébergement haute performance pour votre site</h2>
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/nantes/2.png" alt="Agence Ecommerce Magento 2 Nantes  - Lumao (44)" />
+
 <p>Sans un bon hébergement, pas de site web durable et encore moins de boutique en ligne fonctionnelle. La qualité d’hébergement d’un site web conditionne en effet sa stabilité, mais aussi une grande partie de son accessibilité.</p>
 <p>Les hébergeurs proposent pour cela, plusieurs solutions : hébergement partagé ou mutualisé, hébergement dédié, hébergement virtuel par VPS ou hébergement dans le cloud. Il convient de choisir celui qui s’adapte le mieux à vos besoins, ou de vous faire conseiller en ce sens.</p>
 <p>Notre [agence e-commerce Magento 2](/agence-ecom/) à Nantes et nos experts, vous accompagnent dans la définition de vos besoins techniques et la recherche de la solution la plus adaptée à la pérennité de votre site internet.</p>

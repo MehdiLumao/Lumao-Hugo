@@ -11,11 +11,17 @@ draft = false
 <p>Vous avez besoin d’une équipe d’experts installée au cœur de la ville rose capable de vous conseiller, de vous orienter et de solutionner les défis qui se présentent à vous pour développer votre entreprise et la rendre toujours plus pérenne.</p>
 <p>Il est temps pour vous comme pour votre entreprise, de trouver une agence e-commerce Magento 2 à Montpellier qui sache répondre à vos attentes tant en matière de design et de refonte, que de performances techniques et de maintenance.</p>
 <h2>Vous avez des objectifs e-commerce ? Nous aussi</h2>
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/montpellier/1.png" alt="Agence Ecommerce Magento 2 Montpellier  - Lumao (34)" />
+
 <p>Bien sûr, vous avez des objectifs. En termes de visites et de ventes, de service après-vente et de satisfaction client, mais aussi des objectifs de rentabilité et de chiffres d’affaires. Nous les comprenons.</p>
 <p>En tant que spécialistes du digital et du e-commerce, nous utilisons de nombreux KPI (indicateur de performance clé) pour mesurer, comprendre, analyser et ajuster nos process de travail. Régulièrement nous les partageons avec vous.</p>
 <p>Variations de trafic, nombre de pages vues, durée des sessions, nombre de commandes et montant en euros du panier moyen, taux de conversion et de rebond, volume des ventes, produit le plus attractif… Chaque data est colectée pour pouvoir être étudiée.</p>
 <p>De votre côté, un back-office performant, stable et utilisable de façon autonome, vous permet de contrôler au quotidien la santé de votre site et le dynamisme de votre e-commerce. Pour cette raison, nous utilisons le meilleur CMS e-commerce : Magento 2.</p>
 <h2>Nous assurons la mise en production et le suivi de votre site Ecommerce</h2>
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/montpellier/2.png" alt="Agence Ecommerce Magento 2 Montpellier  - Lumao (34)" />
+
 <p>Créer un site internet, site vitrine ou e-commerce n’est pas si compliqué. Mais, créer un site fonctionnel, performant et durable dans le respect des normes et des exigences portées par les moteurs de recherche, demande d’autres compétences.</p>
 <p>Pour la maintenance, nos équipes de développeurs spécialisés Magento et Magento 2, veillent. Chaque mise à jour, chaque correctif, chaque optimisation nécessaire et/ou utile est appliquée sans attendre pour un travail efficace en amont du moindre problème.</p>
 <p>Pour la même raison, la sécurité de votre site est idéale. Vous n’avez pas à vous inquiéter de failles ou de ransomwares qui pourraient mettre à mal votre organisation. CMS ou extensions, tout est fait pour obtenir le meilleur fonctionnement possible.</p>

@@ -10,6 +10,8 @@ Ville de culture et de diversité, Le Havre se dote désormais d’une [nouvelle
 
 ## Lumao : une équipe entièrement dédiée au développement de votre e-commerce
 
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/le-havre/1.png" alt="Agence ecommerce magento 2 Le Havre – Lumao (76)" />
+
 Chez Lumao Le Havre, nous possédons deux caractéristiques bien distinctes et pourtant compatibles : nous sommes une équipe d’experts certifiés en notre domaine et nous aimons par-dessus tout le café. Le premier point commun remarquable entre nous ?
 
 Nos développeurs Magento sont tous certifiés Magento et Magento 2 Associate Developer. Pourquoi ? Parce que Magento est à la fois leur outil de travail et l’objet de leur passion, mais aussi parce que votre confiance passe, entre autres, par nos certifications.
@@ -39,6 +41,8 @@ Magento comme Magento 2, délivre des statistiques claires qu’il est possible
 Parce que Magento 2 est tout spécialement pensé pour vous permettre de paraméter des campagnes webmarketing efficaces, nos experts Lumao Le Havre sont à vos côtés et vous apportent une aide à la réalisation des plus percutante.
 
 ## Les développeurs Lumao, des experts qualifiés et certifiés, maintenant implantés en Seine-Maritime
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/le-havre/2.png" alt="Agence ecommerce magento 2 Le Havre – Lumao (76)" />
 
 Vous êtes installé dans le triangle côtier entre Le Havre, Dieppe et Rouen, et à la recherche d’une solution complète pour concevoir votre boutique en ligne, lancer votre e-commerce ou aborder la refonte de votre outil web déjà existant ?
 

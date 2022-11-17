@@ -10,6 +10,8 @@ En plein cœur de la région Auvergne-Rhône-Alpes, la Haute-Savoie fait partie 
 
 ## Agence Ecommerce Magento 2 à Cluses : à votre service
 
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/cluses/1.png" alt="Agence Ecommerce Magento 2 Cluses - Lumao (74)" />
+
 Vous envisagez de confiez la création de votre future boutique en ligne à un professionnel du web ? Vous avez raison ! Parce que chacun possède sa propre expertise et que vous voulez le meilleur pour votre entreprise, pourquoi ne pas faire appel à une agence ecommerce Magento 2 ? Chez Lumao, nous créons les plus belles boutiques en ligne.
 
 Vous faites déjà partie de la grande famille des e-commerçants français ? Félicitations ! Mais, peut-être, pour rester pleinement performant, votre e-shop a-t-il besoin d’une refonte ? Design ou technique, Lumao prend en charge toutes les modifications.
@@ -39,6 +41,8 @@ Gestion optimisée de l’inventaire et des stocks, avec Magento 2, ne craignez 
 Enfin, nouveaux outils marketing intégrés, mais aussi ajout des systèmes de paiement facilité, le back-office Magento 2 offre autant de nouvelles possibilités de croissance à votre entreprise.
 
 ## La Haute-Savoie, un département qui bouge !
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/cluses/2.png" alt="Agence Ecommerce Magento 2 Cluses - Lumao (74)" />
 
 VTT, randonnée, escalade, accrobranche, ski, piscine… La pratique sportive fait partie intégrante de la vie en Haute-Savoie. En intérieur comme en extérieur, été comme hiver, pour les enfants comme pour leurs parents, l’entraînement physique se pratique en famille.
 

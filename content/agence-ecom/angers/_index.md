@@ -10,6 +10,8 @@ Quel que soit votre secteur d’activité, le e-commerce vous tend les bras. Sp�
 
 ## Pourquoi miser sur l’alliance e-commerce & Magento 2
 
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/angers/1.png" alt="Agence Ecommerce Magento 2 Angers - Lumao (49)" />
+
 Rien n’est plus efficace que d’utiliser les bons outils. En matière de e-commerce, s’il est vrai que Prestashop et WooCommerce existent aussi, Magento 2 reste sans aucun doute la plateforme la plus efficace et surtout la plus fiable.
 
 Open source, elle bénéficie d’une grande communauté de développeurs toujours prête à lui apporter les améliorations nécessaires et même plus ! Une telle concentration de talents permet de dépasser plus facilement les limites de ce qui est possible ou envisageable.
@@ -35,6 +37,8 @@ Essentiel au bon fonctionnement de votre e-shop, il doit impérativement pouvoir
 Avec Magento 2, vous n’avez aucun souci à vous faire. Si la mise en œuvre technique demande une certaine réflexion et l’intervention d’un spécialiste Magento, la manœuvre est tout à fait possible. Pour en savoir plus, n’hésitez pas à nous faire parvenir une demande de devis.
 
 Sachez toutefois que Magento 2 dispose d’un certain nombre de modules ERP qui peuvent suffire à assurer une gestion efficace de votre boutique en ligne. Là encore, pour savoir quelle solution est la plus adaptée à votre société, n’hésitez pas à nous rencontrer ! Installés à Angers ou dans le Maine-et-Loire, nous vous accueillons en présentiel ou en visioconférence pour un échange constructif et abouti.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/angers/2.png" alt="Agence Ecommerce Magento 2 Angers - Lumao (49)" />
 
 ## Lumao : agence ecommerce & Magento 2 à Angers et partout en France
 
