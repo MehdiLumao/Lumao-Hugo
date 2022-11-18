@@ -23,7 +23,7 @@ module.exports = {
           700: '#2b2b2b',
           600: '#3e3e3e',
           100: '#f5f5f5'
-        }
+        },
       },
       minWidth: {
         '350': '350px'
@@ -70,7 +70,13 @@ module.exports = {
       screens: {
         'xs': '550px',
         '3xl': '1650px',
-      }
+      },
+      fontSize: {
+        '10xl': ['8.75rem'], //140px
+      },
+      borderWidth: {
+        '16': '16px',
+      },
     }
   },
   variants: {
