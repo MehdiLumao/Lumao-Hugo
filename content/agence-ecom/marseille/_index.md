@@ -13,7 +13,7 @@ draft = false
 <p>Vous voulez vendre en ligne ? Proposer vos produits en France où aux quatre coins du monde ? C’est un e-commerce qu’il vous faut et ça tombe bien, notre équipe de développeurs Magento 2 est toute prête à vous aider.</p>
 <h2>Un e-commerce oui, mais pour qui ?</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/marseille/1.png" alt="Agence Ecommerce Magento 2 Marseille - Lumao (13)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/marseille/1.jpg" alt="Agence Ecommerce Magento 2 Marseille - Lumao (13)" />
 
 <p>En matière de marketing digital, rien n’est plus important que de savoir à qui l’on s’adresse. Ainsi, nous réalisons des sites internet et des e-commerces pour les indépendants, artisans, TPE, PME et même les grandes ou très grandes entreprises.</p>
 <p>En BtoB ou en BtoC, pour des acheteurs passionnés ou des collectionneurs, à direction de la grande distribution ou sur un marché de niche, c’est à vous de nous dire à qui vous souhaitez parler et comment.</p>
@@ -24,7 +24,7 @@ draft = false
 
 Il suffit pour cela de trouver une [agence e-commerce Magento 2](/agence-ecom/) à Marseille, capable de vous comprendre, de vous orienter et de répondre à vos besoins. Vous pensez qu’un catalogue de plusieurs milliers de produits est un problème ? Sans doute pas le nôtre.
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/marseille/2.png" alt="Agence Ecommerce Magento 2 Marseille - Lumao (13)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/marseille/2.jpg" alt="Agence Ecommerce Magento 2 Marseille - Lumao (13)" />
 
 <p>Parce que nous sommes depuis toujours spécialistes du CMS Magento, nous disposons de nombreuses certifications lesquelles vous assurent par avance, de la qualité de notre travail.</p>
 <p>Magento Developer, Developer Plus, Front End Developer, Solution Specialist et Magento 2 Associate Developer, nos équipes maintiennent leurs connaissances à jour pour une qualité de service irréprochable.</p>

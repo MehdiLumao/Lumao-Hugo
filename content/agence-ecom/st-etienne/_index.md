@@ -10,7 +10,7 @@ Estampillée « Créative Design », la ville de Saint-Étienne porte en elle 
 
 ## Le e-commerce, un secteur porteur en plein essor
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/st-etienne/1.png" alt="Agence ecommerce magento 2 Saint Étienne  - Lumao (42)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/st-etienne/1.jpg" alt="Agence ecommerce magento 2 Saint Étienne  - Lumao (42)" />
 
 Adopté par les uns à la suite des premiers confinements sanitaires en France, plébiscité par les autres depuis de nombreuses années et régulièrement encensé par la critique, le e-commerce se veut aujourd’hui un outil essentiel et incontournable.
 
@@ -30,7 +30,7 @@ La sécurité est largement renforcée pour éviter toute intrusion dans les dos
 
 Aussi, Magento 2 diversifie l’utilisation des frameworks, avec, en plus de Zend 1, la possibilité d’avoir recours à Zend 2 ou Symphony 2. On note aussi une refonte complète du système de gestion des thèmes et l’application des PSR : les « PHP Standard Recommendations ».
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/st-etienne/2.png" alt="Agence ecommerce magento 2 Saint Étienne  - Lumao (42)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/st-etienne/2.jpg" alt="Agence ecommerce magento 2 Saint Étienne  - Lumao (42)" />
 
 ## Agence Lumao ecommerce : une équipe de développeurs Magento dédiée à votre projet
 

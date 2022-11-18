@@ -19,7 +19,7 @@ Et vos raisons sont les nôtres. Parce que Toulouse est votre ville fétiche, no
 <p>Rencontrons-nous et exposez-nous votre projet de boutique en ligne. Refonte, création ou extension, nos experts sont à même de vous accompagner quelle que soit votre ambition.</p>
 <h2>Lancez votre projet e-commerce grâce à nos experts toulousains</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/toulouse/1.png" alt="Agence Ecommerce Magento 2 Toulouse - Lumao (31)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/toulouse/1.jpg" alt="Agence Ecommerce Magento 2 Toulouse - Lumao (31)" />
 
 <p>Parce qu’un site web est essentiel, mais aussi parce qu’une interface conviviale ne saurait être suffisante, chez Lumao nous vous proposons les services des meilleurs experts développeurs Magento 2.</p>
 <p>Depuis l’analyse de votre secteur et du marché qui l’accompagne jusqu’à la mise en ligne de votre e-boutique en passant par la réservation d’un nom de domaine pertinent, le choix d’un hébergement adapté et la configuration d’un back-office simple et fonctionnel, ils vous accompagnent.</p>
@@ -32,7 +32,7 @@ Et vos raisons sont les nôtres. Parce que Toulouse est votre ville fétiche, no
 <p>De votre côté, vous maîtrisez rapidement l’interface utilisateur, vous profitez de fonctionnalités avancées pour le SMO et le référencement, vous pouvez ajouter et faire développer tous les modules qui vous intéressent vraiment et ce, grâce à l’expertise, au suivi et aux formations de votre agence e-commerce Magento 2 préférée à Toulouse.</p>
 <h2>Nos experts certifiés Magento 2 vous attendent</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/toulouse/2.png" alt="Agence Ecommerce Magento 2 Toulouse - Lumao (31)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/toulouse/2.jpg" alt="Agence Ecommerce Magento 2 Toulouse - Lumao (31)" />
 
 <p>Du côté de nos développeurs bien entendu, le plaisir est sans pareil. Demandez-leur toutes les fonctions qui pourraient être utiles à votre commerce en ligne, ils les coderont et les intégreront pour vous.</p>
 <p>En tant que plateforme open source, Magento 2 bénéficie d’une intégration facilitée et d’une compatibilité hors-norme. Quels que soient les outils et logiciels utilisés, tout est prévu pour fonctionner avec rapidité et en toute flexibilité, la sécurité en plus.</p>

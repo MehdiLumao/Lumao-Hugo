@@ -19,7 +19,7 @@ draft = false
 <p>Votre secteur d’activité est le commerce entre professionnels ? Là encore, faites-nous confiance pour vous proposer et paramétrer pour vous un site complet ajouté de toutes les spécificités dont vous avez besoin : adaptabilité des prix et du catalogue selon les clients, prise en charge des devis, paiement en compte… Grâce à son code Open Source, Magento vous accompagne sans limites dans le développement de votre entreprise.</p>
 <h2>Magento 2 : pour votre e-commerce, ouvrez le champ des possibles</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/strasbourg/1.png" alt="Agence Ecommerce Magento 2 Strasbourg - Lumao (67)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/strasbourg/1.jpg" alt="Agence Ecommerce Magento 2 Strasbourg - Lumao (67)" />
 
 <p>Que faut-il comprendre par « logiciel open source » ? Un logiciel Open Source utilise un code « ouvert » : chacun peut le lire, le modifier et le partager. Sa qualité repose sur l’examen de chacun et validation de tous.</p>
 <p>Magento est donc susceptible d’évoluer sans cesse en fonction de ceux et celles qui l’aiment et souhaitent l'enrichir. C’est pourquoi Magento est récemment devenu Magento 2.</p>
@@ -32,7 +32,7 @@ draft = false
 <p>Notre expérience vous permet de bénéficier de la plus grande compatibilité. Avec vos logiciels déjà installés, avec votre ERP (Enterprise Resource Planning) et votre système informatique…nous nous adaptons.</p>
 <h2>E-commerce et Magento 2 : l’avènement des nouvelles technologies</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/strasbourg/2.png" alt="Agence Ecommerce Magento 2 Strasbourg - Lumao (67)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/strasbourg/2.jpg" alt="Agence Ecommerce Magento 2 Strasbourg - Lumao (67)" />
 
 <p>Toutefois, en tant que chef d’entreprise, votre but principal est sans aucun doute d’accroître vos ventes et par la même occasion, votre chiffre d’affaires. Or, une stratégie pour y parvenir est le déploiement de plusieurs sites e-commerce accompagnés d’une offre complémentaire. Bonne nouvelle ! Magento 2 intègre la gestion multisite dans son interface.</p>
 <p>La Search Console de Google vous aura sans doute appris par quel canal la majorité de vos visiteurs entre sur votre site. Si le mobile a pris la place de l’ordinateur, là encore soyez rassuré : Magento 2 nous permet de vous proposer facilement des sites entièrement responsive.</p>

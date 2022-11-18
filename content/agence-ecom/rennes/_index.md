@@ -16,7 +16,7 @@ draft = false
 
 Dans votre recherche de [l’agence e-commerce Magento 2](/agence-ecom/) parfaite à Rennes, vous en avez croisé des prestataires de la création de sites web, mais aucun ne vous a convaincu, aucun n’a su éveiller votre confiance.
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/rennes/1.png" alt="Agence Ecommerce Magento 2 Rennes - Lumao (35)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/rennes/1.jpg" alt="Agence Ecommerce Magento 2 Rennes - Lumao (35)" />
 
 <p>Il nous appartient désormais de vous prouver que nous sommes les meilleurs experts Magento 2 à Rennes. Vous pouvez nous confier  les yeux fermés votre projet de création de sites marchands ou de refonte e-commerce.</p>
 <h2>Des experts Magento 2 dédiés à votre activité en ligne</h2>
@@ -31,7 +31,7 @@ Dans votre recherche de [l’agence e-commerce Magento 2](/agence-ecom/) parfai
 <p>Grâce à Lumao, agence e-commerce Magento 2 que vous aurez choisi à Rennes, plus rien ne s’oppose à la croissance de votre entreprise. Sur ordinateur ou sur mobile, de France ou depuis l’étranger, avec leur carte bancaire ou leur solution de paiement préférée, vos clients passent commande en toute simplicité.</p>
 <h2>Faites de votre e-commerce un succès avec Magento 2</h2>
 
-<img class="animate zoomIn margin-auto" src="/images/ville/paint/rennes/2.png" alt="Agence Ecommerce Magento 2 Rennes - Lumao (35)" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/rennes/2.jpg" alt="Agence Ecommerce Magento 2 Rennes - Lumao (35)" />
 
 <p>Quoi de plus appréciable pour votre entreprise en ligne que de bénéficier de statistiques claires quant à son évolution ? Magento 2 vous permet aussi de mieux gérer les commandes, la version mobile de votre boutique et d’utiliser les services Google qui vous sont utiles sans effort.</p>
 <p>Vous déclinez votre offre ? Magento 2 vous offre la possibilité de gérer en quelques clics plusieurs boutiques depuis la même interface, claire et complète. Vous avez besoin d’outils supplémentaires ? Magento dispose d’une importante librairie constamment mise à jour.</p>
