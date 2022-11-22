@@ -10,7 +10,7 @@ A Lyon comme partout en France, notre agence web vous accompagne dans la réalis
 
 ## Création de sites e-commerce à Lyon
 
-<img class="animate zoomIn margin-auto" src="/images/ville/lyon.png" alt="Lyon" />
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/lyon/1.png" alt="Agence e-commerce Lyon | Création de site web" />
 
 Vous recherchez des experts capables de créer votre boutique en ligne, un site de vente sur internet qui remplira tous les critères indispensables à la réussite de votre activité ? Confiez votre projet de création de site internet à Lyon à des experts du e-commerce : Lumao. 
 
@@ -37,6 +37,8 @@ Parce qu’un site internet ne se résume pas à une interface agréable pour l�
 -	Communication et marketing : création de logo, stratégie de marque, campagne e-mailing…
 -	Suivi et formation
 -	Etc.
+
+<img class="animate zoomIn margin-auto" src="/images/ville/paint/lyon/2.png" alt="Agence e-commerce Lyon | Création de site web" />
 
 Si vous envisagez de créer un site internet à Lyon, contactez Lumao. Notre agence web est à l’écoute de tous vos projets. Nos experts vous conseillent et vous aident à concrétiser vos ambitions. Associez à votre site internet les services d’une agence qui a à cœur de vous emmener sur la voie du succès. Pour obtenir un devis sur mesure et gratuit, contactez-nous.
 
