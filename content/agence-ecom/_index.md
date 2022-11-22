@@ -1,8 +1,8 @@
 +++
 date = "2018-11-12"
-title = "Agence E-Commerce Magento | Vendez Mieux, Vendez Plus !"
-h1 = "Notre agence Lumao pour votre site e-commerce Magento"
-description = "Être présent sur le net pour une boutique est indispensable pour de nombreux commerce. Pour avoir une présente sur le net performante et efficace, rendez-vous ici !"
+title = "Agence Ecommerce Magento 2 & Agence web E-commerce LUMAO"
+h1 = "Agence ecommerce Magento 2 : pourquoi la choisir et comment la trouver ?"
+description = "Vous recherchez une agence Ecommerce ? Nous sommes spécialisés dans Magento 2 depuis plus de 10 ans. Déjà + de 100 boutiques en ligne. Découvrez Lumao"
 draft = false
 +++
 
@@ -35,6 +35,8 @@ trouvent rapidement ce dont ils ont besoin sur le web et sur votre site.
 C’est en prenant dans son intégralité votre projet de e-commerce que nous pourrons vous proposer
 une solution sur-mesure qui réponde à la fois à vos attentes, aux attentes des moteurs de recherche,
 mais également aux besoins de vos clients.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2GLM3rAE20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Magento un framework idéal pour votre e-commerce
 
@@ -69,6 +71,8 @@ premier de votre site e-commerce est de vendre vos produits. L’ensemble du sit
 de façon à améliorer la qualité des visites de vos clients afin de rendre leur expérience utilisateur la
 plus agréable possible.
 
+<img class="animate zoomIn mx-auto" src="https://raw.githubusercontent.com/wiki/magento/pwa-studio/images/venia.png" alt="Agence e-commerce Lyon | Création de site web" />
+
 ## Agence e-commerce à Annecy : des experts pour la création d’une boutique performante
 
 Notre agence web est basée à Annecy, en Haute-Savoie. Nous travaillons avec des clients de toute la France, et même au-delà des frontières hexagonales. Faites appel à des experts en création de sites internet 
@@ -86,6 +90,8 @@ Lumao vous aide à concrétiser tous vos projets web à Lyon. Création d’une 
 ## A la recherche d’une agence e-commerce à Bordeaux ? Contactez-nous
 
 Site vitrine, boutique Magento, site de vente en ligne, blog… Lumao concrétise tous vos projets web, quels qu’ils soient. Nos experts se tiennent à votre disposition pour analyser vos besoins et vous proposer une solution entièrement sur mesure, que ce soit en termes d’esthétique, de performances techniques, d’acquisition de trafic, de fonctionnalités, etc. Contactez notre [agence web à Bordeaux](/agence-ecom/bordeaux/) pour obtenir un devis adapté à vos besoins. Lumao met tout en œuvre pour vous aider à atteindre vos objectifs.
+
+<img class="animate zoomIn margin-auto" src="https://github.com/magento/magento2/raw/88745a870d2cc4cbe87d0a855fba4e20744cc453/app/design/frontend/Magento/luma/media/preview.jpg" alt="Agence e-commerce Lyon | Création de site web" />
 
 ## Sites internet et boutiques en ligne par une agence e-commerce à Grenoble
 
@@ -111,12 +117,6 @@ Nos autres emplacements :
 - [agence e-commerce à Angers](/agence-ecom/angers/)
 - [agence e-commerce à Cluses](/agence-ecom/cluses/)
 - [agence e-commerce à Dijon](/agence-ecom/dijon/)
-- [agence e-commerce à Marseille](/agence-ecom/marseille/)
-- [agence e-commerce à Montpellier](/agence-ecom/montpellier/)
-- [agence e-commerce à Nantes](/agence-ecom/nantes/)
-- [agence e-commerce à Rennes](/agence-ecom/rennes/)
-- [agence e-commerce à Strasbourg](/agence-ecom/strasbourg/)
-- [agence e-commerce à Toulouse](/agence-ecom/toulouse/)
 - [agence e-commerce à le Havre](/agence-ecom/le-havre/)
 - [agence e-commerce à St Etienne](/agence-ecom/st-etienne/)
 - [agence e-commerce à Villeurbanne](/agence-ecom/villeurbanne/)
@@ -142,3 +142,39 @@ Nos autres emplacements :
 ## Combien coûte la création du site ?
 
 Avant de demander un devis, vous pouvez consulter nos [grilles de tarifs](/agence-ecom/grille-tarif/).
+
+« Seul on va plus vite, ensemble on va plus loin ». Tout est dit ! Pour votre projet e-commerce à venir, rien ne vaut l’entourage d’une équipe d’experts entièrement dédiés à votre réussite. Développeurs, consultants et intégrateurs, tous imaginent, conceptualisent et réalisent sur mesure, le site internet dont vous avez besoin.
+
+## Magento 2, la plateforme pour développer votre e-commerce
+
+Il n’y a pas de secret, pour bien travailler, il faut de bons outils. De la même façon, pour créer une boutique en ligne performante, et ce, que vous vous trouviez à Lille, Paris ou [Marseille](/agence-ecom/marseille/), nous vous recommandons fortement d’utiliser Magento 2. Mais, Magento 2, qu’est-ce que c’est ?
+
+Si vous n’êtes pas familier de la création de sites internet, voici quelques bases pour vous permettre d’appréhender toute la puissance et tout l’intérêt de l’outil. Magento, 2 est son numéro de version, est un CMS au même titre que Wordpress ou Prestashop.
+
+La différence est que ce système de gestion de contenus open source, a dès le départ été entièrement pensé pour s’adapter et répondre aux besoins du commerce en ligne. Le but ? Que chaque e-commerçant profite d’une interface intuitive et complète, capable de rendre la gestion de son catalogue rapide et aisée.
+
+C’est ici que trouver la bonne agence ecommerce Magento 2 prend toute son importance. Grâce à l’accompagnement d’experts compétents, non seulement vous voyez la vitrine numérique de votre entreprise prendre forme, mais en plus, vous apprenez à la manier de façon à rapidement en tirer tout le meilleur !
+
+## Choisir l’expertise et obtenir un site clé en main
+
+Chez Lumao, nous sommes une équipe d’experts Magento 2 présents aux quatre coins de la France, de [Montpellier](/agence-ecom/montpellier/) à [Nantes](/agence-ecom/nantes/) en passant par [Rennes](/agence-ecom/rennes/) et [Toulouse](/agence-ecom/toulouse/). Toujours prêts à vous guider sur le chemin d’un e-commerce réussi, notre mission est avant tout de vous faciliter les choses.
+
+Vous aimeriez que votre boutique en ligne soit rapidement construite afin d’être fonctionnelle dans les plus brefs délais ? Le rendu final devra être performant, vous offrir de multiples possibilités et surtout rester simple à gérer pour ne pas vous faire perdre de temps ?
+
+Pour parvenir à ce résultat, nous vous conseillons de recruter un consultant Magento pour la compréhension et la direction de votre projet, un développeur Magento pour profiter des mille et une possibilités offertes par la plateforme, ainsi qu’un intégrateur Magento qui fera naître votre boutique de son clavier. Vous pouvez aussi choisir de profiter de l’expertise tout-en-un signée Lumao !
+
+Une fois la phase de concertation et de compréhension réalisée autour de quelques cafés, nous passerons à la création d’une maquette que vous validerez avant la mise en production de votre site. Le résultat de ces différentes étapes ? Une boutique en ligne performance, livrée clé en main !
+
+## Site vitrine ou boutique en ligne, présentez-nous votre projet
+
+À Lyon, [Strasbourg](/agence-ecom/strasbourg/) ou Annecy, votre objectif est le même : disposer d’un outil efficace pour réaliser et accroître vos ventes. Peut-être êtes-vous déjà propriétaire d’un magasin physique ? Peut-être avez-vous déjà une expérience en matière de e-commerce ?
+
+Votre ambition est-elle de vendre à l’international ? Souhaitez-vous proposer des remises et des offres spéciales tout au long de l’année à vos clients ? Avez-vous prévu de gérer vous-même votre e-commerce, ou de déléguer cette partie de votre activité ?
+
+Agence spécialisée ecommerce et Magento 2, Lumao offre une écoute attentive à votre projet. Experts en notre domaine et forts de nombreux sites e-commerce réalisés, nous vous délivrons également les bons conseils et les astuces les plus adaptées pour gagner du temps et de l’argent.
+
+## Lumao, votre agence Magento 2 partout en France
+ 
+Ainsi, où que vous soyez et même jusqu’à Bordeaux, notre équipe se charge de trouver la meilleure solution pour vous. Design, développement, marketing, SEO et bien entendu, suivi des performances, partout où vous avez besoin de nous, nous répondons présent !
+
+ 
