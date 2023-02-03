@@ -630,6 +630,7 @@ image = "/images/cms/single/hero.jpg"
                 <li><a href="/ecommerce/cms/magento/consultant/">consultant</a></li>
 				<li><a href="/ecommerce/cms/magento/mise-a-jour/">mise à jour magento 2</a></li>
 				<li><a href="/ecommerce/cms/magento/chef-de-projet/">chef de projet magento 2</a></li>
+				<li><a href="/ecommerce/cms/magento/magento-btb/">mangento btb</a></li>
             </ul>
 		</div>
 	</div>
