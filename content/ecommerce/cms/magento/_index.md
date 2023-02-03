@@ -632,6 +632,7 @@ image = "/images/cms/single/hero.jpg"
 				<li><a href="/ecommerce/cms/magento/chef-de-projet/">chef de projet magento 2</a></li>
 				<li><a href="/ecommerce/cms/magento/magento-btb/">mangento btb</a></li>
 				<li><a href="/ecommerce/cms/magento/adobe-commerce-open-source/">solution adobe Commerce open source</a></li>
+				<li><a href="/ecommerce/cms/magento/creer-marketplace-b2b/">creer-marketplace-b2b</a></li>
             </ul>
 		</div>
 	</div>
