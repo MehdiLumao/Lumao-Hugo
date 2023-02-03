@@ -629,6 +629,7 @@ image = "/images/cms/single/hero.jpg"
                 <li><a href="/ecommerce/cms/magento/salaire-developpeur/">salaire developpeur</a></li>
                 <li><a href="/ecommerce/cms/magento/consultant/">consultant</a></li>
 				<li><a href="/ecommerce/cms/magento/mise-a-jour/">mise à jour magento 2</a></li>
+				<li><a href="/ecommerce/cms/magento/chef-de-projet/">chef de projet magento 2</a></li>
             </ul>
 		</div>
 	</div>
