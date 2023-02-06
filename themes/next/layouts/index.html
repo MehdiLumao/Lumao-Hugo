@@ -329,80 +329,83 @@
         <hr class="w-3/4 mx-auto my-8 md:hidden">
 
         <div
-                class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12 md:mt-5 xl:mt-20"
-                x-data="{ selected: 2 }"
+            class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12 md:mt-5 xl:mt-20"
+            x-data="{ selected: 2 }"
         >
 
             <!-- Block 01 -->
-            <div class="card"
-                 :class="selected == 1 ? 'hover' : ''"
-                 @mouseover="selected !== 1 ? selected = 1 : selected = null"
+            <div
+                class="card"
+                :class="selected === 1 ? 'hover' : ''"
+                @mouseover.debounce.100ms="selected = 1"
             >
-                <a href="/ecommerce/creation/">
-                    <div class="card-top pointer-events-none">
+                <div class="block">
+                    <div class="card-top">
                         <span class="mb-4 text-lg font-accent text-primary">01</span>
                         <h3 class="text-3xl md:text-4xl font-accent">Pour la création de <span  class="text-primary">votre site web</span></h3>
                         <span class="mx-auto my-8 divider"></span>
                         <p class="text-xl font-bold xl:text-base">Nous vous accompagnons dans la création de votre site internet, de sa conception à sa mise en ligne.</p>
                     </div>
-                    <div class="px-4 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12 pointer-events-none">
+                    <div class="px-4 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
                         Nos experts rassemblent toutes leurs compétences pour créer le site qui répond à vos besoins et à ceux de vos visiteurs. Design, contenus, technologie, fonctionnalités, référencement… : tout est étudié pour vous offrir un site web performant, à l’image de l’activité que vous souhaitez promouvoir en ligne.
                     </div>
-                    <span class="mb-16 btn btn-gray xl:mt-6 pointer-events-none">
+                    <a href="/ecommerce/creation/" class="mb-16 btn btn-gray xl:mt-6">
                         <span class="text-xl xl-text-base">En savoir plus</span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                         </svg>
-                    </span>
-                </a>
+                    </a>
+                </div>
             </div>
 
             <!-- Block 02 -->
-            <div class="card mb-16 overflow-hidden sm:rounded-3xl xl:mb-0"
-                 :class="selected == 2 ? 'hover' : ''"
-                 @mouseover="selected !== 2 ? selected = 2 : selected = null"
+            <div
+                class="card mb-16 overflow-hidden sm:rounded-3xl xl:mb-0"
+                :class="selected === 2 ? 'hover' : ''"
+                @mouseover.debounce.100ms="selected = 2;"
             >
-                <a href="/ecommerce/">
-                    <div class="card-top pointer-events-none">
+                <div class="block">
+                    <div class="card-top">
                         <span class="mb-4 text-lg font-accent text-primary">02</span>
                         <h3 class="text-3xl md:text-4xl font-accent">Pour concevoir votre site <span class="text-primary">e-commerce</span></h3>
                         <span class="mx-auto my-8 divider"></span>
                         <p class="text-xl font-normal xl:text-base">Si vous souhaitez faire réaliser un site par une agence web, vous pourrez confier votre projet de e-commerce à Lumao. </p>
                     </div>
-                    <div class="px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12 pointer-events-none">
+                    <div class="px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
                         Notre agence web vous accompagnera dans votre vie numérique. La présence sur le net devient indispensable pour entretenir votre clientèle et démarcher de nouveaux prospects. Votre vitrine se doit d’être fonctionnelle et facile à prendre en main. Pour vous aider à mieux comprendre notre rôle à vos côtés consultez la page <a href="/agence-web/" class="text-primary hover:underline">agence web</a>, vous en apprendrez plus sur ce que l’on pourra réaliser pour vous.
                     </div>
-                    <span class="mb-16 shadow-lg btn btn-gray pointer-events-none">
+                    <a href="/ecommerce/" class="mb-16 shadow-lg btn btn-gray">
                         <span class="text-xl xl-text-base">En savoir plus</span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                         </svg>
-                    </span>
-                </a>
+                    </a>
+                </div>
             </div>
 
             <!-- Block 03 -->
-            <div class="card"
-                 :class="selected == 3 ? 'hover' : ''"
-                 @mouseover="selected !== 3 ? selected = 3 : selected = null"
+            <div
+                class="card"
+                :class="selected === 3 ? 'hover' : ''"
+                @mouseover.debounce.100ms="selected = 3;"
             >
-                <a href="/ecommerce/performance/">
-                    <div class="card-top pointer-events-none">
+                <div  class="block">
+                    <div class="card-top">
                         <span class="mb-4 text-lg font-accent text-primary">03</span>
                         <h3 class="text-3xl md:text-4xl font-accent">Pour une <span class="text-primary">boutique en ligne </span>bien pensée</h3>
                         <span class="mx-auto my-8 divider"></span>
                         <p class="text-xl font-bold xl:text-base">Le succès de votre présence sur le net est indissociable de la bonne construction de votre site.</p>
                     </div>
-                    <div class="px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12 pointer-events-none">
-                        Si là n’est pas le seul facteur de réussite il n’en demeure pas moins que c’est l’un des principaux. Vos clients seront guidés des fiches-produits à la validation du panier en quelques clics intuitifs. L’acte d’achat sur votre <a href="/site/">site</a> e-commerce réalisé par notre <a href="/agence-ecom/" class="text-primary hover:underline">agence Magento</a> sera fluide et sans contrainte pouvant dissuader l’acquéreur.
+                    <div class="px-8 py-10 text-xl leading-7 text-gray-500 xl:text-base xl:px-12">
+                        Si là n’est pas le seul facteur de réussite il n’en demeure pas moins que c’est l’un des principaux. Vos clients seront guidés des fiches-produits à la validation du panier en quelques clics intuitifs. L’acte d’achat sur votre <a href="/site/" class="text-primary hover:underline">site</a> e-commerce réalisé par notre <a href="/agence-ecom/" class="text-primary hover:underline">agence Magento</a> sera fluide et sans contrainte pouvant dissuader l’acquéreur.
                     </div>
-                    <span class="mb-16 btn btn-gray xl:mt-6 pointer-events-none">
+                    <a href="/ecommerce/performance/" class="mb-16 btn btn-gray xl:mt-6">
                         <span class="text-xl xl-text-base">En savoir plus</span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2 fill-current">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                         </svg>
-                    </span>
-                </a>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
