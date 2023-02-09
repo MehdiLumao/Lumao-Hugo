@@ -2,8 +2,7 @@
 date = "2023-02-03"
 title = "Magento BTB : Créer un site Ecommerce B2B avec Adobe Commerce ?"
 h1 = "Magento BTB : créer un site Ecommerce B2B avec Adobe Commerce"
-description = "
-Magento / Adobe est la solution parfaite pour vous lancer dans le Ecommerce B2B. Découvrez notre offre et nos références."
+description = "Magento / Adobe est la solution parfaite pour vous lancer dans le Ecommerce B2B. Découvrez notre offre et nos références."
 draft = false
 +++
 Avant de lancer un projet e-commerce quel qu’il soit, le plus important est de réunir les compétences et les ressources adéquates. Prenons [Magento BTB](/ecommerce/cms/magento/) par exemple ! Il est le parfait outil open source pour créer un commerce B2B avec Adobe Commerce, de son nouveau nom.
