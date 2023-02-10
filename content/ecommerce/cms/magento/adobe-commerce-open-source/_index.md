@@ -5,7 +5,7 @@ h1 = "Solution Adobe Commerce open source : Prix & Avis"
 description = "Vous cherchez des avis et des exemples de prix avant de déployer ou de migrer sur Adobe Ecommerce (Magento). Vous êtes au bon endroit."
 draft = false
 +++
-Vous avez aimé Magento ? Vous allez adorer Adobe Commerce. Pourquoi ? Tout simplement parce qu’il s’agit du même logiciel doublé de la puissance Adobe ! La curiosité vous pique ? Vous aimeriez en savoir plus ? Solution Adobe Commerce open source : prix & avis, Lumao vous dit tout à propos de cet incroyable outil.
+Vous avez aimé [Magento](/ecommerce/cms/magento/) ? Vous allez adorer Adobe Commerce. Pourquoi ? Tout simplement parce qu’il s’agit du même logiciel doublé de la puissance Adobe ! La curiosité vous pique ? Vous aimeriez en savoir plus ? Solution Adobe Commerce open source : prix & avis, Lumao vous dit tout à propos de cet incroyable outil.
 
 ## Présentation d’Adobe Commerce : de quoi s’agit-il ?
 
