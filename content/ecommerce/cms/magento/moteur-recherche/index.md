@@ -47,13 +47,13 @@ Sensefuel compte désormais plus de 100 clients à travers l’Europe. Leurs éq
 Sensefuel obtient, sur l’ensemble de son parc client, 35% d’augmentation du taux de conversion de la recherche après un premier mois d’usage, puis cette augmentation atteint plus de 100% en un an.
 
 ## Les avantages d’utiliser Sensefuel en fonction des marchés
-•	+101% du taux de conversion de la recherche mobile en un an - Vertbaudet, équipement de la personne.
+•	**+101% du taux de conversion** de la recherche mobile en un an - Vertbaudet, équipement de la personne.
 
-•	+60,4% du taux de visites des fiches produits dès l’A/B test - Interior’s, équipement de la maison.
+•	**+60,4% du taux de visites des fiches produits** dès l’A/B test - Interior’s, équipement de la maison.
 
-•	X4 entre le taux de conversion de la recherche et la navigation - Bricoman, bricolage.
+•	**X4 entre le taux de conversion** de la recherche et la navigation - Bricoman, bricolage.
 
-•	88% des commandes sont issues de la recherche - Franprix, produits de grande consommation.
+•	**88% des commandes** sont issues de la recherche - Franprix, produits de grande consommation.
 
 ## Comment le moteur de recherche de votre site peut évoluer avec Sensefuel ?
 
