@@ -35,3 +35,36 @@ Avec Magento, il est aussi possible de rediriger les internautes vers une URL sp
 Vous souhaitez aller plus loin dans l’optimisation de votre moteur de recherche interne ? Des sociétés, autres que Magento, ont développé leur propre moteur de recherche intelligent payant et souvent compatible avec les principaux CMS e-commerce. Ainsi, vous pourrez les installer grâce à un module Magento. La configuration de cette extension de recherche est généralement intuitive, mais peut nécessiter un accompagnement pour sa prise en main.
 
 Nos développeurs Magento certifiés experts sont en mesure de vous accompagner dans le choix, la mise en place et la configuration de votre moteur de recherche intelligent. Contactez-nous pour un devis gratuit.
+
+## Sensefuel 
+
+Maximisez votre croissance grâce à Sensefuel, le seul moteur de recherche qui écoute, apprend, comprend, anticipe, prédit les envies de chaque client.
+
+Fondé en 2017, Sensefuel transforme la recherche e-commerce des marques et enseignes en une expérience personnelle et captivante. Moteur de vente one2one, leur technologie exclusive accélère la performance commerciale on-line des retailer(s) et pure player(s) en proposant à leurs millions de clients des résultats de recherche alignés avec les désirs et préférences de chacun d’entre eux.
+
+Sensefuel compte désormais plus de 100 clients à travers l’Europe. Leurs équipes e-merchandising utilisent notre technologie afin de créer simplement des expériences en ligne intégralement individualisées et de faire du digital un canal créateur de valeur.
+
+Sensefuel obtient, sur l’ensemble de son parc client, 35% d’augmentation du taux de conversion de la recherche après un premier mois d’usage, puis cette augmentation atteint plus de 100% en un an.
+
+## Les avantages d’utiliser Sensefuel en fonction des marchés
+•	+101% du taux de conversion de la recherche mobile en un an - Vertbaudet, équipement de la personne.
+
+•	+60,4% du taux de visites des fiches produits dès l’A/B test - Interior’s, équipement de la maison.
+
+•	X4 entre le taux de conversion de la recherche et la navigation - Bricoman, bricolage.
+
+•	88% des commandes sont issues de la recherche - Franprix, produits de grande consommation.
+
+## Comment le moteur de recherche de votre site peut évoluer avec Sensefuel ?
+
+Pour que les fonctionnalités prennent vie, il faut les orchestrer dans une expérience de recherche instantanée, moderne et efficace. Pour répondre à cet enjeu et déployer les meilleures pratiques de search UX sur votre site, nous vous donnons accès à des layer(s) de recherche modulaire.
+
+A l’aide de multiples composants combinables, nous configurons l’expérience adaptée à votre segment de marché (ajout au panier depuis la liste, mise en favoris, ratings, multi-photos, gestions des tailles, prix à partir de …). Chaque layer est unique, vous aurez accès à de multiples options de configuration du Look & Feel et notre équipe UX peut également travailler sur une expérience sur mesure, alignée avec vos exigences de marque.
+
+#### Prêt à mettre en place votre stratégie de ventes en ligne ? Contactez-nous !
+
+Stéphane Loustalot, Responsable des Opérations :
+stephane.loustalot@lumao.eu
+
+06 51 49 58 06
+
