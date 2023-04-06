@@ -15,7 +15,7 @@ Dans la banlieue immédiate de Lyon, à l’Est du mythique parc de la Tête d�
 
  Bijoux & accessoires, beauté & bien-être, fleurs, gourmandises, jouets, mode ou encore restauration, tous les types de commerces sont représentés, et sans aucun doute le vôtre. Toutefois, coincé entre les centres commerciaux de la Part-Dieu et du Carré de Soie, respectivement implantés à Lyon et Vaulx-en-Velin, vous estimez que votre commerce mérite un coup de pouce.
 
- Et si, cette aide, un intégrateur & prestataire Magento 2 basé à Villeurbanne, vous l’apportait sur un plateau ?
+ Et si, cette aide, un intégrateur & prestataire Magento 2 basé à [agence e-commerce à Villeurbanne](/agence-ecom/villeurbanne/), vous l’apportait sur un plateau ?
 
  ## Pour voir plus loin, déclinez en version numérique votre magasin
 

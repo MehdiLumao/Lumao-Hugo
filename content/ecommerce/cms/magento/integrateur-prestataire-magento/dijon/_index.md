@@ -23,7 +23,7 @@ draft = false
 
  Les fichiers CSS et JavaScript de votre site internet ne devraient jamais être trop volumineux ni complexes, au risque de pénaliser le temps de chargement des pages. De même, trop de plug-ins ou d’extensions, risque de ralentir votre site. Comme la recette exclusive du pain d’épices dijonnais, préférez par exemple, le développement d’un module sur mesure par un développeur Magento expert.
 
- Optimiser la base de données en tenant votre version MySQL à jour est un autre levier de santé pour votre site ou votre boutique en ligne. Vous ne savez pas comment faire ? Posez la question à votre intégrateur & prestataire Magento 2 rencontré à Dijon.
+ Optimiser la base de données en tenant votre version MySQL à jour est un autre levier de santé pour votre site ou votre boutique en ligne. Vous ne savez pas comment faire ? Posez la question à votre intégrateur & prestataire Magento 2 rencontré à [agence e-commerce à Dijon](/agence-ecom/dijon/).
 
  Enfin, pour une reconnaissance égale à celle des grands vins de Bourgogne, bien gérer son référencement est essentiel. Là encore, Magento vous offre tous les outils nécessaires afin de correctement renseigner vos balises, mais aussi pour soigner vos images et vos campagnes de netlinking.
 

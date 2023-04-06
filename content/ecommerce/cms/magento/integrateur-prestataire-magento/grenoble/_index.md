@@ -21,9 +21,9 @@ Grenoble, ville de sports, de montagne, de plein air, de ski… mais aussi ville
 
  ## Sélectionner votre intégrateur & prestataire Magento 2 selon votre projet
 
- Si votre zone d’activité trouve ses racines à à Grenoble et s’étend à ses environs ou même au-delà, il est possible que votre entreprise soit liée de près ou de loin à l’industrie sportive. En effet, Grenoble tire, encore aujourd’hui, une immense fierté (bien méritée) de l’organisation des Jeux olympiques d’hiver en 1968.
+ Si votre zone d’activité trouve ses racines à Grenoble et s’étend à ses environs ou même au-delà, il est possible que votre entreprise soit liée de près ou de loin à l’industrie sportive. En effet, Grenoble tire, encore aujourd’hui, une immense fierté (bien méritée) de l’organisation des Jeux olympiques d’hiver en 1968.
 
- Vente d’articles de sport, activité saisonnière, communication ou encore fabrication de pièces et d’accessoires, votre activité peut être multicartes et se décline sans doute déjà au numérique. Si ce n’est pas le cas, ou si vous n’êtes pas pleinement satisfait du résultat, engager un intégrateur & prestataire Magento 2 à Grenoble pourrait être un incroyable levier de transformation pour votre société.
+ Vente d’articles de sport, activité saisonnière, communication ou encore fabrication de pièces et d’accessoires, votre activité peut être multicartes et se décline sans doute déjà au numérique. Si ce n’est pas le cas, ou si vous n’êtes pas pleinement satisfait du résultat, engager un intégrateur & prestataire Magento 2 à [agence e-commerce à Grenoble](/agence-ecom/grenoble/) pourrait être un incroyable levier de transformation pour votre société.
 
  Avez-vous besoin d’une refonte de votre site existant ? Utilisez-vous déjà Magento ou souhaitez-vous migrer vers Magento 2 ? Souhaitez-vous faire développer des modules complémentaires pour accompagner la croissance de votre activité ? Ou créer de toutes pièces le e-commerce qui donnera tout son essor à votre projet ?
 

@@ -5,7 +5,7 @@ h1 = "Intégrateur & Prestataire Magento 2 qualifié à Angers : 4 avantages à 
 description = "Vous cherchez un prestataire E-Commerce à Angers (49) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 +++
-Bien que Magento soit un CMS open source et donc, accessible à tous, il n’en reste pas moins un outil très complet et relativement complexe. Aussi, pour le maîtriser et en tirer le meilleur parti, vous avez tout intérêt à faire appel à un intégrateur & prestataire Magento 2 disponible à Angers. Tel un horticulteur passionné, il accompagne la croissance de votre entreprise.
+Bien que Magento soit un CMS open source et donc, accessible à tous, il n’en reste pas moins un outil très complet et relativement complexe. Aussi, pour le maîtriser et en tirer le meilleur parti, vous avez tout intérêt à faire appel à un intégrateur & prestataire Magento 2 disponible à [agence e-commerce à Angers](/agence-ecom/angers/). Tel un horticulteur passionné, il accompagne la croissance de votre entreprise.
 
  ## La certification Magento 2
 

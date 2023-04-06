@@ -21,7 +21,7 @@ draft = false
 
  Installé en Haute-Savoie près de la ville de Cluses, vous exercez peut-être dans l’industrie du décolletage. Fournisseur ou fabricant, si les pièces de révolution destinées à l’assemblage de sous-ensembles font partie de votre expertise, vous devez disposer d’un catalogue d’ampleur, et celui-ci doit être parfaitement géré.
 
- Et ça tombe bien. Tout bon intégrateur & prestataire Magento 2 installé à Cluses, vous le dira : le CMS est incontournable dans la gestion de gros catalogues.
+ Et ça tombe bien. Tout bon intégrateur & prestataire Magento 2 installé à [agence e-commerce à Cluses](/agence-ecom/cluses/), vous le dira : le CMS est incontournable dans la gestion de gros catalogues.
 
  C’est d’ailleurs là, la principale force de Magento depuis son lancement. La plateforme propose aux e-commerçants une gestion affinée et très détaillée de leur(s) catalogue(s), mais aussi, et surtout, des règles des prix. Promotions ou coupons de réduction ciblés, tout est alors à votre portée.
 
