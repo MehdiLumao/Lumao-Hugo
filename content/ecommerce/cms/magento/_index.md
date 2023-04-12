@@ -634,6 +634,7 @@ image = "/images/cms/single/hero.jpg"
 				<li><a href="/ecommerce/cms/magento/adobe-commerce-open-source/">solution adobe Commerce open source</a></li>
 				<li><a href="/ecommerce/cms/magento/creer-marketplace-b2b-ecommerce/">creer marketplace b2b</a></li>
 				<li><a href="/ecommerce/cms/magento/moteur-recherche/">moteur de recherche interne intelligent</a></li>
+				<li><a href="/ecommerce/cms/magento/hyva/">agence Magento spécialisée Hyvä</a></li>
             </ul>
 		</div>
 	</div>
