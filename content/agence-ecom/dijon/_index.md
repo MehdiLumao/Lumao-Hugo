@@ -48,6 +48,6 @@ Depuis toujours, vous vivez pour accueillir et satisfaire les touristes dans vot
 
 Dorénavant, vous souhaitez vous ouvrir au monde entier et faire découvrir vos spécialités à la planète entière. Pour cela, il vous faut un site internet adapté, rapide, un tunnel de vente efficace et bien pensé, mais aussi un expert capable de comprendre où vous souhaitez aller.
 
-C’est exactement le but de l’agence ecommerce Lumao à Dijon ! Spécialisés Magento 2, l’ensemble de nos développeurs sont certifiés experts Developer, Developer Plus et Front End Developper, Solution Specialist et Magento 2 Associate Developer. Vous laisserez-vous tenter ? Si oui, contactez Lumao ou consultez notre grille de tarifs !
+C’est exactement le but de but d'un [prestataire Magento à Dijon](/ecommerce/cms/magento/prestataire/dijon/) ! Spécialisés Magento 2, l’ensemble de nos développeurs sont certifiés experts Developer, Developer Plus et Front End Developper, Solution Specialist et Magento 2 Associate Developer. Vous laisserez-vous tenter ? Si oui, contactez Lumao ou consultez notre grille de tarifs !
 
 

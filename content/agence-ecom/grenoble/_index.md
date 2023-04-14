@@ -69,7 +69,7 @@ Quelle que soit la nature de votre site e-commerce, contactez nos équipes.
 
 ## Un site internet sur mesure
 
-En Isère, si vous avez besoin des services d’une agence web, faites appel à Lumao. Nous créons votre site internet de A à Z, dans le respect du cahier des charges que nous aurons dressé ensemble. Dans notre agence, des experts en développement web réalisent sur mesure votre site web et vous donnent des conseils pour que vous choisissiez des solutions optimales. En effet, le design ne suffit pas au succès de votre site ; d’autres critères sont fondamentaux : 
+En Isère, si vous avez besoin des services d’une agence web, faites appel à Lumao. Nous créons votre site internet de A à Z, dans le respect du cahier des charges que nous aurons dressé ensemble. Dans notre agence [prestataire Magento Grenoble](/ecommerce/cms/magento/prestataire/grenoble/), des experts en développement web réalisent sur mesure votre site web et vous donnent des conseils pour que vous choisissiez des solutions optimales. En effet, le design ne suffit pas au succès de votre site ; d’autres critères sont fondamentaux : 
 
 -	Visibilité de votre site : référencement naturel et payant, réseaux sociaux…
 -	Ergonomie et expérience utilisateur : arborescence, catalogue produits, tunnel de conversion, UX…

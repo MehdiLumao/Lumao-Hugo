@@ -27,7 +27,7 @@ draft = false
 
  ## En termes techniques, l’intégrateur & prestataire Magento 2 est un expert
 
- Il vous en faut plus, ou vous avez besoin d’une fonctionnalité unique qui, peut-être, ne serait utile qu’à vous, mais vous ferait gagner un temps précieux ? Dans ce cas, l’intégrateur & prestataire Magento 2 est l’expert qu’il vous faut.
+ Il vous en faut plus, ou vous avez besoin d’une fonctionnalité unique qui, peut-être, ne serait utile qu’à vous, mais vous ferait gagner un temps précieux ? Dans ce cas, l’intégrateur & [prestataire Magento 2](/ecommerce/cms/magento/prestataire/) est l’expert qu’il vous faut.
 
  Accompagné du développeur, il est celui qui personnalise, paramètre et rend unique votre boutique. Avec son binôme, il est capable de vous apporter une solution web complète, qu’il viendra ensuite intégrer en respectant les règles de l’accessibilité, de l’UX, mais aussi du design, pour une expérience utilisateur au plus proche de vos attentes.
 

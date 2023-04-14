@@ -25,7 +25,7 @@ Bien que Magento soit un CMS open source et donc, accessible à tous, il n’en 
 
  ## L’assurance d’un accompagnement dédié et de qualité
 
- Vous animez un commerce en ligne de plantes et de végétaux d’intérieur, ou vous faites partie des entreprises et centres de recherche ou de formation du domaine végétal angevins ? Sachez qu’un intégrateur & prestataire Magento 2 à Angers pourrait vous être d’un grand secours.
+ Vous animez un commerce en ligne de plantes et de végétaux d’intérieur, ou vous faites partie des entreprises et centres de recherche ou de formation du domaine végétal angevins ? Sachez qu’un prestataire & [intégrateur Magento 2](/ecommerce/cms/magento/prestataire/) à Angers pourrait vous être d’un grand secours.
 
  Tel un horticulteur passionné, il regarde s’épanouir votre projet tout en lui apportant juste assez d’engrais pour qu’il grandisse par lui-même, en toute originalité. À ce étape et dès nos premiers échanges, ses conseils et son expérience vous sont précieux pour passer du concept à la réalisation.
 

@@ -12,7 +12,7 @@ En plein cœur de la région Auvergne-Rhône-Alpes, la Haute-Savoie fait partie 
 
 <img class="animate zoomIn margin-auto" src="/images/ville/paint/cluses/1.jpg" alt="Agence Ecommerce Magento 2 Cluses - Lumao (74)" />
 
-Vous envisagez de confiez la création de votre future boutique en ligne à un professionnel du web ? Vous avez raison ! Parce que chacun possède sa propre expertise et que vous voulez le meilleur pour votre entreprise, pourquoi ne pas faire appel à une agence ecommerce Magento 2 ? Chez Lumao, nous créons les plus belles boutiques en ligne.
+Vous envisagez de confiez la création de votre future boutique en ligne à un [prestataire Magento à Cluses](/ecommerce/cms/magento/prestataire/cluses/) ? Vous avez raison ! Parce que chacun possède sa propre expertise et que vous voulez le meilleur pour votre entreprise, pourquoi ne pas faire appel à une agence ecommerce Magento 2 ? Chez Lumao, nous créons les plus belles boutiques en ligne.
 
 Vous faites déjà partie de la grande famille des e-commerçants français ? Félicitations ! Mais, peut-être, pour rester pleinement performant, votre e-shop a-t-il besoin d’une refonte ? Design ou technique, Lumao prend en charge toutes les modifications.
 

@@ -33,7 +33,7 @@ Dans la banlieue immédiate de Lyon, à l’Est du mythique parc de la Tête d�
 
  Bien sûr, si les thèmes proposés par Magento ne vous conviennent pas, ou si vous rêvez d’une touche d’originalité, la création ou l’adaptation de templates graphiques fait aussi partie de ses capacités.
 
- Enfin, votre intégrateur Magento s’assure, une fois le site terminé, mais avant sa livraison, d’un rendu parfait, tant en termes de design que de performances, et ce, sur l’ensemble des principaux navigateurs du marché.
+ Enfin, votre [intégrateur Magento](/ecommerce/cms/magento/prestataire/) s’assure, une fois le site terminé, mais avant sa livraison, d’un rendu parfait, tant en termes de design que de performances, et ce, sur l’ensemble des principaux navigateurs du marché.
 
  ## Lumao à Villeurbanne, ensemble, décrochons les étoiles !
 
