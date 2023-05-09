@@ -26,7 +26,7 @@ Depuis son lancement en version stable en 2015, Magento 2 a été mis à jour, r
 
 Toutefois, depuis 7 ans, Magento 2 n’en est pas resté là. Avec une version 2.4.2 déployée en 2021, ce sont toujours plus de nouveautés, d’améliorations et de fonctionnalités ajoutées pour booster puissance de votre équipe ou l’intuitivité de vos journées.
 
-Des progrès rendus possibles notamment parce que Magento 2 est un véritable terrain de jeu pour les développeurs. Quelle que soit leur spécialité, les développeurs Magento sont libres de travailler à l’amélioration de leur CMS préféré, et ce, tout simplement parce que le code de Magento est open source.
+Des progrès rendus possibles notamment parce que Magento 2 est un véritable terrain de jeu pour les développeurs d'un [prestataire Magento à Brest](/ecommerce/cms/magento/prestataire/brest/). Quelle que soit leur spécialité, les développeurs Magento sont libres de travailler à l’amélioration de leur CMS préféré, et ce, tout simplement parce que le code de Magento est open source.
 
 ## Installer et configurer Magento 2 pour votre boutique
 

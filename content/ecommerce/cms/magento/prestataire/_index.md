@@ -90,3 +90,8 @@ De [Strasbourg](/ecommerce/cms/magento/prestataire/strasbourg/) à [Annecy](/eco
 
 N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoins.
 
+- [Aix en Provence](/ecommerce/cms/magento/prestataire/aix-en-provence/)
+- [Brest](/ecommerce/cms/magento/prestataire/brest/)
+- [Clermont Ferrand](/ecommerce/cms/magento/prestataire/clermont-ferrand/)
+- [Le Mans](/ecommerce/cms/magento/prestataire/le-mans/)
+- [Nîmes](/ecommerce/cms/magento/prestataire/nimes/)

@@ -26,7 +26,7 @@ Pour l’enrichir, différents leviers existent que nous nous proposons de déve
 
 Le web marketing est la partie visible de votre iceberg. Emailing, publicité, promotion, coupon de réduction, mais aussi blogging ou réseaux sociaux, le champ des possibles est vaste.
 
-Là encore, faire appel à une agence ecommerce spécialisée Magento 2, peut faire toute la différence. Chez Lumao Clermont-Ferrand, nous imaginons avec vous, les actions les plus efficaces, celles qui offrent les meilleures chances de conversion, en fonction de votre secteur d’activité.
+Là encore, faire appel à [prestataires Magento 2 à Clermont-Ferrand](/ecommerce/cms/magento/prestataire/clermont-ferrand/) ou à une agence ecommerce spécialisée Magento 2, peut faire toute la différence. Chez Lumao Clermont-Ferrand, nous imaginons avec vous, les actions les plus efficaces, celles qui offrent les meilleures chances de conversion, en fonction de votre secteur d’activité.
 
 ## Support applicatif et audit de performances pour un accompagnement à 200 %
 
