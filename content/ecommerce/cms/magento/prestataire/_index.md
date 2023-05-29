@@ -95,3 +95,8 @@ N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoin
 - [Clermont Ferrand](/ecommerce/cms/magento/prestataire/clermont-ferrand/)
 - [Le Mans](/ecommerce/cms/magento/prestataire/le-mans/)
 - [Nîmes](/ecommerce/cms/magento/prestataire/nimes/)
+- [Amiens](/ecommerce/cms/magento/prestataire/amiens/)
+- [Besançon](/ecommerce/cms/magento/prestataire/besancon/)
+- [Limoges](/ecommerce/cms/magento/prestataire/limoges/)
+- [Perpignan](/ecommerce/cms/magento/prestataire/perpignan/)
+- [Tours](/ecommerce/cms/magento/prestataire/tours/)
