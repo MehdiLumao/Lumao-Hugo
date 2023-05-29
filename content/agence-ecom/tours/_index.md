@@ -14,7 +14,7 @@ Pour créer une boutique en ligne et vendre vos produits ou vos services sur int
 
 Hébergement, nom de domaine, certificat SSL… une fois ces prérequis validés, téléchargez et installez la dernière version de Magento open source. Vous pourrez ensuite passer à la recherche d’un thème adapté pour la mise en valeur de votre boutique en ligne.
 
-C’est maintenant le moment de découvrir le back-office et ses fonctionnalités, les différents onglets et l’ensemble des possibilités qui s’offrent à vous grâce à Magento 2. Bien sûr, vous allez pouvoir personnaliser votre interface et ajouter les modules qui vous semblent utiles pour une expérience client unique et une gestion e-commerce facilitée.
+C’est maintenant le moment de découvrir le back-office et ses fonctionnalités développées par votre [prestataire Magento Tours](/ecommerce/cms/magento/prestataire/tours/), les différents onglets et l’ensemble des possibilités qui s’offrent à vous grâce à Magento 2. Bien sûr, vous allez pouvoir personnaliser votre interface et ajouter les modules qui vous semblent utiles pour une expérience client unique et une gestion e-commerce facilitée.
 
 La touche finale ? Des visuels sublimes de vos produits, un blog passionnant ou la mise en place d’actions webmarketing percutantes pour faire décoller les ventes. C’est à vous de voir où se trouvent vos priorités !
 

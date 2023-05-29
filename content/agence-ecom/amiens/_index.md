@@ -40,7 +40,7 @@ Heureusement, Magento 2 est — entre autres — pensé pour l’optimisation du
 
 Au gré des bords de Somme parsemés de jardins flottants, sous le regard vénérable de la plus grande cathédrale de France, Notre-Dame d’Amiens, les équipes Lumao vous accueillent. Débutant e-commerce, commerçant chevronné ou vendeur en ligne avec des besoins spécifiques, venez nous rencontrer.
 
-Notre équipe d’experts Magento vous aide à concevoir plus facilement votre site e-commerce, à le mettre en ligne, le tester, l’optimiser et le faire fonctionner en toute autonomie. Vous avez une question ? N’hésitez pas, nous avons du café et toujours le temps nécessaire pour vous répondre.
+Notre équipe d’[experts Magento à Amiens](/ecommerce/cms/magento/prestataire/amiens/) vous aide à concevoir plus facilement votre site e-commerce, à le mettre en ligne, le tester, l’optimiser et le faire fonctionner en toute autonomie. Vous avez une question ? N’hésitez pas, nous avons du café et toujours le temps nécessaire pour vous répondre.
 
 Avec le temps, vous aurez également besoin de faire évoluer votre site, de mettre à jour Magento, d’ajouter de nouveaux modules et des pages supplémentaires ou, peut-être, de corriger certains bugs.
 

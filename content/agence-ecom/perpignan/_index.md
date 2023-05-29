@@ -10,7 +10,7 @@ Des agences e-commerce il en existe beaucoup en France et dans le monde. Mais, L
 
 ## Développement web et leviers marketing : Lumao pour votre vitrine
 
-Développeurs web, nous le sommes, mais pas uniquement. De votre projet de boutique en ligne, nous souhaitons être la pierre angulaire, l’élément de solidité, le fil rouge. C’est pourquoi notre équipe est et reste, à taille humaine. Pour vous accompagner au plus près.
+Développeurs web, nous le sommes, mais pas uniquement. De votre projet de boutique en ligne géré par votre [prestataire Magento Perpignan](/ecommerce/cms/magento/prestataire/perpignan/), nous souhaitons être la pierre angulaire, l’élément de solidité, le fil rouge. C’est pourquoi notre équipe est et reste, à taille humaine. Pour vous accompagner au plus près.
 
 Quels que soient vos besoins, nous sommes capables de développer pour vous une solution complète et entièrement personnalisée qui réponde parfaitement aux critères uniques de votre magasin en ligne.
 

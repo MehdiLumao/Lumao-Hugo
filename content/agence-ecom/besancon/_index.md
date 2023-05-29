@@ -14,7 +14,7 @@ Sur internet, chaque jour, des milliers de nouveaux sites web viennent grandir l
 
 Tout d’abord, un bon développeur Magento vous permet d’imaginer un design de boutique en ligne inédit. Pour performer par rapport à la concurrence, une empreinte HTML unique est en effet un très bon moyen de travailler votre image de marque.
 
-Un autre avantage porté par Magento, est le nombre de ses fonctionnalités, la variété des modules dont il dispose en open source. Pour la gestion des contenus, des fiches produits, des catalogues, des promotions, des langues, des rapports de vente ou des comptes clients, il n’a pas son pareil.
+Un autre avantage porté par Magento, aidé par un [prestataire Magento Besançon](/ecommerce/cms/magento/prestataire/besancon/), est le nombre de ses fonctionnalités, la variété des modules dont il dispose en open source. Pour la gestion des contenus, des fiches produits, des catalogues, des promotions, des langues, des rapports de vente ou des comptes clients, il n’a pas son pareil.
 
 Magento 2 apporte également un intéressant focus SEO, avec, notamment, un temps de chargement réduit pour les pages (et donc une expérience utilisateur accrue) ainsi qu’une haute compatibilité mobile.
 
