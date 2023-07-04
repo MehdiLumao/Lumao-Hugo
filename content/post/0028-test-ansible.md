@@ -10,9 +10,9 @@ On utilise ansible pour provisionner des serveurs et des laptops pour l'équipe.
 
 Plus le temps avance et plus on a des os différents.
 
-En général, la provision se fait en urgence : un pc de dev qui part au sav, besoin d'un serveur suplémentaire pour cause de charde.
+En général, la provision se fait en urgence : un pc de dev qui part au sav, besoin d'un serveur supplémentaire pour cause de charge.
 
-Et quasiment à chaque fois, une version majeure de l'OS est sortit et on a parfois des adaptations à faire.
+Et quasiment à chaque fois, une version majeure de l'OS est sortie et on a parfois des adaptations à faire.
 
 Le but ici sera donc de pouvoir tester notre playbook à chaque commit pour voir ce qui marche et ce qui ne marche pas.
 
