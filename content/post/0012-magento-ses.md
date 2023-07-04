@@ -59,11 +59,13 @@ Ici c'est via cloudflare, ça marche chez les autres également.
 
 <h2 class="post-title">Magento 2</h2>
 <h3 class="post-title">Installation du module</h3>
-```
+
+```shell
 composer require wyomind/cronscheduler
 php bin/magento module:enable Wyomind_CronScheduler
 php bin/magento setup:upgrade
 ```
+
 Et voilà !
 
 <h3 class="post-title">Configuration du module</h3>
