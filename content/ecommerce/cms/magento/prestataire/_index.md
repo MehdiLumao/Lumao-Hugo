@@ -92,8 +92,11 @@ N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoin
 
 - [Aix en Provence](/ecommerce/cms/magento/prestataire/aix-en-provence/)
 - [Brest](/ecommerce/cms/magento/prestataire/brest/)
+- [Caen](/ecommerce/cms/magento/prestataire/caen/)
 - [Clermont Ferrand](/ecommerce/cms/magento/prestataire/clermont-ferrand/)
 - [Le Mans](/ecommerce/cms/magento/prestataire/le-mans/)
+- [Mulhouse](/ecommerce/cms/magento/prestataire/mulhouse/)
+- [Nancy](/ecommerce/cms/magento/prestataire/nancy/)
 - [Nîmes](/ecommerce/cms/magento/prestataire/nimes/)
 - [Amiens](/ecommerce/cms/magento/prestataire/amiens/)
 - [Besançon](/ecommerce/cms/magento/prestataire/besancon/)
