@@ -2,7 +2,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended
 
 pages:
   script:
-    - curl -fsSL https://deb.nodesource.com/setup_19.x | bash -
+    - curl -fsSL https://deb.nodesource.com/setup_19.x | sh -
     - npm ci
     - hugo --config config.toml --minify --baseURL="https://next.lumao.eu/"
   artifacts:
