@@ -4,7 +4,7 @@ pages:
   before_script:
     - apk add --no-cache go curl bash nodejs
   script:
-    - curl -fsSL https://deb.nodesource.com/setup_19.x | sh -
+    - curl -fsSL https://deb.nodesource.com/setup_19.x | bash -
     - npm ci
     - hugo --config config.toml --minify --baseURL="https://next.lumao.eu/"
   artifacts:
