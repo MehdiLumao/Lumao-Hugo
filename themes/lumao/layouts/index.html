@@ -453,22 +453,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<form class="contact-form"  action="https://formspree.io/f/xzblezej" method="POST">
-					<div class="row">
-						<div class="col-md-6">
-							<input class="form-input" type="text" placeholder="Nom" name="name" required/>
-						</div>
-						<div class="col-md-6">
-							<input class="form-input" type="email" placeholder="E-mail" name="_replyto" required/>
-						</div>
-					</div>
-                    <input type="hidden" name="_subject" value="Contact Lumao" />
-                    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}post/merci/" />
-					<input type="hidden" name="_format" value="plain" />
-					<input type="text" name="_gotcha" style="display:none" />
-					<textarea class="form-input" placeholder="Votre Message" name="message"></textarea>
-					<input class="btn form-btn" type="submit" value="Envoyer un message"/>
-				</form>
+				<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+				<script>
+					hbspt.forms.create({
+						region: "eu1",
+						portalId: "26077487",
+						formId: "fa3e6127-4dd4-46fa-9de6-90032c476043"
+					});
+				</script>
 				<div class="col-xs-3 title-block"><a title="Lumao Linkedin" href="https://www.linkedin.com/company/lumao/"><i class="fa fa-linkedin fa-4x"></i></a></div>
 				<div class="col-xs-3 title-block"><a title="Lumao Twitter" href="https://twitter.com/LumaoSAS"><i class="fa fa-twitter fa-4x"></i></a></div>
 				<div class="col-xs-3 title-block"><a title="Lumao Facebook" href="https://www.facebook.com/lumaoweb/"><i class="fa fa-facebook fa-4x"></i></a></div>
