@@ -1,6 +1,7 @@
 @import "node_modules/tailwindcss/base";
 @import "node_modules/tailwindcss/components";
 @import "assets/css/site";
+@import "assets/css/hubspot";
 @import "assets/css/hamburger";
 @import "assets/css/fonts";
 @import "node_modules/tailwindcss/utilities";
