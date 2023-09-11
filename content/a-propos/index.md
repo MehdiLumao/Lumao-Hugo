@@ -12,8 +12,11 @@ permettant ainsi aux eCommerçants de s’appuyer sur un partenaire plus qu’un
 
 ## Une équipe d’experts Magento
 
-Chez Lumao, nos compétences sont validées par plusieurs certifications, dont celleS de Magento Certified Developer. Nos certifications couvrent 
-l’ensemble du champs d’expertise autour de Magento : Magento 1, Magento 2, architecture, Développement back end, Développement front end.
+<div class="flex justify-center items-center gap-5">
+  <img class="animate zoomIn margin-auto" src="/images/certifications.png" width="200px" alt="Agence Ecommerce Magento 2 Dijon - Lumao (21)" />
+  <p>Chez Lumao, nos compétences sont validées par plusieurs certifications, dont celleS de Magento Certified Developer. Nos certifications couvrent 
+l’ensemble du champs d’expertise autour de Magento : Magento 1, Magento 2, architecture, Développement back end, Développement front end.</p>
+</div>
 
 ## Lumao fait partie du groupe Spiriit
 
@@ -24,6 +27,10 @@ La complémentarité des expertises avec Spiriit permet à Lumao d’accompagner
 
 ## Aurélien Lavorel, Directeur technique Magento
 
-Nous avons dédié notre activité à Magento, et sommes devenus spécialistes et reconnus dans l’écosystème (voir nos certifications). 
+<div class="flex justify-center items-center gap-5">
+  <img class="animate zoomIn margin-auto" src="/images/aurelien.jpg" width="200px" alt="Agence Ecommerce Magento 2 Dijon - Lumao (21)" />
+  <p>Nous avons dédié notre activité à Magento, et sommes devenus spécialistes et reconnus dans l’écosystème (voir nos certifications). 
 Nos experts et développeurs sont recrutés et formés spécifiquement autour de cette technologie. Nous pouvons ainsi intervenir sur 
-des sujets les plus complexes.
+des sujets les plus complexes.</p>
+</div>
+
