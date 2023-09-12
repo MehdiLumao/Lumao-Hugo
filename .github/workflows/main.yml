@@ -22,17 +22,17 @@ jobs:
          hugo --config config.toml,configbe.toml --minify
          cp .gitignore public
          echo "be.lumao.eu" > public/CNAME
-#
-#      - name: Pushes to another repository BE
-#        uses: cpina/github-action-push-to-another-repository@master
-#        env:
-#          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
-#        with:
-#          source-directory: 'public'
-#          destination-github-username: 'LavoWeb'
-#          destination-repository-name: 'LumaoBe'
-#          user-email: aurelien@lavoweb.net
-#
+
+      - name: Pushes to another repository BE
+        uses: cpina/github-action-push-to-another-repository@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'LavoWeb'
+          destination-repository-name: 'LumaoBe'
+          user-email: aurelien@lavoweb.net
+
 #      - name: Build CH
 #        run: |
 #         hugo --config config.toml,configch.toml --minify
