@@ -1,0 +1,9 @@
+.hs-form {
+    @apply flex flex-col mx-auto mt-8 mb-10 md:mt-14 md:mb-20 md:w-3/4;
+    .hs-fieldtype-text input {
+        @apply px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white;
+    }
+    .hs-fieldtype-textarea {
+        @apply px-0 py-3 my-8 text-xl placeholder-white bg-transparent border-0 border-b border-white outline-none focus:ring-0 focus:outline-none focus:border-white transition-all;
+    }
+}

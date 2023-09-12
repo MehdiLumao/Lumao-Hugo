@@ -1,0 +1,14 @@
+image: registry.gitlab.com/pages/hugo/hugo_extended
+
+pages:
+  before_script:
+    - apk add --no-cache go curl bash nodejs npm
+  script:
+#    - curl -fsSL https://deb.nodesource.com/setup_19.x | bash -
+    - npm ci
+    - hugo --config config.toml --minify --baseURL="https://lumao-eu-lumao-7d69c2e6a114b5e4954862c53c323c0c7af3b230c2dfb14f.gitlab.io/"
+  artifacts:
+    paths:
+      - public
+  only:
+    - feat/next-gitlab
