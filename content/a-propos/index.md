@@ -20,7 +20,7 @@ l’ensemble du champs d’expertise autour de Magento : Magento 1, Magento 2, a
 
 ## Lumao fait partie du groupe Spiriit
 
-Depuis Juillet 2023, Lumao fait partie du groupe Spiriit, agence e-commerce et digitale de 70 personnes. [En savoir plus sur Spiriit](https://www.spiriit.com/agence-performance-plateformes-ecommerce/).
+Depuis Juillet 2023, Lumao fait partie du groupe Spiriit, agence e-commerce et digitale de 65 personnes. [En savoir plus sur Spiriit](https://www.spiriit.com/agence-performance-plateformes-ecommerce/).
 
 La complémentarité des expertises avec Spiriit permet à Lumao d’accompagner les clients globalement dans leur stratégie ecommerce, 
 à travers des prestations de conseil / cadrage projet, UX/UI design, Plateformes techniques,  Marketing digital et performance e-commerce
