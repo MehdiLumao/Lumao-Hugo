@@ -14,13 +14,13 @@ jobs:
         with:
           hugo-version: "0.74.2"
 
-#      - name: Build BE
-#        # remove --minify tag if you do not need it
-#        # docs: https://gohugo.io/hugo-pipes/minification/
-#        run: |
-#         hugo --config config.toml,configbe.toml --minify
-#         cp .gitignore public
-#         echo "be.lumao.eu" > public/CNAME
+      - name: Build BE
+        # remove --minify tag if you do not need it
+        # docs: https://gohugo.io/hugo-pipes/minification/
+        run: |
+         hugo --config config.toml,configbe.toml --minify
+         cp .gitignore public
+         echo "be.lumao.eu" > public/CNAME
 #
 #      - name: Pushes to another repository BE
 #        uses: cpina/github-action-push-to-another-repository@master
