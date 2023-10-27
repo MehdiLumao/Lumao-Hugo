@@ -24,7 +24,7 @@ Au quotidien, pour votre e-commerce à limougeaud, vous utilisez peut-être diff
 
 L’ERP ou « Enterprise resource planning », est utilisé pour gérer le quotidien des entreprises. Il organise le suivi des achats et la gestion de projets, surligne les coûts opérationnels et permet de suivre facilement l’évolution des stocks. Plusieurs solutions techniques permettent de connecter Magento et vos ERP. Posez-nous la question.
 
-Le CRM ou « Customer Relationship Management » permet de gérer les relations et les interactions de votre entreprise ou de votre boutique en ligne, avec votre clientèle ou future clientèle. Permettre à votre CRM de communiquer avec Magento vous permet de récolter des informations précieuses à propos de votre client idéal.
+Le CRM ou « Customer Relationship Management » permet de gérer les relations et les interactions de votre entreprise ou de votre boutique en ligne, avec votre clientèle ou future clientèle. Permettre à votre CRM de communiquer avec Magento vous permet de récolter des informations précieuses à propos de votre client idéal grâce à votre [prestataire Magento Limoges](/ecommerce/cms/magento/prestataire/limoges/).
 
 Le logiciel PIM pour « Product Management Product » présente l’avantage de collecter les données relatives à vos produits au gré des différentes sources (catalogue fournisseur, ERP…). En le synchronisant avec Magento, vous obtenez des fiches produits détaillées qui vous aident à mieux vendre.
 

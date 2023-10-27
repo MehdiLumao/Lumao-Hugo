@@ -42,13 +42,13 @@ Aussi, dès lors qu’un problème se présente ; défaut d’affichage, de fonc
 
 Déléguer la maintenance de votre site sous Magento 2 à un expert, vous permet de profiter des correctifs, des avancées techniques et des mises à jour dès leur parution, sans risque et sans complexité.
 
-Pour vous comme pour vos clients, c’est l’assurance d’une boutique en ligne fonctionnelle, performante, rapide, fluide et donc, de meilleures ventes.
+Pour vous comme pour vos clients de [Grenoble](/ecommerce/cms/magento/prestataire/grenoble/), c’est l’assurance d’une boutique en ligne fonctionnelle, performante, rapide, fluide et donc, de meilleures ventes.
 
 ## Profiter des nombreuses fonctionnalités de Magento 2
 
 Magento 2 intègre dorénavant une boîte à outils baptisée PWA Studio pour « Progressive Web Application ». Celle-ci combine différentes technologies destinées à produire sur mobile une expérience de navigation performante, comparable à celle des applications natives.
 
-De la gestion des stocks au marketing en passant par le service client ou la production de contenu, Magento propose des milliers de modules conçus pour rendre son back-office et votre site plus performants et personnalisés. Magento 2 de son côté, intègre pas moins de 250 évolutions techniques ainsi qu'un code de qualité du logiciel et de ses modules (PayPal, Click and Collect…)
+De la gestion des stocks à [Cluses](/ecommerce/cms/magento/prestataire/cluses/) au marketing en passant par le service client ou la production de contenu, Magento propose des milliers de modules conçus pour rendre son back-office et votre site plus performants et personnalisés. Magento 2 de son côté, intègre pas moins de 250 évolutions techniques ainsi qu'un code de qualité du logiciel et de ses modules (PayPal, Click and Collect…)
 
 Omnicanalité, expérience mobile poussée, fonctionnalité d’achat assisté pour plus d’engagement… Magento 2 offre une expérience d’achat plus riche et optimisée.
 
@@ -58,7 +58,7 @@ Si vous en avez déjà fait l’expérience, vous savez combien il est difficile
 
 ## Votre présence sur le web, un atout à sublimer
 
-Depuis plusieurs années déjà, le numérique prend une place toujours plus importante dans la vie des Français. Commande en ligne, réservation à distance, click and collect, réalité augmentée… les biais de découverte et d’utilisation ne manquent pas.
+Depuis plusieurs années déjà, le numérique prend une place toujours plus importante dans la vie des Français à [Angers](/ecommerce/cms/magento/prestataire/angers/). Commande en ligne, réservation à distance, click and collect, réalité augmentée… les biais de découverte et d’utilisation ne manquent pas.
 
 Pour cette raison, vous avez décidé vous aussi de vous lancer dans la grande aventure du commerce en ligne, soit en déclinant le catalogue de votre magasin déjà implanté à [Lille](/ecommerce/cms/magento/prestataire/lille/), [Lyon](/ecommerce/cms/magento/prestataire/lyon/) ou [Marseille](/ecommerce/cms/magento/prestataire/marseille/), soit en créant de toutes pièces votre activité e-commerce.
 
@@ -68,7 +68,7 @@ Et vous avez raison ! Il n’est jamais trop tard pour prendre la bonne directio
 
 Cependant, pour la pleine réussite de votre projet, vous devez savoir vous entourer et mettre en œuvre les bons outils. À chacun sa partie ! C’est le moment de faire appel aux experts pour imaginer votre solution ecommerce sur mesure.
 
-Si vous nous posez la question, nous n’hésiterons pas à vous conseiller le CMS Magento 2. Cette solution tout-en-un est en effet, d’après nos années d’expérience, la meilleure pour commercer en ligne. Aussi, en tant qu’intégrateur & prestataire Magento 2, Lumao vous adresse dans les meilleurs délais, un devis gratuit et détaillé pour la mise en ligne de votre activité.
+Si vous nous posez la question, nous n’hésiterons pas à vous conseiller le CMS Magento 2. Cette solution tout-en-un est en effet, d’après nos années d’expérience, la meilleure pour commercer en ligne. Aussi, en tant qu’intégrateur & prestataire Magento 2, Lumao vous adresse dans les meilleurs délais, un devis gratuit et détaillé pour la mise en ligne de votre activité à [Villeurbanne](/ecommerce/cms/magento/prestataire/villeurbanne/).
 
 Parce que Magento 2 est puissant, polyvalent, rapide, compatible avec votre ERP et votre CRM, mais aussi incroyablement évolutif et au sommet de l’adaptabilité, il est sans aucun doute l’outil le mieux pensé pour vous accompagner dans le temps.
 
@@ -90,3 +90,21 @@ De [Strasbourg](/ecommerce/cms/magento/prestataire/strasbourg/) à [Annecy](/eco
 
 N’attendez plus et contactez-nous afin d’échanger rapidement sur vos besoins.
 
+- [Aix en Provence](/ecommerce/cms/magento/prestataire/aix-en-provence/)
+- [Brest](/ecommerce/cms/magento/prestataire/brest/)
+- [Caen](/ecommerce/cms/magento/prestataire/caen/)
+- [Clermont Ferrand](/ecommerce/cms/magento/prestataire/clermont-ferrand/)
+- [Le Mans](/ecommerce/cms/magento/prestataire/le-mans/)
+- [Mulhouse](/ecommerce/cms/magento/prestataire/mulhouse/)
+- [Nancy](/ecommerce/cms/magento/prestataire/nancy/)
+- [Nîmes](/ecommerce/cms/magento/prestataire/nimes/)
+- [Amiens](/ecommerce/cms/magento/prestataire/amiens/)
+- [Besançon](/ecommerce/cms/magento/prestataire/besancon/)
+- [Limoges](/ecommerce/cms/magento/prestataire/limoges/)
+- [Perpignan](/ecommerce/cms/magento/prestataire/perpignan/)
+- [Tours](/ecommerce/cms/magento/prestataire/tours/)
+- [Argenteuil](/ecommerce/cms/magento/prestataire/argenteuil/)
+- [Metz](/ecommerce/cms/magento/prestataire/metz/)
+- [Montreuil](/ecommerce/cms/magento/prestataire/montreuil/)
+- [Orleans](/ecommerce/cms/magento/prestataire/orleans/)
+- [Rouen](/ecommerce/cms/magento/prestataire/rouen/)

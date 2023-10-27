@@ -32,7 +32,7 @@ B2B, B2C, TPE, PME ou grand compte, créer, mettre en ligne et maintenir dans un
 
 C’est ici qu’en tant qu’agence ecommerce spécialisée, nous intervenons. Pour vous proposer une palette de services numériques, tous essentiels à la vie et à la croissance de votre business.
 
-Bien sûr, nos développeurs certifiés Magento experts développent sur mesure, le projet de vos rêves, mais participent également à la refonte, ou à la migration de votre boutique déjà existante. Vous cherchez à optimiser votre outil de vente ? L’optimisation SEO (référencement naturel) fait partie de nos savoir-faire. Régulièrement, dans le cadre de notre service de maintenant (TMA), nous revenons d’ailleurs vers vous pour pratiquer un audit complet et suivre les performances de votre boutique.
+Bien sûr, nos développeurs certifiés Magento experts développent sur mesure, le projet de vos rêves, mais participent également à la refonte, ou à la migration de votre boutique déjà existante. Vous cherchez à optimiser votre outil de vente ? L’optimisation SEO (référencement naturel) fait partie de nos savoir-faire. Régulièrement, dans le cadre de notre service de maintenance (TMA), nous revenons d’ailleurs vers vous pour pratiquer un audit complet et suivre les performances de votre boutique [prestataire Magento à Aix en Provence](/ecommerce/cms/magento/prestataire/aix-en-provence/).
 
 Votre souhait passe par la mise en œuvre d’actions marketing ciblées en fonction de la période, de votre clientèle et des vos besoins ? Là encore, Lumao vous accompagne au jour le jour pour la bonne réussite de votre projet de commerce en ligne.
 

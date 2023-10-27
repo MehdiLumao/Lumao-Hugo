@@ -22,7 +22,7 @@ Vous ne le savez peut-être pas, mais Magento est sans aucun doute le CMS le plu
 
 Vous travaillez exclusivement en B2B ou en B2C ? Là encore, Magento est capable de vous accompagner quels que soient votre secteur d’activité et les besoins de votre entreprise.
 
-Pour booster un projet existant et lui permettre de passer plus facilement à la vitesse supérieure, ou pour la mise en ligne d’un e-commerce flambant neuf, Magento avant lui et Magento 2 aujourd’hui, font partie des meilleures plateformes.
+Pour booster un projet existant et lui permettre de passer plus facilement à la vitesse supérieure, ou pour la mise en ligne d’un e-commerce flambant neuf, Magento avant lui et Magento 2 aujourd’hui, font partie des meilleures plateformes, il suffit de choisir le bon [prestataire Magento à Villeurbanne](/ecommerce/cms/magento/prestataire/villeurbanne/).
 
 Compatible avec votre système informatique et avec votre ERP déjà paramétré, Magento, une fois pleinement intégré à votre environnement web, déploie toute sa puissance et ses fonctionnalités. Fonctions natives, modules, extensions… demandez, vous êtes exaucé.
 

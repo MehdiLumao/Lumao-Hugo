@@ -77,3 +77,6 @@ De [Toulouse](/ecommerce/cms/magento/freelance/toulouse/) à [Annecy](/ecommerce
 Vous souhaitez créer un site internet, mettre en ligne une boutique, refondre une structure existante, migrer vers Magento 2 ou upgrader votre Magento ? Contactez Lumao.
 
 Pour activer la compatibilité avec le lecteur d'écran, appuyez sur ⌘+Option+Z Pour connaître les raccourcis clavier, appuyez sur ⌘barre oblique
+
+- [Dijon](/ecommerce/cms/magento/freelance/dijon/)
+- [Grenoble](/ecommerce/cms/magento/freelance/grenoble/)

@@ -11,16 +11,10 @@ paginate = 1000
         [markup.goldmark.renderer]
             unsafe = true
 [params]
-    hreflangEn = "en-us"
-    hrefurlEn = "https://en.lumao.eu/"
     hreflangCh = "fr-ch"
     hrefurlCh = "https://lumao.ch/"
     hreflangFr = "fr-fr"
     hrefurlFr = "https://lumao.eu/"
-    hreflangBe = "fr-be"
-    hrefurlBe = "https://be.lumao.eu/"
-    hreflangLu = "fr-lu"
-    hrefurlLu = "https://lu.lumao.eu/"
     robots = "INDEX,FOLLOW"
     cities = "Annecy, Bordeaux, Chambéry, Grenoble, Lyon, Paris et dans toute la Haute-Savoie"
     city = "Annecy, France"
@@ -46,13 +40,19 @@ paginate = 1000
         name = "Réalisations"
         title = "Réalisations"
         url = "/reference/"
-         weight = 3
+        weight = 3
+    [[menu.main]]
+        identifier = "apropos"
+        name = "A propos"
+        title = "A propos"
+        url = "/a-propos/"
+        weight = 4
     [[menu.main]]
         identifier = "contact"
         name = "Contact"
         title = "Contact"
         url = "/post/contact/"
-        weight = 4
+        weight = 5
     [[menu.social]]
         identifier = "github"
         title = "Github"

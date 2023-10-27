@@ -22,7 +22,7 @@ Le site e-commerce quant à lui, doit convertir. Il est, à lui seul, pourvoyeur
 
 Depuis toujours, le e-commerce tient une place exclusive dans le cœur, la vie et l’activité de Lumao. En effet, agence à taille humaine de développeurs et intégrateurs experts, nous sommes plus que spécialisés, et ce, par amour de notre métier.
 
-Depuis toujours, le développement de projets e-commerce performants et de grandes tasses de bon café, font nos plus grandes motivations à entamer avec enthousiasme chaque nouvelle journée.
+Depuis toujours, le développement de projets e-commerce performants grâce à un [prestataires Magento 2 à le Mans](/ecommerce/cms/magento/prestataire/le-mans/) et de grandes tasses de bon café, font nos plus grandes motivations à entamer avec enthousiasme chaque nouvelle journée.
 
 Parce que le e-commerce n’en finit plus de déferler sur le monde, mais aussi parce que chaque nouvelle boutique mise en ligne est un véritable défit économique à remporter, Lumao est, depuis sa création, une agence ecommerce spécialisée Magento 2 : celle qu’il vous faut.
 

@@ -13,7 +13,7 @@ Nîmes fait partie des villes françaises riches d’art et d’histoire. Ses mo
 
 C’est en 2008 que le logiciel Magento lance la première mouture de sa plateforme. Dès lors, entre le CMS et Lumao, c’est le coup de foudre. Croyez-nous ou pas, mais la Lune de miel dure toujours.
 
-Chez Lumao ecommerce, nous sommes une agence à taille humaine, composée de développeurs et d’intégrateurs, tous passionnés par Magento. C’est bien simple, au quotidien, pour accompagner tous vos projets, nous n’utilisons que lui. Et il nous le rend bien.
+Chez Lumao [prestataire Magento à Nîmes](/ecommerce/cms/magento/prestataire/nimes/),  nous sommes une agence à taille humaine, composée de développeurs et d’intégrateurs, tous passionnés par Magento. C’est bien simple, au quotidien, pour accompagner tous vos projets, nous n’utilisons que lui. Et il nous le rend bien.
 
 Ainsi, chaque année, nous mettons en ligne plusieurs projets, tous crées sous Magento et aujourd’hui sous Magento 2. C’est notre petite contribution à la grande réussite de ce logiciel expert du e-commerce.
 

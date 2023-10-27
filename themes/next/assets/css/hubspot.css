@@ -1,0 +1,98 @@
+.hs-form {
+    @apply flex flex-col mx-auto mt-8 mb-10 md:mt-14 md:mb-20 md:w-3/4;
+
+    [type='text'],
+    [type='password'],
+    [type='date'],
+    [type='datetime'],
+    [type='datetime-local'],
+    [type='month'],
+    [type='week'],
+    [type='email'],
+    [type='number'],
+    [type='search'],
+    [type='tel'],
+    [type='time'],
+    [type='url'],
+    [type='color'],
+    & select {
+        @apply w-full px-0 py-3 text-xl placeholder-white bg-transparent border-0 border-b border-white
+        outline-none transition-all;
+
+        /* focus */
+        @apply focus:ring-0 focus:outline-none focus:border-white
+    }
+
+    & textarea {
+        @apply h-40 w-full px-0 py-3 text-xl placeholder-white bg-transparent border-0 border-b
+        border-white outline-none transition-all;
+
+        /* focus */
+        @apply focus:ring-0 focus:outline-none focus:border-white;
+    }
+
+    & input:not([type="submit"]),
+    & textarea,
+    & select {
+
+    }
+
+    & select {
+
+    }
+
+    & label[for] {
+        @apply block text-xl cursor-text transform transition-transform translate-y-full;
+    }
+
+    .hs-form-field {
+        @apply text-left mb-8;
+    }
+
+    .hs-form-field:focus-within label[for] {
+        @apply translate-y-0;
+    }
+
+    .hs-form-field + .hs-form-field {
+
+    }
+
+    .hs-form-required {
+        @apply ml-1 font-bold;
+    }
+
+    .hs-form .legal-consent-container {
+
+    }
+
+    .hs-recaptcha {
+        @apply invisible mb-0;
+    }
+
+    .hs-submit {
+
+    }
+
+    [type='submit'] {
+        @apply pl-12 pr-16 py-4 text-xl font-bold border rounded-full cursor-pointer font-accent bg-transparent text-white border-white;
+        background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjZmZmZmZmIiBjbGFzcz0idy00IG1sLTIgZmlsbC1jdXJyZW50Ij4KICAgIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMTQgNWw3IDdtMCAwbC03IDdtNy03SDMiPjwvcGF0aD4KPC9zdmc+Cg==');
+        background-size: 16px auto;
+        background-repeat: no-repeat;
+        background-position: right 40px center;
+
+        /* hover */
+        @apply hover:bg-white hover:text-accent;
+
+        &:hover {
+            background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjNWVjZGRkIiBjbGFzcz0idy00IG1sLTIgZmlsbC1jdXJyZW50Ij4KICAgIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNMTQgNWw3IDdtMCAwbC03IDdtNy03SDMiPjwvcGF0aD4KPC9zdmc+Cg==');
+        }
+    }
+
+    .hs-error-msgs {
+        @apply mt-2 text-xs;
+    }
+
+    .hs-error-msg {
+        @apply text-xs;
+    }
+}

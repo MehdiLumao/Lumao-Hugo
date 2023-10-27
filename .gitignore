@@ -5,3 +5,4 @@ CNAME
 README.md
 resources/_gen
 .DS_Store
+.hugo_build.lock

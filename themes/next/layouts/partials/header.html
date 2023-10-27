@@ -6,7 +6,7 @@
     <title>{{ .Title }}</title>
     <meta name="description" content="{{ .Description }}"/>
     <meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
-    
+
     <script src="/js/swiper-bundle.min.js" defer></script>
     <link rel="stylesheet" href="/css/swiper-bundle.min.css">
     <script src="/js/alpine.min.js" defer></script>
@@ -46,11 +46,19 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXRXBBS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <header
-        x-data="{ mobileMenuOpen: false }"
+        x-data="{ mobileMenuOpen: false, hasScrolled: false }"
         class="absolute md:absolute w-full z-10 top-0"
         :class="{ 'absolute' : !mobileMenuOpen , 'fixed' : mobileMenuOpen}"
         x-on:keydown.escape="mobileMenuOpen = false"
+        @scroll.window.throttle="hasScrolled = (window.pageYOffset < 50) ? false : true"
     >
+        <div class="bg-primary transform transition-transform ease-out" :class="{'-translate-y-full': hasScrolled, 'translate-y-0': !hasScrolled}">
+            <div class="container py-2">
+                <div class="text-center flex items-center justify-center text-white text-xl">
+                    <span>Depuis Juillet 2023, Lumao fait partie du groupe Spiriit, agence e-commerce et digitale de 65 personnes ! <a href="https://www.spiriit.com/agence-performance-plateformes-ecommerce/">En savoir plus sur Spiriit</a> </span>
+                </div>
+            </div>
+        </div>
         <div class="container mx-auto py-4 md:py-8 px-4 flex flex-wrap items-center">
             <div class="flex w-3/5 md:w-1/5">
                 <a class="block z-10" href="{{ .Site.BaseURL }}">

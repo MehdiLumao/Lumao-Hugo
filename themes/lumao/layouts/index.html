@@ -453,7 +453,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<form class="contact-form"  action="https://formspree.io/aurelien@lavoweb.net" method="POST">
+				<!--<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+				<script>
+					hbspt.forms.create({
+						region: "eu1",
+						portalId: "26077487",
+						formId: "fa3e6127-4dd4-46fa-9de6-90032c476043",
+						css: 'contact-form'
+					});
+				</script>-->
+
+				<form class="contact-form"  action="https://formspree.io/f/xzblezej" method="POST">
 					<div class="row">
 						<div class="col-md-6">
 							<input class="form-input" type="text" placeholder="Nom" name="name" required/>
@@ -462,8 +472,8 @@
 							<input class="form-input" type="email" placeholder="E-mail" name="_replyto" required/>
 						</div>
 					</div>
-                    <input type="hidden" name="_subject" value="Contact Lumao" />
-                    <input type="hidden" name="_next" value="{{ .Site.BaseURL }}post/merci/" />
+					<input type="hidden" name="_subject" value="Contact Lumao" />
+					<input type="hidden" name="_next" value="{{ .Site.BaseURL }}post/merci/" />
 					<input type="hidden" name="_format" value="plain" />
 					<input type="text" name="_gotcha" style="display:none" />
 					<textarea class="form-input" placeholder="Votre Message" name="message"></textarea>

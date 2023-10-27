@@ -2,26 +2,35 @@ name: CI
 on: push
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: "feat/next"
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.74.2"
+          hugo-version: "0.83.1"
+          extended: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '15'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
 
 #      - name: Build BE
 #        # remove --minify tag if you do not need it
 #        # docs: https://gohugo.io/hugo-pipes/minification/
 #        run: |
+#         npm ci
 #         hugo --config config.toml,configbe.toml --minify
 #         cp .gitignore public
 #         echo "be.lumao.eu" > public/CNAME
-#
+
 #      - name: Pushes to another repository BE
 #        uses: cpina/github-action-push-to-another-repository@master
 #        env:
@@ -31,23 +40,24 @@ jobs:
 #          destination-github-username: 'LavoWeb'
 #          destination-repository-name: 'LumaoBe'
 #          user-email: aurelien@lavoweb.net
-#
-#      - name: Build CH
-#        run: |
-#         hugo --config config.toml,configch.toml --minify
-#         cp .gitignore public
-#         echo "lumao.ch" > public/CNAME
-#
-#      - name: Pushes to another repository CH
-#        uses: cpina/github-action-push-to-another-repository@master
-#        env:
-#          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
-#        with:
-#          source-directory: 'public'
-#          destination-github-username: 'LavoWeb'
-#          destination-repository-name: 'LumaoCh'
-#          user-email: aurelien@lavoweb.net
-#
+
+      - name: Build CH
+        run: |
+         npm ci
+         hugo --config config.toml,configch.toml --minify
+         cp .gitignore public
+         echo "lumao.ch" > public/CNAME
+
+      - name: Pushes to another repository CH
+        uses: cpina/github-action-push-to-another-repository@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
+        with:
+          source-directory: 'public'
+          destination-github-username: 'LavoWeb'
+          destination-repository-name: 'LumaoCh'
+          user-email: aurelien@lavoweb.net
+
 #      - name: Build LU
 #        run: |
 #         hugo --config config.toml,configch.toml --minify

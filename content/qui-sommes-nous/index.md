@@ -111,6 +111,4 @@ Déplacement de 2/3 jours sur Annecy payé par l'entreprise (trajet, hôtel, rep
 ## Nos offres
 
 - [Développeur](/post/job-magento/)
-- [Commercial](/post/job-bizdev/)
-- [Secrétaire](/post/job-secretaire/)
 - [Chef de projet](/post/job-cdp/)
