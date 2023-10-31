@@ -78,5 +78,10 @@ Vous souhaitez créer un site internet, mettre en ligne une boutique, refondre u
 
 Pour activer la compatibilité avec le lecteur d'écran, appuyez sur ⌘+Option+Z Pour connaître les raccourcis clavier, appuyez sur ⌘barre oblique
 
+- [Angers](/ecommerce/cms/magento/freelance/angers/)
+- [Clermont Ferrand](/ecommerce/cms/magento/freelance/clermont-ferrand/)
+- [Cluses](/ecommerce/cms/magento/freelance/cluses/)
 - [Dijon](/ecommerce/cms/magento/freelance/dijon/)
 - [Grenoble](/ecommerce/cms/magento/freelance/grenoble/)
+- [Nimes](/ecommerce/cms/magento/freelance/nimes/)
+- [Villeurbanne](/ecommerce/cms/magento/freelance/villeurbanne/)
