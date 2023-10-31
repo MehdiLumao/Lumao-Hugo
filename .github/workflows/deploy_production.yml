@@ -10,7 +10,7 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v4
         with:
-          ref: "feat/next"
+          ref: "master"
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
@@ -82,7 +82,7 @@ jobs:
          npm ci
          hugo --config config.toml --minify
          cp .gitignore public
-         echo "next.lumao.eu" > public/CNAME
+         echo "lumao.eu" > public/CNAME
 
       - name: Pushes to another repository FR
         uses: cpina/github-action-push-to-another-repository@main
@@ -91,6 +91,6 @@ jobs:
         with:
           source-directory: 'public'
           destination-github-username: 'LavoWeb'
-          destination-repository-name: 'LumaoNext'
+          destination-repository-name: 'Lumao'
           user-email: aurelien@lumao.eu
           target-branch: master
