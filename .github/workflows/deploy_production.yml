@@ -1,5 +1,8 @@
-name: CI
-on: push
+name: Deploy production
+on:
+  push:
+    branches:
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-20.04
