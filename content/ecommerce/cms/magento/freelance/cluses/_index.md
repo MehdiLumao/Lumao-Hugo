@@ -6,8 +6,6 @@ description = "Vous cherchez un consultant ou developpeur à Cluses (74) ? Nous 
 draft = false
 +++
 
-# Web-performance : consultant, développeur freelance et outils Magento 2 pour la mesurer
-
 Tandis que les sites internet sont toujours plus nombreux à entrer dans la danse et les techniques de positionnement toujours plus subtiles pour vous rendre visible, la web-performance devient un enjeu véritable pour les éditeurs et pour les e-commerçants notamment. Ici le consultant ou developpeur freelance Magento 2 peut jouer un rôle essentiel, grâce notamment à son expertise et à son expérience. PageSpeed Insights ou Profiler intégré, c’est à vous de voir, sans oublier de mesurer.
 
 ## Comprendre la performance web dans le contexte Magento 2
