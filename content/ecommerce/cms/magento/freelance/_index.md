@@ -85,3 +85,8 @@ Pour activer la compatibilité avec le lecteur d'écran, appuyez sur ⌘+Option+
 - [Grenoble](/ecommerce/cms/magento/freelance/grenoble/)
 - [Nimes](/ecommerce/cms/magento/freelance/nimes/)
 - [Villeurbanne](/ecommerce/cms/magento/freelance/villeurbanne/)
+- [Aix en provence](/ecommerce/cms/magento/freelance/aix-en-provence/)
+- [Amiens](/ecommerce/cms/magento/freelance/amiens/)
+- [Brest](/ecommerce/cms/magento/freelance/brest/)
+- [Le Mans](/ecommerce/cms/magento/freelance/le-mans/)
+- [Tours](/ecommerce/cms/magento/freelance/tours/)
