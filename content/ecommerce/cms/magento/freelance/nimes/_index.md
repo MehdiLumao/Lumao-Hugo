@@ -1,7 +1,7 @@
 +++
 date = "2023-10-31"
 title = "Consultant ou Developpeur freelance Magento 2 Nîmes - Lumao (30)"
-h1 = "E-commerce à Villeurbanne, le rôle clé du consultant-développeur freelance sur Magento 2 pour sa croissance"
+h1 = "Magento 2 et l’expérience client : comment le freelance consultant-développeur à Nîmes, peut faire la différence"
 description = "Vous cherchez un consultant ou developpeur à  Nîmes (30) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 +++
