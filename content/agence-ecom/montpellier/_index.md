@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Montpellier  - Lumao (34)"
 h1 = "Commerce digital : votre agence e-commerce Magento 2 à Montpellier"
 description = "Vous cherchez une agence E-Commerce à Montpellier (34) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Montpellier"
+    url = "ecommerce/cms/magento/freelance/montpellier/"
+[[links]]
+    text = "Prestataire Magento Montpellier"
+    url = "ecommerce/cms/magento/prestataire/montpellier/"
+[[links]]
+    text = "Consultant Magento Montpellier"
+    url = "ecommerce/cms/magento/consultant/montpellier/"
 +++
 
 <p>Acteur local du commerce digital dans votre ville, voilà plusieurs années que vous gérez tout vous-même, depuis le back-office jusqu’à l’ajout des produits après leur commande auprès des différents fournisseurs en passant par la remontée des bugs clients.</p>

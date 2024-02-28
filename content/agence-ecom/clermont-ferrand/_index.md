@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Clermont Ferrand - Lumao (63)"
 h1 = "Agence ecommerce Magento 2 à Clermont-Ferrand : tous les services Lumao pour votre business"
 description = "Vous cherchez une agence E-Commerce à Clermont Ferrand (63) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Clermont Ferrand"
+    url = "ecommerce/cms/magento/freelance/clermont-ferrand/"
+[[links]]
+    text = "Prestataire Magento Clermont Ferrand"
+    url = "ecommerce/cms/magento/prestataire/clermont-ferrand/"
 +++
 
 Pour lancer votre site internet, de sa création à sa mise en ligne sans oublier la maintenance, nécessaire et régulière, le choix d’une équipe dédiée à votre accompagnement est essentiel. De préférence, celle-ci doit être spécialisée et composée de développeurs, intégrateurs et consultants. Chez Lumao, nous partageons avec nos clients, une expertise e-commerce et Magento acquise au fil du temps. Aussi, pour votre e-shop basé dans le Puy-de-Dôme n’hésitez pas ! Faites appel à la [meilleure agence ecommerce Magento](/agence-ecom/) 2 de Clermont-Ferrand ! Recrutez Lumao.

@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Tours - Lumao (37)"
 h1 = "Agence ecommerce Magento 2 Tours : choisissez Lumao pour gérer votre projet"
 description = "Vous cherchez une agence E-Commerce à Tours (37) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Tours"
+    url = "ecommerce/cms/magento/freelance/tours/"
+[[links]]
+    text = "Prestataire Magento Tours"
+    url = "ecommerce/cms/magento/prestataire/tours/"
 +++
 
 Ancienne cité gallo-romaine aujourd’hui devenue ville étudiante et point de chute favori des passionnés de châteaux de la Loire, Tours accueille désormais sa propre agence ecommerce Magento 2. Connaissez-vous Lumao ?

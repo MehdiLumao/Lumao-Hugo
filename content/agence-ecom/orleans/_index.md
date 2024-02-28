@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Orléans - Lumao (45)"
 h1 = "Pour votre projet web à Orléans, demandez Lumao, agence ecommerce Magento 2"
 description = "Vous cherchez une agence E-Commerce à Orléans (45) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Orléans"
+    url = "ecommerce/cms/magento/freelance/orleans/"
+[[links]]
+    text = "Prestataire Magento Orléans"
+    url = "ecommerce/cms/magento/prestataire/orleans/"
 +++
 
 Pour débuter sur internet et plus spécialement pour se lancer dans le commerce en ligne, être entouré d’une équipe compétente et dynamique peut tout changer. C’est votre souhait ? Vous projetez, depuis Orléans, de vendre sur le web ou de relancer votre boutique en ligne ? Venez rencontrer la meilleure agence ecommerce Magento 2 à Orléans : la bien nommée Lumao.

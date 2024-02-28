@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Strasbourg - Lumao (67)"
 h1 = "Agence e-commerce Magento 2 à Strasbourg : performance et efficacité dans le grand est !"
 description = "Vous cherchez une agence E-Commerce à Strasbourg (67) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Strasbourg"
+    url = "ecommerce/cms/magento/freelance/strasbourg/"
+[[links]]
+    text = "Prestataire Magento Strasbourg"
+    url = "ecommerce/cms/magento/prestataire/strasbourg/"
+[[links]]
+    text = "Consultant Magento Strasbourg"
+    url = "ecommerce/cms/magento/consultant/strasbourg/"
 +++
 
 <p>Quoi de plus rassurant que de pouvoir faire confiance à une équipe de professionnels pour la création de votre site internet sous Magento ? Vous êtes déjà passé à Magento 2 ? Parfait ! Chacun de nos développeurs Lumao est certifié expert.</p>

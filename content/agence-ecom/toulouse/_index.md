@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Toulouse - Lumao (31)"
 h1 = "Agence e-commerce Magento 2 Toulouse : l’assurance de votre réussite dans la ville rose"
 description = "Vous cherchez une agence E-Commerce à Toulouse (31) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Toulouse"
+    url = "ecommerce/cms/magento/freelance/toulouse/"
+[[links]]
+    text = "Prestataire Magento Toulouse"
+    url = "ecommerce/cms/magento/prestataire/toulouse/"
+[[links]]
+    text = "Consultant Magento Toulouse"
+    url = "ecommerce/cms/magento/consultant/toulouse/"
 +++
 
 <p>Quelque part entre Castres, Tarbes et Montauban, vous avez fait le choix de vous installer pour lancer votre activité. Depuis, vous cherchez une agence e-commerce Magento 2 à Toulouse pour vous seconder. Vous pouvez souffler : vous nous avez trouvé.</p>

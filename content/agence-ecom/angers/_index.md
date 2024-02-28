@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Angers - Lumao (49)"
 h1 = "Entrepreneurs du Maine-et-Loire : découvrez Lumao, votre agence ecommerce Magento 2 à Angers"
 description = "Vous cherchez une agence E-Commerce à Angers (49) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Freelance Magento Angers"
+    url = "ecommerce/cms/magento/freelance/angers/"
+[[links]]
+    text = "Prestataire Magento à Angers"
+    url = "ecommerce/cms/magento/prestataire/angers/"
 +++
 
 Quel que soit votre secteur d’activité, le e-commerce vous tend les bras. Spécialités culinaires, prêt-à-porter, puériculture, accessoires sportifs… Il n’existe aucune limite au pouvoir de la vente en ligne. Aussi, vous avez décidé de vous lancer et pour cela, de faire appel à une agence ecommerce spécialisée. C’est le cas de Lumao Angers, une équipe de développeurs experts Magento 2, dont les étonnantes capacités sont vouées à la création de boutiques en ligne uniques et performantes.

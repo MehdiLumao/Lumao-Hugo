@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Annecy - Lumao (74)"
 h1 = "Agence e-commerce Magento 2 sur Annecy : pourquoi vous entourer de développeurs experts ?"
 description = "Vous cherchez une agence E-Commerce à Annecy (74) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Freelance Magento Annecy"
+    url = "ecommerce/cms/magento/freelance/annecy/"
+[[links]]
+    text = "Prestataire Magento Annecy"
+    url = "ecommerce/cms/magento/prestataire/annecy/"
+[[links]]
+    text = "Consultant Magento Annecy"
+    url = "ecommerce/cms/magento/consultant/annecy/"
 +++
 
 Vous êtes à la recherche de professionnels capables de développer votre site web ? Notre [agence e-commerce](/agence-ecom/) à Annecy, en région Auvergne-Rhône-Alpes, répond à vos besoins. Tous nos experts mettent leurs compétences au service de votre projet, de son analyse à sa réalisation. Création de site, mais aussi optimisation, refonte ou migration font partie des services que nous vous proposons. Si vous le souhaitez, nous nous chargeons également de l’hébergement et de la maintenance de votre site internet.

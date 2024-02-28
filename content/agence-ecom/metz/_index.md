@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Metz - Lumao (57)"
 h1 = "Agence ecommerce Magento 2 à Metz : créons ensemble votre site internet"
 description = "Vous cherchez une agence E-Commerce à Metz (57) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Metz"
+    url = "ecommerce/cms/magento/freelance/metz/"
+[[links]]
+    text = "Prestataire Magento Metz"
+    url = "ecommerce/cms/magento/prestataire/metz/"
 +++
 
 Numérique, vous avez dit numérique ? Il fut un temps où le plus important était d’avoir le bon emplacement, le plus en vue sur la grande avenue. Aujourd’hui, c’est au numérique qu’il faut être visible. Et quoi de mieux pour cela, qu’une agence ecommerce Magento 2 installée près de chez soi, à Metz ? En plein cœur du vignoble mosellans, nous vous accueillons autour d’un café capable de faire naître les meilleures idées !

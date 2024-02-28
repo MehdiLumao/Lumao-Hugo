@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Caen - Lumao (14)"
 h1 = "Lumao agence e-commerce Magento à 2 Caen : de l’ambition pour votre boutique en ligne"
 description = "Vous cherchez une agence E-Commerce à Caen (14) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Caen"
+    url = "ecommerce/cms/magento/freelance/caen/"
+[[links]]
+    text = "Prestataire Magento Caen"
+    url = "ecommerce/cms/magento/prestataire/caen/"
 +++
 
 Vous l’avez décidé, vous allez tout miser sur votre boutique en ligne. Nous vous soutenons, vous avez parfaitement raison. Aussi, chez Lumao [agence e-commerce Magento 2](/agence-ecom/) à Caen, nous mettons tout en œuvre pour apporter de l’ambition à votre création.

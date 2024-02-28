@@ -4,6 +4,18 @@ title = "Agence ecommerce magento 2 Le Havre – Lumao (76)"
 h1 = "Agence ecommerce Magento 2 : l’expérience Lumao au Havre"
 description = "Vous cherchez une agence E-Commerce à Le Havre – Lumao (76) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Saint Etienne"
+    url = "agence-ecom/st-etienne/"
+[[links]]
+    text = "Agence Magento Luxembourg"
+    url = "agence-ecom/luxembourg/"
+[[links]]
+    text = "Agence Magento Lausanne"
+    url = "agence-ecom/lausanne/"
+[[links]]
+    text = "Agence Magento Genève"
+    url = "agence-ecom/geneve/"
 +++
 
 Ville de culture et de diversité, Le Havre se dote désormais d’une [nouvelle agence ecommerce Magento 2](/agence-ecom/) spécialisée, baptisée Lumao. Pour vos projets digitaux, pour la refonte de votre boutique en ligne ou pour la création d’un nouveau site dynamique, contactez Lumao et laissez opérer la magie des experts !

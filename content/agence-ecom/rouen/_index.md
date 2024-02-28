@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Rouen - Lumao (76)"
 h1 = "Magento 2 : l’agence ecommerce Lumao vous accompagne à Rouen"
 description = "Vous cherchez une agence E-Commerce à Rouen (76) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Rouen"
+    url = "ecommerce/cms/magento/freelance/rouen/"
+[[links]]
+    text = "Prestataire Magento Rouen"
+    url = "ecommerce/cms/magento/prestataire/rouen/"
 +++
 
 Magento est l’un des CMS (Content Management System — Système de gestion de contenu) les plus connus et les plus utilisés à travers le web. D’abord taxé d’une trop grande complexité, Magento s’est aujourd’hui fait une place de choix en tant que CMS e-commerce à favoriser. À Rouen, vous cherchez l’agence ecommerce Magento 2 qui saura vous révéler ? Contactez Lumao et dévoilez sans attendre votre potentiel de vente.

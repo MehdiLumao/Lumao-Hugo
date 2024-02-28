@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Amiens - Lumao (80)"
 h1 = "Web et convivialité : Lumao, intégrateur & prestataire Magento 2, s’installe à Amiens"
 description = "Vous cherchez un prestataire E-Commerce à Amiens (80) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Amiens"
+    url = "agence-ecom/amiens/"
+[[links]]
+    text = "Freelance Magento à Amiens"
+    url = "ecommerce/cms/magento/freelance/amiens/"
 +++
 
 Amiens se situe à presque égale distance entre Paris et Lille, ce qui fait de la ville un emplacement stratégique pour entreprendre. Lumao quant à elle, se situe au cœur de l’expertise Magento, en parfait équilibre entre la création de sites vitrine et la réalisation de boutiques e-commerce complètes. La réunion des deux libère toute l’expertise d’un intégrateur & [prestataire Magento 2](/ecommerce/cms/magento/prestataire/) dans la Somme.

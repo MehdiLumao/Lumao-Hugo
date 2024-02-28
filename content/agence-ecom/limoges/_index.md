@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Limoges - Lumao (87)"
 h1 = "Lumao, l’agence ecommerce Magento 2 pour la création de votre site web à Limoges"
 description = "Vous cherchez une agence E-Commerce à Limoges (87) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Limoges"
+    url = "ecommerce/cms/magento/freelance/limoges/"
+[[links]]
+    text = "Prestataire Magento Limoges"
+    url = "ecommerce/cms/magento/prestataire/limoges/"
 +++
 
 Pour votre commerce en ligne, vous voulez un site clé en main, une interface simple à comprendre, à utiliser et un outil stable et pérenne dans le temps. Nous avons la meilleure réponse à votre besoin. Lumao, agence ecommerce Magento 2 à Limoges vous attend.

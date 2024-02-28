@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Montreuil - Lumao (75)"
 h1 = "Lumao : l’agence ecommerce Magento 2 pour un site clé en main, chez vous, à Montreuil"
 description = "Vous cherchez une agence E-Commerce à Montreuil (75) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Montreuil"
+    url = "ecommerce/cms/magento/freelance/montreuil/"
+[[links]]
+    text = "Prestataire Magento Montreuil"
+    url = "ecommerce/cms/magento/prestataire/montreuil/"
 +++
 
 Professionnels, vous êtes installés en région parisienne et la concurrence fait rage. Vous n’avez pas encore de site internet ou le vôtre est obsolète. De ce fait, générer plus de ventes s’avère compliqué. Pour avancer, vous voulez doter votre entreprise d’une vitrine numérique visible et performante. Pour bien faire, choisissez Lumao, [l’agence ecommerce Magento 2](/agence-ecom/) pour un site clé en main livré à Montreuil.

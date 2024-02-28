@@ -4,6 +4,18 @@ title = "Agence e-commerce Genève : marketing digital, création site"
 h1 = "Agence e-commerce à Genève : pour la réussite de votre activité en ligne"
 description = "A Genève, nos experts e-commerce vous accompagnent dans la réalisation de votre projet web et dans sa réussite. Devis gratuit et sur mesure."
 draft = false
+[[links]]
+    text = "Agence Magento Saint Etienne"
+    url = "agence-ecom/st-etienne/"
+[[links]]
+    text = "Agence Magento Luxembourg"
+    url = "agence-ecom/luxembourg/"
+[[links]]
+    text = "Agence Magento Lausanne"
+    url = "agence-ecom/lausanne/"
+[[links]]
+    text = "Agence Magento Le Havre"
+    url = "agence-ecom/le-havre/"
 +++
 
 Désormais, le commerce en ligne est une piste incontournable pour les marques suisses qui souhaitent optimiser leur chiffre d’affaires et séduire davantage de clients. Mais pour proposer aux internautes une expérience sur internet séduisante et convaincante, il est nécessaire plus que jamais de faire appel à des experts, à la fois du marketing digital et du développement web. Ces compétences, notre [agence e-commerce](/agence-ecom/) les met à votre service exclusif. En étroite collaboration avec vous, nous définissons la meilleure stratégie à même de vous faire atteindre vos objectifs pour ensuite concevoir un site internet sur mesure.

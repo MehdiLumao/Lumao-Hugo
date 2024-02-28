@@ -1,0 +1,6 @@
+<ul class="flex flex-col items-start pt-8">
+	{{- $base := .Site.BaseURL -}}
+	{{ range .Scratch.Get "links" }}
+		<li><a href="{{ $base }}{{ .url }}">{{ .text }}</a></li>
+	{{ end }}
+</ul>
