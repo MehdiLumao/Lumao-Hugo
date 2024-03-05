@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Montreuil - Lumao (75)"
 h1 = "Art graphique et e-commerce, Montreuil se dévoile grâce au consultant & développeur freelance Magento 2"
 description = "Vous cherchez un consultant ou developpeur à Montreuil (75) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Montreuil"
+    url = "agence-ecom/montreuil/"
+[[links]]
+    text = "Prestataire Magento Montreuil"
+    url = "ecommerce/cms/magento/prestataire/montreuil/"
 +++
 
 À ne pas confondre avec son homonyme suisse, Montreuil, communément surnommée « le 21e arrondissement de Paris », se présente comme une véritable source de créativité et d’innovation. Parce que l’art graphique et le e-commerce s’y rencontrent, le consultant et developpeur freelance Magento 2 à Montreuil se fait tout naturellement porteur de la meilleure solution e-commerce pour cet environnement unique.

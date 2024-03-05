@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Marseille - Lumao (13)"
 h1 = "Développeur freelance Magento à Marseille : pourquoi faire appel à lui ?"
 description = "A la recherche d'un développeur Freelance sur Marseille (13) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Marseille"
+    url = "agence-ecom/marseille/"
+[[links]]
+    text = "Prestataire Magento Marseille"
+    url = "ecommerce/cms/magento/prestataire/marseille/"
+[[links]]
+    text = "Consultant Magento Marseille"
+    url = "ecommerce/cms/magento/consultant/marseille/"
 +++
 
 Professionnel jusqu'au bout de ses certifications, le développeur Magento peut être confirmé sur Magento et Magento 2 grâce à différents niveaux de validation. Ainsi, pour rencontrer votre expert Magento à Marseille, rendez-vous chez Lumao.

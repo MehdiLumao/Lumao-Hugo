@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Strasbourg - Lumao (67)"
 h1 = "Lumao Strasbourg : un développeur freelance spécialisé Magento pour vos projets"
 description = "A la recherche d'un développeur Freelance sur Strasbourg (67) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento à Strasbourg"
+    url = "agence-ecom/strasbourg/"
+[[links]]
+    text = "Prestataire Magento Strasbourg"
+    url = "ecommerce/cms/magento/prestataire/strasbourg/"
+[[links]]
+    text = "Consultant Magento Strasbourg"
+    url = "ecommerce/cms/magento/consultant/strasbourg/"
 +++
 
 Pour développer votre site web ou pour une application dédiée, vous êtes à la recherche d’un professionnel compétent et disponible sur Strasbourg pour vous accompagner. Et si le développeur freelance Magento était celui qu’il vous faut ? Petite présentation par nos experts Lumao.

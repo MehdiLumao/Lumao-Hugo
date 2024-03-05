@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Aix en Provence - Lumao (
 h1 = "Ville d’art et de culture : Aix-en-Provence accueille les consultants & développeur freelance Magento 2 de Lumao"
 description = "Vous cherchez un consultant ou developpeur à Aix en Provence (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence E-commerce Aix en Provence"
+    url = "agence-ecom/aix-en-provence/"
+[[links]]
+    text = "Prestataire Magento Aix en Provence"
+    url = "ecommerce/cms/magento/prestataire/aix-en-provence/"
 +++
 
 Aix-en-Provence, la ville où l’art et la culture se marient à la perfection ! C’est ici, dans ce cadre idyllique du sud de la France, entourés par les cigales, que nous, consultants et développeurs freelances Magento 2, avons trouvé notre nouvelle source d’inspiration pour la création des sites e-commerce les plus esthétiques et performants. Pour cela, nous avons fusionné passion pour le commerce en ligne, avec atmosphère créative.

@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Le Mans - Lumao (72)"
 h1 = "Consultant & développeur freelance Magento 2 : 24 h pour se rencontrer au Mans"
 description = "Vous cherchez un consultant ou developpeur au Mans (72) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Le Mans"
+    url = "agence-ecom/le-mans/"
+[[links]]
+    text = "Prestataire Magento Le Mans"
+    url = "ecommerce/cms/magento/prestataire/le-mans/"
 +++
 
 Récemment, vous avez lancé votre premier e-commerce ou pris la décision de le faire. Depuis, vous cherchez un consultant-développeur freelance Magento 2 au Mans ? Ne cherchez pas plus loin, c’est le moment de faire un arrêt au stand. Lumao et son équipe vous accompagnent dans la création, le déploiement et l’optimisation votre boutique en ligne. Pour cela, rencontrons-nous ! En 24 heures seulement.

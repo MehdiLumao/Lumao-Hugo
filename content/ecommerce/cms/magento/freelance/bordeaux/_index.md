@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Bordeaux - Lumao (33)"
 h1 = "Un bon développeur freelance Magento à Bordeaux ? Demandez Lumao !"
 description = "A la recherche d'un développeur Freelance sur Bordeaux (33) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Ecommerce Magento à Bordeaux"
+    url = "agence-ecom/bordeaux/"
+[[links]]
+    text = "Prestataire Magento Bordeaux"
+    url = "ecommerce/cms/magento/prestataire/bordeaux/"
+[[links]]
+    text = "Consultant Magento Bordeaux"
+    url = "ecommerce/cms/magento/consultant/bordeaux/"
 +++
 
 La création d'un site internet demande la mobilisation de nombreuses ressources et compétences techniques, dont le développeur freelance fait partie. Pour trouver rapidement votre expert Magento à Bordeaux, suivez le guide.

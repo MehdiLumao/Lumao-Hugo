@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Nantes  - Lumao (44)"
 h1 = "E-commerce à Nantes : trouvez votre développeur Freelance Magento avec Lumao"
 description = "A la recherche d'un développeur Freelance sur Nantes (44) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento à Nantes"
+    url = "agence-ecom/nantes/"
+[[links]]
+    text = "Prestataire Magento Nantes"
+    url = "ecommerce/cms/magento/prestataire/nantes/"
+[[links]]
+    text = "Consultant Magento Nantes"
+    url = "ecommerce/cms/magento/consultant/nantes/"
 +++
 
 Pour un projet e-commerce, pour votre boutique déjà fonctionnelle ou pour une refonte de votre outil de vente, vous cherchez un professionnel capable de vous accompagner. Le développeur freelance Magento est celui qu’il vous faut ! Vous êtes installé à Nantes ou en région Pays de Loire ? Contactez Lumao.

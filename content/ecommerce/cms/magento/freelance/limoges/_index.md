@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Limoges - Lumao (87)"
 h1 = "Limoges, ville des arts et du feu, terrain de jeu du consultant et développeur freelance Magento 2"
 description = "Vous cherchez un consultant ou developpeur à Limoges (87) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce à Limoges"
+    url = "agence-ecom/limoges/"
+[[links]]
+    text = "Prestataire Magento Limoges"
+    url = "ecommerce/cms/magento/prestataire/limoges/"
 +++
 
 Mondialement reconnue pour son expertise en matière de porcelaine, de céramique industrielle, d’émail et de vitraux, Limoges s’est progressivement attaché le surnom de « ville des arts du feu ». Aujourd’hui, c’est au tour de Lumao d’apprécier sa chaleur et d’y ajouter son art, celui du consultant et développeur freelance Magento 2, en visite à Limoges.

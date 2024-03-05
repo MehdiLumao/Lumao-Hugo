@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Paris - Lumao (75)"
 h1 = "Développeur Freelance Magento : votre expert multifacette à Paris"
 description = "A la recherche d'un développeur Freelance sur Paris (75) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Paris"
+    url = "agence-ecom/paris/"
+[[links]]
+    text = "Prestataire Magento à Paris"
+    url = "ecommerce/cms/magento/prestataire/paris/"
+[[links]]
+    text = "Consultant Magento Paris"
+    url = "ecommerce/cms/magento/consultant/paris/"
 +++
 
 Il en faut un dans toutes les équipes. Un expert à la fois spécialisé et couteau suisse dans son domaine. Et si le développeur freelance Magento était le vôtre ? À la fois compétent en matière de programmation et expert en langages informatiques, passionné de technologies et de culture générale du web, curieux et imaginatif, le développeur Magento fait partie des plus précieuses ressources chez Lumao !

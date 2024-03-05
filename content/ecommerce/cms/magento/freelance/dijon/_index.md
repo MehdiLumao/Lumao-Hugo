@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Dijon - Lumao (21)"
 h1 = "Gastronomie digitale à Dijon : tous les talents du consultant-développeur freelance Magento 2 pour épicer le secteur du e-commerce"
 description = "Vous cherchez un consultant ou developpeur à Dijon (21) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Dijon"
+    url = "agence-ecom/dijon/"
+[[links]]
+    text = "Prestataire Magento à Dijon"
+    url = "ecommerce/cms/magento/prestataire/dijon/"
 +++
 
 Vous vivez à Dijon et la capitale des Ducs de Bourgogne vous tend les bras pour entamer votre conquête du commerce digital ? Parfait ! Que diriez-vous d’obtenir, par le menu, la recette du succès élaborée par notre consultant-developpeur freelance Magento 2 ?

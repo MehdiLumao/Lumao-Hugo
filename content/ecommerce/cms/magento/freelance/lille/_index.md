@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Lille - Lumao (59)"
 h1 = "Recruter un développeur freelance spécialisé Magento à Lille : oui, mais pour quel projet ?"
 description = "A la recherche d'un développeur Freelance sur Lille (59) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Ecommerce à Lille"
+    url = "agence-ecom/lille/"
+[[links]]
+    text = "Prestataire Magento Lille"
+    url = "ecommerce/cms/magento/prestataire/lille/"
+[[links]]
+    text = "Consultant Magento Lille"
+    url = "ecommerce/cms/magento/prestataire/lille/"
 +++
 
 Freelance ou agence, telle est la question ! Difficile parfois, de savoir à quel professionnel s'adresser. Malgré ça, pour trouver un bon développeur freelance Magento à Lille, demandez Lumao !

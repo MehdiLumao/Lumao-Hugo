@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Nancy - Lumao (54)"
 h1 = "L’Art nouveau du consultant & développeur freelance Magento 2 à Nancy"
 description = "Vous cherchez un consultant ou developpeur à Nancy (54) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Nancy"
+    url = "agence-ecom/nancy/"
+[[links]]
+    text = "Prestataire Magento Nancy"
+    url = "ecommerce/cms/magento/prestataire/nancy/"
 +++
 
 À l’intérieur de toute démarche créative, se cache une forme d’art. Qu’en pensez-vous ? Résident nancéien environné par l’Art nouveau, vous avez sans doute votre idée sur la question. C’est en partie pour cette raison que notre consultant & developpeur freelance Magento 2 est venu s’installer à Nancy. Pour s’adresser directement, à votre fibre artistique.

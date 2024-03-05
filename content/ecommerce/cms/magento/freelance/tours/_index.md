@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Tours - Lumao (37)"
 h1 = "Tours : comment créer une boutique en ligne d’exception grâce au consultant et développeur Magento 2"
 description = "Vous cherchez un consultant ou developpeur à Tours (37) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Tours"
+    url = "agence-ecom/tours/"
+[[links]]
+    text = "Prestataire Magento Tours"
+    url = "ecommerce/cms/magento/prestataire/tours/"
 +++
 
 Dans la jungle numérique qu’est devenu le e-commerce, rien n’est plus important que la différenciation. Et pour vous différencier, quoi de plus utile en dehors des produits ou des services vendus, que votre vitrine ? Une vitrine imaginée, conçue et optimisée avec amour par votre consultant & développeur freelance Magento 2 à Tours.

@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Orléans - Lumao (45)"
 h1 = "Consultant & développeur freelance Magento 2 à Orléans : à l’assaut des racines médiévales de la ville"
 description = "Vous cherchez un consultant ou developpeur à Orléans (45) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Orléans"
+    url = "agence-ecom/orleans/"
+[[links]]
+    text = "Prestataire Magento Orléans"
+    url = "ecommerce/cms/magento/prestataire/orleans/"
 +++
 
 Orléans est une ville historique comme il en existe quelques unes en France. Sa plus grande particularité tient à son rôle central dans la guerre de Cent Ans, dont l’héroïne Jeanne D’Arc est, encore aujourd’hui, mondialement connue. En tant que consultants & développeurs freelance Magento 2 nous ne sommes pas particulièrement férus d’histoire, mais nous avons souhaité tester notre courage en partant à l’assaut de vos nouveaux projets web.

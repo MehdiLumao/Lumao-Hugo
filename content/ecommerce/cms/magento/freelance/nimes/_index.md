@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Nîmes - Lumao (30)"
 h1 = "Magento 2 et l’expérience client : comment le freelance consultant-développeur à Nîmes, peut faire la différence"
 description = "Vous cherchez un consultant ou developpeur à  Nîmes (30) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Nimes"
+    url = "agence-ecom/nimes/"
+[[links]]
+    text = "Prestataire Magento à Nimes"
+    url = "ecommerce/cms/magento/prestataire/nimes/"
 +++
 
 L’expérience client joue un rôle central pour la réussite des entreprises en ligne. À Nîmes, un consultant ou developpeur freelance spécialisé Magento 2 peut apporter une réelle plus-value à votre projet en améliorant grandement l’expérience client. De quoi stimuler le commerce électronique local, en Occitanie notamment.

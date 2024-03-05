@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Besançon - Lumao (25)"
 h1 = "Tic-tac, tic-tac, il est temps de rencontrer un consultant & développeur freelance Magento 2 à Besançon"
 description = "Vous cherchez un consultant ou developpeur à Besançon (25) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Besançon"
+    url = "agence-ecom/besancon/"
+[[links]]
+    text = "Prestataire Magento à  Besançon"
+    url = "ecommerce/cms/magento/prestataire/besancon/"
 +++
 
 Parce que l’époque est au commerce en ligne, à la digitalisation des procédés et au shopping pertinent, il est, selon vous, plus que temps de décliner votre boutique au numérique pour imaginer l’e-shop de demain. Pour cela, vous cherchez le bras droit parfait. Que diriez-vous de rencontrer un consultant & développeur freelance Magento 2 à Besançon ? C’est le moment !

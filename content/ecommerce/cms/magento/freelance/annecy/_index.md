@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Annecy - Lumao (74)"
 h1 = "Annecy : pourquoi engager un développeur Magento Freelance ?"
 description = "A la recherche d'un développeur Freelance sur Annecy (74) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Annecy"
+    url = "agence-ecom/annecy/"
+[[links]]
+    text = "Prestataire Magento Annecy"
+    url = "ecommerce/cms/magento/prestataire/annecy/"
+[[links]]
+    text = "Consultant Magento Annecy"
+    url = "ecommerce/cms/magento/consultant/annecy/"
 +++
 
 Ville sportive et culturelle installée entre lac et montagne, Annecy regorge d’énergie. Énergie de la nature, énergie créatrice et bien sûr, énergie du web. De nombreuses entreprises du secteur sportif et des équipementiers y sont implantées. Une raison suffisante pour vouloir engager un développeur freelance Magento à Annecy.

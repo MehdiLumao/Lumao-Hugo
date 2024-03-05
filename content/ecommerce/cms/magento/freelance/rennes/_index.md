@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Rennes - Lumao (35)"
 h1 = "Trouver un développeur Freelance Magento à Rennes : pourquoi ?"
 description = "A la recherche d'un développeur Freelance sur Rennes (35) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Rennes"
+    url = "agence-ecom/rennes/"
+[[links]]
+    text = "Prestataire Magento Rennes"
+    url = "ecommerce/cms/magento/prestataire/rennes/"
+[[links]]
+    text = "Consultant Magento à Rennes"
+    url = "ecommerce/cms/magento/consultant/rennes/"
 +++
 
 Si vous l’avez déjà cherché, vous savez que le développeur freelance Magento à Rennes est une perle rare. Parce que nous sommes les meilleurs dans notre domaine, Lumao vous propose de découvrir une équipe soudée et compétente, déjà passionnée pour votre projet.
