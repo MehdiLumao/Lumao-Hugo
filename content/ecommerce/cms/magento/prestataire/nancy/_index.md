@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Nancy - Lumao (54)"
 h1 = "Nancy, capitale des Ducs de Lorraine, ouvre ses portes aux intégrateurs et prestataires Magento 2 by Lumao"
 description = "Vous cherchez un prestataire E-Commerce à Nancy (54) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Nancy"
+    url = "agence-ecom/nancy/"
+[[links]]
+    text = "Développeur Freelance Magento Nancy"
+    url = "ecommerce/cms/magento/freelance/nancy/"
 +++
 
 Vous ne connaissez pas encore Magento 2 ? Laissez l’agence Lumao vous présenter l’outil et vous montrer à quel point il est intéressant de l’utiliser pour le commerce en ligne. Partons ensemble à la découverte de Nancy, de la Lorraine, de la région Grand Est et de votre succès. Laissez l'expertise de l’intégrateur et prestataire Magento 2 vous guider au gré de ce voyage nancéien et rejoignez-nous. Chez Lumao Nancy, la recette du succès est semblable à celle des macarons, croustillante et savoureuse.

@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Nantes - Lumao (44)"
 h1 = "Magento : le CMS Ecommerce utilisé par les meilleurs intégrateurs et prestataires à Nantes"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Nantes (44) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento Nantes"
+    url = "agence-ecom/nantes/"
+[[links]]
+    text = "Développeur Freelance Magento à Nantes"
+    url = "ecommerce/cms/magento/freelance/nantes/"
+[[links]]
+    text = "Consultant Magento Nantes"
+    url = "ecommerce/cms/magento/consultant/nantes/"
 +++
 
 Difficile d'imaginer être un intégrateur et prestataire de talent, sans manier avec brio Magento. Vous êtes à Nantes ? Profitez-en pour rencontrer les experts Lumao.

@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Aix en Provence - Lumao (13)"
 h1 = "Comment trouver un intégrateur & prestataire Magento 2 à Aix-en-Provence ?"
 description = "Vous cherchez un prestataire E-Commerce à Aix en Provence (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Freelance Magento Aix en Provence"
+    url = "ecommerce/cms/magento/freelance/aix-en-provence/"
+[[links]]
+    text = "Agence Magento à Aix en Provence"
+    url = "agence-ecom/aix-en-provence/"
 +++
 
 Ville d’architecture et de patrimoine reconnue pour son art de vivre provençal, Aix-en-Provence a tout pour plaire et surtout tout pour canaliser la réussite sous le soleil. C’est pourquoi nous ne serions pas étonnés que vous cherchiez un intégrateur & prestataire Magento 2 dans les Bouches-du-Rhône. Envie d’entreprendre au chant des cigales ? Contactez Lumao 13 !

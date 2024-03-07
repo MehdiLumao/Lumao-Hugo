@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Lille - Lumao (59)"
 h1 = "À Lille, rencontrez le prestataire intégrateur Magento qu'il vous faut !"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Lille (59) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Ecommerce Magento Lille"
+    url = "agence-ecom/lille/"
+[[links]]
+    text = "Freelance Magento Lille"
+    url = "ecommerce/cms/magento/freelance/lille/"
+[[links]]
+    text = "Consultant Magento à Lille"
+    url = "ecommerce/cms/magento/prestataire/lille/"
 +++
 
 C'est bien connu, le nord de la France est riche des meilleures entreprises du web. Pour trouver l'[intégrateur & prestataire Magento](/ecommerce/cms/magento/prestataire/) dont vous avez besoin pour créer ou faire décoller votre site internet, n'hésitez pas. Rendez-vous à Lille et venez rencontrer Lumao !

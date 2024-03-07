@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Toulouse - Lumao (31)"
 h1 = "Lumao intégrateur & prestataire Magento à Toulouse, vous accompagner pour réussir"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Toulouse (31) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento Toulouse"
+    url = "agence-ecom/toulouse/"
+[[links]]
+    text = "Développeur Freelance Magento"
+    url = "ecommerce/cms/magento/freelance/toulouse/"
+[[links]]
+    text = "Consultant Magento à Toulouse"
+    url = "ecommerce/cms/magento/consultant/toulouse/"
 +++
 
 Quoi de plus agréable pour nous que de voir votre entreprise s'épanouir ? Pour la pleine réussite de votre boutique en ligne, choisissez Lumao, développeur, intégrateur et prestataire Magento à Toulouse.

@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Lyon - Lumao (69)"
 h1 = "Intégrateurs et prestataires partenaires Magento de votre réussite à Lyon"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Lyon (69) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento à Lyon"
+    url = "agence-ecom/lyon/"
+[[links]]
+    text = "Développeur Freelance Magento Lyon"
+    url = "ecommerce/cms/magento/freelance/lyon/"
+[[links]]
+    text = "Consultant Magento à Lyon"
+    url = "ecommerce/cms/magento/prestataire/lyon/"
 +++
 
 Lyon, bercée par le Rhône et le mélange des cultures, est une ville sans cesse en mouvements. Suivez vous aussi cette perpétuelle évolution en nous confiant la réalisation de votre nouveau site internet.

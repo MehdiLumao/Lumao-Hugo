@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Tours - Lumao (37)"
 h1 = "Intégrateur & prestataire Magento 2 Tours : Lumao découvre les châteaux de la Loire !"
 description = "Vous cherchez un prestataire E-Commerce à Tours (37) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Tours"
+    url = "agence-ecom/tours/"
+[[links]]
+    text = "Développeur Freelance Magento à Tours"
+    url = "ecommerce/cms/magento/freelance/tours/"
 +++
 
 Qui n’a jamais rêvé de visiter les châteaux de la Loire ? Ou peut-être même de mener la vie de château ? En tant qu’intégrateur et [prestataire Magento 2](/ecommerce/cms/magento/prestataire/), c’est ce que chaque membre de l’équipe Lumao s’est dit en s’installant à Tours : « À moi la grande vie et le développement web en Indre-et-Loire ! ».

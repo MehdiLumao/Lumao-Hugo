@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Argenteuil - Lumao (78)"
 h1 = "Un intégrateur & prestataire Magento 2 en visite au festival de la BD d’Argenteuil"
 description = "Vous cherchez un prestataire E-Commerce à Argenteuil (78) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Argenteuil"
+    url = "agence-ecom/argenteuil/"
+[[links]]
+    text = "Prestataire Magento à Argenteuil"
+    url = "ecommerce/cms/magento/freelance/argenteuil/"
 +++
 
 Être intégrateur et prestataire Magento 2, signifie passer beaucoup de temps devant son ordinateur et boire beaucoup de café, mais aussi rencontrer des personnes fabuleuses et découvrir des univers surprenants. C’est le cas du festival de la BD, suite au passage de l’agence Lumao dans la ville d’Argenteuil.

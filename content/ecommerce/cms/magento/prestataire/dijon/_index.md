@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Dijon - Lumao (21)"
 h1 = "Pourquoi engager un intégrateur & prestataire Magento 2 à Dijon ?"
 description = "Vous cherchez un prestataire E-Commerce à Dijon (21) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Dijon"
+    url = "agence-ecom/dijon/"
+[[links]]
+    text = "Développeur Freelance Magento à Dijon"
+    url = "ecommerce/cms/magento/freelance/dijon/"
 +++
 Entre vignobles et coteaux vallonnés, entre Grand Est et Auvergne-Rhône-Alpes, la région Bourgogne Franche-Comté déploie ses charmes et vous invite à découvrir son étonnante capitale dont le centre historique est aujourd’hui reconnu comme « bien à valeur universelle » par l’UNESCO. Entre la mythique chouette et l’historique palais des ducs vos bureaux sont implantés ? Rencontrons-nous autour d’un café et discutons ensemble du prochain intégrateur & prestataire Magento 2 à Dijon, qui viendra les occuper.
 

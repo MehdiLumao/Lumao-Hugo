@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Mulhouse - Lumao (68)"
 h1 = "Intégrateur et prestataire Magento 2 à Mulhouse : entre bretzels et mirabelles"
 description = "Vous cherchez un prestataire E-Commerce à Mulhouse (68) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Mulhouse"
+    url = "agence-ecom/mulhouse/"
+[[links]]
+    text = "Développeur Freelance Magento Mulhouse"
+    url = "ecommerce/cms/magento/freelance/mulhouse/"
 +++
 
 Mulhouse est la ville française la plus proche de la frontière allemande. Aussi, il est normal que l’art de vivre y soit influencé par la culture germanique. Entre un bretzel et une tarte à la mirabelle, nos intégrateurs et [prestataires Magento 2](/ecommerce/cms/magento/prestataire/) vous accueillent à Mulhouse pour un rendez-vous complet autour de votre projet web.

@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Rennes - Lumao (35)"
 h1 = "Pour la refonte de votre e-commerce rencontrez l'intégrateur & prestataire Magento qu'il vous faut à Rennes"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Rennes (35) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento Rennes"
+    url = "agence-ecom/rennes/"
+[[links]]
+    text = "Freelance Magento Rennes"
+    url = "ecommerce/cms/magento/freelance/rennes/"
+[[links]]
+    text = "Consultant Magento Rennes"
+    url = "ecommerce/cms/magento/consultant/rennes/"
 +++
 
 Précurseur, vous l'avez été grâce au lancement de votre boutique en ligne avant tous vos concurrents. D'ailleurs, vous l'êtes toujours grâce à votre offre, mais son support digital ne vous convient plus. Pour la refonte de votre e-commerce, adressez-vous à Lumao : intégrateur & prestataire Magento à Rennes et partout en Bretagne.

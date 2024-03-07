@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Brest - Lumao (29)"
 h1 = "L’intégrateur & prestataire Magento 2 à le vent en poupe à Brest"
 description = "Vous cherchez un prestataire E-Commerce à Brest (29) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce Magento à Brest"
+    url = "agence-ecom/brest/"
+[[links]]
+    text = "Développeur Magento à Brest"
+    url = "ecommerce/cms/magento/freelance/brest/"
 +++
 
 Si la ville de Brest est surtout connue pour ses chantiers navals, l’industrie web s’y développe également, notamment par le biais d’incubateurs et d’espaces de coworking, mais aussi par l’intermédiaire de son université, l’Université de Bretagne Occidentale (UBO) et de ses programmes d’études et de recherche en informatique ou en intelligence artificielle. Des domaines plus ou moins directement liés à l’activité de l’intégrateur et [prestataire Magento](/ecommerce/cms/magento/prestataire/) 2. Découvrez-le.

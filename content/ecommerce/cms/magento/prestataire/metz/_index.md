@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Metz - Lumao (57)"
 h1 = "Mirabelle, intégrateur et prestataire Magento 2 à Metz : la meilleure recette pour Lumao !"
 description = "Vous cherchez un prestataire E-Commerce à Metz (57) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Metz"
+    url = "agence-ecom/metz/"
+[[links]]
+    text = "Freelance Magento Metz"
+    url = "ecommerce/cms/magento/freelance/metz/"
 +++
 
 Si vous connaissez Metz, vous avez déjà probablement assisté aux fêtes de la mirabelle, cette petite prune jaune et sucrée. En tous cas, chez Lumao c’est notre cas. Intégrateurs et prestataires Magento 2 ont, le temps de quelques jours, troqué leur cape numérique contre une serviette de table. Juste le temps qu’il faut pour mêler passion et gourmandise, digital et réel, temps libre et création de sites internet Magento.

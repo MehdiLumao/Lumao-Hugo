@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Caen - Lumao (14)"
 h1 = "Intégrateurs et prestataires Magento 2, s’invitent à la conquête de Caen !"
 description = "Vous cherchez un prestataire E-Commerce à Caen (14) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Caen"
+    url = "agence-ecom/caen/"
+[[links]]
+    text = "Développeur Freelance Magento à Caen"
+    url = "ecommerce/cms/magento/freelance/caen/"
 +++
 
 Savez-vous que Caen est la ville de Guillaume le Conquérant ? En effet, c’est le duc de Normandie qui a fondé la ville au 11e siècle dans le but d’en faire un site stratégique et son lieu de résidence. Aujourd’hui, c’est au tour de l’intégrateur et prestataire Magento 2 de choisir la ville pour fief de ses conquêtes numériques !

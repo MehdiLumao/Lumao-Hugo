@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Orléans - Lumao (45)"
 h1 = "Courage et engagement pour l’intégrateur & prestataire Magento 2 basé à Orléans"
 description = "Vous cherchez un prestataire E-Commerce à Orléans (45) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Orléans"
+    url = "agence-ecom/orleans/"
+[[links]]
+    text = "Développeur Freelance Magento Orléans"
+    url = "ecommerce/cms/magento/freelance/orleans/"
 +++
 
 Comment imaginer s’installer à Orléans sans se documenter à propos de Jeanne d’Arc ? Courageuse et déterminée, la « Pucelle d’Orléans » comme on la nomme après qu’elle ait libéré la ville, n’est pas sans inspirer le développeur Magento en proie à la refonte complète d’un e-commerce daté.

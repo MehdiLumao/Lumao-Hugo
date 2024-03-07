@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Limoges - Lumao (87)"
 h1 = "Précieux comme la porcelaine : un intégrateur & prestataire Magento 2 pour votre site internet à Limoges"
 description = "Vous cherchez un prestataire E-Commerce à Limoges (87) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Limoges"
+    url = "agence-ecom/limoges/"
+[[links]]
+    text = "Freelance Magento à Limoges"
+    url = "ecommerce/cms/magento/freelance/limoges/"
 +++
 
 

@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Grenoble - Lumao (38)"
 h1 = "Comment choisir le meilleur intégrateur & prestataire Magento 2 à Grenoble ?"
 description = "Vous cherchez un prestataire E-Commerce à Grenoble (38) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Grenoble"
+    url = "agence-ecom/grenoble/"
+[[links]]
+    text = "Freelance Magento à Grenoble"
+    url = "ecommerce/cms/magento/freelance/grenoble/"
 +++
 Grenoble, ville de sports, de montagne, de plein air, de ski… mais aussi ville organisatrice des Jeux olympiques d’hiver en 1968 ! Après Chamonix en 1924 et avant Albertville en 1992, c’est au tour de la capitale des Alpes de revêtir les couleurs des 5 anneaux. Vous vivez, vous travaillez à Grenoble ou dans le 38 ? Peut-être même y entreprenez-vous ? Dans ce cas, Lumao vous dévoile sans tarder comment choisir le [meilleur intégrateur & prestataire Magento 2](/ecommerce/cms/magento/prestataire/) dans votre ville.
 

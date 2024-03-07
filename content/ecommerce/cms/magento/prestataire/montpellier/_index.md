@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Montpellier - Lumao (34)"
 h1 = "Intégrateur & Prestataire Magento à Montpellier : Entrepreneurs web, bienvenu dans l'Hérault"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Montpellier (34) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento à Montpellier"
+    url = "agence-ecom/montpellier/"
+[[links]]
+    text = "Freelance Magento Montpellier"
+    url = "ecommerce/cms/magento/freelance/montpellier/"
+[[links]]
+    text = "Consultant Magento à Montpellier"
+    url = "ecommerce/cms/magento/prestataire/montpellier/"
 +++
 
 Hauts les cœurs ! C'est le moment où jamais de lancer votre e-commerce et de décupler votre chiffre d'affaires. Pour bien faire, faites confiance à un intégrateur & prestataire Magento expert à Montpellier, j'ai nommé chacun des membres de l'équipe Lumao.

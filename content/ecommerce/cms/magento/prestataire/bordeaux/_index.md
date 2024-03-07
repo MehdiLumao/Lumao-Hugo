@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Bordeaux - Lumao  (33)"
 h1 = "Intégrateur & Prestataire Magento Bordeaux : les meilleurs pour votre e-commerce"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Bordeaux (33) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Ecommerce Bordeaux"
+    url = "agence-ecom/bordeaux/"
+[[links]]
+    text = "Consultant Bordeaux Magento"
+    url = "ecommerce/cms/magento/consultant/bordeaux/"
+[[links]]
+    text = "Freelance Bordeaux Magento"
+    url = "ecommerce/cms/magento/freelance/bordeaux/"
 +++
 
 <img class="animate zoomIn margin-auto" src="/images/ville/bordeaux.png" alt="Bordeaux" />

@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Nîmes - Lumao (30)"
 h1 = "De l’Antiquité à Lumao Nîmes, il n’y a qu’un intégrateur & prestataire Magento 2"
 description = "Vous cherchez un prestataire E-Commerce à  Nîmes (30) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Nimes"
+    url = "agence-ecom/nimes/"
+[[links]]
+    text = "Développeur Freelance Magento Nimes"
+    url = "ecommerce/cms/magento/freelance/nimes/"
 +++
 
 Nemausus de son nom latin, fait sans aucun doute partie des villes françaises les plus riches en termes d’histoire et de lieux historiques à visiter. Aussi, parce l’agence Lumao compte bien s’inscrire dans l’histoire du développement web, nos intégrateurs & prestataires Magento 2 vous rencontrent à Nîmes.

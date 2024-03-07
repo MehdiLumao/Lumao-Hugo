@@ -5,7 +5,7 @@ h1 = "Web et convivialité : Lumao, intégrateur & prestataire Magento 2, s’in
 description = "Vous cherchez un prestataire E-Commerce à Amiens (80) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
-    text = "Agence Magento à Amiens"
+    text = "Agence Magento Amiens"
     url = "agence-ecom/amiens/"
 [[links]]
     text = "Freelance Magento à Amiens"
