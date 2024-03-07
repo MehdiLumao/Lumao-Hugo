@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Lille - Lumao Ecommerce (59)"
 h1 = "S’entourer des meilleurs : recruter un consultant Magento 2 à Lille chez Lumao Ecommerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Lille (59) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Lille"
+    url = "agence-ecom/lille/"
+[[links]]
+    text = "Développeur Freelance Magento sur Lille"
+    url = "ecommerce/cms/magento/freelance/lille/"
+[[links]]
+    text = "Prestataire Magento Lille"
+    url = "ecommerce/cms/magento/prestataire/lille/"
 +++
 
 Entrepreneurs lillois vous le savez, la métropole regorge de nombreux talents, spécialement dans le domaine du web. Or, si l’abondance est une bonne chose, elle rend plus difficile le choix du bon consultant Magento 2 à Lille. Pour vous guider n’hésitez pas, faites appel à Lumao Ecommerce.

@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Lyon - Lumao Ecommerce (69)"
 h1 = "Consultant Magento 2 à Lyon : vos experts certifiés chez Lumao Ecommerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Lyon (69) ? Je suis spécialiste de Magento depuis plusieurs années. Contactez moi."
 draft = false
+[[links]]
+    text = "Agence Magento Lyon"
+    url = "agence-ecom/lyon/"
+[[links]]
+    text = "Développeur Freelance Magento à Lyon"
+    url = "ecommerce/cms/magento/freelance/lyon/"
+[[links]]
+    text = "Prestataire Magento à Lyon"
+    url = "ecommerce/cms/magento/prestataire/lyon/"
 +++
 
 À la recherche d’un consultant Magento, vous vous demandez comment départager les potentiels candidats ? Et si la certification était la clé ? Les consultants Magento 2 à Lyon chez Lumao e-commerce, sont tous certifiés pour des missions d’un extrême qualité. Alors, intéressé ?

@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Paris - Lumao Ecommerce (75)"
 h1 = "Consultant Magento 2 à Paris : tenants et aboutissants d’un métier passionnant"
 description = "Si vous cherchez un consultant Magento 2 proche de Paris (75) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Paris"
+    url = "agence-ecom/paris/"
+[[links]]
+    text = "Développeur Freelance Magento à Paris"
+    url = "ecommerce/cms/magento/freelance/paris/"
+[[links]]
+    text = "Prestataire Magento Paris"
+    url = "ecommerce/cms/magento/prestataire/paris/"
 +++
 
 Le consultant Magento 2 à Paris et un professionnel très recherché. Performant et polyvalent, cet expert expérimenté dispose d’une autonomie propre à résoudre tous les problèmes rapidement. Rencontrez-le.

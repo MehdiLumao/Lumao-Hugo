@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Annecy - Lumao Ecommerce (74)"
 h1 = "Retailer à Annecy : pourquoi choisir Magento 2 pour votre e-commerce ?"
 description = "Si vous cherchez un consultant Magento 2 proche de Annecy (74) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Ecommerce à Annecy"
+    url = "agence-ecom/annecy/"
+[[links]]
+    text = "Développeur Freelance Magento Annecy"
+    url = "ecommerce/cms/magento/freelance/annecy/"
+[[links]]
+    text = "Prestataire Magento Annecy"
+    url = "ecommerce/cms/magento/prestataire/annecy/"
 +++
 
 Il vous a souvent été recommandé, mais vous n’avez pas encore pris le temps de découvrir pourquoi. Vous savez qu’il est performant, mais vous vous demandez s’il est vraiment adapté. Lui, c’est Magento 2, le CMS spécialisé dans les boutiques en ligne et nous, c’est Lumao, votre prochaine agence ecommerce à Annecy.

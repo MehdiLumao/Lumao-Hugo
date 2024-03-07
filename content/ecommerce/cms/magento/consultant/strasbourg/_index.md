@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Strasbourg - Lumao Ecommerce (67)"
 h1 = "Utiliser Magento pour votre e-commerce et choisir un consultant Lumao à Strasbourg"
 description = "Si vous cherchez un consultant Magento 2 proche de Strasbourg (67) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Strasbourg"
+    url = "agence-ecom/strasbourg/"
+[[links]]
+    text = "Développeur Magento Strasbourg"
+    url = "ecommerce/cms/magento/freelance/strasbourg/"
+[[links]]
+    text = "Prestataire Magento à Strasbourg"
+    url = "ecommerce/cms/magento/prestataire/strasbourg/"
 +++
 
 Jusqu’à récemment, vous n’aviez pas idée de la complexité cachée derrière la création d’une boutique en ligne. Parce que celle-ci doit être parfaitement fonctionnelle dès sa mise en ligne et parce qu’elle doit immédiatement se démarquer des autres, l’aide d’outils dédiés et l’accompagnement d’un professionnel sont indispensables. C’est le cas du consultant Magento 2 à Strasbourg.
