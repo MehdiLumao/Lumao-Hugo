@@ -4,6 +4,12 @@ title = "Agence ecommerce magento 2 Le Mans - Lumao (72)"
 h1 = "Agence ecommerce Le Mans : pourquoi choisir Lumao et Magento 2 ?"
 description = "Vous cherchez une agence E-Commerce au Mans (72) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento au Mans"
+    url = "ecommerce/cms/magento/freelance/le-mans/"
+[[links]]
+    text = "Prestataire Magento Le Mans"
+    url = "ecommerce/cms/magento/prestataire/le-mans/"
 +++
 
 Implanté au Mans depuis toujours, vous avez choisi cette ville pour sa situation géographique au carrefour de nombreuses routes commerciales terrestres, aériennes et portuaires. Aujourd’hui, vous souhaitez développer plus encore votre entreprise et cette extension passe, bien entendu, par le numérique. Pour votre agence ecommerce Magento 2 au Mans, découvrez Lumao ! Pour une bonne entrée en matière, nous vous offrons le premier café.

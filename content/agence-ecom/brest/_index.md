@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Brest - Lumao (29)"
 h1 = "Tonnerre de Brest ! Votre agence ecommerce Magento 2 débarque en Bretagne"
 description = "Vous cherchez une agence E-Commerce à Brest (29) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Brest"
+    url = "ecommerce/cms/magento/freelance/brest/"
+[[links]]
+    text = "Prestataire Magento Brest"
+    url = "ecommerce/cms/magento/prestataire/brest/"
 +++
 
 Vous avez bien réfléchi à la question. Il est grand temps pour vous de décliner votre activité au numérique. Pour cela, vous souhaitez vous entourer de professionnels qui vous comprennent et qui appréhendent votre domaine d’activité. En clair, les marins d’eau douce ne vous intéressent pas ! Et ça tombe bien. Lumao, l’agence ecommerce Magento 2 fixe les amarres en terre de Brest.

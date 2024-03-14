@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Nantes  - Lumao Ecommerce (44)"
 h1 = "Pourquoi choisir et recruter un consultant Magento 2 à Nantes ?"
 description = "Si vous cherchez un consultant Magento 2 proche de Nantes (44) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Nantes"
+    url = "agence-ecom/nantes/"
+[[links]]
+    text = "Développeur Freelance Magento à Nantes"
+    url = "ecommerce/cms/magento/freelance/nantes/"
+[[links]]
+    text = "Prestataire Magento Nantes"
+    url = "ecommerce/cms/magento/prestataire/nantes/"
 +++
 
 Depuis quelques années, la ville de Nantes et sa métropole débordent d’énergie, tournée notamment vers les professionnels du web. Et s’il était temps pour vous d’en profiter également ? Et si recruter un consultant Magento 2 à Nantes était la meilleure chose à faire pour votre e-commerce dès maintenant ?

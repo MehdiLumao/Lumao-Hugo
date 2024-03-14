@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Bordeaux - Lumao Ecommerce  (33)"
 h1 = "Consultant Magento 2 à Bordeaux : la clé de votre succès se trouve chez Lumao e-commerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Bordeaux (33) ? Ne cherchez plus. Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Ecommerce à Bordeaux"
+    url = "agence-ecom/bordeaux/"
+[[links]]
+    text = "Prestataire Magento Bordeaux"
+    url = "ecommerce/cms/magento/prestataire/bordeaux/"
+[[links]]
+    text = "Développeur Freelance Magento à Bordeaux"
+    url = "ecommerce/cms/magento/freelance/bordeaux/"
 +++
 
 Chaque année, des milliers de boutiques e-commerce naissent et meurent dans la plus grande indifférence. Parce que vous ne voulez pas faire partie du lot, offrez-vous les services d’un consultant Magento 2 à Bordeaux. Votre agence Lumao ecommerce vous conseille.

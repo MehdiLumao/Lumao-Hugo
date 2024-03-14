@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Cluses - Lumao (74)"
 h1 = "Agence Ecommerce Magento 2 à Cluses (74) : bougez, vendez !"
 description = "Vous cherchez une agence E-Commerce à Cluses (74) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Cluses"
+    url = "ecommerce/cms/magento/freelance/cluses/"
+[[links]]
+    text = "Prestataire Magento Cluses"
+    url = "ecommerce/cms/magento/prestataire/cluses/"
 +++
 
 En plein cœur de la région Auvergne-Rhône-Alpes, la Haute-Savoie fait partie des départements connus pour leurs immenses espaces naturels, leur incroyable diversité en matière d’activités sportives, et leur dynamisme inégalable. C’est donc tout naturellement, en tant qu’agence ecommerce spécialisée Magento 2, que Lumao en est venu à s’intéresser à la ville de Cluses et à ses potentiels vendeurs en ligne.

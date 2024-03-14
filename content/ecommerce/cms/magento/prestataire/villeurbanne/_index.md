@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Villeurbanne - Lumao (73)"
 h1 = "Intégrateur & prestataire Magento 2 à Villeurbanne : rendez-vous au pied des gratte-ciel !"
 description = "Vous cherchez un prestataire E-Commerce à Villeurbanne (73) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Villeurbanne"
+    url = "agence-ecom/villeurbanne/"
+[[links]]
+    text = "Développeur Freelance Magento à Villeurbanne"
+    url = "ecommerce/cms/magento/freelance/villeurbanne/"
 +++
 Dans la banlieue immédiate de Lyon, à l’Est du mythique parc de la Tête d’Or, Villeurbanne s’épanouit, avec en son centre, le quartier Gratte-Ciel. Habitations, mais aussi commerces, bureaux, ou encore théâtre, les activités ne manquent pas. D’ailleurs, peut-être que la vôtre s’y trouve déjà, sous la forme d’une boutique avec pignon sur rue, impatiente de son déploiement numérique. Embaucher un intégrateur & prestataire Magento 2 à Villeurbanne peut vous y aider.
 

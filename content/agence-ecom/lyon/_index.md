@@ -4,6 +4,15 @@ title = "Agence e-commerce Lyon | Création de site web"
 h1 = "Agence e-commerce à Lyon : une équipe d’experts à votre service"
 description = "Les experts de notre agence réalisent tous vos projets web : création de boutiques en ligne, de sites internet, développement sur mesure… Devis gratuit."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Lyon"
+    url = "ecommerce/cms/magento/freelance/lyon/"
+[[links]]
+    text = "Prestataire Magento Lyon"
+    url = "ecommerce/cms/magento/prestataire/lyon/"
+[[links]]
+    text = "Consultant Magento Lyon"
+    url = "ecommerce/cms/magento/consultant/lyon/"
 +++
 
 A Lyon comme partout en France, notre agence web vous accompagne dans la réalisation de tous vos projets, de la création d’une boutique en ligne à la refonte d’un site internet, en passant par la définition de votre stratégie digitale, le référencement naturel, etc. Lumao est une [agence e-commerce](/agence-ecom/) animée par des experts qui vous proposent des solutions sur mesure, adaptées à vos besoins et à vos objectifs.

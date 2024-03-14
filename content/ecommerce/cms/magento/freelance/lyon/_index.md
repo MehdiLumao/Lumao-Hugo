@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Lyon - Lumao (69)"
 h1 = "Developpeur Freelance Magento à Lyon : un expert qualifié pour votre visibilité"
 description = "A la recherche d'un développeur Freelance sur Lyon (69) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Lyon"
+    url = "agence-ecom/lyon/"
+[[links]]
+    text = "Prestataire Magento Lyon"
+    url = "ecommerce/cms/magento/prestataire/lyon/"
+[[links]]
+    text = "Consultant Magento Lyon"
+    url = "ecommerce/cms/magento/consultant/lyon/"
 +++
 
 Vouloir vendre en ligne, c'est bien. Être visible et pouvoir être facilement trouvé par les clients, c'est mieux. C'est ce que vous proposent Lumao, son équipe et ses développeurs freelances Magento, tous basés à Lyon.

@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Villeurbanne - Lumao (73)
 h1 = "E-commerce à Villeurbanne, le rôle clé du consultant-développeur freelance sur Magento 2 pour sa croissance"
 description = "Vous cherchez un consultant ou developpeur à Villeurbanne (73) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Villeurbanne"
+    url = "agence-ecom/villeurbanne/"
+[[links]]
+    text = "Prestataire Magento à Villeurbanne"
+    url = "ecommerce/cms/magento/prestataire/villeurbanne/"
 +++
 
 En région lyonnaise comme ailleurs, le commerce en ligne est florissant. Selon FranceNum, le chiffre d’affaires du e-commerce (produits et services) atteint presque 147 milliards d’Euros en 2022. Un chiffre comparable à celui secteur automobile ou à celui du bâtiment. Vous aussi vous souhaitez vous lancer ? Pour vous accompagner dans votre projet, faites appel au consultant ou developpeur freelance Magento 2 à Villeurbanne : contactez Lumao 73.

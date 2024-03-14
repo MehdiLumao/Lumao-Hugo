@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Rennes - Lumao (35)"
 h1 = "Rennes : trouvez l’agence e-commerce Magento 2 qu’il vous faut avec Lumao !"
 description = "Vous cherchez une agence E-Commerce à Rennes (35) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Rennes"
+    url = "ecommerce/cms/magento/freelance/rennes/"
+[[links]]
+    text = "Prestataire Magento Rennes"
+    url = "ecommerce/cms/magento/prestataire/rennes/"
+[[links]]
+    text = "Consultant Magento Rennes"
+    url = "ecommerce/cms/magento/consultant/rennes/"
 +++
 
 <p>Artisan du web breton, vous avez récemment pris la décision de refondre votre site web. Pour plus de performance et une adaptabilité à toute épreuve, découvrez la meilleure agence e-commerce Magento 2 à Rennes : Lumao.</p>

@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Le Mans - Lumao (72)"
 h1 = "24 heures pour trouver un intégrateur & prestataire Magento 2 au Mans"
 description = "Vous cherchez un prestataire E-Commerce au Mans (72) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento au Mans"
+    url = "agence-ecom/le-mans/"
+[[links]]
+    text = "Développeur Freelance Magento au Mans"
+    url = "ecommerce/cms/magento/freelance/le-mans/"
 +++
 
 Les 24 heures du Mans sont une course automobile d’endurance qui se tient chaque année au mois de juin, depuis 1923. Et si, cette année, vous profitiez de l’effervescence du concours pour vous mettre à la recherche de votre agence ecommerce Magento 2 sur la ville du Mans ? Difficile de trouver un moment plus motivant pour vous mettre en quête de votre prochain talent !

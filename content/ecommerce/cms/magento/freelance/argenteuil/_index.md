@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Argenteuil - Lumao (78)"
 h1 = "Depuis les quais de Seine, le consultant et développeur freelance Magento 2 à Argenteuil"
 description = "Vous cherchez un consultant ou developpeur à Argenteuil (78) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce à Argenteuil"
+    url = "agence-ecom/argenteuil/"
+[[links]]
+    text = "Prestataire E-commerce Magento à Argenteuil"
+    url = "ecommerce/cms/magento/prestataire/argenteuil/"
 +++
 
 On le sait peu, mais Argenteuil profite d’un horizon dégagé avec vue imprenable sur la Seine qui la borde sur sa façade sud-est. À moins de 20 km de Paris, la ville profite également d’une situation privilégiée pour qui souhaite entreprendre. Une possibilité que nous avons souhaité évaluer en envoyant notre consultant et developpeur freelance Magento 2 s’installer à Argenteuil.

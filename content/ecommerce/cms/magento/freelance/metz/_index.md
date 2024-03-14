@@ -4,6 +4,15 @@ title = "Consultant ou Developpeur freelance Magento 2 Metz - Lumao (57)"
 h1 = "Consultant & développeur freelance Magento 2 à Metz : en route pour la flèche !"
 description = "Vous cherchez un consultant ou developpeur à Metz (57) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Metz"
+    url = "agence-ecom/metz/"
+[[links]]
+    text = "Prestataire Magento Metz"
+    url = "ecommerce/cms/magento/prestataire/metz/"
+[[links]]
+    text = "Consultant Magento Metz"
+    url = "ecommerce/cms/magento/consultant/metz/"
 +++
 
 Sur internet il n’existe pas de demi-mesure : soit vous faites partie des sites les plus populaires, soit vous risquez de manquer cruellement d’exposition. Un problème que ne connaît pas la cathédrale Saint-Étienne de Metz avec ses 93 mètres de hauteur à la pointe de la flèche sur la tour de la Mutte. Vous aussi les hauteurs vous intéressent ? Vous aimeriez hisser votre entreprise jusque là afin de lui offrir toute la visibilité qu’elle mérite ? Prenez le temps d’un café pour en discuter avec votre consultant & developpeur freelance Magento 2 à Metz.

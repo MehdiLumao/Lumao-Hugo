@@ -4,6 +4,15 @@ title = "Consultant Magento 2  Rennes - Lumao Ecommerce (35)"
 h1 = "Comment choisir votre consultant Magento 2 à Rennes ?"
 description = "Si vous cherchez un consultant Magento 2 proche de Rennes (35) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento sur Rennes"
+    url = "agence-ecom/rennes/"
+[[links]]
+    text = "Développeur Magento Rennes"
+    url = "ecommerce/cms/magento/freelance/rennes/"
+[[links]]
+    text = "Prestataire Magento Rennes"
+    url = "ecommerce/cms/magento/prestataire/rennes/"
 +++
 
 Le commerce en ligne est aujourd’hui plus répandu que jamais. Utilisé aux quatre coins du monde par toutes les tranches d’âge et dans tous les milieux sociaux économiques, il génère entre les vendeurs une concurrence féroce. Afin de vous démarquer, chez vous, en Bretagne et pour performer rapidement, la bonne solution peut être de recruter un consultant Magento 2 directement à Rennes.

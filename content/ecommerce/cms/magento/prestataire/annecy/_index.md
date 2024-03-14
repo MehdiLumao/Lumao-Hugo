@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Annecy - Lumao (74)"
 h1 = "Lumao : intégrateur & prestataire Magento sur Annecy"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Annecy (74) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento à Annecy"
+    url = "agence-ecom/annecy/"
+[[links]]
+    text = "Développeur Freelance Annecy"
+    url = "ecommerce/cms/magento/freelance/annecy/"
+[[links]]
+    text = "Consultant Magento Annecy"
+    url = "ecommerce/cms/magento/freelance/annecy/"
 +++
 
 Équipementier de ski ou vendeur d'accessoires de luxe, le e-commerce vous fait de l’œil, mais pas à n'importe quelles conditions ; uniquement accompagné des meilleurs. Pour vous, nous avons la solution, les intégrateurs & prestataires experts Magento à Annecy ; l'agence Lumao.

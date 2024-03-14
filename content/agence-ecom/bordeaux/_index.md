@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Bordeaux - Lumao (33)"
 h1 = "Faire appel à une agence e-commerce pour votre site web Magento 2 à Bordeaux"
 description = "Vous cherchez une agence E-Commerce à Bordeaux (33) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Bordeaux"
+    url = "ecommerce/cms/magento/freelance/bordeaux/"
+[[links]]
+    text = "Prestataire Magento Bordeaux"
+    url = "ecommerce/cms/magento/prestataire/bordeaux/"
+[[links]]
+    text = "Consultant Magento Bordeaux"
+    url = "ecommerce/cms/magento/consultant/bordeaux/"
 +++
 
 <img class="animate zoomIn margin-auto" src="/images/ville/bordeaux.png" alt="Bordeaux" />

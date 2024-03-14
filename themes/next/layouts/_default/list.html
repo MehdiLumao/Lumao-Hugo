@@ -63,8 +63,16 @@
 {{- if .Params.custom -}}
 	<main>{{ .Content | markdownify }}</main>
 {{- else -}}
-	<main class="default">{{ .Content | markdownify }}</main>
+	<main class="default">
+		{{ .Content | markdownify }}
+
+		{{- if .Params.links -}}
+			{{ .Scratch.Set "links" .Params.links }}
+			{{ partial "_links.html" . }}
+		{{- end -}}
+	</main>
 {{- end -}}
+
 
 
 {{- if .Params.work -}}

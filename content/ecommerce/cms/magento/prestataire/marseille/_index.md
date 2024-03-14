@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Marseille - Lumao (13)"
 h1 = "Lumao : les prestataires intégrateurs pour votre e-commerce Magento à Marseille"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Marseille (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento à Marseille"
+    url = "agence-ecom/marseille/"
+[[links]]
+    text = "Développeur Freelance Magento Marseille"
+    url = "ecommerce/cms/magento/freelance/marseille/"
+[[links]]
+    text = "Consultant Magento Marseille"
+    url = "ecommerce/cms/magento/prestataire/marseille/"
 +++
 
 Parce que, sur internet la concurrence fait rage, mieux vaut s'entourer du bon prestataire pour imaginer avec lui, un site sur mesure. C'est votre cas ? Arrêtez de chercher ! Lumao vous présente son équipe d'intégrateurs et de développeurs experts.

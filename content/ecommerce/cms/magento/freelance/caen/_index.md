@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Caen - Lumao (14)"
 h1 = "Consultant & développeur freelance Magento 2 à Caen : un expert e-commerce made in Normandie !"
 description = "Vous cherchez un consultant ou developpeur à Caen (14) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce Magento à Caen"
+    url = "agence-ecom/caen/"
+[[links]]
+    text = "Prestataire Magento Caen"
+    url = "ecommerce/cms/magento/prestataire/caen/"
 +++
 
 Parce qu’il n’y a pas que les vaches et le cidre de pommes bio en Normandie, le consultant et developpeur freelance Magento 2 s’installe à Caen !

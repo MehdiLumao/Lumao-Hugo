@@ -4,6 +4,15 @@ title = "Agence e-commerce Paris | Création de site web et boutique"
 h1 = "Agence e-commerce à Paris : votre activité en ligne prend la voie du succès"
 description = "Vous recherchez une agence web à Paris capable de développer une boutique en ligne sur mesure ? Contactez les experts Magento de Lumao. Devis gratuit."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Paris"
+    url = "ecommerce/cms/magento/freelance/paris/"
+[[links]]
+    text = "Prestataire Magento Paris"
+    url = "ecommerce/cms/magento/prestataire/paris/"
+[[links]]
+    text = "Consultant Magento Paris"
+    url = "ecommerce/cms/magento/consultant/paris/"
 +++
 
 Pour vendre vos produits ou proposer vos services sur internet, faites appel à des experts du e-commerce. Seuls des professionnels rompus aux métiers du web et au marketing digital seront en mesure de vous accompagner dans votre projet. Notre [agence e-commerce](/agence-ecom/) se charge de développer votre site, mais aussi de l’optimiser, de le faire évoluer, de le refondre, d’assurer sa migration, de l’héberger… Rien n’est laissé au hasard. Ainsi, votre activité en ligne est propulsée sur la voie du succès.

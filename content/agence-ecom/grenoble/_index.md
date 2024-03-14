@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Grenoble - Lumao (38)"
 h1 = "Lumao : choisissez la meilleure agence ecommerce & Magento 2 à Grenoble"
 description = "Vous cherchez une agence E-Commerce à Grenoble (38) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Grenoble"
+    url = "ecommerce/cms/magento/freelance/grenoble/"
+[[links]]
+    text = "Prestataire Magento Grenoble"
+    url = "ecommerce/cms/magento/prestataire/grenoble/"
 +++
 
 En tant que commerçant ou e-commerçant, vous souhaitez bien entendu le meilleur pour vos investissements. Ainsi, pourquoi ne pas faire confiance à notre agence ecommerce Lumao ? Spécialisés Magento 2 à Grenoble, nous vous aidons à déployer pleinement les ailes de votre société.

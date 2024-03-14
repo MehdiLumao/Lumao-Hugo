@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Rouen - Lumao (76)"
 h1 = "3 conseils d’un consultant et développeur freelance Magento 2 à Rouen"
 description = "Vous cherchez un consultant ou developpeur à Rouen (76) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Rouen"
+    url = "agence-ecom/rouen/"
+[[links]]
+    text = "Prestataire Magento Rouen"
+    url = "ecommerce/cms/magento/prestataire/rouen/"
 +++
 
 La métropole de Rouen-Normandie compte un peu moins de 500 000 habitants répartis sur plus de 650 km² pour autant d’opportunités d’y développer votre activité. Toutefois, si la place venait à manquer ou si vous choisissiez d’investir dans le commerce en ligne, les conseils d’un consultant et développeur freelance Magento 2 installé à Rouen pourraient vous être utiles. En voici quelques-uns.

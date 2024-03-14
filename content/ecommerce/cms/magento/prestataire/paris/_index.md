@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento Paris - Lumao (75)"
 h1 = "Lumao : intégrateur & prestataire Magento à Paris, pour la création de votre site internet"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Paris (75) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento Paris"
+    url = "agence-ecom/paris/"
+[[links]]
+    text = "Développeur Freelance Magento à Paris"
+    url = "ecommerce/cms/magento/freelance/paris/"
+[[links]]
+    text = "Consultant Magento Paris"
+    url = "ecommerce/cms/magento/consultant/paris/"
 +++
 
 C'est le moment où jamais de lancer votre site internet. Les ventes en ligne sont au plus haut et pourraient bien encore grimper dans les mois et les années à venir. Pour vous accompagner dans la création et la gestion de votre site internet marchand, faites confiance à Lumao.

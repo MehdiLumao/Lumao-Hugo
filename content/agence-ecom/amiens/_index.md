@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Amiens - Lumao (80)"
 h1 = "Agence ecommerce Magento 2 à Amiens : la puissance Lumao dans le nord de la France"
 description = "Vous cherchez une agence E-Commerce à Amiens (80) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento Amiens"
+    url = "ecommerce/cms/magento/freelance/amiens/"
+[[links]]
+    text = "Prestataire Magento Amiens"
+    url = "ecommerce/cms/magento/prestataire/amiens/"
 +++
 
 Terre native de la vente par correspondance dans l’hexagone, le nord de la France est aujourd’hui en pôle position pour accueillir les entrepreneurs du web et notamment, de la vente en ligne. C’est pourquoi nous avons misé sur l’ouverture d’une agence ecommerce Magento 2 à Amiens. Cette société, c’est Lumao.

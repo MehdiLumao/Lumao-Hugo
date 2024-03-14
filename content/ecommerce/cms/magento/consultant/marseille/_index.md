@@ -4,6 +4,15 @@ title = "Consultant magento 2 Marseille - Lumao Ecommerce (13)"
 h1 = "Votre prochain consultant Magento 2 à Marseille est chez Lumao ecommerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Marseille (13) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento sur Marseille"
+    url = "agence-ecom/marseille/"
+[[links]]
+    text = "Freelance Magento Marseille"
+    url = "ecommerce/cms/magento/freelance/marseille/"
+[[links]]
+    text = "Prestataire Magento de Marseille"
+    url = "ecommerce/cms/magento/prestataire/marseille/"
 +++
 
 Et si vous rencontriez maintenant le prestataire Magento capable de donner toute son ampleur à votre projet ? Lumao e-commerce vous propose sans attendre de trouver à Marseille, le consultant Magento 2 qu’il vous faut.

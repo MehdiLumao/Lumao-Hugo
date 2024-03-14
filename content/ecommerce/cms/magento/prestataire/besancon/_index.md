@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Besançon - Lumao (25)"
 h1 = "Comment lancer son projet web à Besançon avec l’aide d’un intégrateur & prestataire Magento 2"
 description = "Vous cherchez un prestataire E-Commerce à Besançon (25) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce Besançon"
+    url = "agence-ecom/besancon/"
+[[links]]
+    text = "Développeur Magento à Besançon"
+    url = "ecommerce/cms/magento/freelance/besancon/"
 +++
 
 

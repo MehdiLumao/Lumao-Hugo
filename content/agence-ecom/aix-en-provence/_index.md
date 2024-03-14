@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Aix en Provence - Lumao (13)"
 h1 = "Aix-en-Provence : pour votre agence ecommerce, misez sur Lumao et Magento 2 !"
 description = "Vous cherchez une agence E-Commerce à Aix en Provence (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Freelance Magento Aix en Provence"
+    url = "ecommerce/cms/magento/freelance/aix-en-provence/"
+[[links]]
+    text = "Prestataire Magento Aix en Provence"
+    url = "ecommerce/cms/magento/prestataire/aix-en-provence/"
 +++
 
 Nichée entre le riche parc national du Lubéron et la cosmopolite cité phocéenne en plein cœur de la région Provence-Alpes-Côte d’Azur, la ville d’Aix-en-Provence tend les bras à qui souhaite la découvrir et pourquoi pas, s’y installer. C’est notamment pour cette raison que Lumao, votre agence ecommerce spécialisée Magento 2, a décidé de vous y rencontrer. Devant un café ou le temps d’une soupe au pistou, présentez-nous votre projet !

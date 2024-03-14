@@ -4,6 +4,18 @@ title = "Agence ecommerce magento 2 Saint Étienne  - Lumao (42)"
 h1 = "Lumao : votre agence ecommerce Magento 2 à Saint-Étienne"
 description = "Vous cherchez une agence E-Commerce à Saint Etienne (42) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Luxembourg"
+    url = "agence-ecom/luxembourg/"
+[[links]]
+    text = "Agence Magento Lausanne"
+    url = "agence-ecom/lausanne/"
+[[links]]
+    text = "Agence Magento Le Havre"
+    url = "agence-ecom/le-havre/"
+[[links]]
+    text = "Agence Magento Genève"
+    url = "agence-ecom/geneve/"
 +++
 
 Estampillée « Créative Design », la ville de Saint-Étienne porte en elle de nombreux espoirs, dont ceux des acteurs du web et du e-commerce. Pour les accompagner et les encourager de la meilleure façon, Lumao, [agence ecommerce certifiée Magento 2](/agence-ecom/), a fait le choix d’une présence ancrée sur l’ensemble du territoire et du département de la Loire.

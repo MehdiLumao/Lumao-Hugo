@@ -4,6 +4,12 @@ title = "intégrateur & Prestataire Magento 2 Clermont Ferrand - Lumao (63)"
 h1 = "Intégrateur & prestataire Magento 2 au pied des volcans, chez Lumao Clermont-Ferrand"
 description = "Vous cherchez un prestataire E-Commerce à Clermont Ferrand (63) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Clermont Ferrand"
+    url = "agence-ecom/clermont-ferrand/"
+[[links]]
+    text = "Freelance Magento à Clermont Ferrand"
+    url = "ecommerce/cms/magento/freelance/clermont-ferrand/"
 +++
 
 Cette fois, c’est au pied des volcans de la chaîne des Puys, classée au patrimoine mondial de l’UNESCO, que Lumao a décidé de poser ses valises. Pourquoi ? Parce que Clermont-Ferrand, toute proche, fait partie des poumons énergétiques et économiques de la région. Rugby, santé, industrie automobile ou tourisme, les secteurs d’activité ne manquent pas, et avec eux, les besoins en sites internet de qualité, réalisés par un [intégrateur Magento 2](/ecommerce/cms/magento/prestataire/) qualifié.

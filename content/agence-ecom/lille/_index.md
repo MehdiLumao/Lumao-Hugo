@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Lille - Lumao (59)"
 h1 = "Lillois, engagez une agence e-commerce Magento et développez votre présence sur internet"
 description = "Vous cherchez une agence E-Commerce à Lille (59) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Lille"
+    url = "ecommerce/cms/magento/freelance/lille/"
+[[links]]
+    text = "Prestataire Magento Lille"
+    url = "ecommerce/cms/magento/prestataire/lille/"
+[[links]]
+    text = "Consultant Magento sur Lille"
+    url = "ecommerce/cms/magento/consultant/lille/"
 +++
 
 <img class="animate zoomIn margin-auto" src="/images/ville/lille.png" alt="Lille" />

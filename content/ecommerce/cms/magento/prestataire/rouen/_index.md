@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Rouen - Lumao (76)"
 h1 = "Lumao : intégrateur & prestataire Magento 2 à Rouen, dans le 76"
 description = "Vous cherchez un prestataire E-Commerce à Rouen (76) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Rouen"
+    url = "agence-ecom/rouen/"
+[[links]]
+    text = "Développeur Freelance Magento à Rouen"
+    url = "ecommerce/cms/magento/freelance/rouen/"
 +++
 
 Rouen fait partie des grandes villes industrielles de l’ouest de la France. Située à un peu plus de 130 km de Paris, il nous fallait absolument l’explorer. C’est chose faite ! Nos intégrateurs et prestataires Magento 2 sont désormais présents dans la capitale normande.

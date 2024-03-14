@@ -4,6 +4,15 @@ title = "Intégrateur & Prestataire Magento  Strasbourg - Lumao"
 h1 = "Intégrateur & Prestataire Magento à Strasbourg : Lumao, la perle rare pour votre site"
 description = "Vous recherchez un prestataire & intégrateur Magento 2 à Strasbourg (67) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne"
 draft = false
+[[links]]
+    text = "Agence Magento Strasbourg"
+    url = "agence-ecom/strasbourg/"
+[[links]]
+    text = "Freelance Magento Strasbourg"
+    url = "ecommerce/cms/magento/freelance/strasbourg/"
+[[links]]
+    text = "Consultant Magento à Strasbourg"
+    url = "ecommerce/cms/magento/consultant/strasbourg/"
 +++
 
 Magento est réputé pour faire partie des CMS les plus optimisés pour le e-commerce. Pour votre boutique en ligne, vous voulez le meilleur ? Faites appel aux meilleurs intégrateurs et prestataires Magento à Strasbourg ; j'ai nommé Lumao.

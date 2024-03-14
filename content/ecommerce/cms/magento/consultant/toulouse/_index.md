@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Toulouse - Lumao Ecommerce (31)"
 h1 = "Consultant Magento 2 à Toulouse : rendez-vous chez Lumao ecommerce"
 description = "Si vous cherchez un consultant Magento 2 proche de Toulouse (31) ?  Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Toulouse"
+    url = "agence-ecom/toulouse/"
+[[links]]
+    text = "Freelance Magento Toulouse"
+    url = "ecommerce/cms/magento/freelance/toulouse/"
+[[links]]
+    text = "Prestataire Magento à Toulouse"
+    url = "ecommerce/cms/magento/prestataire/toulouse/"
 +++
 
 Bien que Magento fasse désormais partie des plateformes les plus utilisées pour la construction de sites internet, tout le monde ne maîtrise pas le CMS et pour cause : open source, Magento est constamment mis à jour par les développeurs. Pour tirer le meilleur parti du logiciel, contactez Lumao ecommerce et rencontrez votre prochain consultant Magento 2 à Toulouse !

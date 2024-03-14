@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Grenoble - Lumao (38)"
 h1 = "Trouver le meilleur consultant ou développeur freelance Magento 2 à Grenoble : conseils et astuces pour réussir votre projet e-commerce"
 description = "Vous cherchez un consultant ou developpeur à Grenoble (38) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Grenoble"
+    url = "agence-ecom/grenoble/"
+[[links]]
+    text = "Prestataire Magento à Grenoble"
+    url = "ecommerce/cms/magento/prestataire/grenoble/"
 +++
 
 Découvrez comment un consultant ou un développeur freelance Magento 2, basé, comme vous, à Grenoble, au pied des Alpes majestueuses, peut contribuer à booster votre projet e-commerce. Grâce à sa connaissance du marché local et à son engagement, cet expert livre une approche pertinente pour votre boutique en ligne. Explorez cet article pour saisir des opportunités uniques de collaborer avec lui !

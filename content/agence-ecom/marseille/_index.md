@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Marseille - Lumao (13)"
 h1 = "Agence E-commerce Magento 2 à Marseille ?"
 description = "Vous cherchez une agence E-Commerce à Marseille (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Marseille"
+    url = "ecommerce/cms/magento/freelance/marseille/"
+[[links]]
+    text = "Prestataire Magento Marseille"
+    url = "ecommerce/cms/magento/prestataire/marseille/"
+[[links]]
+    text = "Consultant Magento Marseille"
+    url = "ecommerce/cms/magento/consultant/marseille/"
 +++
 
 <p>Notre mission : créer pour vous un site web clé sur mesure</p>

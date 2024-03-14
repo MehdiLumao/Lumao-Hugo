@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Perpignan - Lumao (66)"
 h1 = "Consultants & développeurs freelance Magento 2, s’installent dans la très fidèle ville de Perpignan"
 description = "Vous cherchez un consultant ou developpeur à Peripignan (66) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento Perignan"
+    url = "agence-ecom/perpignan/"
+[[links]]
+    text = "Prestataire Magento Perignan"
+    url = "ecommerce/cms/magento/prestataire/perpignan/"
 +++
 
 Au fil du temps et des époques, Perpignan s’est révélée être une ville stratégique, culturelle et politique, dont la devise est, encore aujourd’hui : « Fidelissima vila de Perpinyà » (Perpignan, ville fidèle). Pour cette raison et pour tant d’autres, notre consultant & developpeur freelance Magento 2 s’est installé à Perpignan et vous invite à le suivre.

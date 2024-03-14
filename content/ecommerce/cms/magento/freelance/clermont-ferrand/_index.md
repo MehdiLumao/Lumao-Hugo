@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Clermont Ferrand - Lumao 
 h1 = "Futur de l’e-commerce : perspectives des consultants et développeurs freelance Magento 2 de Clermont-Ferrand"
 description = "Vous cherchez un consultant ou developpeur à Clermont Ferrand (63) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Ecommerce Magento à Clermont Ferrand"
+    url = "agence-ecom/clermont-ferrand/"
+[[links]]
+    text = "Prestataire Magento à Clermont Ferrand"
+    url = "ecommerce/cms/magento/prestataire/clermont-ferrand/"
 +++
 
 Peu de secteurs connaissent actuellement autant de mouvements que le commerce électronique. L’évolution rapide de la technologie et des comportements d’achat nécessite donc presque systématiquement de faire appel à des experts, consultant ou developpeur freelance Magento 2 en tête, à Clermont Ferrand.

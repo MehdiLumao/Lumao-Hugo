@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Brest - Lumao (29)"
 h1 = "Consultant & développeur freelance Magento 2 : hissez haut l’expertise locale à Brest"
 description = "Vous cherchez un consultant ou developpeur à Brest (29) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Freelance Magento Brest"
+    url = "agence-ecom/brest/"
+[[links]]
+    text = "Prestataire Magento à Brest"
+    url = "ecommerce/cms/magento/prestataire/brest/"
 +++
 
 Bordée par l’océan Atlantique, la cité du Ponant séduit par son climat unique et un mariage harmonieux entre traditions maritimes séculaires et dynamisme numérique moderne. La ville, célèbre pour son port et sa base navale, offre un cadre unique où histoire et innovation se rencontrent : l’atmosphère parfaite pour laisser s’épanouir notre activité de consultant & développeur freelance Magento 2 à Brest.

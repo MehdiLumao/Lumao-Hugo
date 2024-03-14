@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Montreuil - Lumao (75)"
 h1 = "Intégrateur & prestataire Magento 2 à Montreuil : deux acteurs clés du dynamisme numérique"
 description = "Vous cherchez un prestataire E-Commerce à Montreuil (75) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Montreuil"
+    url = "agence-ecom/montreuil/"
+[[links]]
+    text = "Développeur Magento Montreuil"
+    url = "ecommerce/cms/magento/freelance/montreuil/"
 +++
 
 Paris et l’Île-de-France font sans aucun doute partie des régions françaises où la diversité culturelle s’exprime le plus facilement. À Montreuil, vous trouverez théâtres, galeries d’art et lieux culturels les plus emblématiques. C’est peut-être cette énergie qui nous a attirés. Prendre part au dynamisme ambiant était véritablement tentant. Intégrateurs & prestataires Magento 2 by Lumao, se sont donc implantés à Montreuil.

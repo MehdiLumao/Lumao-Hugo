@@ -4,6 +4,15 @@ title = "Developpeur Freelance Magento Montpellier - Lumao (34)"
 h1 = "E-commerçant à Montpellier : trouvez votre développeur freelance Magento chez Lumao"
 description = "A la recherche d'un développeur Freelance sur Montpellier (34) ? Je suis spécialiste de Magento depuis de nombreuses années. Contactez-moi."
 draft = false
+[[links]]
+    text = "Agence Magento Montpellier"
+    url = "agence-ecom/montpellier/"
+[[links]]
+    text = "Prestataire Magento à Montpellier"
+    url = "ecommerce/cms/magento/prestataire/montpellier/"
+[[links]]
+    text = "Consultant Magento Montpellier"
+    url = "ecommerce/cms/magento/consultant/montpellier/"
 +++
 
 

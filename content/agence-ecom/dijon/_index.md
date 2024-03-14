@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Dijon - Lumao (21)"
 h1 = "Magento 2, à Dijon trouvez l’agence ecommerce qu’il vous faut"
 description = "Vous cherchez une agence E-Commerce à Dijon (21) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Dijon"
+    url = "ecommerce/cms/magento/freelance/dijon/"
+[[links]]
+    text = "Prestataire Magento Dijon"
+    url = "ecommerce/cms/magento/prestataire/dijon/"
 +++
 
 Connaissez-vous Magento 2 ? Si vous proposez des biens ou des services à la vente via un site internet, vous avez tout intérêt à vous renseigner. En effet, Magento 2 est le CMS le plus adapté au développement et à la longévité des e-commerces. Vous voulez en savoir plus ? Rencontrez l’agence ecommerce Lumao à Dijon et profitez des avantages offerts par Magento 2 pour votre business !

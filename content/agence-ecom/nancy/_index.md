@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Nancy - Lumao (54)"
 h1 = "B2B et B2C, votre agence ecommerce Magento 2 est à Nancy !"
 description = "Vous cherchez une agence E-Commerce à Nancy (54) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Nancy"
+    url = "ecommerce/cms/magento/freelance/nancy/"
+[[links]]
+    text = "Prestataire Magento Nancy"
+    url = "ecommerce/cms/magento/prestataire/nancy/"
 +++
 
 En matière de web comme ailleurs, les acronymes sont légion. B2B pour Business to Business et B2C pour Business to Consumer en font partie. Bien connus des experts Magento que nous sommes, ils révèlent à eux seuls la puissance et la pluralité du CMS open source.

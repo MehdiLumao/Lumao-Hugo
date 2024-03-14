@@ -4,6 +4,12 @@ title = "Intégrateur & Prestataire Magento 2 Perpignan - Lumao (66)"
 h1 = "Intégrateur & prestataire Magento 2 à Perpignan : chaud devant !"
 description = "Vous cherchez un prestataire E-Commerce à Peripignan (66) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Perpignan"
+    url = "agence-ecom/perpignan/"
+[[links]]
+    text = "Freelance Magento Perpignan"
+    url = "ecommerce/cms/magento/freelance/perpignan/"
 +++
 
 Vous résidez ou vous exercez en région catalane, non loin du cercle de rayonnement de Perpignan ? Nous allons nous entendre. Intégrateur & [prestataire Magento 2](/ecommerce/cms/magento/prestataire/), Lumao s’offre le plaisir de débarquer à « Perpinya » pour accompagner votre développement numérique. Au programme, création de sites, expertise e-commerce et spécialisation Magento, le tout ajouté d’une tasse de café.

@@ -4,6 +4,15 @@ title = "Consultant Magento 2 Montpellier  - Lumao Ecommerce (34)"
 h1 = "Quel statut pour un consultant Magento 2 installé à Montpellier ?"
 description = "Si vous cherchez un consultant Magento 2 proche de Montpellier (34) ? Je suis spécialiste de Magento depuis plusieurs années."
 draft = false
+[[links]]
+    text = "Agence Magento Montpellier"
+    url = "agence-ecom/montpellier/"
+[[links]]
+    text = "Développeur Magento Montpellier"
+    url = "ecommerce/cms/magento/freelance/montpellier/"
+[[links]]
+    text = "Prestataire Magento Montpellier"
+    url = "ecommerce/cms/magento/prestataire/montpellier/"
 +++
 
 En tant qu’expert, le consultant Magento 2, peut opter pour différents statuts juridiques. En aucun cas corrélée à ses compétences, cette formalité administrative accompagne sa déclaration en tant que professionnel et lui donne, entre autres, la possibilité de facturer ses prestations.

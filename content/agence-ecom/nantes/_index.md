@@ -4,6 +4,15 @@ title = "Agence Ecommerce Magento 2 Nantes  - Lumao (44)"
 h1 = "Agence e-commerce Magento 2 à Nantes : création et maintenance de boutiques en ligne en Loire-Atlantique"
 description = "Vous cherchez une agence E-Commerce à Nantes (44) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Nantes"
+    url = "ecommerce/cms/magento/freelance/nantes/"
+[[links]]
+    text = "Prestataire Magento Nantes"
+    url = "ecommerce/cms/magento/prestataire/nantes/"
+[[links]]
+    text = "Consultant Magento Nantes"
+    url = "ecommerce/cms/magento/consultant/nantes/"
 +++
 
 <p>Le réseau internet est aujourd’hui la base de l'immense majorité des échanges commerciaux mondiaux. Pour votre boutique en ligne comme pour les géants du e-commerce, la démarche est la même : acquérir l’autorité et la visibilité nécessaire.</p>

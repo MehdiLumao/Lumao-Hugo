@@ -4,6 +4,12 @@ title = "Consultant ou Developpeur freelance Magento 2 Amiens - Lumao (80)"
 h1 = "Consultant & développeur Magento 2 à Amiens : bâtisseurs d’e-commerces exceptionnels"
 description = "Vous cherchez un consultant ou developpeur à Amiens (80) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Agence Magento à Amiens"
+    url = "agence-ecom/amiens/"
+[[links]]
+    text = "Prestataire Magento Amiens"
+    url = "ecommerce/cms/magento/prestataire/amiens/"
 +++
 
 Vous le savez, le commerce en ligne est en plein développement, en plein boom, en pleine croissance. Cela dit, comme tout chef d’œuvre, la création d’une boutique en ligne performante et pérenne prend du temps. Si vous ne souhaitez pas allouer près de 70 ans à la réalisation du vôtre, rencontrez un consultant & développeur Magento 2 à Amiens, contactez Lumao et bâtissez ensemble, votre propre temple du e-commerce.

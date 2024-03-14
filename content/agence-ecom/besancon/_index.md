@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Besançon - Lumao (25)"
 h1 = "Agence ecommerce Magento 2 : découvrez Lumao et sa puissance à Besançon"
 description = "Vous cherchez une agence E-Commerce à Besançon (25) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Besançon"
+    url = "ecommerce/cms/magento/freelance/besancon/"
+[[links]]
+    text = "Prestataire Magento Besançon"
+    url = "ecommerce/cms/magento/prestataire/besancon/"
 +++
 
 Vous avez sans doute déjà entendu parler de design, d’ergonomie, de marketing et de référencement naturel. Vous savez d’ailleurs que les utiliser peut être bénéfique à votre entreprise au numérique, mais vous ne savez pas comment. Venez rencontrer nos consultants et développeurs, faire connaissance avec les membres de notre agence ecommerce Magento 2 à Besançon et lever le voile sur des concepts finalement pas si enchevêtrés une fois expliqués.

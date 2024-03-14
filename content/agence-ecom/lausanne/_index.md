@@ -4,6 +4,18 @@ title = "Agence e-commerce Lausanne: stratégie et création site web"
 h1 = "Agence e-commerce à Lausanne : une équipe de pros pour la création de votre site web"
 description = "De la définition de votre stratégie marketing à la mise en ligne de votre site internet, notre agence web vous accompagne tout au long de votre projet."
 draft = false
+[[links]]
+    text = "Agence Magento Saint Etienne"
+    url = "agence-ecom/st-etienne/"
+[[links]]
+    text = "Agence Magento Luxembourg"
+    url = "agence-ecom/luxembourg/"
+[[links]]
+    text = "Agence Magento Le Havre"
+    url = "agence-ecom/le-havre/"
+[[links]]
+    text = "Agence Magento Genève"
+    url = "agence-ecom/geneve/"
 +++
 
 Nos équipes interviennent dans tous vos projets web à Lausanne. Sur mesure, nous réalisons sites internet et boutiques en ligne, à la fois performantes et attractives. Notre [agence e-commerce](/agence-ecom/) vous accompagne et vous conseille tout au long de votre projet. Bénéficiez des services et des compétences d’experts rompus aux métiers du web et au marketing digital.

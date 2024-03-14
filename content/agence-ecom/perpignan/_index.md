@@ -4,6 +4,12 @@ title = "Agence Ecommerce Magento 2 Perpignan - Lumao (66)"
 h1 = "Agence ecommerce Magento 2 à Perpignan : 6 points forts pour Lumao"
 description = "Vous cherchez une agence E-Commerce à Peripignan (66) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+[[links]]
+    text = "Développeur Freelance Magento à Perpignan"
+    url = "ecommerce/cms/magento/freelance/perpignan/"
+[[links]]
+    text = "Prestataire Magento Perpignan"
+    url = "ecommerce/cms/magento/prestataire/perpignan/"
 +++
 
 Des agences e-commerce il en existe beaucoup en France et dans le monde. Mais, Lumao, l’[agence ecom](/agence-ecom/)merce Magento 2 de Perpignan, fait sans aucun doute partie des meilleures. Voici pourquoi.
