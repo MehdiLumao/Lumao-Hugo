@@ -9,7 +9,7 @@ draft = false
     url = "agence-ecom/montpellier/"
 [[links]]
     text = "Freelance Magento Montpellier"
-    url = "ecommerce/cms/magento/freelance/montpellier/"
+    url = "ecommerce/cms/magento/freelance/montpelier/"
 [[links]]
     text = "Consultant Magento à Montpellier"
     url = "ecommerce/cms/magento/prestataire/montpellier/"

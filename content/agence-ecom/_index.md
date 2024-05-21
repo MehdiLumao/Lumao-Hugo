@@ -132,7 +132,7 @@ Nos autres emplacements :
 - [agence e-commerce à Argenteuil](/agence-ecom/argenteuil/)
 - [agence e-commerce à Besançon](/agence-ecom/besancon/)
 - [agence e-commerce à Metz](/agence-ecom/metz/)
-- [agence e-commerce à Orléans](/agence-ecom/orlean/)
+- [agence e-commerce à Orléans](/agence-ecom/orleans/)
 - [agence e-commerce à Rouen](/agence-ecom/rouen/)
 - [agence e-commerce à Caen](/agence-ecom/caen/)
 - [agence e-commerce à Montreuil](/agence-ecom/montreuil/)

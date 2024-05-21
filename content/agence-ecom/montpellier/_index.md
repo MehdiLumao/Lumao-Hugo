@@ -6,7 +6,7 @@ description = "Vous cherchez une agence E-Commerce à Montpellier (34) ? Nous so
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Montpellier"
-    url = "ecommerce/cms/magento/freelance/montpellier/"
+    url = "ecommerce/cms/magento/freelance/montpelier/"
 [[links]]
     text = "Prestataire Magento Montpellier"
     url = "ecommerce/cms/magento/prestataire/montpellier/"
