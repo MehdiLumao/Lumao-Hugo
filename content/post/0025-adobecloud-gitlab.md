@@ -81,3 +81,11 @@ Pour que Gitlab prévienne Magento des changements de code on utilise des hooks,
 Pour vérifier cela, on va sur notre projet dans Gitlab, Settings => Integrations => Project Hooks
 
 ![vérification hook gitlab](/images/25/3-hook.png)
+
+## Changer l'access token
+
+Pour mettre à jour le token si besoin voici comment faire :
+
+```
+magento-cloud integration:update --token=new-token
+```
