@@ -53,6 +53,60 @@ paginate = 1000
         title = "Contact"
         url = "/post/contact/"
         weight = 5
+    [[menu.footer]]
+        identifier = "home"
+        name = "Home"
+        title = "Home"
+        url = "/"
+        weight = 1
+    [[menu.footer]]
+        identifier = "magento2"
+        name = "Magento 2"
+        title = "Magento 2"
+        url = "/ecommerce/cms/magento/"
+        weight = 2
+    [[menu.footer]]
+        identifier = "realisation"
+        name = "Réalisations"
+        title = "Réalisations"
+        url = "/reference/"
+        weight = 3
+    [[menu.footer]]
+        identifier = "apropos"
+        name = "A propos"
+        title = "A propos"
+        url = "/a-propos/"
+        weight = 4
+    [[menu.footer]]
+        identifier = "contact"
+        name = "Contact"
+        title = "Contact"
+        url = "/post/contact/"
+        weight = 5
+    [[menu.footer]]
+        identifier = "paris"
+        name = "Magento Paris"
+        title = "Magento Paris"
+        url = "/agence-ecom/paris/"
+        weight = 6
+    [[menu.footer]]
+        identifier = "lyon"
+        name = "Magento Lyon"
+        title = "Magento Lyon"
+        url = "/agence-ecom/lyon/"
+        weight = 7
+    [[menu.footer]]
+        identifier = "marseille"
+        name = "Magento Marseille"
+        title = "Magento Marseille"
+        url = "/agence-ecom/marseille/"
+        weight = 8
+    [[menu.footer]]
+        identifier = "lille"
+        name = "Magento Lille"
+        title = "Magento Lille"
+        url = "/agence-ecom/lille/"
+        weight = 9
     [[menu.social]]
         identifier = "github"
         title = "Github"
