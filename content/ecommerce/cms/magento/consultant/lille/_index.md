@@ -2,7 +2,7 @@
 date = "2022-03-09"
 title = "Consultant Magento 2 Lille - Lumao Ecommerce (59)"
 h1 = "S’entourer des meilleurs : recruter un consultant Magento 2 à Lille chez Lumao Ecommerce"
-description = "Si vous cherchez un consultant Magento 2 proche de Lille (59) ?  Je suis spécialiste de Magento depuis plusieurs années."
+description = "Vous cherchez un consultant Magento 2 proche de Lille (59) ? Je suis spécialiste de Magento depuis plusieurs années. Rendez-vous sur le Site Lumao"
 draft = false
 [[links]]
     text = "Agence Magento Lille"

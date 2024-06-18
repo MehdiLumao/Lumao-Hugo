@@ -2,7 +2,7 @@
 date = "2023-02-03"
 title = "Chef de projet Magento 2 / Adobe Commerce : Besoin d'aide ?"
 h1 = "Chef de projet Magento 2 : de multiples compétences au service du web"
-description = "Si vous avez besoin d'un chef de proje Magento / Adobe vous êtes au bon endroit. Offrez vous un spécialiste."
+description = "Si vous avez besoin d'un chef de proje Magento / Adobe vous êtes au bon endroit. Avec Lumao, Offrez vous un Expert dans cette solution e-commerce"
 draft = false
 +++
 Tous les métiers ne sont pas aussi complets que celui du chef de projet [Magento 2](/ecommerce/cms/magento/). Avec lui, tout est dans le titre. Non seulement il est suffisamment compétent pour gérer l’ensemble de votre projet web ainsi que ses intervenants, mais il est également certifié expert Magento. Que demander de plus ?

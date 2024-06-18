@@ -2,7 +2,7 @@
 date = "2019-10-16"
 title = "Git revert merge - Consultant Freelance Magento LUMAO"
 h1 = "Git revert merge"
-description = ""
+description = "Un développeur merge par erreur la branche de préproduction dans sa branche ? Pour résoudre ce souci, découvrez la solution sur le site Lumao "
 draft = false
 slug = "git-revert-merge"
 +++

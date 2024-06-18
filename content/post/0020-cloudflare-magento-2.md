@@ -1,7 +1,7 @@
 +++
 date = "2019-04-01T16:11:14+01:00"
 title = "Récupérer l'adresse IP des visiteurs avec CloudFlare"
-description = "Découvrez comment récupérer la véritable adresse IP des visiteurs avec CloudFlare"
+description = "Découvrez comment récupérer la véritable adresse IP des visiteurs avec CloudFlare. Rendez-vous sur le Site de l'Agence Lumao"
 draft = false
 slug = "cloudflare-magento-2"
 +++

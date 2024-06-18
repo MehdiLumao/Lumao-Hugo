@@ -2,7 +2,7 @@
 date = "2019-01-16"
 title = "Mesurer les performances d’un site e-commerce"
 h1 = "Mesurer les performances d’un site e-commerce"
-description = "La performance d’un site e-commerce se mesure avant tout à sa capacité à vendre. Ensemble, mesurons, analysons et optimisons la performance de votre boutique."
+description = "La performance d’un site e-commerce se mesure avant tout à sa capacité à vendre. Ensemble, mesurons et optimisons la performance de votre boutique en ligne"
 draft = false
 +++
 

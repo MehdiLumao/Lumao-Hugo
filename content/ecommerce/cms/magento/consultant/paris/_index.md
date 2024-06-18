@@ -2,7 +2,7 @@
 date = "2022-04-08"
 title = "Consultant Magento 2 Paris - Lumao Ecommerce (75)"
 h1 = "Consultant Magento 2 à Paris : tenants et aboutissants d’un métier passionnant"
-description = "Si vous cherchez un consultant Magento 2 proche de Paris (75) ?  Je suis spécialiste de Magento depuis plusieurs années."
+description = "Vous cherchez un consultant Magento 2 proche de Paris (75) ? Je suis spécialiste de Magento depuis plusieurs années. Rendez-Vous sur le Site Lumao"
 draft = false
 [[links]]
     text = "Agence Magento Paris"

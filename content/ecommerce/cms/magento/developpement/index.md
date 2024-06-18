@@ -2,7 +2,7 @@
 date = "2019-01-16"
 title = "Développement Magento 2 : Réalisez votre Projet Web "
 h1 = "Développement Magento : des experts au service des e-commerçants"
-description = "Faites appel à des experts Magento pour développer votre site e-commerce et optimiser votre activité en ligne. Demandez-nous un devis sur mesure et gratuit."
+description = "Faites appel à des experts Magento pour développer votre site e-commerce et optimiser votre activité en ligne. Demandez  un devis sur mesure & gratuit"
 draft = false
 +++
 

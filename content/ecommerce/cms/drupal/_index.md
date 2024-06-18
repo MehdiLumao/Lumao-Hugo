@@ -2,7 +2,7 @@
 date = "2019-01-29"
 title = "Drupal : des modules pour créer des sites web marchands"
 h1 = "Drupal propose un module pour faire du commerce en ligne"
-description = "Grâce à Drupal Commerce, vous pouvez faire de la vente en ligne. Pour en savoir plus sur ce module et les possibilités offertes par ce CMS, rendez-vous ici."
+description = "Grâce à Drupal Commerce, vous pouvez faire de la vente en ligne. Pour en savoir plus sur ce module et les possibilités offertes par ce CMS, rendez-vous ici"
 draft = false
 +++
 

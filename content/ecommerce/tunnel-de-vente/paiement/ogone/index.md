@@ -2,7 +2,7 @@
 date = "2019-04-24"
 title = "Ogone : solution de paiement en ligne Ingenico ePayments"
 h1 = "Ogone/Ingenico : une solution complète pour gérer les paiements en ligne"
-description = "La solution Ingenico ePayments, ex-Ogone, vous permet de gérer vos transactions en ligne et sur mobile, en France et dans plus de 170 pays du monde. Plus d’infos ici."
+description = "La solution Ingenico ePayments, ex-Ogone, vous permet de gérer vos transactions en ligne et sur mobile, en France et dans plus de 170 pays"
 draft = false
 +++
 

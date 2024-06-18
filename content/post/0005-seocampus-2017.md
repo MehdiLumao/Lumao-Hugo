@@ -2,6 +2,7 @@
 date = "2017-03-10T12:17:14+01:00"
 title = "Présentation Seocampus 2017 - Agence Ecommerce Magento LUMAO"
 h1 = "Présentation Seocampus 2017"
+description = "Retrouvez une présentation du SEO Campus 2017, dédié au Référencement Naturel. Rendez-vous sur le site Internet de Lumao, Agence Experte Magento"
 draft = false
 
 +++

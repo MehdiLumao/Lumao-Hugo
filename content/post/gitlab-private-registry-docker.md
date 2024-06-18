@@ -1,6 +1,7 @@
 +++
 date = "2016-12-30T11:07:14+01:00"
 title = "Un registry Docker privé avec GitLab"
+description = "Découvrez la création d'un registry Docker privé, avec GitLab, pour votre site Magento. Rendez-vous sur le site Lumao, Agence Experte Magento"
 draft = false
 
 +++

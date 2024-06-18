@@ -2,7 +2,7 @@
 date = "2017-04-09T16:11:14+01:00"
 title = "Developpeur Développement Laravel - Agence Magento LUMAO"
 h1 = "Développement Laravel"
-description = "Vous cherchez à développer un application custom ? Laravel est le framework qu'il vous faut."
+description = "Vous cherchez à développer un application custom ? Laravel est le framework qu'il vous faut. Rendez-vous sur le Site de l'Agence Lumao"
 draft = false
 tag = [ "prestation" ]
 slug = "developpement-laravel"

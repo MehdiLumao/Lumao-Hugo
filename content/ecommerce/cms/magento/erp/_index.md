@@ -2,7 +2,7 @@
 date = "2018-12-16"
 title = "Connecter Magento 2 et ERP : Lumao gère votre Projet de A à Z"
 h1 = "Assurez la communication entre site Magento et ERP de l’entreprise"
-description = "Lumao met en place des solutions pour connecter l’ERP de votre entreprise avec votre site e-commerce Magento. Demandez ici un devis gratuit et personnalisé."
+description = "Lumao met en place des solutions pour connecter l’ERP de votre entreprise avec votre site e-commerce Magento. Demandez ici un devis gratuit & personnalisé"
 draft = false
 +++
 
