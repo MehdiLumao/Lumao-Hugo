@@ -2,7 +2,7 @@
 date = "2019-04-24"
 title = "PayPal : solution de paiement pour votre boutique en ligne"
 h1 = "PayPal, leader mondial des solutions de paiement en ligne"
-description = "Vous souhaitez proposer le paiement par compte PayPal sur votre site de vente en ligne. Découvrez ce service de paiement en ligne et ses nombreux avantages."
+description = "Vous souhaitez proposer le paiement par compte PayPal sur votre site de vente en ligne. Découvrez ce service de paiement en ligne et ses nombreux avantages"
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 date = "2018-11-12"
 title = "Site E-Commerce Gratuit : une Boutique en Ligne Efficace ?"
 h1 = "Site e-commerce gratuit : le point sur les solutions du marché"
-description = "Comment créer un site e-commerce gratuit ? Les solutions du marché sont-elles efficaces ? Lumao, spécialiste en création de boutiques en ligne, vous répond."
+description = "Comment créer un site e-commerce gratuit ? Les solutions du marché sont-elles efficaces ? Lumao, spécialiste en création de boutiques en ligne, vous répond"
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 date = "2019-06-21"
 title = "Qui sommes nous ? Agence E-commerce 100% Magento"
 h1 = "Recrutement - qui sommes nous ?"
-description = "Envie d'en savoir plus avant de postuler chez Lumao ? Une partie des réponses sont ici."
+description = "Envie d'en savoir plus avant de postuler comme développeur chez Lumao ? Retrouvez tous les avantages des collaborateurs sur notre site"
 draft = false
 +++
 

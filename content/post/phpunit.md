@@ -2,6 +2,7 @@
 date = "2017-02-24T14:03:14+01:00"
 title = "PHPUnit QuickStart - Agence Ecommerce Magento TPE PME LUMAO"
 h1 = "PHPUnit QuickStart"
+description = "Découvrez des informations sur PHPUnit QuickStart, pour la solution de boutique en ligne Magento. Rendez-vous sur le site Lumao, Agence Experte Magento"
 draft = false
 
 +++

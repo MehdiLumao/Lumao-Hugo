@@ -2,6 +2,7 @@
 date = "2018-02-22T11:11:14+01:00"
 title = "Gitlab CI + AWS - Meillere Agence Ecommerce Magento LUMAO"
 h1 = "Gitlab CI + AWS"
+description = "Comment réaliser un déploiement automatique au push sur une branche de Gitlab Magento ? Découvrez la Réponse avec Lumao, Agence Experte Magento"
 draft = false
 slug = "gitlab-aws"
 +++

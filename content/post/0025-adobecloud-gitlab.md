@@ -1,7 +1,7 @@
 +++
 date = "2019-12-23"
 title = "Comment brancher le Cloud Magento 2 sur un repo Gitlab ?"
-description = ""
+description = "Comment brancher le Cloud Magento/Adobe sur un repo Gitlab ? Découvrez la Réponse Détaillée avec Lumao, Agence Experte Magento"
 draft = false
 slug = "adobecloud-gitlab"
 +++

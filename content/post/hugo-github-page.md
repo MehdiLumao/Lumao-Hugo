@@ -1,6 +1,7 @@
 +++
 date = "2016-12-24T18:49:14+01:00"
 title = "Hugo, GitHub Pages et Travis CI"
+description = "Consultez des informations au sujet de GitHub Pages, Hugo et Travis, outils pratiques pour un site Magento. Rendez-vous chez Lumao, Agence Experte Magento"
 draft = false
 
 +++

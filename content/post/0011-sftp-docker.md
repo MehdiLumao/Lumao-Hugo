@@ -2,6 +2,7 @@
 date = "2018-02-22T11:11:14+01:00"
 title = "Connexion SFTP avec Docker - Agence E-commerce Magento LUMAO"
 h1 = "Connexion SFTP avec Docker"
+description = "De quelle manière accéder au contenu de vos containers Docker Magento ? Découvrez la façon de procéder, via le FTP, grâce à Lumao"
 draft = false
 slug = "sftp-docker"
 +++

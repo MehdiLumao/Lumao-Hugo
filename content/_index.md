@@ -2,7 +2,7 @@
 date = "2018-10-08-7"
 title = "Développeur Magento"
 h1 = "Développement Magento"
-description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? C'est ici."
+description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? Découvrez l'Expertise et les Compétences Lumao"
 draft = false
 
 

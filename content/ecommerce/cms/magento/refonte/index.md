@@ -2,7 +2,7 @@
 date = "2019-01-29"
 title = "Refonte Magento : confiez votre projet à Lumao"
 h1 = "Refonte Magento : votre boutique en ligne garde une longueur d’avance"
-description = "Votre site e-commerce a besoin d’évoluer ? Vous souhaitez migrer votre boutique sur Magento 2 ? demandez un devis gratuit à Lumao, agence certifiée Magento."
+description = "Votre site e-commerce a besoin d’évoluer ? Vous souhaitez migrer votre boutique sur Magento 2 ? Demandez un devis gratuit à Lumao, agence certifiée Magento"
 draft = false
 +++
 

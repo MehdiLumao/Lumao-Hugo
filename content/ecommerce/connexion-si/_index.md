@@ -2,7 +2,7 @@
 date = "2018-10-08-7"
 title = "Connexion SI: couplage des informations entreprise/site "
 h1 = "PIM, ERP, CRM… : la connexion SI au cœur de votre projet e-commerce"
-description = "Faire communiquer votre site marchand avec vos systèmes d’information est primordial. Confiez cette mission à des experts. Plus d’info et devis gratuit ici."
+description = "Faire communiquer votre site marchand avec vos systèmes d’information est primordial. Confiez cette mission à des experts. Plus d’info et devis gratuit ici"
 draft = false
 +++
 

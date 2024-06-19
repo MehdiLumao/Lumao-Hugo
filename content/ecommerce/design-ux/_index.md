@@ -2,7 +2,7 @@
 date = "2018-10-08-7"
 title = "Design & UX | Conception d’une bonne expérience utilisateur"
 h1 = "Design & UX : deux alliés inséparables pour créer une expérience utilisateur de qualité"
-description = "Pour qu’un site e-commerce génère des ventes, il doit proposer une bonne expérience utilisateur. Pour en savoir plus sur le design et l'UX, rendez-vous ici."
+description = "Pour qu’un site e-commerce génère des ventes, il doit proposer une bonne expérience utilisateur. Pour en savoir plus sur le design et l'UX, rendez-vous ici"
 draft = false
 +++
 

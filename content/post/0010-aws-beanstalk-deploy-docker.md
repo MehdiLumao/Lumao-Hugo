@@ -1,6 +1,7 @@
 +++
 date = "2018-02-22T11:11:14+01:00"
 title = "Elastic Beanstalk déployer containeur Docker"
+description = "Comment déployer vos containers Docker pour votre site Magento ? Retrouvez la Réponse Détaillée avec Lumao, Agence Experte Magento"
 draft = false
 slug = "aws-docker-deploy"
 +++

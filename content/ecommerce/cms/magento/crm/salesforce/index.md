@@ -2,7 +2,7 @@
 date = "2019-03-18"
 title = "Salesforce, CRM qui facilite votre gestion de la relation client"
 h1 = "Salesforce, un des leaders mondiaux des logiciels CRM"
-description = "Découvrez Salesforce CRM, un logiciel de gestion de la relation client hébergé dans le cloud et muni d’une suite complète de produits adaptés à vos besoins."
+description = "Découvrez Salesforce CRM, un logiciel de gestion de la relation client hébergé dans le cloud et muni d’une suite complète de produits adaptés à vos besoins"
 draft = false
 +++
 

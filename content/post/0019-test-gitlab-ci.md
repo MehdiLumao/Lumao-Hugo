@@ -2,7 +2,7 @@
 date = "2019-01-07T16:11:14+01:00"
 title = "Tester un script Gitlab CI - Agence Boutique Magento LUMAO"
 h1 = "Tester un script Gitlab CI"
-description = ""
+description = "Comment tester un script de Gitlab CI en local pour un site Magento ? Retrouvez une Réponse Détaillée avec Lumao, Agence Experte Magento"
 draft = false
 slug = "test-gitlab-ci"
 +++

@@ -1,7 +1,7 @@
 +++
 date = "2019-04-30T12:11:14+01:00"
 title = "Créer un menu riche avec Snowdog Menu"
-description = "Découvrez comment créer un menu riche avec le module Magento 2 Snowdog Menu"
+description = "Découvrez comment créer un menu riche avec le module Magento 2 Snowdog Menu. Rendez-vous sur le Site de l'Agence Magento Lumao"
 draft = false
 slug = "menu-snowdog"
 +++
