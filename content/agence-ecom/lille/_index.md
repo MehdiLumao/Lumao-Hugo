@@ -5,6 +5,9 @@ h1 = "Lillois, engagez une agence e-commerce Magento et développez votre prése
 description = "Vous cherchez une agence E-Commerce à Lille (59) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
+    text = "Agence E-commerce Lille"
+    url = "agence-ecommerce/lille/"
+[[links]]
     text = "Développeur Freelance Magento à Lille"
     url = "ecommerce/cms/magento/freelance/lille/"
 [[links]]

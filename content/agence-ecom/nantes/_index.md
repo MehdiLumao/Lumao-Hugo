@@ -5,6 +5,9 @@ h1 = "Agence e-commerce Magento 2 à Nantes : création et maintenance de boutiq
 description = "Vous cherchez une agence E-Commerce à Nantes (44) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
+    text = "Agence E-commerce Nantes"
+    url = "agence-ecommerce/nantes/"
+[[links]]
     text = "Développeur Freelance Magento à Nantes"
     url = "ecommerce/cms/magento/freelance/nantes/"
 [[links]]

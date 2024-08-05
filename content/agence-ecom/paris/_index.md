@@ -5,6 +5,9 @@ h1 = "Agence e-commerce à Paris : votre activité en ligne prend la voie du suc
 description = "Vous recherchez une agence web à Paris capable de développer une boutique en ligne sur mesure ? Contactez les experts Magento de Lumao. Devis gratuit."
 draft = false
 [[links]]
+    text = "Agence E-commerce Paris"
+    url = "agence-ecommerce/paris/"
+[[links]]
     text = "Développeur Freelance Magento à Paris"
     url = "ecommerce/cms/magento/freelance/paris/"
 [[links]]

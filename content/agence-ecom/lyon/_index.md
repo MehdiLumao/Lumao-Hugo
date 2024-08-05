@@ -5,6 +5,9 @@ h1 = "Agence e-commerce à Lyon : une équipe d’experts à votre service"
 description = "Les experts de notre agence réalisent tous vos projets web : création de boutiques en ligne, de sites internet, développement sur mesure… Devis gratuit."
 draft = false
 [[links]]
+    text = "Agence E-commerce Lyon"
+    url = "agence-ecommerce/lyon/"
+[[links]]
     text = "Développeur Freelance Magento à Lyon"
     url = "ecommerce/cms/magento/freelance/lyon/"
 [[links]]

@@ -5,6 +5,9 @@ h1 = "Faire appel à une agence e-commerce pour votre site web Magento 2 à Bord
 description = "Vous cherchez une agence E-Commerce à Bordeaux (33) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
+    text = "Agence E-commerce Bordeaux"
+    url = "agence-ecommerce/bordeaux/"
+[[links]]
     text = "Développeur Freelance Magento à Bordeaux"
     url = "ecommerce/cms/magento/freelance/bordeaux/"
 [[links]]

@@ -5,6 +5,9 @@ h1 = "Agence e-commerce Magento 2 Toulouse : l’assurance de votre réussite 
 description = "Vous cherchez une agence E-Commerce à Toulouse (31) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
+    text = "Agence E-commerce Toulouse"
+    url = "agence-ecommerce/toulouse/"
+[[links]]
     text = "Développeur Freelance Magento à Toulouse"
     url = "ecommerce/cms/magento/freelance/toulouse/"
 [[links]]

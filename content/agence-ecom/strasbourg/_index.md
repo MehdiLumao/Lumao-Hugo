@@ -5,6 +5,9 @@ h1 = "Agence e-commerce Magento 2 à Strasbourg : performance et efficacité d
 description = "Vous cherchez une agence E-Commerce à Strasbourg (67) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
 [[links]]
+    text = "Agence E-commerce Strasbourg"
+    url = "agence-ecommerce/strasbourg/"
+[[links]]
     text = "Développeur Freelance Magento à Strasbourg"
     url = "ecommerce/cms/magento/freelance/strasbourg/"
 [[links]]
